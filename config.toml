@@ -31,7 +31,7 @@ author = "authors"
 [params]
   author = "Bill Hennessy"
   description = "Blogging to Save the World"
-  homepageImage = "/images/homepage-image.jpg"
+  homepageImage = "/images/homepage-image.png"
   share = true
   showLanguageSwitcher = false
 
