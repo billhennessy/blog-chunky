@@ -7,7 +7,7 @@ url: "sunlight-kills-coronavirus"
 authors: ["Bill Hennessy"]
 
 # post thumb
-images: ["'sunlight.jpg'"]
+images: ["sunlight.jpg"]
 
 # meta description
 description: "this is meta description"

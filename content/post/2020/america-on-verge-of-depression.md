@@ -7,7 +7,7 @@ url: "america-on-verge-of-depression"
 authors: ["Bill Hennessy"]
 
 # post thumb
-images: ["'/images/great-depression.jpg'"]
+images: ["/images/great-depression.jpg"]
 
 # meta description
 description: "Hysterical response to Coronavirus is destroying lives for good."
