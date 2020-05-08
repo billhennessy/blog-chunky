@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>low turnout on Hennessy&#39;s View</title>
+    <link>https://hennessysview.com/tags/low-turnout/</link>
+    <description>Recent content in low turnout on Hennessy&#39;s View</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2000-2020, Bill Hennessy; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 07 Nov 2012 20:28:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://hennessysview.com/tags/low-turnout/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Did You Vote?</title>
+      <link>https://hennessysview.com/2012/11/07/did-you-vote/</link>
+      <pubDate>Wed, 07 Nov 2012 20:28:37 +0000</pubDate>
+      
+      <guid>https://hennessysview.com/2012/11/07/did-you-vote/</guid>
+      <description>Voter turnout was down in every state from 2008. In many states, turnout was lower than 2004.
+[polldaddy poll=6672784]
+Thanks for responding.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data science on Hennessy&#39;s View</title>
+    <link>https://hennessysview.com/tags/data-science/</link>
+    <description>Recent content in data science on Hennessy&#39;s View</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2000-2020, Bill Hennessy; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 30 Dec 2017 16:58:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://hennessysview.com/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Here&#39;s what will happen in 2018 election (POLL)</title>
+      <link>https://hennessysview.com/2017/12/30/heres-what-will-happen-in-2018-election-poll/</link>
+      <pubDate>Sat, 30 Dec 2017 16:58:31 +0000</pubDate>
+      
+      <guid>https://hennessysview.com/2017/12/30/heres-what-will-happen-in-2018-election-poll/</guid>
+      <description>Do you think Democrats will retake the House, the Senate, or both in the 2018 election?
+[socialpoll id=&amp;quot;2479812&amp;rdquo;]
+Now that you&amp;rsquo;ve answered, let&amp;rsquo;s consider the limits of data science in 2018.
+The best data scientists in the world agreed with nearly absolute certainty. These scientists determined, beyond a reasonable doubt, that Hillary Clinton would be the 45th President of the United States. That was in 2016.
+Those scientists were wrong.</description>
+    </item>
+    
+  </channel>
+</rss>
