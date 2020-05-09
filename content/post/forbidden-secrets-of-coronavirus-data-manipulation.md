@@ -40,9 +40,55 @@ The media fail to report that the number of tests administered has been rising e
 
 Do you think the media are intentionally deceiving people or are they just too stupid to know what they're talking about? (It isn't just the media. A lot of "experts" deceive the same way.)
 
+### Do They Even Know How to Think?
+
+Another example comes in the current debate over COVID-19 death counts. 
+
+First, we know that CDC guidelines instructs doctors to list COVID-19 as the cause of death if the decedent might have had COVID-19. 
+
+Second, we know that New York, Pennsylvania, and possibly other states retroactively recategorized thousands of deaths as COVID-19, even though the decedents had never been tested or, as far as anyone knows, displays symptoms of Coronavirus. 
+
+Third, we know that doctors will assume COVID-19 is the cause of death for anyone who dies after a positive test, even if they're killed in an accident or shot. 
+
+Fourth, the federal government pays states and hospitals a $13,000 bounty for every death categorized as COVID-19. If you don't think [greedy politicians like Andrew Cuomo](https://hennessysview.com/did-cuomo-use-intentionally-kill-the-elderly/) and hospital administrations will fudge the paperwork for $13k per head, you haven't been paying attention. 
+
+Fifth, and this is crucially important, we know that, despite the pandemic, the **death count by all causes is down** from both recent history for the month of April and from expected counts for April 2020. 
+
+Just those facts would lead any thinking person to conclude that the official COVID-19 death count is inflated. But Jonathan Temte of University of Wisconsin-Madison doesn't see it that way. 
+
+Citing a single statistic, COVID-19 as a percentage of all weekly deaths, Temte explains that, in a bad flu year, flu and pneumonia account for 10 percent of deaths in a given week. But in the week of April 11, 2020, COVID-19 accounted for 23.5 percent of all deaths. "I've never seen anything like this," he says. 
+
+While Temte could be right, he seems to be suffering from "what you see is all there is," as Danial Kahneman calls it. Temte leaves off an important number: the numerator. If the overall number of deaths is down, and entire categories of deaths (like industrial accidents and car crashes) are down compared to similar periods in prior years, each death's cause will have an outsized effect on categorization. I'll show you how this works in a simple table:
+
+| Year | Cause of Death | Number of Deaths | % |
+| --- | --- | --- | ---: | ---: |
+| 2017 | Flu & Pneumonia | 1,000 | 10% |
+| 2017 | Accidents (all) | 2,000 | 20% |
+| 2017 | All Causes | 10,000 | 100% |
+| 2018 | Flu & Pneumonia | 800 | 8% |
+| 2018 | Accidents (all) | 2,000 | 20% |
+| 2018 | All Causes | 10,000 | 100% |
+| 2020 | Flu & Pneumonia | 500 | 6% |
+| 2020 | Accidents (all) | 500 | 6% |
+| 2020 | COVID-19 | 1,880 | 23.5% |
+| 2020 | All Causes | 8,000 | 100% |
+
+(Remember, I'm just making up most of these numbers.)
+
+Notice that in 2020, deaths from all causes are down 20%, and flu deaths are down, too. Accidents are way down from recent historical numbers, because people are driving way less, and many dangerous jobs are shut down. Under these conditions, 1,880 deaths attributed to a single cause drive up that cause's percentage of total deaths. 
+
+The point is, without knowing how many people died of all causes in the comparison month, the statistic Temte cites is meaningless. There's not enough information to draw any conclusion. 
+
+Temte also fails to take into account the various ways doctors and governors are incented to categorize every death as a COVID death. He assumes that every reported COVID death means that the primary or sole cause of death was COVID. We know that's not the case. 
+
+Imagine if the CDC told doctors to list the cause of death as automobile accident if there's any suspicion that the decedent had driven or ridden in a car in the 24 hours before he died. On top of that, we'll give you $13,000 for each death where automobile accident is the cause. How many more deaths by car accident do you think would magically appear? By comparison, heart disease, cancer, and diabetes would appear to have been cured!
+
+Look, I'm not saying this Temte fellow is lying or that he is incompetent in math and statistics. I am saying that, even a math genius is useless if he can't discern what matters. And Temte appears not to know what matters. He seems to lack critical thinking skills. 
+
+
 ### The Secret is Critical Thinking
 
-The reason there's such a split between the worriers and the brave is due in part to lack of critical thinking skills in so much of the population. And critical thinking requires no book knowledge. It just requires a little healthy skepticism. 
+The reason there's such a split between the worriers and the brave is due, in part, to lack of critical thinking skills in so much of the population. And critical thinking requires no book knowledge. It just requires a little healthy skepticism. 
 
 The worriers are worried because they don't think about statistics reported by "experts." They just assume a doctor knows what he's talking about and speaks the truth. 
 
@@ -72,10 +118,9 @@ From the awesome book, *Thinking, Fast and Slow* by Nobel Laureate Daniel Kahnem
 
 And what was the result? 
 
-> Unfortunately, the causal analysis is pointless because the facts are wrong. If the statisticians who reported to the Gates Foundation had asked about the characteristics of the worst schools, they would have found that bad schools also tend to be smaller than average. The truth is that small schools are not better on average; they are simply more variable. If anything, say Wainer and Zwerling, large schools tend to produce better results, especially in higher grades where a variety of curricular options is valuable.
+> Unfortunately, the causal analysis is pointless because the facts are wrong. **If the statisticians who reported to the Gates Foundation had asked about the characteristics of the worst schools, they would have found that bad schools also tend to be smaller than average**. The truth is that small schools are not better on average; they are simply more variable. If anything, say Wainer and Zwerling, large schools tend to produce better results, especially in higher grades where a variety of curricular options is valuable.
 
-A billion dollars wasted and once proud high schools with histories were destroyed because of a lack of critical thinking. 
-
+A billion dollars wasted, and once proud high schools with histories were laid to dust because of a lack of critical thinking. 
 
 ### Doubt Everything
 
