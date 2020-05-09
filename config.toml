@@ -21,6 +21,11 @@ theme = "chunky"
     name = "About"
     url = "/about/"
     weight = 0
+  [[menu.main]]
+    identifier = "coffee"
+    name = "Buy Me a Coffee?"
+    url = "https://www.buymeacoffee.com/billhennessy"
+    weight = 0
 
 [taxonomies]
 category = "categories"

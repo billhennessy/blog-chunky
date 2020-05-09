@@ -44,15 +44,13 @@ Do you think the media are intentionally deceiving people or are they just too s
 
 Another example comes in the current debate over COVID-19 death counts. 
 
-First, we know that CDC guidelines instructs doctors to list COVID-19 as the cause of death if the decedent might have had COVID-19. 
+First, we know that CDC guidelines instructs doctors to [list COVID-19 as the cause of death](https://www.thegatewaypundit.com/2020/04/cdc-tells-hospitals-list-covid-19-cause-death-even-assumed-caused-contributed-death-lab-tests-not-required/) if the decedent might have had COVID-19. 
 
-Second, we know that New York, Pennsylvania, and possibly other states retroactively recategorized thousands of deaths as COVID-19, even though the decedents had never been tested or, as far as anyone knows, displays symptoms of Coronavirus. 
+Second, we know that New York, Pennsylvania, and possibly other states [retroactively recategorized thousands of deaths as COVID-19](https://www.thegatewaypundit.com/2020/04/new-york-adds-presumed-coronavirus-cases-death-toll-3700-new-deaths-added-today-revised-count/), even though the decedents had never been tested or, as far as anyone knows, displays symptoms of Coronavirus. 
 
-Third, we know that doctors will assume COVID-19 is the cause of death for anyone who dies after a positive test, even if they're killed in an accident or shot. 
+Third, the federal government pays states and hospitals a [$13,000 bounty](https://www.foxnews.com/media/physician-blasts-cdc-coronavirus-death-count-guidelines) for every death categorized as COVID-19. If you don't think [greedy politicians like Andrew Cuomo](https://hennessysview.com/did-cuomo-use-intentionally-kill-the-elderly/) and hospital administrations will fudge the paperwork for $13k per head, you haven't been paying attention. 
 
-Fourth, the federal government pays states and hospitals a $13,000 bounty for every death categorized as COVID-19. If you don't think [greedy politicians like Andrew Cuomo](https://hennessysview.com/did-cuomo-use-intentionally-kill-the-elderly/) and hospital administrations will fudge the paperwork for $13k per head, you haven't been paying attention. 
-
-Fifth, and this is crucially important, we know that, despite the pandemic, the **death count by all causes is down** from both recent history for the month of April and from expected counts for April 2020. 
+Fourth, and this is crucially important, we know that, despite the pandemic, the [**death count by all causes is down**](https://www.grassfire.com/what_total_u_s_deaths_down_10_in_march_from_prior_years_further_raising_question_of_covid_impact) from expected numbers. 
 
 Just those facts would lead any thinking person to conclude that the official COVID-19 death count is inflated. But Jonathan Temte of University of Wisconsin-Madison doesn't see it that way. 
 
