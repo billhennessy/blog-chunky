@@ -3,7 +3,7 @@ title: "Forbidden Secrets of Coronavirus Data Manipulation"
 date: 2020-05-08T17:21:54-05:00
 images: ["secrets.jpg"]
 categories: ["Living"]
-tags: ["Coronavirus"]
+tags: ["Coronavirus", "Critical Thinking", "Nate Silver"]
 url: forbidden-secrets-of-coronavirus-data-manipulation/
 authors: ["Bill Hennessy"]
 ---
