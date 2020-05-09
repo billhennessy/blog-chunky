@@ -17,7 +17,7 @@ From [Mark Steyn](https://www.nationalreview.com/articles/294947/swingin-kennedy
 
 
 
-> Justice Ginsburg swung by Cairo last month to help out the lads from the Muslim Brotherhood building the new Egypt: “I would not look to the [![](https://hennessysview.com/wp-content/uploads/2012/03/ginsburg1-150x150.jpg)
+> Justice Ginsburg swung by Cairo last month to help out the lads from the Muslim Brotherhood building the new Egypt: “I would not look to the [{{< figure src="https://hennessysview.com/wp-content/uploads/2012/03/ginsburg1-150x150.jpg" >}}
 ](https://hennessysview.com/wp-content/uploads/2012/03/ginsburg1.jpg)United States Constitution if I were drafting a constitution in the year 2012,” she advised them.
 
 

@@ -19,7 +19,7 @@ type: "post"
 
 Sometimes I’m ashamed and embarrassed at my roots. See, I graduated from the same Catholic grade school as St. Louis Mayor Francis Slay. I shouldn’t be embarrassed, I know. But how else do I react to stories like [this one from George Will](https://www.washingtonpost.com/opinions/in-st-louis-a-protest-sign-meets-government-arrogance/2011/04/01/AFvR4wJC_story.html).
 
-![](https://1.bp.blogspot.com/_PzC40zTIj2A/S7N35GQXOUI/AAAAAAAAAG4/wLnIPDtaFAA/s1600/End+Eminent+Domain+Abuse+Mural+KMOX+image.jpg)
+{{< figure src="https://1.bp.blogspot.com/_PzC40zTIj2A/S7N35GQXOUI/AAAAAAAAAG4/wLnIPDtaFAA/s1600/End+Eminent+Domain+Abuse+Mural+KMOX+image.jpg" >}}
 
 
 It seems that Mayor Slay’s administration is busy trampling all over the rights of a citizen, Jim Roos. 

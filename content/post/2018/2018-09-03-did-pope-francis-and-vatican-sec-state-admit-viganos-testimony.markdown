@@ -73,7 +73,7 @@ Later, Pope Francis did a 180 and apologized. Before that apology, though, **Pop
 
 Implicated in the Chilean scandal was Boston Archbishop Sean Cardinal O'Malley. O'Malley is the head of Pope Francis's abuse commission. O'Malley told the Chilean victims of Barros and Karadima that he personally hand-delivered their letter to the pope. **Both O'Malley and Pope Francis refuse to answer questions about the letter or whether O'Malley delivered it to his Holiness**. (See a pattern here?) For his part, O'Malley cannot deny that he received the letter. He's seen in the AP photo receiving the letter from Marie Collins, then a member of the pope's commission on child sex abuse:
 
-[caption id="attachment_36751" align="aligncenter" width="780"]![](https://www.hennessysview.com/wp-content/uploads/2018/09/vatican-chile-sex-abuse.jpg)
+[caption id="attachment_36751" align="aligncenter" width="780"]{{< figure src="https://www.hennessysview.com/wp-content/uploads/2018/09/vatican-chile-sex-abuse.jpg" >}}
 Marie Collins, an abuse survivor and former member of the pope's commission on child sex abuse, hands Sean Cardinal O'Malley the letter implicating Chilean Bishop Barro. O'Malley later assured Collins that he personally delivered the letter to Pope Francis. O'Malley and Francis refuse to discuss the letter.[/caption]
 
 The Chilean affair demonstrates Francis's consistent and persistent lack of judgment and discernment regarding the church's sex abuse scandal. Still from the [CBC of Canada](https://www.cbc.ca/news/world/pope-advisers-abuse-victim-letter-denial-1.4519805):

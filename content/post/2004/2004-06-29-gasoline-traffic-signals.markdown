@@ -19,5 +19,5 @@ From my house to the nearest supermarket is 1.1 miles.  There are 3 signals betw
   
 My SUV is equipped with a built-in gas mileage meter.  I have determined that driving on Manchester Road in West St. Louis County stopping about every 8/10th of a mile for a signal, I get about 11 MPG.  Driving the same stretch as the same speed without the signals (don't ask how I accomplished this) I get 22.8 MPG.    
   
-If we really want to reduce our gasoline consumption, perhaps we should spend a little money on traffic light synchronization.  Then again, St. Louis County would lose a lot of money in gasoline taxes, as would the federal government.  Until governments do little things to double my gasoline mileage, I'll be damned if I'll cram into a hybrid deathtrap.![](https://blog.billhennessy.com/aggbug.aspx?PostID=730)
+If we really want to reduce our gasoline consumption, perhaps we should spend a little money on traffic light synchronization.  Then again, St. Louis County would lose a lot of money in gasoline taxes, as would the federal government.  Until governments do little things to double my gasoline mileage, I'll be damned if I'll cram into a hybrid deathtrap.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=730" >}}
 

@@ -15,5 +15,5 @@ My questions to the NEA are   * How much money would satisfy your insatiable gre
 
 The NEA does not concern itself with the quality of eduction in America, but exclusively with a) the quality of life of its members and employees, and b) the perpetual advance of left-wing causes. The sooner the NEA is weeded out of the garden of education, the sooner American students will achieve grades on a par with those in every other industrialized nation.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=797)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=797" >}}
 

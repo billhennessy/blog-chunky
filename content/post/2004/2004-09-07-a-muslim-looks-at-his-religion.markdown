@@ -16,5 +16,5 @@ For those on the PC side of the aisle, [please read this.](https://www.opinion.t
 
 Nod to [NRO--The Corner](https://www.nationalreview.com/thecorner/corner.asp)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=585)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=585" >}}
 

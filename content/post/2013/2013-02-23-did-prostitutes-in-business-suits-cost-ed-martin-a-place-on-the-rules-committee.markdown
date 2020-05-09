@@ -49,7 +49,7 @@ And that’s where we stand, with [Beshore and Hanaway apparently abandoning the
 
 Looks like Obama’s strategy of turning Republicans into crony capitalists and pitting them against grassroots conservatives is working.
 
-Now go read [Conscious Capitalism: Liberating the Heroic Spirit of Business](https://www.amazon.com/gp/product/1422144208/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1422144208&linkCode=as2&tag=hennesssview-20)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=1422144208)
+Now go read [Conscious Capitalism: Liberating the Heroic Spirit of Business](https://www.amazon.com/gp/product/1422144208/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1422144208&linkCode=as2&tag=hennesssview-20){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=1422144208" >}}
 to learn about business people and principles we can admire.
 
 But first, [contact your Missouri Legislators and them to thwart Beshore’s plan](https://www.unitedformissouri.org/action-alert?id=MjI=#end).

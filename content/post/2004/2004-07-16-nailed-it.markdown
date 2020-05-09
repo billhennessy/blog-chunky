@@ -41,5 +41,5 @@ Thank you, oh people of Pippin.  Thank you for sharing with me one of the true p
   
 ---------------------------------------------------------------  
   
-My wife thinks she knows how much I love the stage.  I don't have the heart to tell her: no one will ever know, and no scale will ever measure.  ![](https://blog.billhennessy.com/aggbug.aspx?PostID=683)
+My wife thinks she knows how much I love the stage.  I don't have the heart to tell her: no one will ever know, and no scale will ever measure.  {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=683" >}}
 

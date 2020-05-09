@@ -36,5 +36,5 @@ Apparently, al Qaeda has little confidence in its ability to strike the United S
 
 This the western world's greatest opportunity to announce its intention to survive. Let Europe embrace the Bush Doctrine and join America in rolling back the tide of terror al Qaeda and others have wrought.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=714)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=714" >}}
 

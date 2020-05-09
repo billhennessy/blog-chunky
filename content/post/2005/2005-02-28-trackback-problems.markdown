@@ -44,5 +44,5 @@ Thanks,
 
 Bill
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1274)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1274" >}}
 

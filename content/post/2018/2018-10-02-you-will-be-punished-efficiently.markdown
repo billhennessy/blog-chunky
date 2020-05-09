@@ -54,7 +54,7 @@ This is what efficiency looks like. 
 
 
 
-![](https://www.hennessysview.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-02-at-4.43.42-AM.png)
+{{< figure src="https://www.hennessysview.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-02-at-4.43.42-AM.png" >}}
 Georgetown University professor Christine Fair speaking of the Republican Senators on the Judiciary Committee.
 
 

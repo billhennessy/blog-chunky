@@ -21,5 +21,5 @@ Immediately, the entire operation will take on additional legitimacy in the eyes
   
 In the longer term, moving early to transfer power will destablize the terrorist networks that have been operating inside of Iraq. The terrorists lost the element of surprise and the argument of legitimacy. Iraqis will be impressed that their new leaders could take this step early. It shows courage and efficiency that the people of Iraq clearly admire because the clearly demonstrate them in the face of the insurgents.  
   
-This could be the beginning of a great weak and year for the President, the United States, a free Iraq, and the world.![](https://blog.billhennessy.com/aggbug.aspx?PostID=734)
+This could be the beginning of a great weak and year for the President, the United States, a free Iraq, and the world.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=734" >}}
 

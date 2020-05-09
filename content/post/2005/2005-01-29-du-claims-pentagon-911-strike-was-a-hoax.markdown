@@ -21,5 +21,5 @@ Good Lord, why don't these people get some hemlock on their next trip to the org
 
 (Requires Flash)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=956)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=956" >}}
 

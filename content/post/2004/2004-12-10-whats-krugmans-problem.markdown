@@ -46,5 +46,5 @@ Krugman's latest eruption is [here](https://www.nytimes.com/2004/12/10/opinion/1
 
 The NRO Krugman Truth Squad response is [here](https://www.nationalreview.com/nrof_luskin/kts200412090830.asp). 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=845)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=845" >}}
 

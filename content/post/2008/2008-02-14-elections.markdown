@@ -20,7 +20,7 @@ tags:
 
  
 
-![](https://msnbcmedia4.msn.com/j/getty/gyi0051404833.hmedium.jpg)
+{{< figure src="https://msnbcmedia4.msn.com/j/getty/gyi0051404833.hmedium.jpg" >}}
 
 
  

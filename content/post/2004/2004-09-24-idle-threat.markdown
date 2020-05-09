@@ -31,5 +31,5 @@ I don't think we've completely destroy bin Laden's ability to order such an atta
 
 If I'm right, he will order the attack only when he's certain we have found him, making his capture a Pyrrhic victory.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=550)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=550" >}}
 

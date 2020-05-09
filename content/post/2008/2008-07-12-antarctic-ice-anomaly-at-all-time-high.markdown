@@ -15,7 +15,7 @@ According University of Illinois's Cryosphere Today, Antarctic sea ice is at an 
 
  
 
-[![](https://hennessysview.com/wp-content/uploads/2008/07/071208-2323-antarcticic14.jpg)
+[{{< figure src="https://hennessysview.com/wp-content/uploads/2008/07/071208-2323-antarcticic14.jpg" >}}
 ](https://arctic.atmos.uiuc.edu/cryosphere/IMAGES/current.anom.south.jpg)
 	
 

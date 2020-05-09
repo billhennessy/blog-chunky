@@ -20,7 +20,7 @@ A fe months ago, only conservatives and Republicans were talking about Obama's a
 Many swing voters here and throughout the country consider the presumptive  Democratic nominee distant, pompous, arrogant, even elitist. [[Kansas City Star](https://www.kansascity.com/445/story/763970.html)]
 
 
-[![](https://hennessysview.com/wp-content/uploads/2008/07/arrogance_122-300x257.gif)
+[{{< figure src="https://hennessysview.com/wp-content/uploads/2008/07/arrogance_122-300x257.gif" >}}
 ](https://hennessysview.com/wp-content/uploads/2008/07/arrogance_122.gif)Democrat consultants say Obama's arrogance is a real issue that needs to be addressed.
 
 How?

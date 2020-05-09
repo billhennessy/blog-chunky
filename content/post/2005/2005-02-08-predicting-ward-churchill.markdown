@@ -36,5 +36,5 @@ Thanks to[ Backcountry Conservative](https://www.jquinton.com/archives/002483.ht
 
 [Michelle Malkin now informs that Mr. Churchill ](https://michellemalkin.com/archives/001464.htm)has, indeed, begun distancing himself from the Little Eichmann's comment. Gee, I feel like Rush. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1037)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1037" >}}
 

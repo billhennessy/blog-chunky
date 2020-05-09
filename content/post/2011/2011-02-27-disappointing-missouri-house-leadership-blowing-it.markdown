@@ -16,7 +16,7 @@ tags:
 type: "post"
 ---
 
-![](https://ferrelljenkins.files.wordpress.com/2008/11/missouri_capitol-t.jpg)
+{{< figure src="https://ferrelljenkins.files.wordpress.com/2008/11/missouri_capitol-t.jpg" >}}
 I continue hearing reliable reports that the GOP Leadership in the Missouri House keeps its boot on the throat of Tea Party freshmen. 
 
  

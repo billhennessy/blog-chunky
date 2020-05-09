@@ -9,5 +9,5 @@ categories:
 - Foreign Relations
 ---
 
-[ Econopundit ](https://www.econopundit.com/) is reporting, from a source listening to Iraqi radio, that Iraqi intelligence has captured terrorist Al-Zarqawi.  If so, mark June 27 as the turning point in the Iraqi operation:  the second deadliest terrorist in the world captured, and a democracy in the Middle East.  Not to mention NATO capitulation to Bush and Blair and limited victories for the administration handling of Gitmo detainees from the Supremes.    ![](https://blog.billhennessy.com/aggbug.aspx?PostID=736)
+[ Econopundit ](https://www.econopundit.com/) is reporting, from a source listening to Iraqi radio, that Iraqi intelligence has captured terrorist Al-Zarqawi.  If so, mark June 27 as the turning point in the Iraqi operation:  the second deadliest terrorist in the world captured, and a democracy in the Middle East.  Not to mention NATO capitulation to Bush and Blair and limited victories for the administration handling of Gitmo detainees from the Supremes.    {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=736" >}}
 

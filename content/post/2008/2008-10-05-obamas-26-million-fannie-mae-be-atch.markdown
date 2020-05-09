@@ -92,7 +92,7 @@ Here is breakdown of those preferential loans from the Wall Street Journal:
 
  
 
-![](https://s.wsj.net/public/resources/images/NA-AS735_FANNIE_NS_20080924185214.gif)
+{{< figure src="https://s.wsj.net/public/resources/images/NA-AS735_FANNIE_NS_20080924185214.gif" >}}
 
 
  

@@ -46,7 +46,7 @@ Today, my youngest natural son [joined his older brother Jack](https://hennessys
 
 Patrick engaged me in this text conversation from a bus approaching the gates to Naval RTC Great Lakes about five minutes ago:
 
-[![](https://hennessysview.com/wp-content/uploads/2015/11/1447894568_thumb.png)
+[{{< figure src="https://hennessysview.com/wp-content/uploads/2015/11/1447894568_thumb.png" >}}
 ](https://hennessysview.com/wp-content/uploads/2015/11/1447894568_full.png)
 
 That will be my last conversation with Patrick for several weeks. I feel, now, like Dan Valentine felt on his boy’s first day of school:

@@ -19,7 +19,7 @@ type: "post"
 
 Tuesday in Kansas, President Barack Obama revealed his contempt for liberty. He declared that human beings are incapable of running their own lives . . . but, somehow, other, superior human beings are capable of running their own and others’. 
 
-![](https://ridgeliner7.files.wordpress.com/2008/10/obama_marxist_logo.jpg)
+{{< figure src="https://ridgeliner7.files.wordpress.com/2008/10/obama_marxist_logo.jpg" >}}
 
 
 He said that free markets have always failed, everywhere . . . ignoring most of the last 240 years. 

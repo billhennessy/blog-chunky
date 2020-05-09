@@ -23,7 +23,7 @@ Then something happened that you knew could happen because of the book, but you 
 
 That's how I feel today.
 
-The book is [The Next 100 Years: A Forecast for the 21st Century](https://www.amazon.com/gp/product/0767923057/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0767923057&linkCode=as2&tag=hennesssview-20)![](https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0767923057)
+The book is [The Next 100 Years: A Forecast for the 21st Century](https://www.amazon.com/gp/product/0767923057/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0767923057&linkCode=as2&tag=hennesssview-20){{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0767923057" >}}
  by George Friedman, founder of STRATFOR, came to me as a gift from a great friend (who I don't see enough) around Christmas 2012. Friedman wrote the book in 2009. Here are some of the insights I noted back then:
 
 
@@ -133,9 +133,9 @@ Plus, the US is without a president capable of the  most basic geopolitical str
 The world falling apart and looking for someone to lead. Obama just ordered our armed forces to shrink back to pre-World War II size just in time for World War III. Vladimir Putin seized the moment to fill the void.
 
 History may not repeat, but it rhymes.
-[![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0767923057&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hennesssview-20)
-](https://www.amazon.com/gp/product/0767923057/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=0767923057&linkCode=as2&tag=hennesssview-20)![](https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0767923057)
+[{{< figure src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0767923057&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hennesssview-20" >}}
+](https://www.amazon.com/gp/product/0767923057/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=0767923057&linkCode=as2&tag=hennesssview-20){{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0767923057" >}}
 
 
-Read [The Next 100 Years: A Forecast for the 21st Century](https://www.amazon.com/gp/product/0767923057/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0767923057&linkCode=as2&tag=hennesssview-20)![](https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0767923057)
+Read [The Next 100 Years: A Forecast for the 21st Century](https://www.amazon.com/gp/product/0767923057/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0767923057&linkCode=as2&tag=hennesssview-20){{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0767923057" >}}
  to get a feel for where this goes next. And don't forget, America is out of money.

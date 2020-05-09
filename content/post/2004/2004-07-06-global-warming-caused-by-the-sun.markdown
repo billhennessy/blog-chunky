@@ -31,5 +31,5 @@ He'll find out.
 
 [Nod to Drudge](https://www.drudgereport.com)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=712)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=712" >}}
 

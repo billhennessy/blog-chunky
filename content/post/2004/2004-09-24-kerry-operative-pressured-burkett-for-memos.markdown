@@ -17,5 +17,5 @@ UPDATE:
 
 Apparently, so does [Drudge](https://www.drudgereport.com), but I haven't gotten there.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=548)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=548" >}}
 

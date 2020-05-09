@@ -19,5 +19,5 @@ She smiled.  Her ocean-blue eyes glittered in the waning sunlight of hot August 
   
 After dinner, we went to what we thought was the Venice Cafe.  A place called The Shanti.  Not sure if it was the Venice under a new name or not, but it wasn't I remember the Venice Cafe.  Here, we sat outside on the patio.  She smoked.  I drank--beer and her.    
   
-I am a lucky man.  ![](https://blog.billhennessy.com/aggbug.aspx?PostID=666)
+I am a lucky man.  {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=666" >}}
 

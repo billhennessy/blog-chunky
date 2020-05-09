@@ -33,7 +33,7 @@ Between the 2008 and 2012 elections:
 	  * 9.8 million people died*, 55% of them were reliable Republican voters
 	  * [16.8 <del>11.6</del> million people reached voting age](https://www.civicyouth.org/you-ask-we-answer-16-8-million-new-youth-eligible-to-vote-in-2012/?%3E)--61% of them are semi-reliable Democrat voters
 
-[![](https://ludicrite.files.wordpress.com/2012/11/coffin.jpg)
+[{{< figure src="https://ludicrite.files.wordpress.com/2012/11/coffin.jpg" >}}
 ](https://ludicrite.files.wordpress.com/2012/11/coffin.jpg)
 
 Between those years, neither the GOP nor conservative leaning organizations did anything significant to deal with this **demographic cliff. **We know the cost.

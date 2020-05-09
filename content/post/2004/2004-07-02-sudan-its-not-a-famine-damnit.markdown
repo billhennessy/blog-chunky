@@ -29,5 +29,5 @@ And then let's withdraw from the UN.
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=716)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=716" >}}
 

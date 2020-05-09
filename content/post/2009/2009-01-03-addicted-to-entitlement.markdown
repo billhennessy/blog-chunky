@@ -11,7 +11,7 @@ categories:
 - Politics
 ---
 
-[![](https://www.travelingspotlight.com/images/brat.jpg)
+[{{< figure src="https://www.travelingspotlight.com/images/brat.jpg" >}}
 Entitlement](https://www.hodu.com/entitlement.shtml) is the [psychological abnormality](https://www.ahtins.com/glossary/eee/e030.htm) in which a person believes that he is owed an enrichment or compensation earned by suffering or activity and that society or government is obligated to pay. It is a psychological condition. It is abnormal--or should be.
 
  

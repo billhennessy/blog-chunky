@@ -21,5 +21,5 @@ Because the commies will say what Democrats will only think--if they want to mai
 
 Thanks to [Blogs for Bush](https://www.blogsforbush.com/mt/archives/003555.html).
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=952)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=952" >}}
 

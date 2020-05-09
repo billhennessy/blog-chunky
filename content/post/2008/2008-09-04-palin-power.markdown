@@ -72,7 +72,7 @@ InTrade Impact on Obama.  He had been well over 60%:
 <td align="left" >**Last Price:**
 </td>
 
-<td colspan="2" align="center" >****59.0   ![](https://www.intrade.com/jsp/intrade/common/images/homepage/priceDown.gif)
+<td colspan="2" align="center" >****59.0   {{< figure src="https://www.intrade.com/jsp/intrade/common/images/homepage/priceDown.gif" >}}
  2.7****
 </td>
 </tr>
@@ -121,7 +121,7 @@ this at 58.9**
 
 </td>
 
-<td width="170" align="center" class="graph" >[![](https://www.intrade.com/jsp/intrade/common/images/homepage/cachedGraphs/409933.png)
+<td width="170" align="center" class="graph" >[{{< figure src="https://www.intrade.com/jsp/intrade/common/images/homepage/cachedGraphs/409933.png" >}}
 ](https://www.intrade.com//?request_operation=main&request_type=action&checkHomePage=true#)
 </td>
 </tr>

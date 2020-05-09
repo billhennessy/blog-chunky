@@ -13,5 +13,5 @@ On most of the East Coast and Midwest.  At the top of the hour, projections have
   
 Bush is leading among the votes counted in Ohio and Florida.    
   
-I don't think it will be a long night.  We should know something by 10:00 PM CST--11:00 in the east. ![](https://blog.billhennessy.com/aggbug.aspx?PostID=528)
+I don't think it will be a long night.  We should know something by 10:00 PM CST--11:00 in the east. {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=528" >}}
 

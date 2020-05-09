@@ -102,5 +102,5 @@ Still another UPDATE: Steven Taylor kind of takes Jonah and me to the woodshed f
 
 Check out the [Beltway Traffic Jam](https://www.outsidethebeltway.com/archives/9352)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1191)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1191" >}}
 

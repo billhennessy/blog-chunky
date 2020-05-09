@@ -28,5 +28,5 @@ I dont know what gets the blamepolitical correctness, pop culture, declining
 
 **Tomfoolery**What a fine, fine word. Tomfoolery will get you hurt, while shenanigans will hurt others.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=462)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=462" >}}
 

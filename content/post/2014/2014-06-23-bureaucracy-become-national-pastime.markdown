@@ -20,7 +20,7 @@ type: "post"
 
 St. Louisan Eric Greitens did more before graduating from college than most people do in a lifetime. And, as if to insult us all, after college, Eric became a Navy SEAL.
 
-In his remarkable book, [The Heart and the Fist: The education of a humanitarian, the making of a Navy SEAL](https://www.amazon.com/gp/product/B004TC0GZY/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004TC0GZY&linkCode=as2&tag=hennesssview-20&linkId=KLWRLOJIUT3BA2DY)![](https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=B004TC0GZY)
+In his remarkable book, [The Heart and the Fist: The education of a humanitarian, the making of a Navy SEAL](https://www.amazon.com/gp/product/B004TC0GZY/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004TC0GZY&linkCode=as2&tag=hennesssview-20&linkId=KLWRLOJIUT3BA2DY){{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=B004TC0GZY" >}}
 , Greitens tells the story of a man who seems too good to be true. Seriously. And the book left me with two big impressions--probably the wrong ones, but that's how I am.
 
 
@@ -91,7 +91,7 @@ Pay attention to Greitens' use of the word "leaders."
 
 As a Navy SEAL, Greitens learned that you can't always wait for orders. You can't wait for some desk jockey to substitute his guess for yours. Leadership means taking appropriate action.
 
-In [The Heart and the Fist](https://www.amazon.com/gp/product/B004TC0GZY/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004TC0GZY&linkCode=as2&tag=hennesssview-20&linkId=KLWRLOJIUT3BA2DY)![](https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=B004TC0GZY)
+In [The Heart and the Fist](https://www.amazon.com/gp/product/B004TC0GZY/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004TC0GZY&linkCode=as2&tag=hennesssview-20&linkId=KLWRLOJIUT3BA2DY){{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=B004TC0GZY" >}}
 , Greitens describes how he watched the US destroy its credibility with the people and local government in Kenya because no one from the President on down had the guts to order the removal of a forklift the Navy got stuck on a boat ramp. The ramp was critical for launching and recovering small boats. Kenyans in the area depended on those boats for essential goods and services, but a screw-up by a Navy contractor put the ramp out of service for months. Everyone knew how to fix the problem, but no one wanted to take responsibility.
 
 

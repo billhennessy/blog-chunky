@@ -11,5 +11,5 @@ categories:
 
 [John Derbyshire has posted ](https://www.nationalreview.com/thecorner/04_12_05_corner-archive.asp#047391)some great questions on The Corner.  
   
-Here's a teaser: "Why isn't 'phonetic' spelled the way it sounds?" ![](https://blog.billhennessy.com/aggbug.aspx?PostID=476)
+Here's a teaser: "Why isn't 'phonetic' spelled the way it sounds?" {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=476" >}}
 

@@ -38,8 +38,8 @@ Now, we're married, and I never dreamed I could be so happy because of another p
 
 
 
-![](/photos/hennessys_view/images/986/original.aspx)
+{{< figure src="/photos/hennessys_view/images/986/original.aspx" >}}
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1001)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1001" >}}
 

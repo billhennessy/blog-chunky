@@ -14,7 +14,7 @@ tags:
 type: "post"
 ---
 
-![](https://www.studentsoftheworld.info/sites/tv/img/8350_happy_face.jpg)
+{{< figure src="https://www.studentsoftheworld.info/sites/tv/img/8350_happy_face.jpg" >}}
 Happiness is a choice; anger is a tactic. 
 
  

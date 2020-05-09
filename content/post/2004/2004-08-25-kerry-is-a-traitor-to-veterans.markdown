@@ -27,5 +27,5 @@ And don't even think about lecturing me about veterans. I'm one, too, though not
 
 Nod [to Dean Esmay.](https://www.deanesmay.com/posts/1093479703.shtml)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=629)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=629" >}}
 

@@ -55,7 +55,7 @@ UPDATE:
 
  
 
-![](https://graphics8.nytimes.com/images/2007/06/14/us/14rezko-650.jpg)
+{{< figure src="https://graphics8.nytimes.com/images/2007/06/14/us/14rezko-650.jpg" >}}
 Only a little digging, and you find more Obama lies. Of the felony variety. From the Chicago Sun-Times on June 14, 2007:
 
  

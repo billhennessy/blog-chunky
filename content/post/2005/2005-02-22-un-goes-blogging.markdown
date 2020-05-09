@@ -36,5 +36,5 @@ Related:
 
 [Yet Another UN Sex Scandal](https://blog.billhennessy.com/blogs/hennessys_view/archive/2005/02/19/1132.aspx)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1202)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1202" >}}
 

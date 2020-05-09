@@ -44,5 +44,5 @@ And Americans need to.
 
 Anyone who really reflected on Reagan and really measured himself against the man is better for it. The exercise produces an odd mixture of humility and confidence, loneliness and fulfillment. Most of all, it produces hope. The shining city on the hill is will glow forever. And we are the lights in its windows.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=751)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=751" >}}
 

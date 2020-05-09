@@ -13,5 +13,5 @@ categories:
 
 Before ridiculing the Bush administration, Dr. Dean should consult his own history.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=798)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=798" >}}
 

@@ -16,5 +16,5 @@ categories:
 
 They could do everyone a favor by hiring Michael Moore to conduct the investigations, and meet at Teddy's house the 3rd Friday of every month for popcorn and videos. And lots of scotch.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=876)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=876" >}}
 

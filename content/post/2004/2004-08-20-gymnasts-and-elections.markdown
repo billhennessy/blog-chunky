@@ -13,5 +13,5 @@ The last time an American girl won the Olympic Gold Medal for All-Around in gymn
   
 With the GOP convention around the corner, Kerry's bounce (or whatever he got from the DNC convention) is gone--Bush and Kerry are dead even.  Reagan was only slightly ahead of Mondale at this point in 1984, when Mary Lou became the first American to win the Olympic all-around.    
   
-Just a thought.![](https://blog.billhennessy.com/aggbug.aspx?PostID=639)
+Just a thought.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=639" >}}
 

@@ -15,7 +15,7 @@ categories:
 
   
 
-[![](https://hennessysview.com/wp-content/uploads/2008/12/video8f55b63c5802.jpg)
+[{{< figure src="https://hennessysview.com/wp-content/uploads/2008/12/video8f55b63c5802.jpg" >}}
 ](https://www.youtube.com/watch?v=KrPCUWWjh0c&hl=en&fs=1)
 
  

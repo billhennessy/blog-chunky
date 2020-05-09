@@ -23,7 +23,7 @@ I received a couple of phone calls this morning. Maybe because of the primary el
 
  
 
-[![](https://www.ribbonfarm.com/wp-content/uploads/2007/09/thedip.jpg)
+[{{< figure src="https://www.ribbonfarm.com/wp-content/uploads/2007/09/thedip.jpg" >}}
 ](https://www.ribbonfarm.com/2007/09/06/seth-godins-dip-and-multi-armed-bandits/)
 
  

@@ -22,7 +22,7 @@ type: "post"
 
 In 2008, we heard all about the youth movement for Obama.  We heard that the enormous Millennial Generation, born between 1982 and 2001, would destroy the GOP and everything America once stood for--like jobs, family, faith, and hard work.  And when Obama won, many believed the tales of the Obama Youth.
 
-[![](https://ludicrite.files.wordpress.com/2012/06/vertigo-photo-4.jpg)
+[{{< figure src="https://ludicrite.files.wordpress.com/2012/06/vertigo-photo-4.jpg" >}}
 ](https://ludicrite.files.wordpress.com/2012/06/vertigo-photo-4.jpg)
 
 But many were wrong. **Voters under 30 have had it with vague promises and glittering bullshit from that punk from Chicago**.

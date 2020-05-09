@@ -16,5 +16,5 @@ Should terrorism strike between now and the election, they will either claim tha
 Liberalism of the sort that operates the New York Times, the Washington Post, the St. Louis Post-Dispatch, NBC News, CBS News, ABC News, CNN, National Public Radio, and rest of Michael Moore's Amen Corner is never held accountable for the dangers of its own rhetoric or actions.  The fact that Michael Moore can, without being questioned, claim Bush hired Arabs to fly planes into the Twin Towers and then immediately, less than five minutes later, claim that people who justifiably hate Bush and America flew planes into the towers demonstrates this point clearly.  (See Moore with Costas.)  Liberalism, it would appear, is abrogation of reason.    
   
 Only someone who places his own political ambition before the good of his fellow American, even the life of his fellow, would advocate the belief that our government threatens terror in order to win votes.  That is un-American no matter the ignorance of the postulant.  
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=655)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=655" >}}
 

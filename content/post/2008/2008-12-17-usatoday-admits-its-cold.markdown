@@ -14,7 +14,7 @@ Even liberals are noticing that [global warming has been reversed](Can you expla
 
  
 
-![](https://i.usatoday.net/weather/_photos/2008/12/16/cold-snapx.jpg)
+{{< figure src="https://i.usatoday.net/weather/_photos/2008/12/16/cold-snapx.jpg" >}}
 
 
  

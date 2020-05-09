@@ -57,5 +57,5 @@ MARCH! FIGHT! YELL! MAKE THE LEFT APOLOGIZE FOR ONCE!!!!!!!
   
 
 
-![](https://img.zemanta.com/pixy.gif?x-id=9cbc166d-a0fd-8a7c-befc-cee9bb80ce46)
+{{< figure src="https://img.zemanta.com/pixy.gif?x-id=9cbc166d-a0fd-8a7c-befc-cee9bb80ce46" >}}
 

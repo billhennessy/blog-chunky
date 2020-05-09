@@ -22,7 +22,7 @@ Thanks to MOPP for this fantastic summary for Center for Self-Governance trainin
 
 
 
-![](https://ci4.googleusercontent.com/proxy/AB25pThntXDCZbx9fDevJj-gxU34GW0axmIVdztPnQET2f9GlVoiw5oWgMo3zYawHcGTyurbGxIQ7zZ37x8YUncBwX-RVEYvXGYLB4jexw=s0-d-e1-ft#https://www.moprecinctproject.org/index_htm_files/5842.png)
+{{< figure src="https://ci4.googleusercontent.com/proxy/AB25pThntXDCZbx9fDevJj-gxU34GW0axmIVdztPnQET2f9GlVoiw5oWgMo3zYawHcGTyurbGxIQ7zZ37x8YUncBwX-RVEYvXGYLB4jexw=s0-d-e1-ft#https://www.moprecinctproject.org/index_htm_files/5842.png" >}}
  FYI...
 
 
@@ -67,7 +67,7 @@ TO:   MOPP SUPPORTERS
 
 
 
-**_ _**![](https://ci4.googleusercontent.com/proxy/-8_jK5tAaNn_SvzfNirP7NPC3qzdKfPxxfLI5Na7ivGhgLvf7HrWBbf0CI63YXNuDw6tFvJcz_zuZwrOHIiYvQV8usLsdhvkc19MMmMWXyhSZRkhwQcvQkp0gETNiR4JOEFQZvaRvdpbmxlfMypfnrsICBc_hYAfPx7qOjkQ=s0-d-e1-ft#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g-JgbLuHk4khkmF0kHpUKtiEIFsLS9oHRu6VXGsTPXBZu-zP)
+**_ _**{{< figure src="https://ci4.googleusercontent.com/proxy/-8_jK5tAaNn_SvzfNirP7NPC3qzdKfPxxfLI5Na7ivGhgLvf7HrWBbf0CI63YXNuDw6tFvJcz_zuZwrOHIiYvQV8usLsdhvkc19MMmMWXyhSZRkhwQcvQkp0gETNiR4JOEFQZvaRvdpbmxlfMypfnrsICBc_hYAfPx7qOjkQ=s0-d-e1-ft#https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g-JgbLuHk4khkmF0kHpUKtiEIFsLS9oHRu6VXGsTPXBZu-zP" >}}
 
 
 

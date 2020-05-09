@@ -15,5 +15,5 @@ Hey, amateur politicians:  Never give your opponent the opportunity to take a st
   
 Kerry got no bounce from the DNC convention, but he will get 10 points from the swiftvets by this time next week.  Bush will be down 12 when the GOP convention begins thanks to amateur political hacks who thought they could help their candidate. Any criminal defense lawyer will tell you that the most dangerous witness to the accused is his best friend.   
   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=638)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=638" >}}
 

@@ -76,5 +76,5 @@ Why don't you kids mosey on over to the [Beltway Traffic Jam](https://www.outsid
 
 [NIF linked with Interesting](https://trejrc0.blogspot.com/)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1324)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1324" >}}
 

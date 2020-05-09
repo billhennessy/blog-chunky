@@ -75,7 +75,7 @@ Paddy O’s, 618 S. 7TH STREET SAINT LOUIS, MO 63101
 <tbody >
 <tr >
 
-<td class="mcnImageGroupContent" valign="top" >![](https://gallery.mailchimp.com/b6334042e74991364820c98c6/images/63748d00-e301-4dc2-a42a-f4dbc1e0d784.jpg)
+<td class="mcnImageGroupContent" valign="top" >{{< figure src="https://gallery.mailchimp.com/b6334042e74991364820c98c6/images/63748d00-e301-4dc2-a42a-f4dbc1e0d784.jpg" >}}
 
 </td>
 </tr>
@@ -85,7 +85,7 @@ Paddy O’s, 618 S. 7TH STREET SAINT LOUIS, MO 63101
 <tbody >
 <tr >
 
-<td class="mcnImageGroupContent" valign="top" >![](https://gallery.mailchimp.com/b6334042e74991364820c98c6/images/3d113f00-70ae-498e-bf92-af454bf3c3fe.png)
+<td class="mcnImageGroupContent" valign="top" >{{< figure src="https://gallery.mailchimp.com/b6334042e74991364820c98c6/images/3d113f00-70ae-498e-bf92-af454bf3c3fe.png" >}}
 
 </td>
 </tr>

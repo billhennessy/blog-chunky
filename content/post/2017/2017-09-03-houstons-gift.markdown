@@ -84,7 +84,7 @@ President Trump used the best words on Saturday: love, wonderful, love, wonderfu
 
 Those of us in St. Louis and New York and Tennessee admire you, Houston. We admire, but do not envy, you. You have taken the nation's burden of division and violence on your broad, brave shoulders. Rescuer or rescued, you solved our problem for us. You showed us how it's done.
 
-![](https://hennessysview.com/wp-content/uploads/2017/09/iu-2.jpeg)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/09/iu-2.jpeg" >}}
 
 
 You showed us the way. Not with words. Words are cheap. You showed us with your actions. And just two words: "Follow me."

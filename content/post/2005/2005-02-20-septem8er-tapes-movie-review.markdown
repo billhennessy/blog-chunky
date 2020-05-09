@@ -44,5 +44,5 @@ Go rent September Tapes today. Tomorrow, you'll be asking the government, When t
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1149)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1149" >}}
 

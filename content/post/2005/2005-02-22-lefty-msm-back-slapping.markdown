@@ -9,5 +9,5 @@ categories:
 - Latest
 ---
 
-I think [Michelle ](https://michellemalkin.com/archives/001567.htm)got this wrong. Is it "George Polk Award" or "Gouge, Poke Award?" ![](https://blog.billhennessy.com/aggbug.aspx?PostID=1181)
+I think [Michelle ](https://michellemalkin.com/archives/001567.htm)got this wrong. Is it "George Polk Award" or "Gouge, Poke Award?" {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1181" >}}
 

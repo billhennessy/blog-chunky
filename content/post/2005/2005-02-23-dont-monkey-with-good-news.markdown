@@ -27,5 +27,5 @@ While I usually admonish administrations to stick to their guns, in this case, I
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1206)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1206" >}}
 

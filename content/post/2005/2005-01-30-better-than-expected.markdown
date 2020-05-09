@@ -31,5 +31,5 @@ I am thrilled. There's not much more to say. Once I saw the chubby Iraqi men dan
 
 Others are saying things worth reading, though. Try [Dean Esmay](https://www.deanesmay.com/posts/1107101422.shtml), [Steven Taylor](https://www.poliblogger.com/index.php?p=6044) and [Steven Taylor](https://www.poliblogger.com/index.php?p=6045), Outside the Beltway has [this ](https://www.outsidethebeltway.com/archives/9033)and [this](https://www.outsidethebeltway.com/archives/9032), and, of course, if you want to laugh at life's losers on DemocraticUnderground check out [this miserable banner of poor sportsmanship](https://www.democraticunderground.com/discuss/duboard.php?az=view_all&address=102x1196727#1196736), which I've summarized [here](https://blog.billhennessy.com/blogs/hennessys_view/archive/2005/01/30/965.aspx). Perhaps[ this photo on InDC ](https://www.indcjournal.com/archives/001496.php)says it all. [Michelle Malkin ](https://michellemalkin.com/archives/001370.htm)has a good round up of women voting in Iraq.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=964)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=964" >}}
 

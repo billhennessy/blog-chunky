@@ -13,7 +13,7 @@ tags:
 - Israel
 ---
 
-![](https://hennessysview.com/wp-content/uploads/2008/12/israel-flag.jpg)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2008/12/israel-flag.jpg" >}}
 Israel's [assault on Hamas terrorists](https://www.reuters.com/article/topNews/idUSLS69391620081228?sp=true) in Gaza continued for a second day.  As if reading from a script, the UN Security Council called for an immediate stop to Israel's self-defense.  
 
 As the air strikes continued, Israel has moved more [troops and tanks ](https://haaretz.com/hasen/spages/1050410.html)to the border, possibly in preparation for an incursion into the area now under terrorist control.

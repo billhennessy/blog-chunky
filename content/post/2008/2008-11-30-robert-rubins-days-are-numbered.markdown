@@ -11,7 +11,7 @@ categories:
 - Politics
 ---
 
-![](https://ndn.newsweek.com/media/50/robert-rubin-citigroup-BZ01-vl-vertical.jpg)
+{{< figure src="https://ndn.newsweek.com/media/50/robert-rubin-citigroup-BZ01-vl-vertical.jpg" >}}
 Robert Rubin was a key player in keeping Enron afloat while he and his cronies fleeced billions from employees and investors.
 
  

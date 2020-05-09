@@ -14,7 +14,7 @@ tags:
 - ozone hole
 ---
 
-![](https://svs.gsfc.nasa.gov/vis/a000000/a001600/a001603/moleculeA_pre.jpg)
+{{< figure src="https://svs.gsfc.nasa.gov/vis/a000000/a001600/a001603/moleculeA_pre.jpg" >}}
 The increased urgency to legislate or judicially impose new, draconian burdens on society to "save the planet" is not your imagination.  Neither is it a response to increasingly rising temperatures.  [Temperatures have been falling](https://wattsupwiththat.com/2008/02/19/january-2008-4-sources-say-globally-cooler-in-the-past-12-months/) for 8 years now, and have not risen in more than 10.  
 
 The reason the AGW alarmists need to impose restrictions is:  credit. 
@@ -25,7 +25,7 @@ And nature obeyed.  Even before the legislation too effect, the ozone holes beg
 
 The alarmists took credit for the shrinking of the holes despite the scientific facts that a) CFCs cannot reach the ozone layer in large enough volume to cause damage and b) ozone holes are caused by perfectly natural happenings.
 
-![](https://www.globalwarminghysteria.com/storage/disaster.jpg)
+{{< figure src="https://www.globalwarminghysteria.com/storage/disaster.jpg" >}}
 For 20 years, now, we've been told that human activity will cause temperatures to skyrocket as much as 20 degrees, melting all the ice on the planet, raising sea levels until Denver is a beach town.  As with the ozone layer, the left is panicking now that their dire predictions are proving false.  They hope to enact enought new laws to claim that falling temperatures are result of their unique and noble sort of human activity:  filling the airwaves with hot air.  
 
 AGW alarmists are either fraudulant liars or really stupid scientists whose degrees should be withdrawn.  But they are doing nothing to save the planet.

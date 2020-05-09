@@ -19,7 +19,7 @@ I’m torn.
 
  
 
-![](https://www.mlbsluggers.com/wp-content/uploads/2010/12/albert-pujols2.jpg)
+{{< figure src="https://www.mlbsluggers.com/wp-content/uploads/2010/12/albert-pujols2.jpg" >}}
 Yesterday, I took part in a [demonstration outside Senator Claire McCaskill’s](https://gatewaypundit.rightnetwork.com/2011/02/tea-party-soup-line-forms-at-mccaskills-st-louis-office/) St. Louis office on Delmar. The future of the republic is important. We are concerned that Senator McCaskill put her re-election before Missouri jobs by lobbying the DNC to hold its 2012 convention in Charlotte, NC, instead of St. Louis, MO. 
 
  

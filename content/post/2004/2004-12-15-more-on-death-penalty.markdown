@@ -27,5 +27,5 @@ Anyway, I enjoy reading Berkowitz's journal. The entries are very Christian, so,
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=882)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=882" >}}
 

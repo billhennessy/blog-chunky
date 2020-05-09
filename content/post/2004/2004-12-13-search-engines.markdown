@@ -19,5 +19,5 @@ I can type the exact same entry into three or four separate engines and get back
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=869)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=869" >}}
 

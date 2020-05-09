@@ -16,5 +16,5 @@ Ten years later, we are still digging out from that mess. There were some in the
 
 Today, after three years of Bush administration snubbing of the North Koreans, our screw-you policy is paying off. [North Korea will permit US](https://www.msnbc.msn.com/id/3857902/), not UN, nuclear inspectors into its facilities. While Pyongyang's new semi-permeability may be a ploy to prove to the US that they have an advanced nuclear weapons program, it will give US inspectors a chance to more fully understand what the communists are up to. Moreover, coming on the heels of Libya's capitulation and a [potential new opening in Iran](https://www.msnbc.msn.com/id/3856238/), it could signal that the last and most recalcitrant of the Axis of Evils nations, having witnessed the Saddam medical exam videos, is ready to play by the rules. If so, my 2004 predictions are already shot, and the Bush doctrine is on its way to becoming the most successful Western foreign policy position since the American Revolution. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=814)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=814" >}}
 

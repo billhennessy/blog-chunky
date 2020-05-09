@@ -11,5 +11,5 @@ categories:
 
 Lines for the voting booths unexpectedly thinned after Mabel cast her vote . . .
 
-![](https://i.l.cnn.net/cnn/2008/images/01/08/art.nhnightvoting.ap.jpg)
+{{< figure src="https://i.l.cnn.net/cnn/2008/images/01/08/art.nhnightvoting.ap.jpg" >}}
 

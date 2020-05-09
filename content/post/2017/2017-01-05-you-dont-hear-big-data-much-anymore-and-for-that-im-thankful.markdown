@@ -29,7 +29,7 @@ Big Data was a buzzword for about six years. At first, it was a way for Silicon 
 
 Then Big Data predicted Hillary Clinton's landslide win with 98% confidence. And **Big Data went the way of the Iomega Zip Drive**. (I know of very senior executive at a very large beverage company who, in 1996, shifted his entire portfolio, 100%, to [Iomega stock](https://tips.vlaurie.com/2008/04/remembering-iomega/).)
 
-![](https://hennessysview.com/wp-content/uploads/2017/01/Screenshot-2017-01-04-21.26.52.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/01/Screenshot-2017-01-04-21.26.52.png" >}}
 
 
 In 2012, I attended an innovation symposium. One topic was Big Data. The speaker breathlessly warned that "Big Data Is Coming!" like the Red Coats. As if Big Data were a thing. (In case you're wondering, "Big Data" means "lots of data" usually about people and their behavior.) He said "Big Data" at least 100 times in a 25-minute presentation. Since I'm a former geek, a lot of people asked me afterwards, "That was such a great talk, but did you understand what we should do about it?" I wasn't sure. Neither was the speaker. Except "invest" in it. Or invest to stop it. I can't remember which.

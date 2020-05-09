@@ -35,5 +35,5 @@ Another thing PFEN fails to do is to back up its opinions with science. The grou
 
 Don't trust any organization that hides behind a web site, doesn't solicite your questions or comments, and refuses to provide for the slightest possiblity that it is wrong. Remember, the greatest scientists in the world believed that the smallest piece of matter in the universe was the atom. That was only 60 years ago.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=746)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=746" >}}
 

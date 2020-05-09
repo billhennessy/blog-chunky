@@ -16,5 +16,5 @@ For a long time, I listed my Blogroll by Recent. I realize, now, that not every 
 
 Since I mark blogs as New if updated in the past 6 hours, I decided, to be fair, I needed to reorder my blogroll alphabetically.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1161)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1161" >}}
 

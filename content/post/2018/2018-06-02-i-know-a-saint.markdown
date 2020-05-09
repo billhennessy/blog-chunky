@@ -270,6 +270,6 @@ Angela, my personal saint, I love you.
 
 
 
-![](https://www.hennessysview.com/wp-content/uploads/2018/06/IMG_0425.gif)
+{{< figure src="https://www.hennessysview.com/wp-content/uploads/2018/06/IMG_0425.gif" >}}
 
 

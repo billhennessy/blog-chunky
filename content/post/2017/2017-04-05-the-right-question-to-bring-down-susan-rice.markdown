@@ -167,7 +167,7 @@ Here are two hypothetical charts. One shows only the instances Rice requested un
 
 
 
-![](https://hennessysview.com/wp-content/uploads/2017/04/trump-only-1024x544.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/04/trump-only-1024x544.png" >}}
 
 
 
@@ -214,7 +214,7 @@ Now, let's pretend we ask for all of Susan Rice's requests for unmasking. And we
 
 
 
-[trump-n![](https://hennessysview.com/wp-content/uploads/2017/04/trump-nontrump-1024x544.png)
+[trump-n{{< figure src="https://hennessysview.com/wp-content/uploads/2017/04/trump-nontrump-1024x544.png" >}}
 
 
 
@@ -268,7 +268,7 @@ When we add trend lines, we get an even better picture of Rice's obsession with 
 
 
 
-![](https://hennessysview.com/wp-content/uploads/2017/04/trump-nontrump-trends-1024x544.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/04/trump-nontrump-trends-1024x544.png" >}}
 
 
 

@@ -57,5 +57,5 @@ What a loser.
 
 [Outside the Beltway ](https://www.outsidethebeltway.com/archives/9688)examines Congress's jurisdiction over baseball's drug policy.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1410)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1410" >}}
 

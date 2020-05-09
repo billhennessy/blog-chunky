@@ -31,5 +31,5 @@ I'd love to [blame this on the bloodthirsty press](https://msnbc.msn.com/id/6696
 
 Perhaps Rudy?
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=853)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=853" >}}
 

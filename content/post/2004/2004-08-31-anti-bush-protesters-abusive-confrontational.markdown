@@ -21,5 +21,5 @@ I think back to Republican demonstrations in Florida during the 2000 recount. Re
 
 Again, to liberals, freedom of speech ends where differing opinions begin. How easy moral choices become when your own personal satisfaction is the only moral imperative.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=596)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=596" >}}
 

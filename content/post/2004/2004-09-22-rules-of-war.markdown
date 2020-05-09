@@ -33,5 +33,5 @@ Next time, we keep killing until there is no one looking sideways at us. We kill
 
 If there is a second Bush term, he must direct his generals to kill every last Iraqi and foreign enemy in the country by any means necessary. Collateral damage should be avoided, but not fanatically so.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=555)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=555" >}}
 

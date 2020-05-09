@@ -18,7 +18,7 @@ tags:
 type: "post"
 ---
 
-[![](https://4.bp.blogspot.com/_L6pDyjqqsvY/SeaSaP3jcpI/AAAAAAAAbHg/me1ZWac54v4/s400/DSC02371.JPG)
+[{{< figure src="https://4.bp.blogspot.com/_L6pDyjqqsvY/SeaSaP3jcpI/AAAAAAAAbHg/me1ZWac54v4/s400/DSC02371.JPG" >}}
 ](https://gatewaypundit.rightnetwork.com)Seth Godin’s daily blogs are amazingly timely.
 
 Today Seth talked about having someone’s back.  He explained that the time we need to _feel_ that [someone has our back](https://sethgodin.typepad.com/seths_blog/2011/01/ive-got-your-back.html) is when things are tough, not when they’re going well.

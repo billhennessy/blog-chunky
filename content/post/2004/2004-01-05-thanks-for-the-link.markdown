@@ -11,5 +11,5 @@ categories:
 
 Steven at [www.PoliBlogger.com](https://www.PoliBlogger.com) and [Arguing with Signposts . . .](https://www.arguewithsigns.net/mt/) graciously linked to this site. Thank you, so much, for the favor.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=795)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=795" >}}
 

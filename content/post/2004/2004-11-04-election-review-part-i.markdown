@@ -65,5 +65,5 @@ By April 2000, six months before his election and years before the term blog was
 
 
 
-During the final weeks of the 2000 race, Bus![](https://blog.billhennessy.com/aggbug.aspx?PostID=520)
+During the final weeks of the 2000 race, Bus{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=520" >}}
 

@@ -21,5 +21,5 @@ Money quote: "Almost two-thirds of those polled described Bush as likable, stron
 
 Thanks to MSNBC
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=939)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=939" >}}
 

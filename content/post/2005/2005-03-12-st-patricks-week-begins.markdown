@@ -47,5 +47,5 @@ Oh, and Hennessy's View has declare this Thursday, March 17, an official holiday
 
 UPDATE: [Mark Steyn's ](https://www.suntimes.com/output/steyn/cst-edt-steyn131.html)St. Patrick's message.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1340)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1340" >}}
 

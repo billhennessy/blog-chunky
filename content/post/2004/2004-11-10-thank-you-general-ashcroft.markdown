@@ -63,5 +63,5 @@ As an American, I am as sorry to see him go as I am grateful for his service. As
 
 Godspeed, John. Welcome home.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=508)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=508" >}}
 

@@ -21,5 +21,5 @@ categories:
 
 The caution thing is a little silly. Washington never makes rash moves with money. Freedom, security, national defense, maybe. But money, never. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1106)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1106" >}}
 

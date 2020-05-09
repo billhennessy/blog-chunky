@@ -36,5 +36,5 @@ The bandwagon deck seems more accessible all the time.
 
 Guesting on [Dean's World, Joe Gandelman ](https://www.deanesmay.com/posts/1110650678.shtml)provides an in-depth examination of Hillary vs. Condi in '08
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1335)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1335" >}}
 

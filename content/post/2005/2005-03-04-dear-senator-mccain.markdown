@@ -64,5 +64,5 @@ UPDATE: [The American Mind ](https://www.theamericanmind.com/mt-test/archives/01
 FLASHBACK: My [open letter to McCain from April, 2002](https://blog.billhennessy.com/blogs/hennessys_view/archive/2002/04/01/1088.aspx)  
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1292)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1292" >}}
 

@@ -23,5 +23,5 @@ Thanks to [Instapundit](https://www.instapundit.com). [ Instapundit's OpinionJou
   
   
 ](https://opinionjournal.com/extra/?id=110005985)UPDATE: [Instapundit ](https://instapundit.com/archives/019668.php)points out a [Canadian press piece](https://www.canada.com/national/nationalpost/news/comment/story.html?id=6e57a820-683c-4853-baaa-3787d7612019).  
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=481)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=481" >}}
 

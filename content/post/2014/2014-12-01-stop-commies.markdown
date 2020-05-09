@@ -15,7 +15,7 @@ tags:
 type: "post"
 ---
 
-It's all a lie. ![](https://hennessysview.com/wp-content/uploads/2014/11/commies-arent-cool-e1417409141719-225x300.jpg)
+It's all a lie. {{< figure src="https://hennessysview.com/wp-content/uploads/2014/11/commies-arent-cool-e1417409141719-225x300.jpg" >}}
 
 
 It didn't start that way. At first, the Mike Brown protesters were all about Mike Brown and people like him. But not anymore.

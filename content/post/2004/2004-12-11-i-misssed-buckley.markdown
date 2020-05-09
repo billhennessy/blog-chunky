@@ -12,5 +12,5 @@ categories:
 If you're under 35 or so, William F. Buckley may seem like relic. To my generation, he was Moses.   
   
 I'm sorry [I missed this ](https://www.azcentral.com/news/articles/1210buckleys10.html)on C-SPAN; it sounds delightful.  
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=852)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=852" >}}
 

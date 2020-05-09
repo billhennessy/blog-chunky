@@ -9,5 +9,5 @@ categories:
 - Latest
 ---
 
-Feel nostalgic? I found some of my old[ Hennessy Report website](https://hreport.billhennessy.com/)--2000 and 2001. ![](https://blog.billhennessy.com/aggbug.aspx?PostID=1023)
+Feel nostalgic? I found some of my old[ Hennessy Report website](https://hreport.billhennessy.com/)--2000 and 2001. {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1023" >}}
 

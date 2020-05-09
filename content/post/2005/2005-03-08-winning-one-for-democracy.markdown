@@ -177,5 +177,5 @@ According to [A Little More to the Right, ](https://www.alittlemoretotheright.co
 
 [The Right Wing Nut House](https://rightwingnuthouse.com/archives/2005/03/07/a-seismic-shift-in-opinion/) finds a shift in public opinion in the world's largest Muslim country
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1316)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1316" >}}
 

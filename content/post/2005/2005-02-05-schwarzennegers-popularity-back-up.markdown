@@ -21,5 +21,5 @@ I didn't think he'd run, then I didn't think he'd win, then I wasn't sure how we
 
 Congrats, Arnold. Agree or disagree with your policies, for now, you've got it on the ball.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=993)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=993" >}}
 

@@ -62,6 +62,6 @@ Further reading:
 [ San Francisco Chronicle on The Day After Tomorrow](https://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2004/06/01/EDGTM6TOTR1.DTL)
 
 And, of course, [JunkScience.com](https://www.junkscience.com/)
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=923)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=923" >}}
 
 

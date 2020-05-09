@@ -34,5 +34,5 @@ Good. I don't like wishing ill on another, but this guy deserves to suffer for h
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=991)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=991" >}}
 

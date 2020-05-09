@@ -55,7 +55,7 @@ If my hunch is right, it won't stop there. At some point, someone will start neg
 
 At some point, someone will want to remove statues of even abolitionists and anti-segregationists. Statues of Mother Teresa. Statues of saints. The Gateway Pundit found [a Catholic church in California that has removed statues of Jesus and the Virgin Mary](https://www.thegatewaypundit.com/2017/08/167-year-old-california-catholic-school-removes-statues-mary-jesus-inclusive/). Because of the common knowledge game.
 
-[caption id="attachment_23377" align="aligncenter" width="960"]![](https://hennessysview.com/wp-content/uploads/2017/08/jesus-statue-2.jpg)
+[caption id="attachment_23377" align="aligncenter" width="960"]{{< figure src="https://hennessysview.com/wp-content/uploads/2017/08/jesus-statue-2.jpg" >}}
 Statue of Jesus ruled "offensive" and removed by Catholic church. via [Gateway Pundit](https://www.thegatewaypundit.com/2017/08/167-year-old-california-catholic-school-removes-statues-mary-jesus-inclusive/)[/caption]
 
 If my hunch is right about who's behind the anti-statue craze, those statues will come down, too. All of them. Jefferson. Jesus. Washington. Martin Luther King. Rocky Balboa. They'll all come down.

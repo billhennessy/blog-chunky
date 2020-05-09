@@ -32,5 +32,5 @@ Giving money to UN relief agencies is more than a waste: it's supporting corrupt
 <tr >
 
 <td colspan="2" align="middle" >
-</td></tr></tbody></table>![](https://blog.billhennessy.com/aggbug.aspx?PostID=719)
+</td></tr></tbody></table>{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=719" >}}
 

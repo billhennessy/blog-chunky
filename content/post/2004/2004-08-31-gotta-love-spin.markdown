@@ -31,5 +31,5 @@ Isn't that EXACTLY what they said was wrong with Gore? What we take for indecisi
 
 How many more planes would have flown into how many more building while (God forbid) a President Gore or a President Kerry pondered the decisions of how to respond to 9/11? I pray we never find out.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=604)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=604" >}}
 

@@ -31,5 +31,5 @@ On Thursday, June 19 at 6:30pm, we will gather informally at [Scarecrow in Che
 
 If you have friends who think Tea Partiers are "too extreme" or "racist" or whatever, bring them along. There won't be a bunch of political speeches to scare them away. Just conversation about restoring their power so they can keep the republic.  [RSVP on Facebook](https://www.facebook.com/events/466890610123117/)
 
-Set a reminder on [![](https://www.google.com/calendar/images/ext/gc_button1_en.gif)
+Set a reminder on [{{< figure src="https://www.google.com/calendar/images/ext/gc_button1_en.gif" >}}
 ](https://www.google.com/calendar/event?action=TEMPLATE&tmeid=ODQzM3ZxNzdndXMwczNjbTgxYzZudWtsNGMgd2hlbm5lc3N5MDcyNUBt&tmsrc=whennessy0725%40gmail.com)

@@ -32,5 +32,5 @@ I must say this is good news. An indictment by a US grand jury is one of only tw
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1025)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1025" >}}
 

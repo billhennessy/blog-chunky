@@ -15,5 +15,5 @@ NYT:  Do you have any gay friends?
   
 WFB:  I once said, commenting on the revised estimate of the number of gays in the U.S. from Kinsey's 10 percent to the corrected figure, ''If there are only 2.5 percent gays in America, I know them all.''   
   
-The guy's a classic![](https://blog.billhennessy.com/aggbug.aspx?PostID=693)
+The guy's a classic{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=693" >}}
 

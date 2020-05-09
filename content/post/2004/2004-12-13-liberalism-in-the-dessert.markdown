@@ -71,5 +71,5 @@ I'm not so sure liberalism will recover any time soon. The movement liberals who
 
 I have to admit I'm enjoying this immensely. Liberalism has damaged millions of lives through welfare-enslavement, support for communism, support for terrorism, and destruction of the founders' Constitution. While others, like Will, feel compelled to reach out a helping hand, I'm content to sit back and let the smug bastards twist in the wind. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=860)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=860" >}}
 

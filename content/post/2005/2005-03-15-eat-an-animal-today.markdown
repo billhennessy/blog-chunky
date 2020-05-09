@@ -31,5 +31,5 @@ Trackback:
 
 [Jefe and the Man](https://jefeandtheman.blogspot.com/2005/03/eat-animal-for-peta-day.html)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1367)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1367" >}}
 

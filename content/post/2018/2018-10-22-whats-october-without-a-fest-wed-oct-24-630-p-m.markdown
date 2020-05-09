@@ -55,7 +55,7 @@ Eureka Wine House
 
 
 
-![](https://www.hennessysview.com/wp-content/uploads/2018/10/2a11af91-8f44-442a-8117-1799b77d8880.jpg)
+{{< figure src="https://www.hennessysview.com/wp-content/uploads/2018/10/2a11af91-8f44-442a-8117-1799b77d8880.jpg" >}}
 
 
 

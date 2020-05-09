@@ -43,5 +43,5 @@ While Reagan displaced Roosevelt's reign as the image of a president, Reagan's e
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=893)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=893" >}}
 

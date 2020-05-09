@@ -60,10 +60,10 @@ When people ask “how could the German people give into Hitler’s maniacal sch
 
 Logically, the Germans looked around to find who these “others” were. And they found the Jews. They also found a “powerful other” named Adolf Hitler who promised to punish their tormentors and unite the scattered tribes of Germany into a master race that would rule the world forever.
 
-**What the world needs—what young people, in particular, need—is a dose of Frankl’s logotherapy**.  The whole of America needs that. I need it. I read Frankl’s short masterpiece, [Man's Search for Meaning](https://www.amazon.com/gp/product/0807014273/ref=as_li_ss_tl?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0807014273)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0807014273)
+**What the world needs—what young people, in particular, need—is a dose of Frankl’s logotherapy**.  The whole of America needs that. I need it. I read Frankl’s short masterpiece, [Man's Search for Meaning](https://www.amazon.com/gp/product/0807014273/ref=as_li_ss_tl?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0807014273){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0807014273" >}}
 three times in the past week. It’s a very quick read—you can read it in a day.
 
-[Pick up a copy](https://www.amazon.com/gp/product/0807014273/ref=as_li_ss_tl?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0807014273)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0807014273)
+[Pick up a copy](https://www.amazon.com/gp/product/0807014273/ref=as_li_ss_tl?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0807014273){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0807014273" >}}
 .  Read it. Buy three copies, and give two away.
 
 If America is to survive, it will need a cultural attitude shift. That begins with you. And the attitude must be forward, not backward, looking. It must involve action—positive action toward that which gives you meaning.

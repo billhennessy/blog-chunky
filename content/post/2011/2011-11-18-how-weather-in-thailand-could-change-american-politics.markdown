@@ -40,7 +40,7 @@ Both manufacturers bought a key radio frequency chip from the same chip supplier
 
 
 
-Central planners consider efficiency the supreme objective.  Hitler’s Final Solution was, in his mind, an efficiency project, as were[![](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/western-digital-flood-300x225.jpg)
+Central planners consider efficiency the supreme objective.  Hitler’s Final Solution was, in his mind, an efficiency project, as were[{{< figure src="https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/western-digital-flood-300x225.jpg" >}}
 ](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/western-digital-flood-300x225.jpg)Stalin’s collectivization atrocities.  Efficiency pays no regard to right or wrong--only to minimum cost in time and material to accomplish some objective.
 
 Efficiency is often the enemy of safety and common sense. The drive to reduce “waste” often increases risk by putting lots of eggs in one basket.
@@ -65,7 +65,7 @@ Prices for the most popular specifications have [nearly doubled since November 1
 
 
 
-![](https://lh3.googleusercontent.com/TQKFnMl5zw7smCz4TmJMm5IUYv-LNCxK6V5KPJzpm_Nm8lA4QURSKrWORZNxDfyJ2ZDtRe0V58TXu86wGXhB5onjfjftVblHaUZyBf0k2BGaunZM8XM)
+{{< figure src="https://lh3.googleusercontent.com/TQKFnMl5zw7smCz4TmJMm5IUYv-LNCxK6V5KPJzpm_Nm8lA4QURSKrWORZNxDfyJ2ZDtRe0V58TXu86wGXhB5onjfjftVblHaUZyBf0k2BGaunZM8XM" >}}
 
 
 

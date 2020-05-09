@@ -39,5 +39,5 @@ Folks, this is why Bush was right to stay away from the International Criminal C
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1069)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1069" >}}
 

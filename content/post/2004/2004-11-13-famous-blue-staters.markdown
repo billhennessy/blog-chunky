@@ -13,5 +13,5 @@ Liberals want to claim that Blues states house every thinking and tax-paying Ame
 
 I could go on, but you get the point.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=497)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=497" >}}
 

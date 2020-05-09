@@ -10,7 +10,7 @@ categories:
 - Science
 ---
 
-![](https://www.globalwarminghysteria.com/storage/disaster.jpg)
+{{< figure src="https://www.globalwarminghysteria.com/storage/disaster.jpg" >}}
 Hey, folks, I haven't read [the whole thing](https://www.telegraph.co.uk/comment/columnists/christopherbooker/3982101/2008-was-the-year-man-made-global-warming-was-disproved.html).  But in the second paragraph we seem to find the answer to whole global warming problem:  ignore it.
 
 

@@ -29,7 +29,7 @@ And that’s what I want to write about today.
 
  
 
-[![](https://hennessysview.com/wp-content/uploads/2010/06/chart11_thumb.jpg)
+[{{< figure src="https://hennessysview.com/wp-content/uploads/2010/06/chart11_thumb.jpg" >}}
 ](https://hennessysview.com/wp-content/uploads/2010/06/chart11.jpg)
 
  

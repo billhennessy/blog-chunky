@@ -175,5 +175,5 @@ _UPDATE: _[_ The Denver Post_](https://www.denverpost.com/Stories/0,1413,36~53~2
 
 _So far, I have not found any statement or clarification from Ward Churchill himself. And, yes, the smirk is off my face. _
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1211)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1211" >}}
 

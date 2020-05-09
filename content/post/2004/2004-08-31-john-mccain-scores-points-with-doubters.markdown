@@ -26,5 +26,5 @@ Like [Karol at Dean's World](https://www.deanesmay.com/posts/1093919614.shtml), 
 
 Also noted on [Arguing with Signposts](https://https://arguewithsigns.net/mt/mt-tb.cgi/2140), and [PoliBlogger](https://www.poliblogger.com/).
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=598)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=598" >}}
 

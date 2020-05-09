@@ -17,5 +17,5 @@ UPDATE: [Here's an interesting link ](https://www.globalissues.org/TradeRelated/
 
 UPDATE: Dean's post now has 32 comments, most of which are very thoughtful, intelligent posts. This is a thread worth saving, and I encourage you to take a look.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=491)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=491" >}}
 

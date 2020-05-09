@@ -36,7 +36,7 @@ The St. Louis Cardinals were the major league team farthest west and farthest so
 
  
 
-This was just one of the amazing facts I put together reading Michael Patrick Leahy’s magnificent book, [Covenant of Liberty: The Ideological Origins of the Tea Party Movement](https://www.amazon.com/gp/product/0062066331/ref=as_li_ss_tl?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0062066331)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0062066331)
+This was just one of the amazing facts I put together reading Michael Patrick Leahy’s magnificent book, [Covenant of Liberty: The Ideological Origins of the Tea Party Movement](https://www.amazon.com/gp/product/0062066331/ref=as_li_ss_tl?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0062066331){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0062066331" >}}
 . (Buy it today.)
 
  
@@ -134,5 +134,5 @@ You will gain some remarkable insights into American history, how we got where w
 
  
 
-![](https://img.zemanta.com/pixy.gif?x-id=2e83b5cd-f531-4a8c-be62-b2b093653341)
+{{< figure src="https://img.zemanta.com/pixy.gif?x-id=2e83b5cd-f531-4a8c-be62-b2b093653341" >}}
 

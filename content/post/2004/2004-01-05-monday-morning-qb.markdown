@@ -19,5 +19,5 @@ No, it's not about football.
 
 4. I will have more to write later.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=802)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=802" >}}
 

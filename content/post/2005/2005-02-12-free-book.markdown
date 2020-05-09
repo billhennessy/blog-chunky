@@ -16,5 +16,5 @@ Wow. Only 75 people have downloaded a[ PDF version of The Conservative Manifesto
 
 It's free!
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1048)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1048" >}}
 

@@ -31,5 +31,5 @@ UPDATE: Looks like I was way, way off base with this explanation. According to t
 
 To a degree, I understand and concur. If wireless internet access providers are shut out of major markets in Texas, rural residence may not have internet access at all. It's complicated, but things like internet access and cable television generate higher returns in areas with higher population densities. Since the cities most likely to provide free access would be the largest, richest, and most dense, rural communities who cannot afford to provide the service would be left to turn to private providers. Without the high profits of the big cities, rural residents would have to pay a disproportionatly high rate for the services.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1293)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1293" >}}
 

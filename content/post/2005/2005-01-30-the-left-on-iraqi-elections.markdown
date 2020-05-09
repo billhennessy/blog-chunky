@@ -78,5 +78,5 @@ That's the way they see it, folks. I'm not making this up
 
 Update: [Michelle Malkin lists her Top 10 Sourpusses](https://michellemalkin.com/archives/001391.htm)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=965)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=965" >}}
 

@@ -24,5 +24,5 @@ The Wall Street Journal is out with its [top ten trends](https://online.wsj.com/
   
 Nothing exciting made the list (with the possible exception of fashion). American companies seem mired in the bogs of recession thinking, taking few risks, introducing nothing new. Until some bold, innovative, risk takers re-emerge, the jobs numbers will continue to disappoint. This list of trends reminds me eerily of 1993 when Bill Clinton announced that federal deficits were certain for the next 20 years and that GDP growth would never stretch above 3%. Newt Gingrich's revolution in Congress helped prove Clinton wrong, but the GOP leadership in Washington today seems as risk-averse as corporate leaders.  
   
-Will some new technology break this cycle? Let's hope. The country needs innovation and risk capital badly. Only the bold make money, but there seem to be few bold people around these days. ![](https://blog.billhennessy.com/aggbug.aspx?PostID=469)
+Will some new technology break this cycle? Let's hope. The country needs innovation and risk capital badly. Only the bold make money, but there seem to be few bold people around these days. {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=469" >}}
 

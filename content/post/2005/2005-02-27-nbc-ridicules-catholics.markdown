@@ -31,5 +31,5 @@ categories:
 
 Answer: Of course not. Muslims are now a protected group, while Catholics are still an undesirable minority for ripe the kind of social genocide liberals have advocated for years.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1245)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1245" >}}
 

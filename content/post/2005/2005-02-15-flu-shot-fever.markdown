@@ -54,5 +54,5 @@ Of course not. Just as evidence that second hand smoke poses no threat to nonsmo
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1068)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1068" >}}
 

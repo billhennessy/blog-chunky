@@ -33,7 +33,7 @@ Each team must think ahead and reason backwards. He must discern his rival's res
 
 If Romney moved first, his decision tree might look like this:
 
-[![](https://ludicrite.files.wordpress.com/2012/08/20120813-200303.jpg)
+[{{< figure src="https://ludicrite.files.wordpress.com/2012/08/20120813-200303.jpg" >}}
 ](https://ludicrite.files.wordpress.com/2012/08/20120813-200303.jpg)
 
 In this case, Romney concludes that taking the low road won't work. Everyone already knows that Obama is a failed president, a radical who believes America needs to be "taken down a notch." He also knows that negative campaigning lowers public approval of both parties. Therefore, Romney might figure that taking the high road is his only hope.

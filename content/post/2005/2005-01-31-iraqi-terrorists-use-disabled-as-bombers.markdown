@@ -37,5 +37,5 @@ Remember, folks, the people who strapped the bomb to a mentally retarded child a
 
 [OTB has more](https://www.outsidethebeltway.com/archives/9049).
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=970)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=970" >}}
 

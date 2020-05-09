@@ -47,5 +47,5 @@ UPDATE: Oh, crap!
 <td >blog
 </td></tr></table>
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1251)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1251" >}}
 

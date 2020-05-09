@@ -31,7 +31,7 @@ General Flynn, a 30-year Army veteran and 3-star General, pled guilty to false c
 
 Now, the law firm that once represented Flynn has release thousands of documents it previously illegally refused to turn over. One of those documents is a handwritten note.
 
-![](/images/fbi-frame-note.png)
+{{< figure src="/images/fbi-frame-note.png" >}}
 
 The damning paragraph:
 

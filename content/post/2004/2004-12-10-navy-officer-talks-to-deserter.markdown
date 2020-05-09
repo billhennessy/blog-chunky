@@ -19,5 +19,5 @@ I hope this kid matures enough to feel the shame he brought upon himself by taki
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=834)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=834" >}}
 

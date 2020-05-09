@@ -32,7 +32,7 @@ It isn't easy. But each day it gets a little easier. Praying helps. Sitting sile
 
 Mostly, remembering "**I'm going to die**" is a great motivator. I carry [a challenge coin that reads _Memento Mori_ ](https://prints.dailystoic.com/products/memento-mori)every day. It means "remember death." It's a Stoic thing.
 
-[![](https://www.hennessysview.com/wp-content/uploads/2018/08/mm3_1024x1024@2x-300x220.png)
+[{{< figure src="https://www.hennessysview.com/wp-content/uploads/2018/08/mm3_1024x1024@2x-300x220.png" >}}
 ](https://prints.dailystoic.com/products/memento-mori)
 
 Thinking about death motivated me to study God's great book, the Bible (which should have been called _How to Get to Heaven (or your money back)_. Reading the Bible and lots of commentary about it, I've learned that if getting to heaven is my goal, I've been doing it all wrong.

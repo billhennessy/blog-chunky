@@ -37,5 +37,5 @@ In my letter to [McCain of March 3, 2005](https://blog.billhennessy.com/blogs/he
 Related:  
 [Another Senate Hypocrite in Trouble](https://blog.billhennessy.com/blogs/hennessys_view/archive/2005/03/07/1318.aspx)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1319)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1319" >}}
 

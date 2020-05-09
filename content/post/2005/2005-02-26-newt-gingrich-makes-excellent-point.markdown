@@ -56,5 +56,5 @@ The poll numbers for Bushs social security package are still good. You dont 
 
 UPDATE: [Dean's World (Joe Gandelman) ](https://www.deanesmay.com/posts/1109522485.shtml)indicates the Bush administration might be learning from Newt.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1240)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1240" >}}
 

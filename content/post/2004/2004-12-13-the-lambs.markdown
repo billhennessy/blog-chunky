@@ -29,5 +29,5 @@ The Rams' roster sports six first round draft choices unable to play because the
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=861)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=861" >}}
 

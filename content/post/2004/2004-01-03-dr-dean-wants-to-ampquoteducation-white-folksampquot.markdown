@@ -20,5 +20,5 @@ Slate, quickly becoming the prickliest liberal thorn in Howard Dean's side, has 
 I would add my own rebuttal to Dean's comments, but between Kaus's analysis and Dean's own political stupidity and pathological carelessness, I really can't make this any more damaging to the good doctor's faultering reputation.
 
   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=812)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=812" >}}
 

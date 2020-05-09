@@ -29,7 +29,7 @@ An editorial in The Hoya, the official student newspaper, [students advocate “
 
 If they think Georgetown’s rules for student groups are confusing and unmanageable, wait until they fill out a tax return more advanced than the 1040-EZ. 
 
-[![](https://curiousinkling.com/~shirt/_design/irs-shirt.gif)
+[{{< figure src="https://curiousinkling.com/~shirt/_design/irs-shirt.gif" >}}
 ](https://curiousinkling.com/graphic-t-shirts/irs-shirt.php)
 
 I’m thrilled to see students at a Jesuit school awake to the horrors of bureaucratic tyranny. I hope they carry their love of liberty and sound government into the political world by working hard this year for the overthrow of Barack Obama.

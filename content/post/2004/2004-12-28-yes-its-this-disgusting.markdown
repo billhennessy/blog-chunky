@@ -22,5 +22,5 @@ categories:
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=914)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=914" >}}
 

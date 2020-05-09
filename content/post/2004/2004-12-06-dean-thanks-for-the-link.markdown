@@ -9,5 +9,5 @@ categories:
 - Latest
 ---
 
-Thanks to [Dean Esmay ](https://www.deanesmay.com)for adding me to his blogroll. ![](https://blog.billhennessy.com/aggbug.aspx?PostID=479)
+Thanks to [Dean Esmay ](https://www.deanesmay.com)for adding me to his blogroll. {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=479" >}}
 

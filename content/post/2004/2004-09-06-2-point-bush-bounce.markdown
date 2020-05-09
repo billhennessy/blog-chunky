@@ -24,5 +24,5 @@ This will come back to haunt them.  What goes up, must come down, the Democrats 
 If, however, there was a pre-convention trend toward the president (and there was), Bush's growing lead--or Kerry's collapse--is not going to change directions naturally.  Something will have to happen, and Kerry throwing hissy fits at midnight won't do it.  
   
 Again, the major media are manipulating the news to help Kerry and to hurt Bush.  If that's what you think the new media should do, you'll be fine with that.  Frankly, I think it's criminal.    
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=589)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=589" >}}
 

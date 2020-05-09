@@ -75,5 +75,5 @@ Honorable mention to John Kerry.
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=917)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=917" >}}
 

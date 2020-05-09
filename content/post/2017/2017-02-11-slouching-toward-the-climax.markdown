@@ -24,7 +24,7 @@ In a very real sense, one society dies— and another is born.
 
 
 
-[caption id="attachment_21578" align="aligncenter" width="1024"]![](https://hennessysview.com/wp-content/uploads/2017/02/Screenshot-2017-02-10-10.21.28-1024x219.png)
+[caption id="attachment_21578" align="aligncenter" width="1024"]{{< figure src="https://hennessysview.com/wp-content/uploads/2017/02/Screenshot-2017-02-10-10.21.28-1024x219.png" >}}
 Blogger's interpretation of The Fourth Turning generations[/caption]
 
 This post should be fun because it involves games.

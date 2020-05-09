@@ -31,5 +31,5 @@ Related stories:
 
 and [this](https://blog.billhennessy.com/blogs/hennessys_view/archive/2005/02/13/1057.aspx).
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1070)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1070" >}}
 

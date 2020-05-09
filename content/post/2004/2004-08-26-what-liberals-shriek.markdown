@@ -17,5 +17,5 @@ The art on the items is hideous, too.  I thought liberals could at least handle 
   
 Anyway, don't go there.  The stuff looks really low quality, and I didn't see anything that was in the Men's Health Fall Fashion special.  (You know, the one that's upside-down?)  
   
-Time for bed.  ![](https://blog.billhennessy.com/aggbug.aspx?PostID=626)
+Time for bed.  {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=626" >}}
 

@@ -193,5 +193,5 @@ UPDATE 3: Let's line this up for the Beltway Traffic Jam
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=835)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=835" >}}
 

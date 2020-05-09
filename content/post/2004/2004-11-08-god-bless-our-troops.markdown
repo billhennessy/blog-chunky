@@ -19,5 +19,5 @@ How dare we forget the struggles of the few for the many. May those who must fal
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=514)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=514" >}}
 

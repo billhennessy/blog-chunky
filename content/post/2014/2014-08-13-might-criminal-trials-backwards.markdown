@@ -89,7 +89,7 @@ The other thing I like about penalty-first trials is they might reduce racial or
 
 I don't know that his reform would make our legal system more fair and more just, but I'd love to see an experiment that put it to the test. The first state to try it would look brilliant if it worked.
 
-I got this idea from a great book on game theory and strategy, [Thinking Strategically: The Competitive Edge in Business, Politics, and Everyday Life (Norton Paperback)](https://www.amazon.com/gp/product/B002OJIBLU/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B002OJIBLU&linkCode=as2&tag=hennesssview-20)![](https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=B002OJIBLU)
+I got this idea from a great book on game theory and strategy, [Thinking Strategically: The Competitive Edge in Business, Politics, and Everyday Life (Norton Paperback)](https://www.amazon.com/gp/product/B002OJIBLU/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B002OJIBLU&linkCode=as2&tag=hennesssview-20){{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=B002OJIBLU" >}}
 .
 
 Also, I received an email letting me know I'm not alone. There's an organization called [Conservatives Concerned (about the death penalty) ](https://conservativesconcerned.org/)that's been gaining a fair amount of traction recently.

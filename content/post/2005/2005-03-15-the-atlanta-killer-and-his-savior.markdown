@@ -447,5 +447,5 @@ PS One of the best teachers I ever had, Sr. Barbara Schlatter, quietly spends he
 
 Another PS: Much was made of the fact that Brian Nichols overpowered a much smaller female officer to start this whole nightmare. More of that fact was made when his escort for his perp walk was 5'1" female. But, in the end, it was a woman who overpowered him--intellectually, spiritually. With love, respect, and courage, she overcame his fears and aggression. Ashley Smith did what no man could do, and that poor female deputy failed when asked to do what a woman couldn't.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1358)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1358" >}}
 

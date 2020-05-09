@@ -19,5 +19,5 @@ Well, I'm humbled and grateful to
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1229)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1229" >}}
 

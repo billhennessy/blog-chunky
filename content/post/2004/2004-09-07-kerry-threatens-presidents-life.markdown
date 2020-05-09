@@ -16,5 +16,5 @@ If his irrational rants hadn't been bad enough, now Kerry wishes to bring deadly
 
 In West Virginia, Cecil Roberts, president of the United Mine Workers of America, gave Kerry a rifle as a gift. Kerry, a self-described gun-owner and hunter, quipped: **"I thank you for the gift, but I can't take it to the debate with me." **
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=586)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=586" >}}
 

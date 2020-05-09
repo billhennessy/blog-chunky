@@ -46,5 +46,5 @@ But the town realizes, slowly, that the girl's life depends on their protection.
 
 This is one of the best films I've ever seen. Rent Dogville today. Watch it with grown ups, only. It's not appropriate for the young. If you want the experience of a stage play that matches the intensity and honesty of Dogville, read "[The Visit" by Friedrich Dürrenmatt ](https://www.litencyc.com/php/sworks.php?rec=true&UID=15455)(1956).
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1312)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1312" >}}
 

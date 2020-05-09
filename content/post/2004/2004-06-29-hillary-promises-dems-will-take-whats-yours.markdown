@@ -17,5 +17,5 @@ I am one of the people she will take things away from.  By proxy, she will depri
   
 By many standards, I am wealthy.  Poor people, even people like the family I grew up in, don't live in my subdivision unless they lucked into a house.  The property taxes alone are daunting.   Neither, though, do I live exceedingly well.  I have one car that provides utility.  My wife has one, as well, since we both must work to stay in our house.    
   
-Our tax cuts last year helped a lot.  If the Democrats revoke those cuts, I will probably have to move my children to worse neighborhood with worse schools.  Should anyone care but me?  No.  But when a millionaire Democrat tells me she's going to steal my money for "the common good," I can respond only in the words Dick Cheney gave us:  Fuck Off.![](https://blog.billhennessy.com/aggbug.aspx?PostID=731)
+Our tax cuts last year helped a lot.  If the Democrats revoke those cuts, I will probably have to move my children to worse neighborhood with worse schools.  Should anyone care but me?  No.  But when a millionaire Democrat tells me she's going to steal my money for "the common good," I can respond only in the words Dick Cheney gave us:  Fuck Off.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=731" >}}
 

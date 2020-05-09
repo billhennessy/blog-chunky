@@ -20,7 +20,7 @@ type: "post"
 # **Obama Productions Inc. **
 
 
-![](https://i.azcentral.com/commphotos/view/442818.jpg)
+{{< figure src="https://i.azcentral.com/commphotos/view/442818.jpg" >}}
 
 
 Garish chic. No other way to describe it.

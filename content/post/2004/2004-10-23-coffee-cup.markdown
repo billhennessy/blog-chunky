@@ -27,5 +27,5 @@ They won't be there when I go out.
 
 They're like my coffee cup.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=531)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=531" >}}
 

@@ -36,5 +36,5 @@ Originally posted by[ Joe Gandelman on Dean's World](https://www.deanesmay.com/p
 
 Maybe you should read my [analysis ](https://blog.billhennessy.com/blogs/hennessys_view/archive/2005/02/04/992.aspx)and my [concerns](https://blog.billhennessy.com/blogs/hennessys_view/archive/2005/02/01/977.aspx).
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1028)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1028" >}}
 

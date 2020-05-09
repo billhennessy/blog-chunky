@@ -99,5 +99,5 @@ Merry Christmas.
 
 Please check out the other Christmas entries on [Outside the Beltway's Linkfest](https://www.outsidethebeltway.com/archives/8551)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=900)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=900" >}}
 

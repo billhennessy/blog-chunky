@@ -31,5 +31,5 @@ According to the [World Tribune](https://www.worldtribune.com/worldtribune/05/br
 
 I predict, however, if [Howard Dean ](https://www.christianitytoday.com/ct/2005/107/13.0.html)convinces enough people that he represents the best of Christianity, atheism will rebound.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1290)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1290" >}}
 

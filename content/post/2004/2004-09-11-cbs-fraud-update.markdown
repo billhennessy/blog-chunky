@@ -28,5 +28,5 @@ The only expert cited by CBS in this case, **Marcel Matley**, wrote in the Septe
 
 Dan Rather has used the term "preponderance of evidence" nine times in the past two days. By that standard, he and his handlers in the Kerry Campaign or DNC are guilty.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=568)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=568" >}}
 

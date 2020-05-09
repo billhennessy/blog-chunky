@@ -29,5 +29,5 @@ Redemption is such a beautiful thing. In David Berkowitz's writing, we learn tha
 
 Thanks to [Dean's World ](https://www.deanesmay.com/)for finding [this ](https://www.thesmokinggun.com/archive/0611041sam1.html)and [this](https://www.forgivenforlife.com/). 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=750)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=750" >}}
 

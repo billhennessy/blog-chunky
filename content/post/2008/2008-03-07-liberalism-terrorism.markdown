@@ -9,7 +9,7 @@ categories:
 - Crime
 ---
 
-![](https://hennessysview.com/wp-content/uploads/2008/03/d8v88iu80.jpg)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2008/03/d8v88iu80.jpg" >}}
 Now that we're winning the war, the left is ratcheting up its anti-military hatemongering--all the way to terrorism.  If the Congressmen who received the letters knew what was coming, they should taken out and shot, along the perp who did it.  
 
 Today, leftist terrorists bombed a [U. S. Armed Forces recruitment center ](https://www.nctimes.com/articles/2008/03/06/ap/headlines/d8v88iu80.txt)in New York.  This domestic terrorism should be met with lethal force. 

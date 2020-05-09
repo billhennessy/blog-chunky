@@ -15,5 +15,5 @@ The combination of rampant politically correct anit-religiosity with paranoid fe
   
 Terrorism is the use of violence against non-combatants to advance a political cause.  In this case, the Iraqi terrorists wish to influence French internal laws.  France has two choices:  capitulate or allow the terrorists to behead its citizens.    
   
-I have no idea which way France will go, but Spain caved.  Don't be surprised if France does the same.  ![](https://blog.billhennessy.com/aggbug.aspx?PostID=613)
+I have no idea which way France will go, but Spain caved.  Don't be surprised if France does the same.  {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=613" >}}
 

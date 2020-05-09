@@ -21,5 +21,5 @@ Whether or not exhaustion gets the credit, [US and Afghan military have captured
 
 With these arrests, perhaps we'll finally nab Omar. My guess is that, if he knows anything about Bin Laden's whereabouts, he'll sing.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=877)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=877" >}}
 

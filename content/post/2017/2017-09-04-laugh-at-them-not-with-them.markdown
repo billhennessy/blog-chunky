@@ -15,7 +15,7 @@ tags:
 type: "post"
 ---
 
-![](https://hennessysview.com/wp-content/uploads/2017/09/img_0280-1.jpg)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/09/img_0280-1.jpg" >}}
 
 
 The left is crying. One guy on twitter is nearly suicidal. [Hoft has more](https://www.thegatewaypundit.com/2017/09/trump-trolls-hillary-clintons-book-launch-liberals-wet/).

@@ -29,7 +29,7 @@ type: "post"
 
 Tuesday is the most important election of your life, but voting is never enough. You can have a bigger impact by using social proof to increase your influence. I'll tell you how, and it won't take you long.
 
-![](https://ludicrite.files.wordpress.com/2012/11/110412_1827_howtomaximi1.jpg)
+{{< figure src="https://ludicrite.files.wordpress.com/2012/11/110412_1827_howtomaximi1.jpg" >}}
 
 
 

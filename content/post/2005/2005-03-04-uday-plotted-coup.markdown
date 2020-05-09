@@ -38,5 +38,5 @@ Other allegations include:
 
 Of course, Arnett wants us to feel remorse for having interfered in the natural order of dictatorial families. But Arnett is a crackpot. We should feel nothing but increased pride in having spared Iraq the ascendance of this beast.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1295)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1295" >}}
 

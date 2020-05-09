@@ -16,5 +16,5 @@ tags:
 
 But where is that darling little girl? 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1387)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1387" >}}
 

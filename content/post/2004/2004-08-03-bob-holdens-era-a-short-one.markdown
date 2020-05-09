@@ -17,5 +17,5 @@ Prior to Governor Mel Carnahan's death in a plane crash in 2000, Republican Jim 
   
 Good riddance.  
   
-P.S.  If Holden comes back and wins, my opinion of him will remain the same.  However, polls show that McCaskill would do better against the Republican candidate than would Holden.  ![](https://blog.billhennessy.com/aggbug.aspx?PostID=658)
+P.S.  If Holden comes back and wins, my opinion of him will remain the same.  However, polls show that McCaskill would do better against the Republican candidate than would Holden.  {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=658" >}}
 

@@ -46,5 +46,5 @@ Check out the[ Traffic Jam](https://www.outsidethebeltway.com/archives/9283)
 
 Maybe [Jeff Quniton's ](https://www.jquinton.com/archives/002531.html)onto Iran's reason for the mutual defense pact.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1104)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1104" >}}
 

@@ -44,5 +44,5 @@ Professor William H. Depperman said of Reagan. "He is a slime; basically, a horr
 
 The last is my favorite. Professor William Depperman--my current leading example of why parents should think twice before sending their children to college--clearly lives in a small, nasty world bound on all sides by the paranoid and petty monsters of his own, hate-encrusted mind.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=757)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=757" >}}
 

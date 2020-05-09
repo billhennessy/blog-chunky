@@ -76,5 +76,5 @@ Believing that America and her allies would turn and flee as casualties mounted 
 
 When military historians chronicle this war, the Siege of Fallujah will go down as the turning point in the war.  We owe tho
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=458)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=458" >}}
 

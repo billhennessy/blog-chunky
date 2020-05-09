@@ -85,5 +85,5 @@ When you see scientific-looking studies predicting with 98% confidence how the 2
 
 [Tweet "Amazing! This is how the 2018 election will turn out."]
 
-![](https://hennessysview.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-30-at-10.44.51-AM.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-30-at-10.44.51-AM.png" >}}
 

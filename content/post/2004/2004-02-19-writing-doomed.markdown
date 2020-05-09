@@ -20,5 +20,5 @@ categories:
 4. Every time a writer produces what he thinks is a masterpiece only to earn an editor's "Thank you for your submission, but we are currently concentrating on another genre," note back in his SASE, he thinks technology, society, education (or lack there of), selfishness, stupidity, or a combination of all have undone the fine old craft of writing.   
 5. I have a hunch, based on my perusal of lit mag web sites, that the surest way to get into print is to decry the low state of literacy in America that prevents serious, good, educated, MFA writers who owe Stephen King's advance to Sallie Mae from earning a living as a writer. James Michner (sp?), both popular and excellent, said 30 years ago, "A writer can make a fortune in American--but not a living."
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=766)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=766" >}}
 

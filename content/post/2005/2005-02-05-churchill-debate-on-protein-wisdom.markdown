@@ -199,5 +199,5 @@ Of course, Jeff still thinks he's reached a logical melding of Churchill's two p
 
 Am I wrong here, or is Jeff just playing semantics to defend the professor?
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=997)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=997" >}}
 

@@ -15,7 +15,7 @@ type: "post"
 
 If you see some idiot in a kilt today, it might be me.
 
-![](https://hennessysview.com/wp-content/uploads/2017/03/FullSizeRender.jpg-678x1024.jpeg)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/03/FullSizeRender.jpg-678x1024.jpeg" >}}
 
 
 You know my story. Aon scéal? (Gaelic for "Any story?")

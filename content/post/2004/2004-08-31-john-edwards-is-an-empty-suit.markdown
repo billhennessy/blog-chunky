@@ -11,5 +11,5 @@ categories:
 
 Wow.  What an airhead.  I hope I don't offend any lawyer friends, but Edwards strikes me as the worst of his breed:  ambulance chasers.  I'll be he has more books on marketing legal services, maximizing profitability from a single client, and finding new avenues for class action suits than he has on actual law.    
   
-John Edwards is a shallow, empty man who, absent our current legal system, would sell junk bonds door to door making millions without a scrupple.![](https://blog.billhennessy.com/aggbug.aspx?PostID=599)
+John Edwards is a shallow, empty man who, absent our current legal system, would sell junk bonds door to door making millions without a scrupple.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=599" >}}
 

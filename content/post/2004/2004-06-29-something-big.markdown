@@ -18,5 +18,5 @@ Perhaps al-Zarqawi will die in roar of M-16 fire on the street of Fallujah.  Tha
 Or maybe this big, wonderful thing will be me personal.  Maybe I'll win the lottery or my kids will win some scholarship or my wife will look at me with that look she gets sometimes--like she's looking upon the gates of Heaven in my eyes.    
   
 Maybe I'm just wrong.  This is pure hunch.  But if something wonderful DOES happen in the next few days, you heard it hear first.   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=732)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=732" >}}
 

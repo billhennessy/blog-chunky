@@ -19,5 +19,5 @@ Voter turnout was down in every state from 2008. In many states, turnout was low
 
 [polldaddy poll=6672784]
 
-Thanks for responding. [![](https://ludicrite.files.wordpress.com/2012/11/polls.png)
+Thanks for responding. [{{< figure src="https://ludicrite.files.wordpress.com/2012/11/polls.png" >}}
 ](https://ludicrite.files.wordpress.com/2012/11/polls.png)

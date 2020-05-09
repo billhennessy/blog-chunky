@@ -181,5 +181,5 @@ I like [Michael King's thoughts](https://mhking.mu.nu/archives/068303.php), a lo
 
 [Dean Esmay ](https://www.deanesmay.com/posts/1108971024.shtml)links to the New York Times obit. [Wierdness rules at Tom Rants](https://www.tom-hanna.org/?p=544).
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1152)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1152" >}}
 

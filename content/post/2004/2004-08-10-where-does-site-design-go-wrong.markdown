@@ -53,5 +53,5 @@ Remember, this is only a start and only one way of designing a functional web si
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=647)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=647" >}}
 

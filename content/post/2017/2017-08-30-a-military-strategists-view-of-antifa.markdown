@@ -65,7 +65,7 @@ Now, look at Antifa's tactics.
   
 Antifa followed up its Charlottesville victory with vicious attacks on non-combatants in Berkeley, California. In between, Antifa forces attacked an innocent man in Colorado. And Antifa terrorized Trump supporters in Seattle.  
   
-![](https://hennessysview.com/wp-content/uploads/2017/08/antifa-pack.jpg)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/08/antifa-pack.jpg" >}}
   
   
 In each of these guerrilla attacks, Antifa indicated that it considers anyone with political views the conflict with their political views "fascists," "white supremacists," "Nazis," or "KKK."  

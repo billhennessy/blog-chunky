@@ -14,7 +14,7 @@ I'm interesting in a few things about candidates.  If you are a candidate for t
 
 I will post results before the August 7 primary.
 
-[![](https://ludicrite.files.wordpress.com/2012/07/bill-hennessys-missouri-state-office-candidate-questionnaire.png?w=284)
+[{{< figure src="https://ludicrite.files.wordpress.com/2012/07/bill-hennessys-missouri-state-office-candidate-questionnaire.png?w=284" >}}
 ](https://docs.google.com/spreadsheet/viewform?formkey=dGNVSWtGazNOTmJUcHlncFBoMkZqLVE6MQ#gid=0)
 
 Please note that I do not intend to base my vote solely on your answers to these questions.

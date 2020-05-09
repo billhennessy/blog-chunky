@@ -22,7 +22,7 @@ type: "post"
 
 Is the Tea Party dead?  That's the big question this week around the Lake of the Ozarks.
 
-[![](https://ludicrite.files.wordpress.com/2012/04/lake-girl.jpg)
+[{{< figure src="https://ludicrite.files.wordpress.com/2012/04/lake-girl.jpg" >}}
 ](https://ludicrite.files.wordpress.com/2012/04/lake-girl.jpg)
 
 First, Eric Reeve [The Lake Liberal wrote this letter-to in Lake News Online](https://www.lakenewsonline.com/newsnow/x1047090880/Lake-View-The-death-of-the-Tea-Party). He concludes:

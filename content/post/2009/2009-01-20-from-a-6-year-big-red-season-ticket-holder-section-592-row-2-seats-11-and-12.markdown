@@ -10,16 +10,16 @@ categories:
 ---
 
 <table border="0" ><tbody >*<tr >*
-<td >![](https://philadelphia-eagles.net/fightsongs/images/az-big.gif)
+<td >{{< figure src="https://philadelphia-eagles.net/fightsongs/images/az-big.gif" >}}
 
 </td>*
 <td valign="middle" >**St. Louis Cardinals**
 </td>*
-<td >![](https://philadelphia-eagles.net/fightsongs/images/az-big.gif)
+<td >{{< figure src="https://philadelphia-eagles.net/fightsongs/images/az-big.gif" >}}
 
 </td>*</tr>   </tbody></table>  
 
-[![](https://philadelphia-eagles.net/fightsongs/images/title-cardinals.gif)
+[{{< figure src="https://philadelphia-eagles.net/fightsongs/images/title-cardinals.gif" >}}
 ](https://hennessysview.com/wp-content/uploads/2009/01/cardinals__the_cardinals_are_charging1.mp3)(click banner to hear [fight song](https://hennessysview.com/wp-content/uploads/2009/01/cardinals__the_cardinals_are_charging1.mp3)—don’t be afraid to sing along)
 
  <table width="700" border="0" ><tbody >*<tr >*

@@ -11,5 +11,5 @@ categories:
 
 "If we don't take care of the terrorists, we certainly won't have to worry about the economy."   
   
-There's nothing left to say.![](https://blog.billhennessy.com/aggbug.aspx?PostID=571)
+There's nothing left to say.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=571" >}}
 

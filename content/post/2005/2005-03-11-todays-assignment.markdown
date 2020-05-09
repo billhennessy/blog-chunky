@@ -41,5 +41,5 @@ I missed my window. Any accolades now will smack of reciprocation.
 
 Still, I can honestly say "Thanks" and let you know I am humbled.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1332)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1332" >}}
 

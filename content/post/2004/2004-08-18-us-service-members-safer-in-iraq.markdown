@@ -19,5 +19,5 @@ I know the agony of losing a child.  I can only imagine the agony of losing a fa
   
 A reasoned mind says that the liberation of a country long oppressed is a just cause.  Reason dictates that there is a threshold one must monitor in terms of cost for carrying out such liberation.  A death rate below the liberator's national average, though, is far below that threshold.  
   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=640)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=640" >}}
 

@@ -49,5 +49,5 @@ The left hopes against hope that Bush will somehow launch World War III while in
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1177)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1177" >}}
 

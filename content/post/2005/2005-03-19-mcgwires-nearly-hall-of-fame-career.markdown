@@ -34,7 +34,7 @@ Each major league city has two sports writers with a Hall of Fame vote. When one
 
 Pete Rose is barred from the Hall because of his conduct AFTER his playing days. Mark McGwires set recordsnoble, towering recordsby cheating. His actions damaged the integrity of the game over a critical 8 year stretch. For that, he deserves a place in baseball history along side the Black Sox.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1413)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1413" >}}
 
 
 UPDATE:  [Uncle Jack](https://unclejacks.blogspot.com/2005/03/say-goodbye-to-hall.html) sees McGwire's hall of fame hopes disappearing. 

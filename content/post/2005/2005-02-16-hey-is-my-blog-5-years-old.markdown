@@ -21,5 +21,5 @@ In between, I played around with Linux, but it proved way too time-consuming and
 
 Anyway, I'll leave it up to you: [is Hennessy's View five-years-old? ](https://blog.billhennessy.com/forums/1083/ShowPost.aspx)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1082)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1082" >}}
 

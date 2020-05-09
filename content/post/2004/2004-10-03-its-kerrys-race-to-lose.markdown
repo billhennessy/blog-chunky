@@ -19,5 +19,5 @@ By mailing in the first, most watched debate, the president has given the lead a
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=542)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=542" >}}
 

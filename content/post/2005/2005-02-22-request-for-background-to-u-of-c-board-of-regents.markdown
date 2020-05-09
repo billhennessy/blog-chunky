@@ -45,5 +45,5 @@ Related:
 
 [Ward Churchill's Tenure and Chair Obtained by Lying](https://blog.billhennessy.com/blogs/hennessys_view/archive/2005/02/22/1191.aspx)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1197)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1197" >}}
 

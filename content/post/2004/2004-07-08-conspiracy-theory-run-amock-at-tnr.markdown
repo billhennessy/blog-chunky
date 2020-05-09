@@ -17,5 +17,5 @@ More frighteningly, the Major Media--also known as Kerry's publicity department-
   
 I'll take a gamble:  John B. Judis, Spencer Ackerman,  Massoud Ansari never interviewed an "unnamed Pakistani intelligence official," though they might have paid some Pakistani (it's not a wealthy country) to agree to some statement they had already written.  Instead, these three made up the story from whole cloth, having learned from the New York Times and former TNR reporters that fiction is easier than news.    
   
-Elvis, anyone?![](https://blog.billhennessy.com/aggbug.aspx?PostID=707)
+Elvis, anyone?{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=707" >}}
 

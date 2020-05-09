@@ -15,5 +15,5 @@ After we invaded Afghanistan, we were told that tens of thousands of well-traine
   
 Well, three years later, where are they?  Why haven't they struck?    
   
-Mr. Lacey's article is well worth reading as explores some possible answers to these questions.![](https://blog.billhennessy.com/aggbug.aspx?PostID=625)
+Mr. Lacey's article is well worth reading as explores some possible answers to these questions.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=625" >}}
 

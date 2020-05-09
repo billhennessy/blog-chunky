@@ -21,5 +21,5 @@ Woohoo!!!!!
 
 Thanks to [Drudge](https://www.drudgereport.com)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1035)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1035" >}}
 

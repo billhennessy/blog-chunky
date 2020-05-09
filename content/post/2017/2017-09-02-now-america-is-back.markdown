@@ -14,7 +14,7 @@ type: "post"
 
 We've been saying "America is back" ever since President Trump's beautiful inauguration in January. And we meant it.
 
-![](https://hennessysview.com/wp-content/uploads/2017/09/TrumpTexas397200_20170902_150648.jpg)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/09/TrumpTexas397200_20170902_150648.jpg" >}}
 
 
 But "America is back" rose to a higher level today. A level not since the days following 9-11. Or maybe the greatest moments of the Reagan administration.

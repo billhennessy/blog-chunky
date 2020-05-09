@@ -32,5 +32,5 @@ odd times and in unexpected ways.
   
 
 Thanks, God. That little kiss will sustain me for months.   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=858)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=858" >}}
 

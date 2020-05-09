@@ -37,5 +37,5 @@ Then he saw the movie:
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=747)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=747" >}}
 

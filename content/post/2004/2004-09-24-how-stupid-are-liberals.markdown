@@ -11,5 +11,5 @@ categories:
 
 This is totally unfair, but here's a thread snippet from a liberal conspiracy theory site (and aren't they all). On idiot Democrat is trying to find another idiot's hyperlink. And they have the balls to call Bush stupid! I'm not making this up.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=553)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=553" >}}
 

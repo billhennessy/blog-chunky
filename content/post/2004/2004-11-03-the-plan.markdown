@@ -11,5 +11,5 @@ categories:
 
 I'm going to the store to get beer and wine.  When I'm confident that I know the outcome of the election, I will open one or the other:  Wine if Bush, beer if Kerry.    
   
-On the other hand, I might break into them early if I run out of fingernails to bite. ![](https://blog.billhennessy.com/aggbug.aspx?PostID=527)
+On the other hand, I might break into them early if I run out of fingernails to bite. {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=527" >}}
 

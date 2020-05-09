@@ -31,5 +31,5 @@ The new records are consistent with the President's long-standing assertion that
 
 Then again, Michael Moore, I'm sure, would be more than happy to swallow crow, pheasant, albatross, or anything else that once flew.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=581)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=581" >}}
 

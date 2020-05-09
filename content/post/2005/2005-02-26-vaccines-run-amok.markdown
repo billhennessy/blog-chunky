@@ -36,5 +36,5 @@ Yet the do-gooder moonbats continue to demand legislating this death penalty, ju
 
 It absolutely amazes me that murdering unborn children is protected as an unalienable right to do with one's own body as one sees fit, but smoking tobacco or pot, drinking, tattooing and piercing, and eating french fries somehow falls under the "compelling interest" of the state. The mind that can reconcile these disparate positions is a very dangerous mind. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1237)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1237" >}}
 

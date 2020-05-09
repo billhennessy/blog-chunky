@@ -37,7 +37,7 @@ It's called [The One-Sentence Persuasion Course by Blair Warren. ](https://www.
 
 Warren admits his method has been scientifically scrutinized. That means scientists haven't developed a theory to explain why Warren's method works. Then again, scientists don't why men find Eva Longoria attractive.
 
-[caption id="attachment_22023" align="aligncenter" width="636"]![](https://hennessysview.com/wp-content/uploads/2017/05/30BCD0F600000578-0-image-a-80_1454198706891.jpg)
+[caption id="attachment_22023" align="aligncenter" width="636"]{{< figure src="https://hennessysview.com/wp-content/uploads/2017/05/30BCD0F600000578-0-image-a-80_1454198706891.jpg" >}}
 LOS ANGELES, CA - JANUARY 30: Eva Longoria attends The 22nd Annual Screen Actors Guild Awards at The Shrine Auditorium on January 30, 2016 in Los Angeles, California. 25650_012 (Photo by Kevin Mazur/Getty Images for Turner)[/caption]
 
 Now that you know Eva Longoria's attractiveness lacks scientific theory, do you think she's ugly?
@@ -173,7 +173,7 @@ Finally, $100 seems like a lot to ask. Most of this information is free on the I
 
 
 
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+{{< figure src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >}}
 
 
 **That's a 90 percent savings** if you find this information valuable. It could save your life. And you may look better, too.

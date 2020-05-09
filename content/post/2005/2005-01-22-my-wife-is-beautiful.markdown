@@ -16,5 +16,5 @@ Not bragging. We just got home from dinner and a few cocktails at Big Bear. I go
 
 I'm going to watch a movie with her now.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=947)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=947" >}}
 

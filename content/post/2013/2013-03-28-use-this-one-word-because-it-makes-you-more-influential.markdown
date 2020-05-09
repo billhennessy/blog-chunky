@@ -65,7 +65,7 @@ Now, go find out:
 
 [How Psychological Biases Hurt Government](https://hennessysview.com/2012/12/28/how-psychological-biases-make-good-government-unlikely/)
 
-And here's the book that'll make you more influential: [Yes!: 50 Scientifically Proven Ways to Be Persuasive](https://www.amazon.com/gp/product/1416576142/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1416576142&linkCode=as2&tag=hennesssview-20)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=1416576142)
+And here's the book that'll make you more influential: [Yes!: 50 Scientifically Proven Ways to Be Persuasive](https://www.amazon.com/gp/product/1416576142/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1416576142&linkCode=as2&tag=hennesssview-20){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=1416576142" >}}
 
 
 Source:  The Xerox studies can be found in: Langer, E., Blank, A., and Chanowitz, B. (1978). The mindlessness of ostensibly thoughtful action: The role of “placebic” information in interpersonal interaction. Journal of Personality and Social Psychology, 36: 639– 42. Retrieved from Goldstein, Noah J.; Martin, Steve J.; Robert B. Cialdini (2008-06-10). Yes! (Kindle Locations 2882-2884). Simon & Schuster, Inc.. Kindle Edition.

@@ -47,10 +47,10 @@ For the record, I'm very proud to support [Dottie Bailey for Missouri](https://d
 
 Here are Doell's failed complaint AND the beautiful MEC letter shooting Doell down. (Suitable for framing.) (Click images for easier reading.)
 
-[caption id="attachment_36426" align="alignleft" width="225"][![](https://www.hennessysview.com/wp-content/uploads/2018/08/MEC-letter-1-225x300.png)
+[caption id="attachment_36426" align="alignleft" width="225"][{{< figure src="https://www.hennessysview.com/wp-content/uploads/2018/08/MEC-letter-1-225x300.png" >}}
 ](https://www.hennessysview.com/wp-content/uploads/2018/08/MEC-letter-1.png) MEC Letter Rejecting Doell's Complaint[/caption]
 
-[caption id="attachment_36420" align="alignleft" width="225"][![](https://www.hennessysview.com/wp-content/uploads/2018/08/MEC-complaint-225x300.png)
+[caption id="attachment_36420" align="alignleft" width="225"][{{< figure src="https://www.hennessysview.com/wp-content/uploads/2018/08/MEC-complaint-225x300.png" >}}
 ](https://www.hennessysview.com/wp-content/uploads/2018/08/MEC-complaint.png) Matt Doell's Frivolous Failed Complaint[/caption]
 
 

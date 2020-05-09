@@ -34,5 +34,5 @@ Bin Laden, though, seems to be another story. I suspect he is safe so long as he
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=990)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=990" >}}
 

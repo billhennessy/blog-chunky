@@ -27,21 +27,21 @@ See [Scott Adams explain his brilliant "radicalized" meme](https://www.pscp.tv/S
 
 **The media actually celebrated Hodgkinson's attack** on the unarmed Republicans, until they tried to erase the incident with a lie. For example, [The Gateway Pundit noticed](https://www.thegatewaypundit.com/2017/06/writer-wapo-attempts-justify-shooting-elected-representatives-radicalleft/) that a Washington Post reporter justified the shooting on Twitter.
 
-![](https://hennessysview.com/wp-content/uploads/2017/06/Screenshot-2017-06-14-19.28.39.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/06/Screenshot-2017-06-14-19.28.39.png" >}}
 
 
 
 
 [And](https://www.thegatewaypundit.com/2017/06/writer-wapo-attempts-justify-shooting-elected-representatives-radicalleft/)
 
-![](https://hennessysview.com/wp-content/uploads/2017/06/Screenshot-2017-06-14-19.30.23.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/06/Screenshot-2017-06-14-19.30.23.png" >}}
 
 
 Cass Sunstein would be proud. Sunstein probably shot (no pun) Harris a note congratulating him on great persuasion technique. **Malcolm Harris radicalized the next James T. Hodgkinson**.
 
 Earlier, [The Gateway Pundit pointed out how Daily Kos](https://www.thegatewaypundit.com/2017/06/founder-left-wing-vox-congressman-shot-republicans-getting-want/) founder Markos Moulitsas programmed his minions to believe Republican deserve to be shot.
 
-![](https://hennessysview.com/wp-content/uploads/2017/06/Screenshot-2017-06-14-19.33.14.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/06/Screenshot-2017-06-14-19.33.14.png" >}}
 
 
 Finally, as I predicted at about 1:00 this afternoon, the Washington Post invented five unnamed, anonymous sources to smear Trump and knock **the radicalized James T. Hodgkinson** off the front page. WaPo posted a mostly fabricated story about Robert Mueller shifting his investigation from Russian election tampering to obstruction of justice.

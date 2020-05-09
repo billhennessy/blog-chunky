@@ -24,7 +24,7 @@ The bill does far too little, too slowly, to prevent a credit rating cut in the
 
 And I don’t think the world would end without raising the debt ceiling.
 
-![](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/08/washington-valley-forge-300x154.jpg)
+{{< figure src="https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/08/washington-valley-forge-300x154.jpg" >}}
 
 
 That said, the reality is something was going to give. Most members of Congress are Establishment—and the Establishment hates risk, even smart, principled risk.  Sorry—just reality.

@@ -14,5 +14,5 @@ Because Max Cleland was disabled in war, are we not allowed to criticize him?  J
 [He takes a job from President Bush, then libels him in a disgusting display.  ](https://www.nationalreview.com/lowry/lowry200408251621.asp)  
   
 Thanks to Rich Lowry at National Review.  
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=628)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=628" >}}
 

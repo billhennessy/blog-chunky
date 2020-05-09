@@ -28,7 +28,7 @@ Chili Palmer: I'm the one tellin' you how it is...
 
 Last Sunday, Greece was Chili Palmer. A few days later, Angela Merkel is.
 
-[![](https://stlouisteaparty.com/wp-content/uploads/2015/07/1436749169_thumb.jpeg)
+[{{< figure src="https://stlouisteaparty.com/wp-content/uploads/2015/07/1436749169_thumb.jpeg" >}}
 ](https://stlouisteaparty.com/wp-content/uploads/2015/07/1436749169_full.jpeg)
 
 

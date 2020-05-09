@@ -80,5 +80,5 @@ We need to get to know each other better. We need to develop stronger bonds of t
 
 If you want to be fully prepared for the next 12 months and the next 15 years, read _The Fourth Turning_ by Howe and Strauss.
 
-[The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny](https://www.amazon.com/gp/product/0767900464/ref=as_li_ss_tl?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0767900464)![](https://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=0767900464&camp=217145&creative=399369)
+[The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny](https://www.amazon.com/gp/product/0767900464/ref=as_li_ss_tl?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0767900464){{< figure src="https://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=0767900464&camp=217145&creative=399369" >}}
 

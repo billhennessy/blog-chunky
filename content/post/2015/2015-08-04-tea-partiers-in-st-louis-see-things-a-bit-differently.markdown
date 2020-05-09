@@ -61,7 +61,7 @@ Actually, voters nationally are less concerned about issues than they are about 
 
 
 
-[![](https://hennessysview.com/wp-content/uploads/2015/08/1438645387_thumb.jpeg)
+[{{< figure src="https://hennessysview.com/wp-content/uploads/2015/08/1438645387_thumb.jpeg" >}}
 ](https://hennessysview.com/wp-content/uploads/2015/08/1438645387_full.jpeg)
 
 The word of the day is “leadership.” Is that what you wrote down?

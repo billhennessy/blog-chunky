@@ -41,5 +41,5 @@ Finally, a change in administrations has, almost every change since Eisenhower, 
 
 Therefore, as if anyone is surprised, I am endorsing George W. Bush for re-election. Bush is strong man of character. Regardless of your agreement with his policies, right now history demands a President who is first and foremost a leader, a pillar of strenght, a man of conviction. That person is George W. Bush. In the absence of Ronald Reagan, I can think of no other person I would rather see in the White House.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=609)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=609" >}}
 

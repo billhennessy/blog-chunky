@@ -19,5 +19,5 @@ Thanks to [Ihaveacrazywife](https://ihaveacrazywife.com/index.php/weblog/why_win
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1157)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1157" >}}
 

@@ -16,5 +16,5 @@ At any rate, I have had such a good time with the challenges (if I never have to
   
 I am so happy, but so sad to see tonight come.  My girls are clamoring for me to be "Mama" again, but for these past weeks, I have had such an amazing time feeling like a 15 year old high schooler--but with perks! (I can swear freely, and hang out with the grown ups!)  
 Love to alll, and I wil never forget this summer. HEY--LET'S DO IT AGAIN!!!!  
-Carrie (Make-up Wench)![](https://blog.billhennessy.com/aggbug.aspx?PostID=681)
+Carrie (Make-up Wench){{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=681" >}}
 

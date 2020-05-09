@@ -13,7 +13,7 @@ tags:
 type: "post"
 ---
 
-![](https://hennessysview.com/wp-content/uploads/2017/09/img_0294.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/09/img_0294.png" >}}
 
 
 Not often does a person or an event fit every definition of a single word. But Hillary Clinton's life after the election fits perfectly all three definitions of _graceless._

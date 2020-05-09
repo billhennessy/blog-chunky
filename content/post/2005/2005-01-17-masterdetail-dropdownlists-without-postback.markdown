@@ -27,5 +27,5 @@ Using ASP.NET postbacks is pretty straightforward, but it's also pretty ugly. [A
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=930)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=930" >}}
 

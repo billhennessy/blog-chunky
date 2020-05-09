@@ -30,5 +30,5 @@ For the most part, when justice or his party really needed him, he's shown up.
   
 I wish him the best. As does [Dean Esmay](https://www.deanesmay.com/posts/1108605885.shtml). And [K-Lo](https://www.nationalreview.com/thecorner/05_02_13_corner-archive.asp#056399)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1103)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1103" >}}
 

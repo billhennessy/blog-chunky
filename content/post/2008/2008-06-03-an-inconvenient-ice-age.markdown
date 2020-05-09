@@ -55,7 +55,7 @@ Referring to the chart below, meteorologist [Anthony Watts](Notice the sharp dro
 
  
 
-![](https://wattsupwiththat.files.wordpress.com/2008/02/solar-geomagnetic-ap520.png)
+{{< figure src="https://wattsupwiththat.files.wordpress.com/2008/02/solar-geomagnetic-ap520.png" >}}
 
 
  

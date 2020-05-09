@@ -30,7 +30,7 @@ What if we could unleash an upward spiral of positivity for thousands of people 
 
 **We Can**
 
-[![](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/24376361_8nsh-201x300.jpg)
+[{{< figure src="https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/24376361_8nsh-201x300.jpg" >}}
 ](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/24376361_8nsh.jpg)In 2012, one man has the chance to begin that change. [ Martin D. Baker, candidate for U.S. House of Representatives](https://martinbakerforcongress.com/) from Missouri's 1st District knows his district, its people, and its problems.
 
 He also knows that doing more of what's been done for the past 60 years won't make the 1st District any better.  Martin has the courage to make a change.

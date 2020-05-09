@@ -28,5 +28,5 @@ This is a perfect example of why liberalismmust be stopped.  It gets people kill
 The funny thing is this:  even absent the proof that the Administration released to mullify the liberals, you wouldn't have seen Howard Dean near any of those five buildings.  Like most liberals, he's a coward who will talk a big game, but will never put his life on the line to prove himself.    
   
   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=651)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=651" >}}
 

@@ -15,5 +15,5 @@ Instead, I'll link to [this earlier piece.](https://blog.billhennessy.com/Defaul
 
 National Review has [this nice piece](https://www.nationalreview.com/owens/owens200411110831.asp).
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=499)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=499" >}}
 

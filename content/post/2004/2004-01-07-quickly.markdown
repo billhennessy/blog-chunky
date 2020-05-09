@@ -26,5 +26,5 @@ It was 6 degrees in St.Louis when I woke up this morning. Apparently, the answer
 
 Later . . .
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=793)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=793" >}}
 

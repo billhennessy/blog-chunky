@@ -28,5 +28,5 @@ _After noting that the U.S.'s stunning foreign policy success followed the toppl
 
 When people criticize me for being too partisan, this is why. Many Democrats, like Ms. Soderberg, are anti-American. They hate this country.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1298)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1298" >}}
 

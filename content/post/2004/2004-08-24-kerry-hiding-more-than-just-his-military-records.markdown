@@ -16,5 +16,5 @@ Even though federal election law requires that candidates for all public office 
 Why don't a few million of us e-mail Senator Kerry and ask him to comply with the law on contribution disclosure.  And how much do want to bet that, come December, the Kerry campaign will be giving millions back to Democrat billionaire who "accidentally" gave 3,000 times the legal limit (George Soros).    
   
   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=633)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=633" >}}
 

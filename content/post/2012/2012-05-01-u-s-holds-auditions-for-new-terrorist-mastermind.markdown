@@ -20,7 +20,7 @@ type: "post"
 
 Washington, DC--[Reeling from the backlash over a campaign ad](https://www.politico.com/news/stories/0412/75742.html) that paints [President Barack Obama as Osama bin Laden's sole assassin](https://www.businessinsider.com/navy-seals-hammer-obama-on-osama-bin-laden-ad-2012-5), the White House today announced open auditions for a new global terrorist mastermind.
 
-[caption id="attachment_12119" align="alignnone" width="570" caption="Last year's White House auditions for press secretary"][![](https://ludicrite.files.wordpress.com/2012/05/auditions.jpg)
+[caption id="attachment_12119" align="alignnone" width="570" caption="Last year's White House auditions for press secretary"][{{< figure src="https://ludicrite.files.wordpress.com/2012/05/auditions.jpg" >}}
 ](https://ludicrite.files.wordpress.com/2012/05/auditions.jpg)[/caption]
 
 White House spokesman Jay Carney told reporters "the world needs a dangerous, evil character to worry about . . . and, frankly, so does the President.  Reagan had the Evil Empire; Bush had the Axis of Evil.  The Tea Party just isn't frightening enough to serve as Obama's nemesis."

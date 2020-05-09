@@ -16,7 +16,7 @@ type: "post"
 
 Discernment is a painful path. 
 
-![](/images/uploads/church-2.jpeg)
+{{< figure src="/images/uploads/church-2.jpeg" >}}
 
 
 I have been talking to the Dominicans, but God seems uninspired by that path. 

@@ -9,5 +9,5 @@ categories:
 - Latest
 ---
 
-I understand caution, but South Carolina is going Bush.  I get the feeling the networks are declaring the Palmetto State as "too close to call" to give Kerry hopefuls hope out West.   ![](https://blog.billhennessy.com/aggbug.aspx?PostID=529)
+I understand caution, but South Carolina is going Bush.  I get the feeling the networks are declaring the Palmetto State as "too close to call" to give Kerry hopefuls hope out West.   {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=529" >}}
 

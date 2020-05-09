@@ -285,5 +285,5 @@ America is at war with an enemy who wishes us converted or dead. He wishes our w
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=472)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=472" >}}
 

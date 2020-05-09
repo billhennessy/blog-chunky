@@ -11,5 +11,5 @@ categories:
 
 Hey, we all made it to Channel 5.  Great turnout.  Surprising happiness for 5:40 AM, when I got there.  My wife said we were  wonderful.    
   
-The web site has gotten 14 annonymous views from different IP addresses, indicating that people are looking.  No one's bought yet, but maybe they'll call.  We should probably do something to encourage Registration. ![](https://blog.billhennessy.com/aggbug.aspx?PostID=697)
+The web site has gotten 14 annonymous views from different IP addresses, indicating that people are looking.  No one's bought yet, but maybe they'll call.  We should probably do something to encourage Registration. {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=697" >}}
 

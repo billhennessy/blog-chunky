@@ -21,5 +21,5 @@ Everyone needs to read this article to understand how environmental scientists l
 
 UPDATE: [Dean Esmay ](https://www.deanesmay.com/posts/1108742624.shtml)examines a [WSJ story ](https://www.opinionjournal.com/editorial/feature.html?id=110006314https://www.opinionjournal.com/editorial/feature.html?id=110006314)on the hockey stick.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=922)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=922" >}}
 

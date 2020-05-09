@@ -11,5 +11,5 @@ categories:
 
 [Particularly, this one](https://www.cnn.com/2005/US/01/29/iraq.bombing.cpl.sevens.ap/index.html)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=967)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=967" >}}
 

@@ -11,7 +11,7 @@ tags:
 - obama
 ---
 
-[![](https://hennessysview.com/wp-content/uploads/2008/07/arrogance_122-300x257.gif)
+[{{< figure src="https://hennessysview.com/wp-content/uploads/2008/07/arrogance_122-300x257.gif" >}}
 ](https://hennessysview.com/wp-content/uploads/2008/07/arrogance_122.gif)
 
 Barack Obama's most conspicuous quality, if you want to call it that, is shameless arrogance. His trip abroad was like [Hitler's tour of Italy ](https://www.hitlerpages.com/pagina44.html)in 1938.  Before you dismiss my view as that of a party hack tearing down the opposition, read [Susan Estrich's column ](https://www.realclearpolitics.com/articles/2008/07/arrogance_wont_win_the_electio.html)on FoxNews.com. (Estrich was Michael Dukakis's campaign manager in 1988).

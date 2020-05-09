@@ -11,5 +11,5 @@ categories:
 
 Kudos to Mike and Dr. Payne.  This looks fantastic!  A web site worthy of the Bishop DuBourg tradition.  
   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=519)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=519" >}}
 

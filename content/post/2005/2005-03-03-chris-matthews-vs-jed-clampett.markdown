@@ -9,5 +9,5 @@ categories:
 - Latest
 ---
 
-[WuzzaDem ](https://wuzzadem.typepad.com/wuz/2005/03/hardball_with_j.html)hits a homerun. Link via [Poliblog](https://www.poliblogger.com/index.php?p=6364)![](https://blog.billhennessy.com/aggbug.aspx?PostID=1286)
+[WuzzaDem ](https://wuzzadem.typepad.com/wuz/2005/03/hardball_with_j.html)hits a homerun. Link via [Poliblog](https://www.poliblogger.com/index.php?p=6364){{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1286" >}}
 

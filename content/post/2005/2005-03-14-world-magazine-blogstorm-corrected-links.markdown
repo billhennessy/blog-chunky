@@ -44,5 +44,5 @@ If you think blogs should be protected under the First Amendment to the US Const
 
 In a related story,[ Joe Gandelman ](https://www.deanesmay.com/posts/1110744558.shtml)examines the influence and popularity of blogs on Dean's World.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1352)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1352" >}}
 

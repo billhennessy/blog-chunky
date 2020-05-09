@@ -22,7 +22,7 @@ Barack Obama told the world what he thinks of rural people, and, in so doing, se
 
  
 
-[![](https://hennessysview.com/wp-content/uploads/2008/03/06obama-lg.jpg)
+[{{< figure src="https://hennessysview.com/wp-content/uploads/2008/03/06obama-lg.jpg" >}}
 ](https://hennessysview.com/wp-content/uploads/2008/03/06obama-lg.jpg)Wow. Rev. Wright taught him well. (h/t [Gateway Pundit](https://gatewaypundit.blogspot.com/2008/04/obamas-bible-thumpin-gun-humpin.html))
 
  

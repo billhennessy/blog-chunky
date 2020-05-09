@@ -17,7 +17,7 @@ tags:
 type: "post"
 ---
 
-![](https://libertycaucus.net/images/header_v2.jpg)
+{{< figure src="https://libertycaucus.net/images/header_v2.jpg" >}}
 [![EnsuringLibertySkyScraper](https://hennessysview.com/wp-content/uploads/2010/05/EnsuringLibertySkyScraper_thumb1.jpg)
 ](https://hennessysview.com/wp-content/uploads/2010/05/EnsuringLibertySkyScraper1.jpg)*
 Rep. Michele Bachmann (R-MN)
@@ -30,7 +30,7 @@ Please join Ensuring Liberty tonight (Tuesday) at 8:00 EDT (7:00 Central, 5 Paci
 
 **Tuesday, May 11, 2010 at 8:00 PM Eastern**
 
-[![](https://libertycaucus.net/images/cooltext457646549.png)
+[{{< figure src="https://libertycaucus.net/images/cooltext457646549.png" >}}
 ](https://events.constantcontact.com/register/event?oeidk=a07e2vnt2jgfd8c9ed7)  
 
     

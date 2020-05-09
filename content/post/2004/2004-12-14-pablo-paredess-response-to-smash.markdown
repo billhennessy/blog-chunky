@@ -36,5 +36,5 @@ Thanks to [Dean. ](https://www.deanesmay.com/posts/1102993976.shtml)
 
 [Backcountry Conservative ](https://www.jquinton.com/archives/002274.html)provides a [link to another Pablo response](https://www.shortfamilyonline.com/cgi-bin/mt/mt-comments.cgi?entry_id=440). While this guy lacks the time and spine to fulfill his obligation to his country, he sure has plenty of time for blogging. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=875)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=875" >}}
 

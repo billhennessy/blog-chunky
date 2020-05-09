@@ -36,5 +36,5 @@ It's time we teach our kids, at home, to debunk teachers and leftist textbooks i
 
 [Mark Noonan ](https://www.blogsforbush.com/mt/archives/003732.html)found a good piece.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1109)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1109" >}}
 

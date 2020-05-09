@@ -21,5 +21,5 @@ On the other hand, [Dean Esmay ](https://www.deanesmay.com/posts/1109283393.shtm
 
 In 1996, I swore that 2000 would be McCain vs. Kerrey (Nebraska), so I won't release my line-up card just yet. But if Condi gives ANY hint that she's not "ruling out" a run in 2008, it will be very difficult for anyone but those two to get media time.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1231)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1231" >}}
 

@@ -31,5 +31,5 @@ Some stories hit me harder than others, and I've been anti-UN for about 20 years
 
 There are some things in that little book what I wish, now, I either hadn't written or had written more evenhandedly. My view of the UN, though, has not changed. If anything, it's hardened. In the twelve years since I penned that quote, the United Nations has only given us on the right more reason to sue for its demise. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1057)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1057" >}}
 

@@ -11,7 +11,7 @@ categories:
 
 Except offend damn near everyone.
 
-[caption id="attachment_8922" align="alignnone" width="300" caption=""So, did you hear the one about the disabled Vietnam veteran who couldn't even tie his shoes?""][![](https://hennessysview.com/wp-content/uploads/2008/09/358x283-300x237.jpg)
+[caption id="attachment_8922" align="alignnone" width="300" caption=""So, did you hear the one about the disabled Vietnam veteran who couldn't even tie his shoes?""][{{< figure src="https://hennessysview.com/wp-content/uploads/2008/09/358x283-300x237.jpg" >}}
 ](https://hennessysview.com/wp-content/uploads/2008/09/358x283.jpg)[/caption]
 
  

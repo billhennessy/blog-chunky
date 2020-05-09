@@ -66,42 +66,42 @@ In 2011, read some things beyond Glenn Beck’s reading list. Here’s eight ide
 
  
 
-[The Black Swan: Second Edition: The Impact of the Highly Improbable](https://www.amazon.com/gp/product/081297381X?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=081297381X) ![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=081297381X)
+[The Black Swan: Second Edition: The Impact of the Highly Improbable](https://www.amazon.com/gp/product/081297381X?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=081297381X) {{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=081297381X" >}}
 
 
  
 
-[Linchpin: Are You Indispensable?](https://www.amazon.com/gp/product/1591843162?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1591843162)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=1591843162)
+[Linchpin: Are You Indispensable?](https://www.amazon.com/gp/product/1591843162?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1591843162){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=1591843162" >}}
 
 
  
 
-[The 4-Hour Workweek, Expanded and Updated: Expanded and Updated, With Over 100 New Pages of Cutting-Edge Content.](https://www.amazon.com/gp/product/0307465357?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0307465357)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0307465357)
+[The 4-Hour Workweek, Expanded and Updated: Expanded and Updated, With Over 100 New Pages of Cutting-Edge Content.](https://www.amazon.com/gp/product/0307465357?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0307465357){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0307465357" >}}
 
 
  
 
-[Outliers: The Story of Success](https://www.amazon.com/gp/product/0316017922?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0316017922)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0316017922)
+[Outliers: The Story of Success](https://www.amazon.com/gp/product/0316017922?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0316017922){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0316017922" >}}
 
 
  
 
-[The War of Art: Break Through the Blocks and Win Your Inner Creative Battles](https://www.amazon.com/gp/product/0446691437?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0446691437)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0446691437)
+[The War of Art: Break Through the Blocks and Win Your Inner Creative Battles](https://www.amazon.com/gp/product/0446691437?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0446691437){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0446691437" >}}
 
 
  
 
-[The Power of Less: The Fine Art of Limiting Yourself to the Essential...in Business and in Life](https://www.amazon.com/gp/product/1401309704?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1401309704)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=1401309704)
+[The Power of Less: The Fine Art of Limiting Yourself to the Essential...in Business and in Life](https://www.amazon.com/gp/product/1401309704?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1401309704){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=1401309704" >}}
 
 
  
 
-[The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World](https://www.amazon.com/gp/product/0399536108?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0399536108)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0399536108)
+[The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World](https://www.amazon.com/gp/product/0399536108?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0399536108){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0399536108" >}}
 
 
  
 
-[Tribes: We Need You to Lead Us](https://www.amazon.com/gp/product/1591842336?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1591842336)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=1591842336)
+[Tribes: We Need You to Lead Us](https://www.amazon.com/gp/product/1591842336?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1591842336){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=1591842336" >}}
 
 
  

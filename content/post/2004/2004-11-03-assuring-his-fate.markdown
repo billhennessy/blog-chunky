@@ -26,5 +26,5 @@ In 2004, Kerry risks an accusation of treason by suing to become president
   
 But reason is never good enough for these modern Democrats. Kerry and Edwards will sue and spin until Democrats, once again, convince themselves--and only themselves--that the President's victory is illigetimate. The process will be gut-wrenching, especially for those watching from Iraq, Afghanistan, and the other front lines of the terror wars.  
   
-If you are a patriotic Democrat, call Kerry and ask him to go respectfully away. It's the American thing to do.  ![](https://blog.billhennessy.com/aggbug.aspx?PostID=525)
+If you are a patriotic Democrat, call Kerry and ask him to go respectfully away. It's the American thing to do.  {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=525" >}}
 

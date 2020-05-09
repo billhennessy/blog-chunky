@@ -56,7 +56,7 @@ In addition to calling or writing, please do the following:
 
  
 
-    * Like this message (button up top)** Tweet using the #senditback hash tag [![](https://gallery.mailchimp.com/71d50e77a8332415a525fd8a3/images/tweety.png)
+    * Like this message (button up top)** Tweet using the #senditback hash tag [{{< figure src="https://gallery.mailchimp.com/71d50e77a8332415a525fd8a3/images/tweety.png" >}}
 ](https://twitter.com/share?url=http%3A%2F%2Feepurl.com%2FcyyVg&text=ACTION%3A++Melt+the+Phones+and+Jam+the+Inboxes+in+Jefferson+City+via+%40stlteaparty&count=none)** Forward this email to at least 3 friends [https://us1.forward-to-friend2.com/forward?u=b6334042e74991364820c98c6&id=eba7916a8f&e=[UNIQID]](https://us1.forward-to-friend2.com/forward?u=b6334042e74991364820c98c6&id=eba7916a8f&e=[UNIQID])** Post on Facebook [![comment on ACTION:  Melt the Phones and Jam the Inboxes in Jefferson City](https://gallery.mailchimp.com/ac97c9129c6d84654f83eb4bc/images/facebookcomment2.gif)
 ](https://us1.campaign-archive1.com/?u=b6334042e74991364820c98c6&id=eba7916a8f&open_comments=true)    
 **Don't Listen to the Liberal Lies**  

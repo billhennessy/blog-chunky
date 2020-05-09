@@ -15,5 +15,5 @@ Federal drug laws rely on the commerce clause for Constitutionality.  Claiming t
   
 Many, including I, expect the Court to weasel its way out of this one.  Conservatives tend to be more situational than principled.  To anyone with a 3rd grade education, a backyard garden and interstate commerce are two different things, so Congress cannot regulate a garden.  Regardless of one's view of marijuana, one's view of the government in Washington must be jaundiced with the understanding that, by stealing one piece of power from the people, Congress sets itself toward stealing all.    
   
-Watch this case closely, as it will foretell the future of freedom and government power for years to come. ![](https://blog.billhennessy.com/aggbug.aspx?PostID=735)
+Watch this case closely, as it will foretell the future of freedom and government power for years to come. {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=735" >}}
 

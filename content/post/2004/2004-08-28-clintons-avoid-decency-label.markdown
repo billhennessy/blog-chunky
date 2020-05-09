@@ -24,5 +24,5 @@ Sen. John McCain, the man who seems to make a living of getting hoodwinked by De
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=617)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=617" >}}
 

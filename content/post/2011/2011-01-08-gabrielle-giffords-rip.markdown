@@ -20,7 +20,7 @@ tags:
 type: "post"
 ---
 
-![](https://a57.foxnews.com/static/managed/img/Politics/604/341/giffords_010811.jpg)
+{{< figure src="https://a57.foxnews.com/static/managed/img/Politics/604/341/giffords_010811.jpg" >}}
 Like all decent people, I am disgusted to hear the sad news out of Tucson, AZ: Rep. [Gabrielle Giffords (D-AZ) was shot and killed](https://www.foxnews.com/politics/2011/01/08/arizona-congresswoman-reportedly-shot-public-event/) along with four others today. Twelve were shot altogether. The murderer was apprehended by heroic bystanders and is in custody. 
 
  
@@ -58,7 +58,7 @@ Meanwhile, DailyKos has [deleted a damning post](https://www.dailykos.com/storyo
 
  
 
-![](https://s3.amazonaws.com/twitpic/photos/large/222072384.jpg?AWSAccessKeyId=0ZRYP5X5F6FSMBCCSE82&Expires=1294519497&Signature=HqVq1BgkE7YEeWSCw9HMMgsuiFg%3D)
+{{< figure src="https://s3.amazonaws.com/twitpic/photos/large/222072384.jpg?AWSAccessKeyId=0ZRYP5X5F6FSMBCCSE82&Expires=1294519497&Signature=HqVq1BgkE7YEeWSCw9HMMgsuiFg%3D" >}}
 
 
  

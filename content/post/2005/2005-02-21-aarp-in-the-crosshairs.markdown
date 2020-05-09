@@ -29,5 +29,5 @@ UPDATE: Well, I apologize. USA Next's first attempt at attacking AARP was misgui
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1175)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1175" >}}
 

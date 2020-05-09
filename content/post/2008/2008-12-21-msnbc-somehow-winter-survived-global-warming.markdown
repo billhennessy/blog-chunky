@@ -11,7 +11,7 @@ categories:
 
 [Winter madness](https://www.msnbc.msn.com/id/28296982/displaymode/1107/s/2/)
 
-MSNBC.com lea[![](https://farm4.static.flickr.com/3259/3126038874_1b872f6fdd_m.jpg)
+MSNBC.com lea[{{< figure src="https://farm4.static.flickr.com/3259/3126038874_1b872f6fdd_m.jpg" >}}
 ](https://www.flickr.com/photos/34703765@N00/3126038874)ds off this Sunday with a photo montage of serious winter weather from Pacific to Maine.&nbsp;
 
 To the left, all snow, all winter weather is "freak."&nbsp; To those of us with memories longer than our . . . privates . . . and a sense of history that exceeds our senses of fashion, winters are beginning to look a like winters past.&nbsp;

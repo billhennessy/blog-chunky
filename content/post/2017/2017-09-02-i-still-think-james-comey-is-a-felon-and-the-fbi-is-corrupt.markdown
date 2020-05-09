@@ -27,7 +27,7 @@ These are all facts. No one disputes them.
 
 They are all crimes of various degrees. Some felonies.
 
-![](https://hennessysview.com/wp-content/uploads/2017/09/img_0278.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/09/img_0278.png" >}}
 
 
 At the time James Comey committed these crimes, he was head of the FBI.

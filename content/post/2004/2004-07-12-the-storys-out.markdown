@@ -9,5 +9,5 @@ categories:
 - Latest
 ---
 
-Don't miss the story in the Post.  [Click here if you haven't seen it, and tell your friends.](https://www.stltoday.com/stltoday/entertainment/stories.nsf/Entertainment/Stage/F94D4FA9E9C65F2886256ECF000DE8B9?OpenDocument&Headline=DuBourg's+Guild+Players+rally+'round+the+cause+)![](https://blog.billhennessy.com/aggbug.aspx?PostID=691)
+Don't miss the story in the Post.  [Click here if you haven't seen it, and tell your friends.](https://www.stltoday.com/stltoday/entertainment/stories.nsf/Entertainment/Stage/F94D4FA9E9C65F2886256ECF000DE8B9?OpenDocument&Headline=DuBourg's+Guild+Players+rally+'round+the+cause+){{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=691" >}}
 

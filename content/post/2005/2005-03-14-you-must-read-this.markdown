@@ -14,5 +14,5 @@ categories:
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1353)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1353" >}}
 

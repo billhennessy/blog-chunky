@@ -44,5 +44,5 @@ Did you know that the quality of education is significantly lower in Blue States
 
 One of [Pablo the Coward's admirers ](https://blog.billhennessy.com/blogs/hennessys_view/archive/2004/12/13/875.aspx#896)inspired this, and it's my contribution to the [Beltway Traffic Jam](https://www.outsidethebeltway.com/archives/8547).
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=899)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=899" >}}
 

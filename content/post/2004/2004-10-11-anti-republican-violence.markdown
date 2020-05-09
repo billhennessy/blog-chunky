@@ -19,5 +19,5 @@ The guy who throws the first punch usually wins.
 
 UPDATE:  [Blogs for Bush tells ](https://www.blogsforbush.com/mt/archives/003718.html)us that the tire slashers were caught
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=533)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=533" >}}
 

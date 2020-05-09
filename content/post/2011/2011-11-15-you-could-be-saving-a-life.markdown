@@ -16,7 +16,7 @@ type: "post"
 
 The daily news about Joplin has faded.
 
-[![](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/ap_Joplin_Tornado_jt_110528_wg.jpg)
+[{{< figure src="https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/ap_Joplin_Tornado_jt_110528_wg.jpg" >}}
 ](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/ap_Joplin_Tornado_jt_110528_wg.jpg)
 
 The turmoil remains.

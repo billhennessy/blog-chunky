@@ -31,5 +31,5 @@ When will stop relearning this lesson? How many innocents have to die before we 
 
 Update: I see [Dean's World ](https://www.deanesmay.com/posts/1094554366.shtml)caught this, too. I did not realize that some fellow conservatives are upset with Putin's response. I think they are likely just against Putin in general. Too bad. He's got the righ attitude.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=588)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=588" >}}
 

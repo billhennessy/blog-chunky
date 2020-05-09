@@ -39,5 +39,5 @@ UPDATE: I think I've removed all the Google crap from my site. If you notice any
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1073)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1073" >}}
 

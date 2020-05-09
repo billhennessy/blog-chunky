@@ -14,7 +14,7 @@ The quality of the answers you get in life depend on the quality of the question
 
 
 
-[![](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/candidate-forum.jpg)
+[{{< figure src="https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/candidate-forum.jpg" >}}
 ](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/candidate-forum.jpg)
 
 

@@ -17,5 +17,5 @@ Mr. Kerry failed to tell them that he thinks Americans are too stupid to save fo
   
 Kerry is a Democrat, and the core of his party's philosophy is that only Harvard-educated elites can make day-to-day decisions for people.  They believe, like Kruschev's Kremlin, that the government stipulate productivity, work hours, compensations, prices, availability, seatbelt rules, driving rules, food ingredients, caloric intake, and virtually every other aspect of living.  
   
-Senator Kerry, if the people are too smart for politicians, they're too smart to allow government and your Harvard buddies to feed, clothe, and shelter them.  ![](https://blog.billhennessy.com/aggbug.aspx?PostID=665)
+Senator Kerry, if the people are too smart for politicians, they're too smart to allow government and your Harvard buddies to feed, clothe, and shelter them.  {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=665" >}}
 

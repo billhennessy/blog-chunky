@@ -16,5 +16,5 @@ Apparently, Howard Dean, America's dumbest physician, was in Missouri to warn De
 
 Thanks to [Steven Taylor](https://www.poliblogger.com/index.php?p=5929). 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=931)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=931" >}}
 

@@ -15,5 +15,5 @@ Under federal law, candidates and parties are required to make reasonable effort
   
 But John Kerry's campaign is taking secret money to a new low.  Or high, depending on how you look at it.  I just hope President Bush has the manhood to call Kerry out at the debates.  "Hey, Senator, while we're at it--how come 24% of your contributors don't want anyone to know who they are and what they do, but 92% of my contributors are proud of giving to me?"  
   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=552)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=552" >}}
 

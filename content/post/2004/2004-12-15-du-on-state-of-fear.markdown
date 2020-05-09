@@ -46,5 +46,5 @@ RELATED:
 
 [Michael Crichton](https://blog.billhennessy.com/blogs/hennessys_view/archive/2004/12/12/868.aspx)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=885)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=885" >}}
 

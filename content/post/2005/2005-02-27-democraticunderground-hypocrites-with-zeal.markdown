@@ -276,5 +276,5 @@ opposed to say a physicist.
 
 UPDATE: You just knew that the [Daily Kos ](https://www.dailykos.com/story/2005/2/27/17494/0758)would have to spew some lies about the kid. And [Talking Points Memo ](https://www.talkingpointsmemo.com/archives/week_2005_02_27.php#004933)continues its marathon against doing anything but sitting around in a catatonic freeze
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1246)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1246" >}}
 

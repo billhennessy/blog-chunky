@@ -41,7 +41,7 @@ Here’s a quote from that book:
 
 > A spark will ignite a new mood. Today, the same spark would flame briefly but then extinguish, its last flicker merely confirming and deepening the Unraveling-era mind-set. This time, though, it will catalyze a Crisis. In retrospect, the spark might seem as ominous as a financial crash, as ordinary as a national election,** or as trivial as a Tea Party **[bold mine].
 
-[The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny](https://www.amazon.com/gp/product/0767900464/ref=as_li_ss_tl?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0767900464)![](https://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=0767900464&camp=217145&creative=399369)
+[The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny](https://www.amazon.com/gp/product/0767900464/ref=as_li_ss_tl?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0767900464){{< figure src="https://www.assoc-amazon.com/e/ir?t=&l=as2&o=1&a=0767900464&camp=217145&creative=399369" >}}
 
 
 

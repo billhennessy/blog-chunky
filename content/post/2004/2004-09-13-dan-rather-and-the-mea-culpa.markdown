@@ -21,5 +21,5 @@ What bothers me is how the MSM will treat Rather after he confesses. Instead of 
 
 In the end, no one will be hurt--except the former Guardsman with the mental problems.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=566)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=566" >}}
 

@@ -16,5 +16,5 @@ The [National Review Online ](https://www.nationalreview.com/comment/moleman2004
 
 Bottom line is this: Democrats will sell out their country to win an election. Their liberal base considers selling out America a moral necessity.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=584)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=584" >}}
 

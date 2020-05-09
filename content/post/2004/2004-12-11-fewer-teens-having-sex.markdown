@@ -19,5 +19,5 @@ I wonder why? The news is definitely good. Sex taints things. For all the glory 
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=854)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=854" >}}
 

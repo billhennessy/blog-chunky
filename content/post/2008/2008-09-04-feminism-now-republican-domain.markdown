@@ -11,7 +11,7 @@ categories:
 
 [Some say yes.](https://t-shirts.cafepress.com/item/i-am-sarah-palin-womens-cap-sleeve-tshirt/301393338)
 
-![](https://images.cafepress.com/product/301393338_350x350_Front_Color-BlackWhite.jpg)
+{{< figure src="https://images.cafepress.com/product/301393338_350x350_Front_Color-BlackWhite.jpg" >}}
 
 
 [Hat Tip Michelle Malkin](https://michellemalkin.com/2008/09/03/waking-up-the-sleeping-giant/).

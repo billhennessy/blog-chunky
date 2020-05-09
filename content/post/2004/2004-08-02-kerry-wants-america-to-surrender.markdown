@@ -13,5 +13,5 @@ Well, I was being facetious in my earlier post about Kerry suggesting we simply 
   
 John Kerry truly believes we should never had launched a war on terrorism.   He's not backing down on that stand.    
   
-Good for him:  it's likely to be his last.  ![](https://blog.billhennessy.com/aggbug.aspx?PostID=663)
+Good for him:  it's likely to be his last.  {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=663" >}}
 

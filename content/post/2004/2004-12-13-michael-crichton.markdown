@@ -61,5 +61,5 @@ UPDATE: [Dean Esmay](https://www.deanesmay.com/posts/1102929591.shtml) has a lon
 > 
 > 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=868)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=868" >}}
 

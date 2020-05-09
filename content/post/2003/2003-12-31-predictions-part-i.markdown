@@ -24,5 +24,5 @@ The terrorism in Iraq will subside substantially after a major US military push 
   
 **Election 2004**  
 Howard Deans star will begin to fade after Iowa and New Hampshire as Gephardt and Kerry do better than expected. After getting slaughtered in the South, Deans will lose financial support from big donors, becoming dependent on college students lunch money. The media will turn against Dean after more embarrassing gaffes make him appear frivolous and juvenile. Gephardt will emerge as the only candidate who can beat Bush, but the economy and the success in Iraq will make even a Gephardt run impossible. Late primaries will give the nomination to Dean as the DNC realizes its best bet is to let circumstances undo McGovern him. Bush wins with 55% of the popular vote, losing only Vermont, Massachusetts, and Rhode Island in the electoral college. GOP picks up 27 House and 6 Senate seats.   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=819)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=819" >}}
 

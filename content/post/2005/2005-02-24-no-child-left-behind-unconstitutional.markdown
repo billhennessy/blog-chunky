@@ -51,5 +51,5 @@ UDATE: [Dr. Stat ](https://drstat.blogspot.com/)informs us of a two-year drive t
 
 Read the [whole letter here](https://drstat.blogspot.com/2005/02/nclb-unconstitutional.html).
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1217)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1217" >}}
 

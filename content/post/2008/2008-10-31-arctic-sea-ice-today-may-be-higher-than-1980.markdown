@@ -11,7 +11,7 @@ categories:
 
 The image below from from University of Illinois shows that Arctic Sea ice nearly matches 1980 levels in area, and far exceeds 1980 in concentration.
 
-![](https://arctic.atmos.uiuc.edu/cryosphere/deetest/deetmp.20787.png)
+{{< figure src="https://arctic.atmos.uiuc.edu/cryosphere/deetest/deetmp.20787.png" >}}
 
 
 > 
@@ -22,7 +22,7 @@ First, this shows nature's ability to heal itself far exceeds man's ability to h
 
 Let's look at this date in 2007 verses this date in 2008:
 
-![](https://arctic.atmos.uiuc.edu/cryosphere/deetest/deetmp.27092.png)
+{{< figure src="https://arctic.atmos.uiuc.edu/cryosphere/deetest/deetmp.27092.png" >}}
 
 
 Technorati Tags: [AGW](https://technorati.com/tags/AGW),[Arctic ice](https://technorati.com/tags/Arctic%20ice)

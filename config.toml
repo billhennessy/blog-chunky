@@ -25,7 +25,7 @@ theme = "chunky"
     identifier = "coffee"
     name = "Buy Me a Coffee?"
     url = "https://www.buymeacoffee.com/billhennessy"
-    weight = 0
+    weight = 5
 
 [taxonomies]
 category = "categories"

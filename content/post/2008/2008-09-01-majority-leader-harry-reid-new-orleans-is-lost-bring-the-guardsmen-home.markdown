@@ -11,7 +11,7 @@ categories:
 
 Technorati Tags: [Harry Reid](https://technorati.com/tags/Harry%20Reid),[Hurricane Gustav](https://technorati.com/tags/Hurricane%20Gustav),[Satire](https://technorati.com/tags/Satire)
 
-**![](https://tbn0.google.com/images?q=tbn:jzv4Moiezq0J::www.andresramirez.com/images/officialphoto.jpg)
+**{{< figure src="https://tbn0.google.com/images?q=tbn:jzv4Moiezq0J::www.andresramirez.com/images/officialphoto.jpg" >}}
 RENO, Nevada**--Senate Majority Leader Harry Reid (D-NV) announced today that the battle against Hurricane Gustav "is lost. New Orleans is lost. I demand that President Bush withdraw all National Guardsmen immediately."
 
 Last year, Reid declared the [war in Iraq lost](https://www.cbsnews.com/stories/2007/04/20/politics/main2709229.shtml?source=RSSattr=HOME_2709229), even as the troop surge began to show impressive signs toward ultimate victory. Today, he made his statement shortly after winds died down in New Orleans, and after the Army Corps of Engineers reported that the levees appeared to hold.

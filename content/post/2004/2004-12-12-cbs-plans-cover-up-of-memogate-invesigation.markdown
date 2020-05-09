@@ -26,5 +26,5 @@ While MoveOn.org thinks it has bought and paid for the DNC, they it will soon le
 
 Thanks to [Instapundit.com](https://instapundit.com/archives/019776.php)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=859)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=859" >}}
 

@@ -64,7 +64,7 @@ The media and Congressional Democrats didn’t give a damn about a few lives in 
 
 Petraeus is smart enough to know that sex sells newspapers. And TV ads. Wrap a national security story inside a torrid affair with a ex-military hottie and a [Tampa Troop Groupie](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CGoQFjAI&url=http%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Fnation%2F2012%2F11%2F13%2Fpetraeus-jill-kelley-broadwell-allen%2F1703097%2F&ei=kfmiUKPHKISgyAHjvoGgDw&usg=AFQjCNEnHowj9cQI00m0T6-SvcSa3EXhCA&sig2=5_1AWmYLfG20hun3tw8bxA) and everybody suddenly knows everything about everything.
 
-[caption id="attachment_12835" align="aligncenter" width="300"][![](https://ludicrite.files.wordpress.com/2012/11/jill-kelley.jpg?w=300)
+[caption id="attachment_12835" align="aligncenter" width="300"][{{< figure src="https://ludicrite.files.wordpress.com/2012/11/jill-kelley.jpg?w=300" >}}
 ](https://ludicrite.files.wordpress.com/2012/11/jill-kelley.jpg) Jill Kelley: Troop Groupie[/caption]
 
 He knows that he and West Point graduate Paula Broadwell are going down at some point. Why not take the White House down with them?

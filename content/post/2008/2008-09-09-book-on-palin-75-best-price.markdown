@@ -18,7 +18,7 @@ Hottest book in town.
 
  
 
-[![](https://ecx.images-amazon.com/images/I/51I7raBM8SL._SL500_AA240_.jpg)
+[{{< figure src="https://ecx.images-amazon.com/images/I/51I7raBM8SL._SL500_AA240_.jpg" >}}
 ](https://ecx.images-amazon.com/images/I/51I7raBM8SL._SL500_AA240_.jpg)
 
  

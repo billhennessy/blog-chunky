@@ -104,5 +104,5 @@ Until American liberals decide to be Americans first, they will continue see the
 
 UPDATE: Well, maybe one liberal has. This piece by[ Elizabeth Anderson on Left2Right ](https://left2right.typepad.com/main/2004/12/on_patriotism.html)is worth a read. Ms. Anderson seems to get it in a way that many on her cannot not--viscerally. [Dean agrees](https://www.deanesmay.com/posts/1102844706.shtml).
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=881)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=881" >}}
 

@@ -21,7 +21,7 @@ type: "post"
 
 As if reading from a script written by the Romney campaign, the **Democrats on Wednesday managed to mangle their public image even further, this time by booing God and Israel.**
 
-[caption id="attachment_12536" align="aligncenter" width="288"][![](https://ludicrite.files.wordpress.com/2012/09/reagan-nation-under-god-or-gone-under.jpg)
+[caption id="attachment_12536" align="aligncenter" width="288"][{{< figure src="https://ludicrite.files.wordpress.com/2012/09/reagan-nation-under-god-or-gone-under.jpg" >}}
 ](https://ludicrite.files.wordpress.com/2012/09/reagan-nation-under-god-or-gone-under.jpg) Clipped from https://thespeechatimeforchoosing.wordpress.com[/caption]
 
 On Tuesday, the Democratic National Convention stripped God's name from their platform and rejected Israel's choice of Jerusalem as its capital.

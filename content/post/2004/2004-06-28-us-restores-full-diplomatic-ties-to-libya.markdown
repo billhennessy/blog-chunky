@@ -17,5 +17,5 @@ Oh, if only the al-Zarqawi story were true.  Imagine, since taking office, Georg
   
 Since September 11, Bush has conducted the most successful foreign policy by a president since World War II, having liberated 2.5 countries.    
   
-On to Iran!![](https://blog.billhennessy.com/aggbug.aspx?PostID=737)
+On to Iran!{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=737" >}}
 

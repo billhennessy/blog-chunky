@@ -11,5 +11,5 @@ categories:
 
 Apparently the Eagles stole Mike Martz's play book.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1030)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1030" >}}
 

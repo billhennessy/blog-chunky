@@ -40,7 +40,7 @@ How do I know? Meet Rob Schaff's new best friends:
 
 
 
-![](https://hennessysview.com/wp-content/uploads/2018/04/Screenshot-2018-04-22-09.59.53.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2018/04/Screenshot-2018-04-22-09.59.53.png" >}}
 
     Clean Missouri's List of Sponsors: a who's who of leftist, social justice peacocks
 
@@ -102,7 +102,7 @@ What's sad is that some Republicans are falling for the propaganda (pure BS) bei
 
 
 
-![](https://hennessysview.com/wp-content/uploads/2018/04/Screenshot-2018-04-21-17.00.48.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2018/04/Screenshot-2018-04-21-17.00.48.png" >}}
 
     Schaff's Plan to Make Missouri Blue Again
 

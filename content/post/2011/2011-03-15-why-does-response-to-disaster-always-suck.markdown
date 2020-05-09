@@ -19,7 +19,7 @@ I just heard on BBC that the Japanese government is only now dealing with the Fu
 
  
 
-![](https://media.katu.com/images/110312_nuclear_plant.jpg)
+{{< figure src="https://media.katu.com/images/110312_nuclear_plant.jpg" >}}
 
 
  

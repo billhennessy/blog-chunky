@@ -24,5 +24,5 @@ Joe Gandelman, guest blogger, asks several questions about the mental state of t
 
 __
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1130)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1130" >}}
 

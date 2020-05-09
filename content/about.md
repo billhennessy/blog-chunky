@@ -29,7 +29,7 @@ I'll send you one email a day, only if there's new content on Hennessy's View fo
 
 Before I give you my contact information, **please use the comment section of my blog posts** if you want to comment on my blog. I get a lot of emails from readers, but other readers will benefit from hearing them, too. So comment first, send emails later. The Comment form looks like this:
 
-![](/images/commento.png)
+{{< figure src="/images/commento.png" >}}
 
 Also, [I use Commento for commenting](https://commento.io/). Unlike some other comment systems, Commento is completely private. They don't sell your information to Facebook or Planned Parenthood like the others do. 
 

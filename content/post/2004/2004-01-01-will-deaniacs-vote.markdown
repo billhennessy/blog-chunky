@@ -18,5 +18,5 @@ According to the [U. S. Census Bureau](https://www.census.gov/population/socdemo
   
 While Dean is probably correct that his supporters won't vote if Dean is not the candidate, his supporters probably won't vote even if he is.
 
-;![](https://blog.billhennessy.com/aggbug.aspx?PostID=815)
+;{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=815" >}}
 

@@ -140,5 +140,5 @@ Other Iraq News:[ Joe Gandelman ](https://www.deanesmay.com/posts/1110055810.sht
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1309)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1309" >}}
 

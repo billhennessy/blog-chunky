@@ -22,7 +22,7 @@ In 1994, [Dan Rostenkowski, then Chairman of the House Ways and Means Committee,
 
  
 
-![](https://counters.gigya.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEyODA1NDEyOTMzNTYmcHQ9MTI4MDU*MTI5NzYzNSZwPTEyNTg*MTEmZD1BQkNOZXdzX1NGUF9Mb2NrZV9FbWJlZCZn/PTImbz**MDA1YmJiODI*Y2M*MzhjODMwM2QyOWQ4YmJkZDczYiZvZj*w.gif)
+{{< figure src="https://counters.gigya.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEyODA1NDEyOTMzNTYmcHQ9MTI4MDU*MTI5NzYzNSZwPTEyNTg*MTEmZD1BQkNOZXdzX1NGUF9Mb2NrZV9FbWJlZCZn/PTImbz**MDA1YmJiODI*Y2M*MzhjODMwM2QyOWQ4YmJkZDczYiZvZj*w.gif" >}}
 [https://abcnews.go.com/assets/player/walt2.6/flash/SFP_Walt.swf](https://abcnews.go.com/assets/player/walt2.6/flash/SFP_Walt.swf)
 
  

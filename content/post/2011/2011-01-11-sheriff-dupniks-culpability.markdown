@@ -16,7 +16,7 @@ tags:
 type: "post"
 ---
 
-![](https://www.iill.net/wp-content/uploads/images/clarence-dupnik.jpg)
+{{< figure src="https://www.iill.net/wp-content/uploads/images/clarence-dupnik.jpg" >}}
 According to an internal Department of Homeland Security memo, Jarod Lee Loughner’s mother “works for Pima County Board of Supervisors.”
 
  

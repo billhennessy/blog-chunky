@@ -36,5 +36,5 @@ Goldberg makes a point that I've been trying to make since Phil Collins was just
 
 Precisely. To be morality, it must commence from outside man, otherwise is mere sentiment, as [Chesterton might say](https://www.chesterton.org/gkc/theologian/whychristian.htm).
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=512)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=512" >}}
 

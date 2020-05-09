@@ -21,5 +21,5 @@ While you're on her blog, please look around. It's a good one.
 
 Also, [Donegal Express ](https://www.donegalexpress.net/)is fresh and crisp. I read it every day. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1354)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1354" >}}
 

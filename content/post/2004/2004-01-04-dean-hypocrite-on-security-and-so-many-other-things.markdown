@@ -24,5 +24,5 @@ Dr. Dean's continuing hypocrisy illustrates both his unfitness for office and hi
 [Thanks to Drudge for pointing this out.](https://www.drudgereport.com)  
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=806)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=806" >}}
 

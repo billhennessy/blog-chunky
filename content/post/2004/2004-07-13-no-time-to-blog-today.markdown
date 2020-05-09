@@ -9,5 +9,5 @@ categories:
 - Latest
 ---
 
-Sorry. I have a ton of work-related things that have to get done. Today's my last day before moving on to a new account starting Monday. If I can remember all of the things I wanted to say about last night, I'll try to post them tomorrow--I'm off Wednesday-Friday. ![](https://blog.billhennessy.com/aggbug.aspx?PostID=688)
+Sorry. I have a ton of work-related things that have to get done. Today's my last day before moving on to a new account starting Monday. If I can remember all of the things I wanted to say about last night, I'll try to post them tomorrow--I'm off Wednesday-Friday. {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=688" >}}
 

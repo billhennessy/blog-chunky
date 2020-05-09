@@ -27,5 +27,5 @@ Three high school seniors who supported Kerry beat a Bush supporter with basebal
 
 Nod to [Drudge](https://www.drudgereport.com). Liberals decry American troops killing terrorists in Iraq, but where's their outcry over liberals beating Republicans in school yards?
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=502)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=502" >}}
 

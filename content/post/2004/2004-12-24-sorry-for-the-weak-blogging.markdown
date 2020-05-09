@@ -26,5 +26,5 @@ In the meantime, [Dean](https://www.deanesmay.com), [Steven](https://www.poliblo
 
 If I don't make it back here, Merry Christmas, everyone. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=898)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=898" >}}
 

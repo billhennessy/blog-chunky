@@ -23,7 +23,7 @@ Doing the right thing after years of practicing the wrong things is even harder.
 
  
 
-![](https://angrywhitedude.com/wp-content/uploads2/2011/02/scott-walker.jpg)
+{{< figure src="https://angrywhitedude.com/wp-content/uploads2/2011/02/scott-walker.jpg" >}}
 When your senate separated the fiscal responsibility provisions affecting union collective bargaining powers from a bill that previously included tax and spend provisions, you took a big step toward fiscal recovery.
 
  

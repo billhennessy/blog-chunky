@@ -15,5 +15,5 @@ I grew up in a not-so-safe neighborhood in South St. Louis, but my parents let m
 
 Maybe, instead of hiding ourselves and our kids behind walls, we should take back the damn streets. I want my kids to walk to school and to Schnucks and to Mobil for a Slushee. I want to put them on a bus to go to a baseball game.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=495)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=495" >}}
 

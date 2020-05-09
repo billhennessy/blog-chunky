@@ -21,7 +21,7 @@ tags:
 type: "post"
 ---
 
-![](https://andrewromanblog.files.wordpress.com/2009/08/obama-transformer.jpg)
+{{< figure src="https://andrewromanblog.files.wordpress.com/2009/08/obama-transformer.jpg" >}}
 It took almost three years of Jimmy Carter’s dangerously naive worldview before the world rushed in. By “rushed in,” I mean the Soviet Union rushed into Afghanistan, Iranian radicals rushed into the US Embassy in Tehran, and Cuban-backed communists rushed into every Central and South American country they could.
 
 These aggressions resulted from a world perception that Jimmy Carter was unwilling to use America’s arsenal for good. Additionally, following Vietnam and observing American culture, the world surmised that:

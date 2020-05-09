@@ -21,5 +21,5 @@ Nod to [Jonah Goldberg at NRO's The Corner ](https://www.nationalreview.com/thec
 
 [Nixon Tapes on Kerry 2](https://www.whitehousetapes.org/clips/1971_0423_nixon_on_kerry.html)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=717)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=717" >}}
 

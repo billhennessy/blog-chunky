@@ -26,5 +26,5 @@ Perhaps if the Senator wishes us to take him seriously as a presidential candida
 
 Until he starts taking seriously his responsibilities as potentially the next President of the United States, we should treat his candidacy and his party with the flippancy they have earned. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=699)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=699" >}}
 

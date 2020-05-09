@@ -14,8 +14,8 @@ Is there a more beautiful sight in the world?
 
 
 
-![](https://stlouis.cardinals.mlb.com/images/2004/08/04/tSws4HSW.jpg)
+{{< figure src="https://stlouis.cardinals.mlb.com/images/2004/08/04/tSws4HSW.jpg" >}}
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=650)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=650" >}}
 

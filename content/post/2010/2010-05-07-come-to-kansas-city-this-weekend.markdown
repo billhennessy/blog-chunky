@@ -38,7 +38,7 @@ It’s not too late to register and arrive, and everything happens at the Embass
 Embassy Suites KC – Int. Airport*
 7640 NW Tiffany Springs Parkway*
 Kansas City, MO 64153*
-[![](https://summit.americanmajority.org/wp-content/themes/coffee-junkie/graphic/learnmore.gif)
+[{{< figure src="https://summit.americanmajority.org/wp-content/themes/coffee-junkie/graphic/learnmore.gif" >}}
 ](https://ppskansascity.eventbrite.com)
 
  

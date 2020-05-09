@@ -156,5 +156,5 @@ So, to ensure we Americans never offend anyone, particularly fanatics intent on 
 be allowed to profile certain people. They must conduct random searches of 80-year-old women, little kids, airline pilots with proper dentification, secret agents who are members of the President's security detail, 85-year old Congressmen with metal hips, and Medal of Honor winning and former Governor Joe Foss, but leave Muslim Males between the ages 17 and 40 alone because of profiling.  
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=953)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=953" >}}
 

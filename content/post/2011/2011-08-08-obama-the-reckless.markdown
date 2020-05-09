@@ -24,8 +24,8 @@ Flasback to May 23 of this year. That’s when Barack Obama made the surprise an
 
 Current and former military experts advised the president against this reckless move. People who understand war knew that the President would place lives unnecessarily at risk for his own political gain. 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Michael_Mullen%2C_CJCS%2C_official_photo_portrait%2C_2007.jpg/250px-Michael_Mullen%2C_CJCS%2C_official_photo_portrait%2C_2007.jpg)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/General_David_Petraeus.jpg/220px-General_David_Petraeus.jpg)
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Michael_Mullen%2C_CJCS%2C_official_photo_portrait%2C_2007.jpg/250px-Michael_Mullen%2C_CJCS%2C_official_photo_portrait%2C_2007.jpg" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/General_David_Petraeus.jpg/220px-General_David_Petraeus.jpg" >}}
 
 
 Admiral Mike Mullen, Chairmen of the Joint Chiefs, testified to the House Armed Services Committee:

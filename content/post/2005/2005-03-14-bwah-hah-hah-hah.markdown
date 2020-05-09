@@ -23,5 +23,5 @@ This is really too good for words, but some folks have found the perfect ones ov
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1355)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1355" >}}
 

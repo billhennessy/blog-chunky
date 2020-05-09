@@ -102,5 +102,5 @@ I dont. I know its only a shadow. But, God, how I wish
 
 Hed slow down, too, and turn his back on me.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=538)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=538" >}}
 

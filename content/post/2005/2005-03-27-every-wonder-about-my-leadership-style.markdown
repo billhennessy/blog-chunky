@@ -10,7 +10,7 @@ categories:
 ---
 
   
-![](https://images.similarminds.com/leader/8.jpg)
+{{< figure src="https://images.similarminds.com/leader/8.jpg" >}}
   
 [What Famous Leader Are You?](https://similarminds.com/othertests.html)  
 [personality tests by similarminds.com](https://similarminds.com)
@@ -19,5 +19,5 @@ categories:
 
 
 And Florida has new welcome signs:
-![](/wp-content/flaschiavo.jpg)
+{{< figure src="/wp-content/flaschiavo.jpg" >}}
 

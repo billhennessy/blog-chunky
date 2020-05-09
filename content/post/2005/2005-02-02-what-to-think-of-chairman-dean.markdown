@@ -115,5 +115,5 @@ Again, I may be a pessimist, but somehow this seems too easy--like when we march
 
 UPDATE: The other Dean (Esmay) has [jumped in with this](https://www.deanesmay.com/posts/1107562593.shtml)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=977)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=977" >}}
 

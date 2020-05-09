@@ -16,5 +16,5 @@ categories:
 
 Armstrong says his brother is a good conservative who could not hope to win running as a Republican in that district. Good for Kent and for the people of his district. Party affiliation isn't as important as core beliefs, and Kent Williams's core seems as solid as a rock. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=938)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=938" >}}
 

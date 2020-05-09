@@ -17,7 +17,7 @@ tags:
 type: "post"
 ---
 
-[Martin Baker, candidate for Missouri’s 1st Congressional District](https://www.martinbakerforcongress.com/This_is_Martin_Baker.html), lays it on the line,[![](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/08/martinbaker.jpg)
+[Martin Baker, candidate for Missouri’s 1st Congressional District](https://www.martinbakerforcongress.com/This_is_Martin_Baker.html), lays it on the line,[{{< figure src="https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/08/martinbaker.jpg" >}}
 ](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/08/martinbaker.jpg) [challenging Tea Party](https://www.martinbakerforcongress.com/News.html) critics Maxine Waters and Frederica Wilson.
 
 Read Martin’s challenge:

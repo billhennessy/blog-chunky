@@ -129,5 +129,5 @@ I should note that [Professor Bainbridge](https://www.professorbainbridge.com/20
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1002)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1002" >}}
 

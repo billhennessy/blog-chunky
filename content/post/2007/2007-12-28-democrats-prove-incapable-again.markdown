@@ -17,7 +17,7 @@ Barrack Obama's team blamed the United States, George Bush, and everyone who sup
 
 Clinton
 
-[![](https://bp1.blogger.com/_L6pDyjqqsvY/R3UoZr4wgXI/AAAAAAAAKGg/Iot-DfQUP9s/s400/clinton+bhutto.JPG)
+[{{< figure src="https://bp1.blogger.com/_L6pDyjqqsvY/R3UoZr4wgXI/AAAAAAAAKGg/Iot-DfQUP9s/s400/clinton+bhutto.JPG" >}}
 ](https://gatewaypundit.blogspot.com/)Our friend Gateway Pundit points out that Hillary's soliloquy on Bhutto centered on the Senators long, close, personal relationship with Bhutto that lasted a dozen years. But the Pundit found some critical errors that indicate Senator Clinton lied about how well she knew Bhutto:
 
 

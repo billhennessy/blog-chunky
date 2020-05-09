@@ -26,5 +26,5 @@ There number of new claims for unemployment benefits fell, last week, by 39,000 
 
 This demonstrates almost too perfectly a point made by [Arguing With Signposts](https://arguewithsigns.net/mt/archives/2004_07.html#001925)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=706)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=706" >}}
 

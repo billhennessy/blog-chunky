@@ -38,5 +38,5 @@ Someone kind, in perfect cheer
 You long to love and so revere,  
 Even if it isnt me.  
   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=567)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=567" >}}
 

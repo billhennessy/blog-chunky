@@ -21,5 +21,5 @@ Almost immediately, evil bastards in the DNC and their minions in the press bega
 
 Only the criminal minds of ruthless people could fashion such underhanded motivations in others. These whisperers and the press who report their falsehoods are people who would, without a second thought, make up such lies for their own political benefit. There is good reason for men and women of good will to seek to destroy the Democrat party: the reason is the Democrat party. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=700)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=700" >}}
 

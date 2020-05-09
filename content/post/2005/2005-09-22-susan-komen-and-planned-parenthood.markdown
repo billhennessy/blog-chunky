@@ -56,9 +56,9 @@ Looking at Charity Navigator's list of similar charities, though, we find more a
 <td bgcolor="#FFFFFF" align="center" class="condtext" >57.90
 </td>
 				
-<td bgcolor="#FFFFFF" align="center" >![](https://www.charitynavigator.org/_gfx_/images/star_8x8.gif)
-![](https://www.charitynavigator.org/_gfx_/images/star_8x8.gif)
-![](https://www.charitynavigator.org/_gfx_/images/star_8x8.gif)
+<td bgcolor="#FFFFFF" align="center" >{{< figure src="https://www.charitynavigator.org/_gfx_/images/star_8x8.gif" >}}
+{{< figure src="https://www.charitynavigator.org/_gfx_/images/star_8x8.gif" >}}
+{{< figure src="https://www.charitynavigator.org/_gfx_/images/star_8x8.gif" >}}
 
 </td>
 			</tr>
@@ -71,8 +71,8 @@ Looking at Charity Navigator's list of similar charities, though, we find more a
 <td bgcolor="#FFFFFF" align="center" class="condtext" >47.55
 </td>
 				
-<td bgcolor="#FFFFFF" align="center" >![](https://www.charitynavigator.org/_gfx_/images/star_8x8.gif)
-![](https://www.charitynavigator.org/_gfx_/images/star_8x8.gif)
+<td bgcolor="#FFFFFF" align="center" >{{< figure src="https://www.charitynavigator.org/_gfx_/images/star_8x8.gif" >}}
+{{< figure src="https://www.charitynavigator.org/_gfx_/images/star_8x8.gif" >}}
 
 </td>
 			</tr>
@@ -85,8 +85,8 @@ Looking at Charity Navigator's list of similar charities, though, we find more a
 <td bgcolor="#FFFFFF" align="center" class="condtext" >42.74
 </td>
 				
-<td bgcolor="#FFFFFF" align="center" >![](https://www.charitynavigator.org/_gfx_/images/star_8x8.gif)
-![](https://www.charitynavigator.org/_gfx_/images/star_8x8.gif)
+<td bgcolor="#FFFFFF" align="center" >{{< figure src="https://www.charitynavigator.org/_gfx_/images/star_8x8.gif" >}}
+{{< figure src="https://www.charitynavigator.org/_gfx_/images/star_8x8.gif" >}}
 
 </td>
 			</tr>
@@ -99,10 +99,10 @@ Looking at Charity Navigator's list of similar charities, though, we find more a
 <td bgcolor="#FFFFFF" align="center" class="condtext" >61.13
 </td>
 				
-<td bgcolor="#FFFFFF" align="center" >![](https://www.charitynavigator.org/_gfx_/images/star_8x8.gif)
-![](https://www.charitynavigator.org/_gfx_/images/star_8x8.gif)
-![](https://www.charitynavigator.org/_gfx_/images/star_8x8.gif)
-![](https://www.charitynavigator.org/_gfx_/images/star_8x8.gif)
+<td bgcolor="#FFFFFF" align="center" >{{< figure src="https://www.charitynavigator.org/_gfx_/images/star_8x8.gif" >}}
+{{< figure src="https://www.charitynavigator.org/_gfx_/images/star_8x8.gif" >}}
+{{< figure src="https://www.charitynavigator.org/_gfx_/images/star_8x8.gif" >}}
+{{< figure src="https://www.charitynavigator.org/_gfx_/images/star_8x8.gif" >}}
 
 </td>
 			</tr>
@@ -115,8 +115,8 @@ Looking at Charity Navigator's list of similar charities, though, we find more a
 <td bgcolor="#FFFFFF" align="center" class="condtext" >40.71
 </td>
 				
-<td bgcolor="#FFFFFF" align="center" >![](https://www.charitynavigator.org/_gfx_/images/star_8x8.gif)
-![](https://www.charitynavigator.org/_gfx_/images/star_8x8.gif)
+<td bgcolor="#FFFFFF" align="center" >{{< figure src="https://www.charitynavigator.org/_gfx_/images/star_8x8.gif" >}}
+{{< figure src="https://www.charitynavigator.org/_gfx_/images/star_8x8.gif" >}}
 
 </td>
 			</tr>

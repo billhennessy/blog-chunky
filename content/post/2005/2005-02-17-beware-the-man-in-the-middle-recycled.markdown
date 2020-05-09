@@ -41,5 +41,5 @@ In selfless interest of the republic, let them stay home.  **Mortimer Adler sai
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1116)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1116" >}}
 

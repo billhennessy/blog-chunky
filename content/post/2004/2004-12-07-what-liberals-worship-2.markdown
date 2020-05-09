@@ -69,5 +69,5 @@ You see liberal anti-competitiveness everywhere.  The NEA fights testing, rating
 				
 		
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=457)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=457" >}}
 

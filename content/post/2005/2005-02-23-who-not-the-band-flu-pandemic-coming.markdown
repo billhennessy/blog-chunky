@@ -46,5 +46,5 @@ I mentioned this the other day in a blog, and it still chills me. The good news 
 
 When I read that, I think Swine Flu. And it makes me feel a lot better. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1210)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1210" >}}
 

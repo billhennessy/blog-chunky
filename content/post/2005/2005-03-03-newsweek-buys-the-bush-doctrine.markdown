@@ -99,5 +99,5 @@ UPDATE: I was so giddy about the Christopher Dickey's about-face on the Middle E
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1285)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1285" >}}
 

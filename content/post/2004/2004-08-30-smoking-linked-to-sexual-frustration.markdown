@@ -14,5 +14,5 @@ I quit smoking a month ago. [Now, this story.](https://news.bbc.co.uk/2/hi/asia-
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=608)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=608" >}}
 

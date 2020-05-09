@@ -51,5 +51,5 @@ More links:
 
 [Backcountry Conservative ](https://www.jquinton.com/archives/002377.html)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=948)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=948" >}}
 

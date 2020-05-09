@@ -14,7 +14,7 @@ tags:
 - president_of_the_united_states
 ---
 
-[![](https://socialnet.imwithfred.com/widget_houseparty.gif)
+[{{< figure src="https://socialnet.imwithfred.com/widget_houseparty.gif" >}}
 ](https://www.imwithfred.com/Events/private/findevents_search_results.aspx)I guess this makes it semi-official. [Fred Thompson](https://www.imwithfred.com/) will announce his candidacy for President of the United States by [WWW ](https://fredfile.imwithfred.com/)on September 6.
 
 Now, I've been blogging for Fred since there were only about a dozen and a half bloggers for Fred. All I'm saying is that, when he's trying to fill his Cabinet . . .

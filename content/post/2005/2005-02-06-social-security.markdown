@@ -51,5 +51,5 @@ And my only consolation is my confidence that FDR is burning in hell.
 
 [Take the Social Security Reform Poll NOW!](https://blog.billhennessy.com/forums/1007/ShowPost.aspx#1007)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1006)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1006" >}}
 

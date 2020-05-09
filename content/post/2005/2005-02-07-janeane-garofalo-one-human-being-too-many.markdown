@@ -26,5 +26,5 @@ If there's anyone on this planet whose presence depresses the hell out of me, it
 
 A Little More to the Right is an excellent blog if you haven't stumbled across it yet. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1029)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1029" >}}
 

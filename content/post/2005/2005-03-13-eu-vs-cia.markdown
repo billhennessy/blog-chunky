@@ -36,5 +36,5 @@ Meanwhile,[ Michelle Malkin ](https://michellemalkin.com/archives/001767.htm)fin
 
 Am I too harsh on the EU? [Maybe this is an Italian thing](https://www.donegalexpress.net/2005-03-11/and-the-poor-doomed-the-young-and-the-silly-the-honest-the-weak-the-italians-theyre-doomed-theyre-lost-theyre-helpless-theyre-somebody-elses-meal-theyre-like-pigs-in-the-wilderness-dr-hunter-s-thompso/).
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1343)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1343" >}}
 

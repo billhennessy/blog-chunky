@@ -63,7 +63,7 @@ After hearing great stories about John Wayne, whose Arizona ranch shared a mile 
 #### The Answer Is Conscious Capitalism
 
 
-John Mackey’s vision of Conscious Capitalism might surprise his conservative critics. In his new book, [Conscious Capitalism: Liberating the Heroic Spirit of Business](https://www.amazon.com/gp/product/1422144208/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1422144208&linkCode=as2&tag=hennesssview-20)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=1422144208)
+John Mackey’s vision of Conscious Capitalism might surprise his conservative critics. In his new book, [Conscious Capitalism: Liberating the Heroic Spirit of Business](https://www.amazon.com/gp/product/1422144208/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1422144208&linkCode=as2&tag=hennesssview-20){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=1422144208" >}}
 , Mackey mirrors the idea behind the 5,000 Year Leap:
 
 

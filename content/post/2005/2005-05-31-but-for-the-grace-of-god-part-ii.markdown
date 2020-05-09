@@ -17,7 +17,7 @@ I know some took offence at [my original swipe ](https://www.hennessysview.com/?
 
 
 If it makes the Anglicans feel any better, we do, too.  And unless Trinity's bishop metes out draconian punishment for the priests involved in this apostacy, it will be impossible for serious-minded people to mentally divorce the Anglican church and its American sister from the clown images.
-![](/wp-content/plugins/hf_taber.jpg)
+{{< figure src="/wp-content/plugins/hf_taber.jpg" >}}
 
 For the sake of contrasts, consider that the Roman Catholic church has declared this the year of the Eurcharist.  We are pushing [Perpetual Adoration](https://www.therealpresence.org/eucharst/pea/a2.html) in which someone prays before the exposed Body of Christs each hour of the day, every day, forever.
 

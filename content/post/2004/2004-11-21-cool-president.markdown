@@ -9,7 +9,7 @@ categories:
 - Latest
 ---
 
-[![](https://ak.imgfarm.com/images/ap/thumbnails//_BUSH_SECURTIY_FRACAS_CHILE_APEC.sff_LLJ106_20041120195831.jpg)
+[{{< figure src="https://ak.imgfarm.com/images/ap/thumbnails//_BUSH_SECURTIY_FRACAS_CHILE_APEC.sff_LLJ106_20041120195831.jpg" >}}
 ](https://apnews.myway.com/image/20041120/_BUSH_SECURTIY_FRACAS_CHILE_APEC.sff_LLJ106_20041120195831.html?date=20041121&docid=D86FV9GO0)  
 
 George Bush reaches into a frecas to extract one of his Secret Service agents in Chile.
@@ -26,5 +26,5 @@ And don't miss the moronic reaction at [DemocraticUnderground](https://www.democ
 
 Update: I'm not the only one who noticed. See [Dean's World](https://www.deanesmay.com/posts/1101023733.shtml)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=489)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=489" >}}
 

@@ -31,5 +31,5 @@ He was right, I've learned. There was a time when I thought it noble to expose h
 
 War is an ugly business. Though Sherman believed that we shoul
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=551)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=551" >}}
 

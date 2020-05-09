@@ -39,5 +39,5 @@ The news of Bush's lead, though, won't be secret for long. The blogs will see to
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=590)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=590" >}}
 

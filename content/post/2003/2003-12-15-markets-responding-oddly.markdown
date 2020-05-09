@@ -13,5 +13,5 @@ Saddam's capture pushed the Asian and European markets up consistently and stron
 
 What a joke. These Wall Street types would sell their mothers and their children for a nickel's profit. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=825)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=825" >}}
 

@@ -31,5 +31,5 @@ Previously, Volcker's team had cleared the elder Annan of wrong-doing in connect
 
 Who else will have a popcorn, beer, and a big grin watching Kofi Annan's perp walk?
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1003)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1003" >}}
 

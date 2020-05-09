@@ -24,7 +24,7 @@ When Barack Obama declared that Catholics must either violate their consciences 
 
 **Barack Obama and his myrmidon Kathleen Sebelius tried to erase the First Amendment**. They tried to erase religious freedom. They tried to take away yet another foundational liberty that made America America.
 
-**And they will try again![![](https://www.jewishjournal.com/images/bloggers_auto/religious_freedom2.jpg)
+**And they will try again![{{< figure src="https://www.jewishjournal.com/images/bloggers_auto/religious_freedom2.jpg" >}}
 ](https://www.jewishjournal.com/bloggish/item/washingtons_letter_on_religious_freedom_not_so_free_20111122/)**
 
 Unless you stop them. 

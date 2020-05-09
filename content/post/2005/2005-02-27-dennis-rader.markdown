@@ -26,5 +26,5 @@ Dennis Rader wanted authority. He wanted power. The proper functioning of societ
 
 If anyone knows how to contact inmate in Kansas's penal system, I'd like to know. I want to make sure that every lifer knows the depths of this man's evil. I want them to know the way he raped and hanged a little girl from the rafters of her basement after murdering her brother, mother, and father, leaving the horrid scene for the little girl's 19-year-old brother to find. They may use the information as they deem fit, but every inmate in the Kansas penal system deserves to know the details of their new neighbor.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1244)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1244" >}}
 

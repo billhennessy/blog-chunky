@@ -17,5 +17,5 @@ There's no use in dragging this out. What did Senator Kerry know about this crim
 
 John Kerry's website contains photos of him wearing military honors improperly or without proper authority (the combat V). Now, someone supporting Kerry seems to be forging documents in an effort to discredit the President's military service. If the documents are, in fact, forgeries. Kerry should immediately withdraw from the race.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=572)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=572" >}}
 

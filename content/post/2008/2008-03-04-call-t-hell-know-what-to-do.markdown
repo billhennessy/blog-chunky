@@ -21,7 +21,7 @@ Whack him, W. Then take out the Ecuadorian government, as well.
 
  
 
-![](https://bp2.blogger.com/_L6pDyjqqsvY/R8x5hD1kAZI/AAAAAAAALwg/Wm-F75HcQwA/s1600/chavez+correa.JPG)
+{{< figure src="https://bp2.blogger.com/_L6pDyjqqsvY/R8x5hD1kAZI/AAAAAAAALwg/Wm-F75HcQwA/s1600/chavez+correa.JPG" >}}
 
 
  

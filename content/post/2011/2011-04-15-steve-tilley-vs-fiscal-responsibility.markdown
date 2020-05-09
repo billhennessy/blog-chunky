@@ -21,7 +21,7 @@ type: "post"
 
 [Four men risked their political lives](https://biggovernment.com/jwales/2011/04/04/the-four-horsemen-of-the-dem-apocalypse/) to help solve the problem of our lifetimes, but they forgot to massage [Steve Tilley’s](https://www.24thstate.com/2011/03/missouris-establishment-speaker-steve-tilley.html) monstrous ego.
 
-![](https://4.bp.blogspot.com/-EC3JBiX8Ibg/TYAWKC3xc_I/AAAAAAAAHSo/N9AwvqhzFYU/s1600/Steve%2BTilley.jpg)
+{{< figure src="https://4.bp.blogspot.com/-EC3JBiX8Ibg/TYAWKC3xc_I/AAAAAAAAHSo/N9AwvqhzFYU/s1600/Steve%2BTilley.jpg" >}}
 When John McCain (R-AZ) and Roy Blunt (R-MO) agree with Michele Bachmann and Rush Limbaugh, you can bet the issue is beyond debate.
 
 In this case, the issue is the massive U.S. debt and what that debt is about to do to America.

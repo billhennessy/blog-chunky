@@ -16,7 +16,7 @@ If not, [get them today](https://3rdanniversaryteaparty.eventbrite.com/).
 
 Here’s the details:
 
-![](https://ebmedia.eventbrite.com/s3-s3/eventlogos/1611928/2760945061-2.jpg)
+{{< figure src="https://ebmedia.eventbrite.com/s3-s3/eventlogos/1611928/2760945061-2.jpg" >}}
 
 
 **Join St. Louis Tea Party Coalition's 3rd Anniversary Tea Party Weekend**

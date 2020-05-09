@@ -17,5 +17,5 @@ Momentum was already on Bush's side. That moment had been slowed only by the big
   
 Some people will side with Bush out of sympathy for the foul play against him.  Some will run away from Kerry assuming that the Kerry campaign must have had some hand in the felony.  Many, many others will walk away in disgust, voting either for Nader or for no one.    
   
-Assuming Bush is now up 7 in popular vote and tied in the Electoral College, Kerry will likely drop 2% (Bush up 9) and Bush will gain 2% (Bush up 11%).  This will come from those leaning toward Kerry and leaning toward Bush finally choosing hard.  Those still truly undecided will decide not to decide.  Polls after next week will change very little.  ![](https://blog.billhennessy.com/aggbug.aspx?PostID=573)
+Assuming Bush is now up 7 in popular vote and tied in the Electoral College, Kerry will likely drop 2% (Bush up 9) and Bush will gain 2% (Bush up 11%).  This will come from those leaning toward Kerry and leaning toward Bush finally choosing hard.  Those still truly undecided will decide not to decide.  Polls after next week will change very little.  {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=573" >}}
 

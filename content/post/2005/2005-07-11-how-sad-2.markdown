@@ -34,5 +34,5 @@ What pain must the writer feel to so betray his mother on a blog?
 
 Thanks to [After Abortion ](https://afterabortion.blogspot.com/2004/12/theres-pro-choice-and-then-theres-pro.html)for the link.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=847)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=847" >}}
 

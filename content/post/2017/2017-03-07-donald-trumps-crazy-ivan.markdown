@@ -19,14 +19,14 @@ Everything except something directly behind them. Behind a submarine is a big pr
 
 
 
-[caption width="450" align="aligncenter"][![](https://i471.photobucket.com/albums/rr74/cbleyte/Submarine_baffles.png)
+[caption width="450" align="aligncenter"][{{< figure src="https://i471.photobucket.com/albums/rr74/cbleyte/Submarine_baffles.png" >}}
 ](https://s471.photobucket.com/user/cbleyte/media/Submarine_baffles.png.html) Photobucket. Uploaded by: cbleyte[/caption]To check for enemy submarines that might be following directly behind you, you have to turn the ship to a new course. And you have to do it fast. If you turn too slowly, the enemy can respond with his own change in course and speed to stay inside your baffle zone. But if you're traveling too fast and you turn too hard, you risk colliding with your enemy. That's bad for both boats.
 
 Old submariners had a story. Russian submarine captains traveling at high speed were under orders to clear baffles with a hard rudder. Dangerous as hell. No time to evade. American submarines called this risky maneuver "the Crazy Ivan."
 
 **The phrase "Crazy Ivan" hadn't crossed my mind since 1994**. That's when I left the submarine service. December 1994. But "Crazy Ivan" was the first thing I thought of when I read [this story on The Gateway Pundit](https://www.thegatewaypundit.com/2017/03/flashback-ny-times-front-page-headline-wiretapped-data-used-inquiry-trump-aides/) today:
 
-[![](https://hennessysview.com/wp-content/uploads/2017/03/Screenshot-2017-03-06-21.10.12.png)
+[{{< figure src="https://hennessysview.com/wp-content/uploads/2017/03/Screenshot-2017-03-06-21.10.12.png" >}}
 ](https://www.thegatewaypundit.com/2017/03/flashback-ny-times-front-page-headline-wiretapped-data-used-inquiry-trump-aides/)
 
 **Trump is clearing his baffles**.

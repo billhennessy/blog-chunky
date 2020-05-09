@@ -61,5 +61,5 @@ With a probable 55-44-1 majority in the Senate, all these things are possible. B
 
 
 
-  * ![](https://blog.billhennessy.com/aggbug.aspx?PostID=524)
+  * {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=524" >}}
 

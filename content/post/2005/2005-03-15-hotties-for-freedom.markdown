@@ -23,5 +23,5 @@ What else is there to say. (Link by [Wizbang](https://wizbangblog.com/archives/0
 
 And a hotter hottie for me-->
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1364)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1364" >}}
 

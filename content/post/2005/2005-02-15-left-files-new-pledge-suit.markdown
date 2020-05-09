@@ -24,5 +24,5 @@ According to the [American Center for Law and Justice](https://www.aclj.org/Defa
 
 Good heavens. Is it really that big of a deal, Michael? Leave it alone. Don't say "under God" when reciting the pledge. Instruct your children not to say it. But some of us growing weary of hearing what offends you.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1077)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1077" >}}
 

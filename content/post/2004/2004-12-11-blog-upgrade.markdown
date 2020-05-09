@@ -12,5 +12,5 @@ categories:
 Wow. I finally got the layout back.  
   
 If you want to see th blog inside DotNetNuke 2.1.2, go to [https://www.billhennessy.com](https://www.billhennessy.com). Same blog, different layout.   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=850)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=850" >}}
 

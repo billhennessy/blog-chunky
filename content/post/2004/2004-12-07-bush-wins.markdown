@@ -15,5 +15,5 @@ I feel sorry for the folks at DemocraticUnderground who convinced themselves tha
   
 [Blogs for Bush ](https://www.blogsforbush.com/mt/archives/003109.html)has some interesting polling data.  
   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=461)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=461" >}}
 

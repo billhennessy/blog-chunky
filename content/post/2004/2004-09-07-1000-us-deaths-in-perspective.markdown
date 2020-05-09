@@ -60,5 +60,5 @@ One thousand more reasons to see this battle's final victory, just in case freed
 
 Tonight, one thousand prayers of thanks. God bless them all. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=583)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=583" >}}
 

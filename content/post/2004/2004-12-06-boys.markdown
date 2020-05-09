@@ -10,5 +10,5 @@ categories:
 ---
 
 Steven Taylor of poliblog[ had an interesting day.](https://www.poliblogger.com/index.php?p=5526)   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=471)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=471" >}}
 

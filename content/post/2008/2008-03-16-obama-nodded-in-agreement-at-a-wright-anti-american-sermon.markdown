@@ -55,7 +55,7 @@ Previous stories:
 > 
 >    
 > 
-> ![](https://a.abcnews.com/assets/images/corner-bot_left.gif)
+> {{< figure src="https://a.abcnews.com/assets/images/corner-bot_left.gif" >}}
 Posted by: Bovice | Mar 15, 2008 10:54:07 PM
 > 
 > 

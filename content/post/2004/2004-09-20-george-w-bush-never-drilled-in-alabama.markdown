@@ -21,5 +21,5 @@ Nod to National Review
 
 UPDATE: Wow. If you read the GQ piece, [you have to read this](https://www.washingtoncitypaper.com/media/media.html).
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=560)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=560" >}}
 

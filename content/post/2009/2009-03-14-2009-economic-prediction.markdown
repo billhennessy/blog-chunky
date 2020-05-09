@@ -19,7 +19,7 @@ _*Originally posted February 15, 2009*_
 
 I know this is a little late, but I was waiting for Congress to spend another trillion dollars or so before committing my prediction to the public.  Here goes:
 
-![](https://spreadsheets.google.com/pub?key=phYB9CAhk8DHd4DCloxLuOg&oid=1&output=image)
+{{< figure src="https://spreadsheets.google.com/pub?key=phYB9CAhk8DHd4DCloxLuOg&oid=1&output=image" >}}
 
 
 GDP and unemployment will  flatten and even improve a bit in first half of 2009 for a couple of reasons:

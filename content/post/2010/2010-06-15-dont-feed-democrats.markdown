@@ -19,7 +19,7 @@ tags:
 type: "post"
 ---
 
-[caption id="attachment_10218" align="alignleft" width="260" caption="Democrat Congressman attacks college student"][![](https://hennessysview.com/wp-content/uploads/2010/06/BOB-ETHERIDGE-ATTACKS.jpg)
+[caption id="attachment_10218" align="alignleft" width="260" caption="Democrat Congressman attacks college student"][{{< figure src="https://hennessysview.com/wp-content/uploads/2010/06/BOB-ETHERIDGE-ATTACKS.jpg" >}}
 ](https://hennessysview.com/wp-content/uploads/2010/06/BOB-ETHERIDGE-ATTACKS.jpg)[/caption]
 
 In less than twenty-four hours, the left has demonstrated its incapacity for civilized living by physically assaulting a college student, then exclaiming the virtues of physical assaults on reporters.

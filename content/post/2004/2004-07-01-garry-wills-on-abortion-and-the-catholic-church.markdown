@@ -13,5 +13,5 @@ categories:
   
 Hat tip to [ Professor Bainbridge.](https://www.professorbainbridge.com/2004/06/garry_wills_on_.html)  
   
-Too many Christians rely on the writings of modern scholars who, 200 years from now, may or may not be valid.  We just don't know.  We do know, however, that Augustine and Aquinas remain valid.  Trust the ancients for they have withstood the test of time. ![](https://blog.billhennessy.com/aggbug.aspx?PostID=722)
+Too many Christians rely on the writings of modern scholars who, 200 years from now, may or may not be valid.  We just don't know.  We do know, however, that Augustine and Aquinas remain valid.  Trust the ancients for they have withstood the test of time. {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=722" >}}
 

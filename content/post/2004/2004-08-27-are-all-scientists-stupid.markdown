@@ -57,5 +57,5 @@ One scientist, physician, and environmentalist agrees, largely, with me. His nam
 >   
 
 > 
-> [So I can tell you some facts. I know you haven't read any of what I am about to tell you in the newspaper, because newspapers literally don't report them. I can tell you that DDT is not a carcinogen and did not cause birds to die and should never have been banned. I can tell you that the people who banned it knew that it wasn't carcinogenic and banned it anyway. I can tell you that the DDT ban has caused the deaths of tens of millions of poor people, mostly children, whose deaths are directly attri![](https://blog.billhennessy.com/aggbug.aspx?PostID=621)
+> [So I can tell you some facts. I know you haven't read any of what I am about to tell you in the newspaper, because newspapers literally don't report them. I can tell you that DDT is not a carcinogen and did not cause birds to die and should never have been banned. I can tell you that the people who banned it knew that it wasn't carcinogenic and banned it anyway. I can tell you that the DDT ban has caused the deaths of tens of millions of poor people, mostly children, whose deaths are directly attri{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=621" >}}
 

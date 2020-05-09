@@ -41,5 +41,5 @@ Surprise, surprise. The major networks have coordinator their story mix with the
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=558)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=558" >}}
 

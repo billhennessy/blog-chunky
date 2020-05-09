@@ -26,5 +26,5 @@ His writing is as enjoyable as his conversation--and it's conversation he has on
 
 Thanks to [OTB](https://www.outsidethebeltway.com/archives/9183)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1038)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1038" >}}
 

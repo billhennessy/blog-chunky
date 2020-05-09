@@ -119,7 +119,7 @@ Ballwin, MO 63011
 
 hours: M-F 9-5:00pm
 
-![](https://maps.googleapis.com/maps/api/staticmap?center=301%20Sovereign%20Court%2C%20Suite%20201%2C%20Ballwin%2C%20MO%2063011%2C%20United%20States&zoom=14&size=200x200&maptype=roadmap&sensor=false&markers=color%3Agreen%7C301%20Sovereign%20Court%2C%20Suite%20201%2C%20Ballwin%2C%20MO%2063011%2C%20United%20States)
+{{< figure src="https://maps.googleapis.com/maps/api/staticmap?center=301%20Sovereign%20Court%2C%20Suite%20201%2C%20Ballwin%2C%20MO%2063011%2C%20United%20States&zoom=14&size=200x200&maptype=roadmap&sensor=false&markers=color%3Agreen%7C301%20Sovereign%20Court%2C%20Suite%20201%2C%20Ballwin%2C%20MO%2063011%2C%20United%20States" >}}
 
 
 One word of caution, though. You might not want to mention Heritage Foundation. [Ann Wagner believes Heritage is a dangerous, radical organization bent on overthrowing Superman and apple pie, or something](https://hennessysview.com/2014/09/24/ann-wagner-wrong-attack-heritage-action/).

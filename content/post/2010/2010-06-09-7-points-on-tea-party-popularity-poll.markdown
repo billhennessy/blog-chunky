@@ -18,7 +18,7 @@ tags:
 type: "post"
 ---
 
-[![](https://hennessysview.com/wp-content/uploads/2010/06/St-Louis-TeaParty-300x201.jpg)
+[{{< figure src="https://hennessysview.com/wp-content/uploads/2010/06/St-Louis-TeaParty-300x201.jpg" >}}
 ](https://hennessysview.com/wp-content/uploads/2010/06/St-Louis-TeaParty.jpg)A [Washington Post/ABC News poll shows a major shift in sentiment toward (against?) the tea party](https://voices.washingtonpost.com/right-now/2010/06/poll_the_sagging_popularity_of.html) movement.
 
 I would not challenge the accuracy of the results which show the tea party’s popularity waning among Southerners and people 18 to 29. In fact, the poll shows that a full 50 percent of Americans now have a negative view of the tea party.
@@ -47,12 +47,12 @@ So what do you do?  How do you take this passion, this glorious coming together
 
 
 
-	  1. Invest in an organization that is engineered to win important races AND to hold the new Congress accountable.  I helped launch [Ensuring Liberty](https://www.libertycaucus.net/) to do just that, and we need your support to get there.  [Please join today](https://libertycaucus.net/join).
-	  2. Take personal responsibility to register everyone in your house to vote. In Missouri, it’s easy.  [Just fill out this form](https://www.co.st-louis.mo.us/elections/VOTER_REG_APP.pdf) and send it to your election board—directions on the back.
-	  3. Join the St. Louis Tea Party’s Block Captain/Liberty Evangelism project. Give people the power of personal freedom by handing them a Constitution with your email address on it, saying, “Please take this as  gift. Please read it and decide for yourself whether Washington is living up to the promises in those documents.”
-	  4. Use the buddy system to make sure everyone you recruit votes in the primary (on August 3 in Missouri) and on November 2.  That means you will commit to ensuring one other person gets to the polls, and someone commits to ensuring you get to the polls.  Take ownership of this job.  Let nothing stop you.
-	  5. Put in for vacation on November 1, 2, and 3.  Do it right now. You will be needed to get out the vote.  Let nothing stop you. (You will still be partying on Wednesday at 10:00 a.m., so you might as well not even think about working that day.)
-	  6. Vote early and get your friends and neighbors who agree with you to vote early.
-	  7. Every night before you go to bed, write a positive journal entry describing the feeling, the sounds, the news on November 2 and 3.  Describe Ed Martin’s victory speech or Robin Carnahan’s concession.  What will Frank Rich Say?  Paul Krugman?  Maureen Dowd?  Keith Olbermann? Chris Matthews?  Would could be more fun that Matthews describing the “Tea bagger temper tantrum” that overturned Congress?   Write Rush Limbaugh’s opening monologue for November 3.  Who will get [Dana Loesch’s](https://danaradio.com) cool points?
+1. Invest in an organization that is engineered to win important races AND to hold the new Congress accountable.  I helped launch [Ensuring Liberty](https://www.libertycaucus.net/) to do just that, and we need your support to get there.  [Please join today](https://libertycaucus.net/join).
+2. Take personal responsibility to register everyone in your house to vote. In Missouri, it’s easy.  [Just fill out this form](https://www.co.st-louis.mo.us/elections/VOTER_REG_APP.pdf) and send it to your election board—directions on the back.
+3. Join the St. Louis Tea Party’s Block Captain/Liberty Evangelism project. Give people the power of personal freedom by handing them a Constitution with your email address on it, saying, “Please take this as  gift. Please read it and decide for yourself whether Washington is living up to the promises in those documents.”
+4. Use the buddy system to make sure everyone you recruit votes in the primary (on August 3 in Missouri) and on November 2.  That means you will commit to ensuring one other person gets to the polls, and someone commits to ensuring you get to the polls.  Take ownership of this job.  Let nothing stop you.
+5. Put in for vacation on November 1, 2, and 3.  Do it right now. You will be needed to get out the vote.  Let nothing stop you. (You will still be partying on Wednesday at 10:00 a.m., so you might as well not even think about working that day.)
+6. Vote early and get your friends and neighbors who agree with you to vote early.
+7. Every night before you go to bed, write a positive journal entry describing the feeling, the sounds, the news on November 2 and 3.  Describe Ed Martin’s victory speech or Robin Carnahan’s concession.  What will Frank Rich Say?  Paul Krugman?  Maureen Dowd?  Keith Olbermann? Chris Matthews?  Would could be more fun that Matthews describing the “Tea bagger temper tantrum” that overturned Congress?   Write Rush Limbaugh’s opening monologue for November 3.  Who will get [Dana Loesch’s](https://danaradio.com) cool points?
 
 The name of the movement doesn’t matter. It never did.  Names are symbols.  The name came from the name of an event—a “tea party” held to demonstrate that we’d had enough. That phase is over.  Everyone knows we’ve had enough.  Now it’s time to act.

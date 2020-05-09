@@ -21,5 +21,5 @@ Thanks,
 
 Bill
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1223)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1223" >}}
 

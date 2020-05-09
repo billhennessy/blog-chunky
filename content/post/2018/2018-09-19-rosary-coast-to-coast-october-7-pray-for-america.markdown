@@ -88,7 +88,7 @@ If none of these locations works for you, consider organizing your own event at 
 
 
 
-![](https://www.hennessysview.com/wp-content/uploads/2018/09/ourladyperputual2.jpeg)
+{{< figure src="https://www.hennessysview.com/wp-content/uploads/2018/09/ourladyperputual2.jpeg" >}}
 Our Lady of Perpetual Help grotto at the Black Madonna Shrine
 
 
@@ -235,7 +235,7 @@ The Black Madonna Shrine is one of the best-kept secrets of Midwestern Christend
 
 
 
-![](https://www.hennessysview.com/wp-content/uploads/2018/09/nativitygrotto4.jpeg)
+{{< figure src="https://www.hennessysview.com/wp-content/uploads/2018/09/nativitygrotto4.jpeg" >}}
 Nativity Grotto at Black Madonna Shrine
 
 

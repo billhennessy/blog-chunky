@@ -29,7 +29,7 @@ The prospect of a Republican beating Obama isn't frightening, of course—any of
 
 Except in rare cases—one candidate is caught stealing from a church weeks before the election—political elections carry too many variables for anyone to predict their results a month in advance, much less three-quarters of a year ahead.
 
-[![](https://ludicrite.files.wordpress.com/2012/02/capricious.jpg)
+[{{< figure src="https://ludicrite.files.wordpress.com/2012/02/capricious.jpg" >}}
 ](https://ludicrite.files.wordpress.com/2012/02/capricious.jpg)
 
 News agencies and pollsters make their prognostications with an enormous caveat: “if the election were held today.” They’ve learned that a lot can happen between today and November.

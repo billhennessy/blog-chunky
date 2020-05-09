@@ -61,5 +61,5 @@ UPDATE: Thorough analysis by[ Mark Noonan](https://www.blogsforbush.com/mt/archi
 
 My fodder for the[ Beltway Traffic Jam](https://www.outsidethebeltway.com/archives/9363)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1209)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1209" >}}
 

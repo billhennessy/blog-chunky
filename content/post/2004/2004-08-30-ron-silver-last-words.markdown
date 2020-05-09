@@ -55,5 +55,5 @@ they have undertaken.
 which we fight, we will, with God's help, go forward to our greatest victory."  
 Thank you.  
   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=610)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=610" >}}
 

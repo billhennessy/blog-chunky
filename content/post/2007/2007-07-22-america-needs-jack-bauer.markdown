@@ -16,11 +16,11 @@ And until we get one, we would do will to hang out at [Forums4Bauer](https://for
 
 America also needs more of this . . .
 
-![](https://hennessysview.info/wp/wp-content/uploads/2007/07/072107-1820-americaneed13.jpg)
+{{< figure src="https://hennessysview.info/wp/wp-content/uploads/2007/07/072107-1820-americaneed13.jpg" >}}
 
 
 and this
 
-![](https://hennessysview.info/wp/wp-content/uploads/2007/07/072107-1820-americaneed22.jpg)
+{{< figure src="https://hennessysview.info/wp/wp-content/uploads/2007/07/072107-1820-americaneed22.jpg" >}}
 
 

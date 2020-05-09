@@ -30,5 +30,5 @@ My favorite posts, summarized:
 
 Folks, these are the sentiments of the people we just defeated. Thank God. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=521)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=521" >}}
 

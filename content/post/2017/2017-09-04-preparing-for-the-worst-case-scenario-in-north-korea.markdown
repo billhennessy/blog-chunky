@@ -45,7 +45,7 @@ An EMP attack would look like this:
 ** Every semiconductor and small wire in the United States burns out
 
 
-![](https://hennessysview.com/wp-content/uploads/2017/09/20130605_EMP_attack_large.jpg)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/09/20130605_EMP_attack_large.jpg" >}}
 
 
 No boats. No lights. No motor cars.

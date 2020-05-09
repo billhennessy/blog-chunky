@@ -111,5 +111,5 @@ UPDATE: [Professor Bainbridge ](https://www.professorbainbridge.com/2005/03/stil
 
 UPDATE: [RightwingNews.com ](https://www.rightwingnews.com/archives/week_2005_02_27.PHP#003532)makes a strong effort at laughing at the Supreme Court's ruling. To me, though, it just makes me long for the days when America was a democratic-republic instead of oligarchy of lawyers. I urge President Bush to vow to appoint no lawyers to the Supreme Court. The job is too important to leave to men and women who have been trained to lie, obscure, confuse, and twist logic until regular folks through their hands up and say, "screw it--have it your way."
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1277)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1277" >}}
 

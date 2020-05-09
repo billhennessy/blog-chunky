@@ -9,5 +9,5 @@ categories:
 - Latest
 ---
 
-Their very small son, [Drake](https://www.deanesmay.com/posts/1108674151.shtml), is in the hospital with pneumonia. May God speed Drake's recovery and comfort his family. ![](https://blog.billhennessy.com/aggbug.aspx?PostID=1117)
+Their very small son, [Drake](https://www.deanesmay.com/posts/1108674151.shtml), is in the hospital with pneumonia. May God speed Drake's recovery and comfort his family. {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1117" >}}
 

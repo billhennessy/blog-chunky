@@ -31,5 +31,5 @@ Things should be much better here on out.
 
 And I'll have much more time to blog . . . 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=946)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=946" >}}
 

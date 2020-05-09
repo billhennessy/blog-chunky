@@ -21,7 +21,7 @@ tags:
 type: "post"
 ---
 
-[![](https://hennessysview.com/wp-content/uploads/2011/04/UofMCommie.png)
+[{{< figure src="https://hennessysview.com/wp-content/uploads/2011/04/UofMCommie.png" >}}
 ](https://hennessysview.com/wp-content/uploads/2011/04/UofMCommie.png)The University of Missouri St. Louis uses tax dollars to provide a recruiting station for the Communist Party USA—an organization whose purpose is to shred the United States Constitution.
 
 [UMSL Student Philip Christofanelli](https://biggovernment.com/pchristofanelli/2011/05/09/introduction-to-labor-studies-my-first-hand-account/) heroically chronicles the remarkable Marxist indoctrination known as “Introduction to Labor Studies” on BigGovernment.com.  I’ll give you a taste:

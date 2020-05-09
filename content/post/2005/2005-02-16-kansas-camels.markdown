@@ -19,5 +19,5 @@ Nor did I know that people ate them. Then again, half way through the last centu
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1105)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1105" >}}
 

@@ -59,5 +59,5 @@ One problem I have with capital punishment is that it is award too frequently an
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1236)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1236" >}}
 

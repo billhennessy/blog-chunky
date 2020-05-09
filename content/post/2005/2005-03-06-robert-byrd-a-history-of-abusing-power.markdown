@@ -175,5 +175,5 @@ P.S. I think Byrd looked like an idiot playing fiddle on Hee-Haw.
 
 UPDATE: I've received some e-mails (though no comments) from folks who think my "nigras" comment was over the top. Well, Robert Byrd is a disgusting human being. I'm just throwing back at him what he's thrown on the world, the way he used to throw gasoline on crosses.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1313)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1313" >}}
 

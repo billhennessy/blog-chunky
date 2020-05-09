@@ -14,7 +14,7 @@ type: "post"
 
  
 
-![](https://stlouisteaparty.com/wp-content/uploads/frugal/edbillboard.png)
+{{< figure src="https://stlouisteaparty.com/wp-content/uploads/frugal/edbillboard.png" >}}
 
 
  

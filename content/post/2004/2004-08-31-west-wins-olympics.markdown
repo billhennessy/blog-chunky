@@ -11,5 +11,5 @@ categories:
 
 Take a break from the convention to [check out Musings](https://stlbrianj.blogspot.com/archives/2004_08_29_archive.html#109400158222713095) (Brian Noggle) on the West vs. the East, Islam, and Africa.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=595)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=595" >}}
 

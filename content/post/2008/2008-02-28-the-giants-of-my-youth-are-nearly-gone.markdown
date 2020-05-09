@@ -9,7 +9,7 @@ categories:
 - Latest
 ---
 
-![](https://media3.washingtonpost.com/wp-dyn/content/photo/2005/11/23/PH2005112301930.jpg)
+{{< figure src="https://media3.washingtonpost.com/wp-dyn/content/photo/2005/11/23/PH2005112301930.jpg" >}}
 
 
 My favorite cat's name was Buckley.  The cat was nothing like my hero, but he crawled into my heart, settling there as snuggly and permanently as my hero did into my mind and soul.

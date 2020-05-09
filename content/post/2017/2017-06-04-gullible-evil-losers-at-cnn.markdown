@@ -21,12 +21,12 @@ CNN's latest hate-crime: **CNN is criticizing London police for using too many b
 
 That's right. CNN will soon demand a UN war crimes tribunal to try, convict, and hang the London cops who put down the London Bridge terrorists.
 
-![](https://hennessysview.com/wp-content/uploads/2017/06/Screenshot-2017-06-04-16.03.16.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/06/Screenshot-2017-06-04-16.03.16.png" >}}
 
 
 This photo caption appeared below this critical headline.
 
-![](https://hennessysview.com/wp-content/uploads/2017/06/Screenshot-2017-06-04-15.58.26-1024x358.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/06/Screenshot-2017-06-04-15.58.26-1024x358.png" >}}
 
 
 **CNN has not responded to my request for comments**.

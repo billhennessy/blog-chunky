@@ -31,5 +31,5 @@ We've heard the George 43 and Clinton also enjoy one another's company. Perhaps 
 
 [Joe Gandelman, guest bloggin for Dean Esmay, ](https://www.deanesmay.com/posts/1108831234.shtml)found [this related story ](https://edition.cnn.com/2005/WORLD/asiapcf/02/19/tsunami.bush.clinton/)on CNN.com
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1127)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1127" >}}
 

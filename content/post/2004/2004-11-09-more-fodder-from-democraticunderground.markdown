@@ -22,5 +22,5 @@ WAR IS NOT A FAMILY VALUE.
 > 
 > 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=511)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=511" >}}
 

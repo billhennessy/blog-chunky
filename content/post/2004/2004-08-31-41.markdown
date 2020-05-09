@@ -16,5 +16,5 @@ I don't confuse George H. W. Bush with a great president. I do believe he has be
 
 [And his performance yesterday ](https://www.foxnews.com/story/0,2933,130672,00.html)in defense of the President and in opposition to the President's filthy detractors was stellar.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=600)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=600" >}}
 

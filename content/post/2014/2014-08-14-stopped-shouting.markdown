@@ -38,7 +38,7 @@ I just looked at my Twitter timeline and realized I'm still shouting. But I don'
 
 [I shouted at Erick Erickson t](https://hennessysview.com/2014/08/09/erick-erickson-reince-priebus/)he other day. I feel better, but I'm not sure I accomplished anything.
 
-Then, I opened up my Kindle version of P.J. O'Rourke's fabulous work [Don't Vote It Just Encourages the Bastards](https://www.amazon.com/gp/product/0802145434/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0802145434&linkCode=as2&tag=hennesssview-20)![](https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0802145434)
+Then, I opened up my Kindle version of P.J. O'Rourke's fabulous work [Don't Vote It Just Encourages the Bastards](https://www.amazon.com/gp/product/0802145434/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0802145434&linkCode=as2&tag=hennesssview-20){{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0802145434" >}}
 . Here's what I read:
 
 

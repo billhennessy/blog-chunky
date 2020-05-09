@@ -17,5 +17,5 @@ Bush's policy is to find terrorists and kill them.  They are mad at that.  What 
   
   
   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=662)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=662" >}}
 

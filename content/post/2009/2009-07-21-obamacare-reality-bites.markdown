@@ -28,5 +28,5 @@ The orderlies scuffle with the espontaneo, who is finally ejected from the hall.
   
 
 
-![](https://img.zemanta.com/pixy.gif?x-id=13a2d2b6-9c32-8b62-9e20-cb5e79519656)
+{{< figure src="https://img.zemanta.com/pixy.gif?x-id=13a2d2b6-9c32-8b62-9e20-cb5e79519656" >}}
 

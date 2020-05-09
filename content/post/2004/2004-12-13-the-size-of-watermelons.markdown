@@ -21,5 +21,5 @@ This is as ballsy as the Clinton Library and Massage Parlor hosting Abstinence I
 
 Thanks to [Outside the Beltway ](https://www.outsidethebeltway.com/archives/8421)for bringing the UN's latest atrocity to our attentions.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=863)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=863" >}}
 

@@ -32,7 +32,7 @@ I’m happy to say I screwed up, though.
 
 **What Happened?**
 
-[![](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/09/overflow-drink-282x300.jpg)
+[{{< figure src="https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/09/overflow-drink-282x300.jpg" >}}
 ](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/09/overflow-drink.jpg)Well, over 100 people showed up.  And more will show up on October 20.  And more after that.
 
 So our plan of rotating through great St. Louis restaurants is all shot to hell. Most restaurants can’t accommodate groups our size.
@@ -53,7 +53,7 @@ You overwhelmed the system, you Cloward-Piven wannabes,  with your desire to fi
 
 
 
-![](https://www.paypal.com/en_US/i/scr/pixel.gif)
+{{< figure src="https://www.paypal.com/en_US/i/scr/pixel.gif" >}}
 
 
 
@@ -85,10 +85,10 @@ Become a Sustaining Member.
 </tr>
 </tbody>
 </table>
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
+{{< figure src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >}}
 
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_unsubscribe_LG.gif)
+[{{< figure src="https://www.paypalobjects.com/en_US/i/btn/btn_unsubscribe_LG.gif" >}}
 ](https://www.paypal.com/cgi-bin/webscr?cmd=_subscr-find&alias=G6EBE3QY25WY6)
 
 

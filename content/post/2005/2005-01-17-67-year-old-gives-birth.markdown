@@ -16,5 +16,5 @@ Chances are, [the child who lived will have only scant memories of her mother](h
 
 I think it's wonderful that modern science allows people who want children to have them. The drawback to that is people who shouldn't want children--like the elderly--having them.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=937)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=937" >}}
 

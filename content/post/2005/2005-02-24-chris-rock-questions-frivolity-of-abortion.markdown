@@ -66,5 +66,5 @@ To those one the right who oppose abortion and feel lost in the political or cou
 
 Find out how long it'll take to get home on the [Beltway Traffic Jam.](https://www.outsidethebeltway.com/archives/9380) And [Wizbang's Linkfest](https://wizbangblog.com/archives/005202.php).
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1227)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1227" >}}
 

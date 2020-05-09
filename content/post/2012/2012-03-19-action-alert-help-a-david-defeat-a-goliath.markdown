@@ -40,7 +40,7 @@ His name is Rodger Cook. [ Mayor Cook has won my endorsement](https://hennessys
 
 3. Make this Cook for Congress badge your Facebook and Twitter avatar.
 
-[![](https://hennessysview.com/wp-content/uploads/2012/03/www.cookforcongress.org-screen-capture-2012-3-18-19-24-12-300x162.png)
+[{{< figure src="https://hennessysview.com/wp-content/uploads/2012/03/www.cookforcongress.org-screen-capture-2012-3-18-19-24-12-300x162.png" >}}
 ](https://hennessysview.com/wp-content/uploads/2012/03/www.cookforcongress.org-screen-capture-2012-3-18-19-24-12.png)
 
 **It’s time to choose: David or Goliath?**

@@ -24,6 +24,6 @@ Please take a little break this weekend and[ listen to the Tea Party Power Hour.
 
 Then, get the [Tea Party S.O.B. Brigade T-Shirts](https://stlouisteaparty.com/s-o-b-brigade-store/).
 
-[![](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/09/181429141-300x243.png)
-](https://stlouisteaparty.com/s-o-b-brigade-store/#ecwid:category=1568611&mode=product&product=6482763)[![](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/09/181715021-300x187.jpg)
+[{{< figure src="https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/09/181429141-300x243.png" >}}
+](https://stlouisteaparty.com/s-o-b-brigade-store/#ecwid:category=1568611&mode=product&product=6482763)[{{< figure src="https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/09/181715021-300x187.jpg" >}}
 ](https://stlouisteaparty.com/s-o-b-brigade-store/#ecwid:category=1568611&mode=product&product=6492976)

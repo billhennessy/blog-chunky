@@ -76,5 +76,5 @@ But Crichton's lack of details serves one purpose well: it leaves interpretation
 
 Do not let my literary snobbishness stop you from reading [State of Fear](https://www.amazon.com/exec/obidos/redirect?tag=hennesssview-20&path=tg%2Fdetail%2F-%2F0066214130%2Fqid%3D1102908263%2Fsr%3D8-1%2Fref%3Dpd_csp_1%3Fv%3Dglance%26s%3Dbooks%26n%3D507846). As I said, the story moves with engrossing pace, even if the writing and characters seem thin. I still recommend the book. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=873)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=873" >}}
 

@@ -10,14 +10,14 @@ categories:
 type: "post"
 ---
 
-Readers of this blog believe a stronger service ethic would make America a stronger country, but no one wants the federal government involved. And 95 percent of respondents agree that performing service benefits the volunteer as much or more as it benefits the recipients of the work.[![](https://hennessysview.com/wp-content/uploads/2015/08/1438819276_thumb.png)
+Readers of this blog believe a stronger service ethic would make America a stronger country, but no one wants the federal government involved. And 95 percent of respondents agree that performing service benefits the volunteer as much or more as it benefits the recipients of the work.[{{< figure src="https://hennessysview.com/wp-content/uploads/2015/08/1438819276_thumb.png" >}}
 ](https://hennessysview.com/wp-content/uploads/2015/08/1438819276_full.png)
 
 
 
 Those are the key finding from last week’s poll on service. Specifically, 82 percent agree with the statement “A strong service ethic would make America stronger.” When asked which level of government is best suited to manage volunteer service programs, 64 percent favored no government, 32 percent said state government, and 5 percent chose county or municipal government. Federal government scored a fat zero.
 
-[![](https://hennessysview.com/wp-content/uploads/2015/08/1438819218_thumb.png)
+[{{< figure src="https://hennessysview.com/wp-content/uploads/2015/08/1438819218_thumb.png" >}}
 ](https://hennessysview.com/wp-content/uploads/2015/08/1438819218_full.png)
 
 Only 32 percent of respondents have served in the US military at some point in their lives, but 73 percent have performed non-military volunteer service. Only 3 percent have never volunteered for anything.

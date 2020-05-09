@@ -52,5 +52,5 @@ and put up with a lot more.
   
 
   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=926)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=926" >}}
 

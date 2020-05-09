@@ -26,5 +26,5 @@ Rafsanjani's demand that the US unfreeze the billions of Iranian assets that the
 
 Let's hope Iran follows Libya's lead.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1036)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1036" >}}
 

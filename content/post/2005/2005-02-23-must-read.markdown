@@ -31,5 +31,5 @@ Hat tip [Michelle Malkin](https://michellemalkin.com/archives/001577.htm).
 
 UPDATE: I should have read Captain Ed's links before I posted.[ QandO tears Ted Rall ](https://www.qando.net/details.aspx?Entry=1204)to shreds, exposing some lies. (Apologies to [Dean Esmay](https://www.deanesmay.com/posts/1109146224.shtml).) You get the feeling that Ted Rall's dog regards his master the way Grinch's dog, Max, regarded his.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1208)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1208" >}}
 

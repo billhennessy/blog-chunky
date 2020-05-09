@@ -11,5 +11,5 @@ tags:
 ---
 
 [h/t Gateway Pundit
-![](https://journeymapp.com/hennessysview/wp-content/uploads/2012/02/hockeymomsforpalin.jpg?w=300)
+{{< figure src="https://journeymapp.com/hennessysview/wp-content/uploads/2012/02/hockeymomsforpalin.jpg?w=300" >}}
 ](https://gatewaypundit.blogspot.com/2008/09/incredible-sarah-palin-speech-video.html)

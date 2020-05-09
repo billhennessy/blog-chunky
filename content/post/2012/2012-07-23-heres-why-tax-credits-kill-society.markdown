@@ -27,7 +27,7 @@ Tax credits reward particular businesses or developers with tax dollars from the
 
 
 
-[![](https://ludicrite.files.wordpress.com/2012/07/tax-jar2.jpg)
+[{{< figure src="https://ludicrite.files.wordpress.com/2012/07/tax-jar2.jpg" >}}
 ](https://ludicrite.files.wordpress.com/2012/07/tax-jar2.jpg)
 
 

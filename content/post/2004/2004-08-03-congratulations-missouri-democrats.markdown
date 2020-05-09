@@ -15,5 +15,5 @@ Whoever wins the general election, Missouri's next governor will be better than 
   
 Congratulations, Missouri.  Viva democratic-republics.  
   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=659)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=659" >}}
 

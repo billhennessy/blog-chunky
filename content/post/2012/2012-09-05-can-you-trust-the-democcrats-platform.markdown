@@ -21,7 +21,7 @@ type: "post"
 
 For years voters have complained that politicians and parties say anything to get a vote. People have longed for the days of plain talk and honesty.
 
-[![](https://ludicrite.files.wordpress.com/2012/07/planetoftheapesending.jpg)
+[{{< figure src="https://ludicrite.files.wordpress.com/2012/07/planetoftheapesending.jpg" >}}
 ](https://ludicrite.files.wordpress.com/2012/07/planetoftheapesending.jpg)Well, the Democrats passed a new platform today. Two headlines emerged:
 
 1. The Democrats rejected any reference to God.

@@ -26,5 +26,5 @@ I was in a Border's two weeks ago where I found an aisle end cap dedicated to bo
 
 It's too bad liberals don't have to live by their own rules on dissent.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=597)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=597" >}}
 

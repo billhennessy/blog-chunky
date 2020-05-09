@@ -17,7 +17,7 @@ tags:
 
 **This morning**, I heard the news of the murder of a young police officer.
 
-![](https://hennessysview.com/wp-content/uploads/2007/08/ofcbrown.jpg)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2007/08/ofcbrown.jpg" >}}
 Officer Norvelle Brown, only 22 years old and a rookie cop, made St. Louis headlines for the second time in his short career--his short, honorable life.  In April, Officer Brown responded to a hostage situation during a barber shop robber, defusing the situation and apprehending the armed robbers.   He and another officer received citations for that action.  He had been out of the academy only 7 months at the time.
 
 Last night, Officer Brown left his patrol car to investigate a group of people who were loitering in a vacant lot.  No one knows the exact details leading to Brown's murder.  We do know that the bullet that killed him missed his body armor, passing through both lungs.

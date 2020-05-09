@@ -15,7 +15,7 @@ tags:
 - windows vista
 ---
 
-Rarely does a single factor cause a paradigm shift. For one example, look at the election of Ronald Reagan. Sure, Reagan had a great message, ![](https://www.disco-tech.org/Linux%20tux-large.jpg)
+Rarely does a single factor cause a paradigm shift. For one example, look at the election of Ronald Reagan. Sure, Reagan had a great message, {{< figure src="https://www.disco-tech.org/Linux%20tux-large.jpg" >}}
 expert delivery, and that presidential look. But without Carter's bungling incompetence, excesses by liberals in Congress, a runaway Supreme Court, Soviet expansion, stagflation, the Iranian hostage crisis, and seventeen thousand other annoying problems, Reagan would not have upset an incumbent president in 1980.   
 **  
 Revenge of the Nerds**  
@@ -26,7 +26,7 @@ Since 1999, my IT friends have been predicting the rise of the Linux desktop. Si
   
 [Ubuntu](https://www.ubuntu.com/) might soon change that.  
   
-[![](https://www.ubuntu.com/themes/ubuntu07/images/ubuntulogo.png)
+[{{< figure src="https://www.ubuntu.com/themes/ubuntu07/images/ubuntulogo.png" >}}
 ](https://www.ubuntu.com/)Last week I installed Ubuntu 8.10 on my wife's laptop. (It dual-boots Vista Home Basic for her Zune and a few other incompatible activities related to her job.) After getting both systems working smoothly, I went the extra step of setting up Ubuntu's Gnome desktop system to work and look like Mac's OS X. I friggin' love it.  
   
 The reason for installing Linux on this machine was economics--and that's one of the factors that could put Linux on a lot of desktops in the next 2 years. My wife's laptop is limited to 1.25 GB RAM. It has a barebones video card. I just replace the 60 GB hard drive with a 160 GB one because the 60 GB was 90 percent full even though all of our User files (docs, photos, music, videos, downloads, etc) are stored on an external HD. I used an out of the box install of Vista--not the OEM disk from Toshiba--so that I could install the minimum crap necessary to run the computer.   

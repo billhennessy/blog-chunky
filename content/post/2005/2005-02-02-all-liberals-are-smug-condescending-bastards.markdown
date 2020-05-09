@@ -11,5 +11,5 @@ categories:
 
 Again, if the left continues to "know" what's up with the right, I will continue to "know" what's up with them, their mania, and their myriad psychoses. [Brian Noggle caught this gem ](https://stlbrianj.blogspot.com/archives/2005_01_30_archive.html#110720700316757708)of lefty ass-showing from the St. Louis Post-Dispatch, written by a man whose resemblance to a human being is mere coincidence.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=975)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=975" >}}
 

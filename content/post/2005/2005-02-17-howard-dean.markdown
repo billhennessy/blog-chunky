@@ -96,5 +96,5 @@ Here's more on [The American Thinker](https://www.americanthinker.com/comments.p
 
 Nuff said. Except for [this on Ipse Dixit](https://www.cdharris.net/archives/2005_02.html#004349) and [Bill InDC has more](https://www.indcjournal.com/archives/001570.php)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1108)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1108" >}}
 

@@ -34,5 +34,5 @@ Hat tip to [Stanley Kurtz](https://www.nationalreview.com/thecorner/05_02_13_cor
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1076)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1076" >}}
 

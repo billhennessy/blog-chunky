@@ -21,5 +21,5 @@ But they're the compassionate ones. Rrrriiiigghhhhttt.
 
 Thanks to[ Paul Lewis on GOP Bloggers](https://www.gopbloggers.org/mt/archives/000485.html)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1252)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1252" >}}
 

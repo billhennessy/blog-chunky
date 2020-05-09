@@ -59,5 +59,5 @@ I can't wait.
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1047)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1047" >}}
 

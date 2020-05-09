@@ -9,5 +9,5 @@ categories:
 - Latest
 ---
 
-![](https://www.intrade.com/jsp/intrade/common/images/contractImages/obama.jpg)
+{{< figure src="https://www.intrade.com/jsp/intrade/common/images/contractImages/obama.jpg" >}}
 

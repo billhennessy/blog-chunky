@@ -26,7 +26,7 @@ type: "post"
 
 A couple years ago, a lot of folks believed that victory in 2010 would be a cakewalk. Led by Tea Party activists, the GOP picked up over 800 legislative seats, state and federal, in the 2010 off-year election. Rumors of the Republican Party's death had been greatly exaggerated.
 
-[![](https://ludicrite.files.wordpress.com/2012/09/dirtyharry.jpg)
+[{{< figure src="https://ludicrite.files.wordpress.com/2012/09/dirtyharry.jpg" >}}
 ](https://ludicrite.files.wordpress.com/2012/09/dirtyharry.jpg)
 
 Or so it seemed.

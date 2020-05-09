@@ -9,5 +9,5 @@ categories:
 - Latest
 ---
 
-**[ This is the best Hitchens in  . . . ever.  Read it.  Read it now.  Tell your boss you're busy, and read it now, savoring every brilliant word. ](https://slate.msn.com/id/2109377/)** ![](https://blog.billhennessy.com/aggbug.aspx?PostID=507)
+**[ This is the best Hitchens in  . . . ever.  Read it.  Read it now.  Tell your boss you're busy, and read it now, savoring every brilliant word. ](https://slate.msn.com/id/2109377/)** {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=507" >}}
 

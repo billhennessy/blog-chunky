@@ -76,5 +76,5 @@ Do you think this has something to do with the fact that Missouri collects $.17 
 
 Thanks to [OTB ](https://www.outsidethebeltway.com/archives/8451)for this link to [Weekly Standard](https://www.weeklystandard.com/Content/Public/Articles/000/000/001/078ftoqz.asp).
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=883)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=883" >}}
 

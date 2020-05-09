@@ -36,7 +36,7 @@ If you want to order top quality meats at great prices, you don’t have to put 
 
  
 
-[![](https://www.patboonemeats.com/sites/all/themes/pat_boone/images/pat_boone-all_american_meats.gif)
+[{{< figure src="https://www.patboonemeats.com/sites/all/themes/pat_boone/images/pat_boone-all_american_meats.gif" >}}
 ](https://www.patboonemeats.com/)
 
  

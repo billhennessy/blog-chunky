@@ -15,5 +15,5 @@ In his biggest break from his previous convictions, Sen. John Kerry today announ
   
 The Bush campaign chose to leave Kerry's comments alone.  "No comment," said a grinning Karl Rove when asked by reporters about the Democrat's new position.   
   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=559)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=559" >}}
 

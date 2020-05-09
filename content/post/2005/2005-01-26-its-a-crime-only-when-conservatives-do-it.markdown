@@ -31,5 +31,5 @@ As with so many things, it's a crime only if you're a conservative.
 
 [Emily is just back from Washington](https://afterabortion.blogspot.com/2005/01/back-from-march.html), if you're in the mood for more abortion news.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=951)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=951" >}}
 

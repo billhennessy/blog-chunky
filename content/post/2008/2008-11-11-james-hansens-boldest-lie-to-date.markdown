@@ -26,7 +26,7 @@ Meanwhile, 2008 is shaping up to be [below average](https://www.ncdc.noaa.gov/im
 
  
 
-![](https://www.ncdc.noaa.gov/img/climate/research/2008/oct/01_10_2008_DvTempRank_pg.gif)
+{{< figure src="https://www.ncdc.noaa.gov/img/climate/research/2008/oct/01_10_2008_DvTempRank_pg.gif" >}}
 
 
  

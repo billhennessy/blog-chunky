@@ -12,7 +12,7 @@ tags:
 - ZTD
 ---
 
-![](https://hennessysview.com/wp-content/uploads/2008/11/ra100998-thumb1.jpg)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2008/11/ra100998-thumb1.jpg" >}}
 
 
 Several weeks ago, I posted about Leo Babauta's Zen to Done method for Getting Things Done.  I apologize for not keeping up my blogging on my progress.  But one habit at a time. 

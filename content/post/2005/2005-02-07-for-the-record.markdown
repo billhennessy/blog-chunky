@@ -16,5 +16,5 @@ With 13 minutes left in the game and New England up 7, I'll take the Eagles by 4
 
 UPDATE: Well, with a couple of minutes left, looks like I was wrong. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1027)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1027" >}}
 

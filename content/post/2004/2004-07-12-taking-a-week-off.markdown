@@ -9,5 +9,5 @@ categories:
 - Latest
 ---
 
-A play I'm in opens this week, so I won't be blogging.  Should return about the 19th.  Keep the world safe for democracy in my absence.![](https://blog.billhennessy.com/aggbug.aspx?PostID=692)
+A play I'm in opens this week, so I won't be blogging.  Should return about the 19th.  Keep the world safe for democracy in my absence.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=692" >}}
 

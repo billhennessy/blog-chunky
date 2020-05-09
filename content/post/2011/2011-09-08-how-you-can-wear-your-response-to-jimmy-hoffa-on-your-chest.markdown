@@ -20,7 +20,7 @@ Order the [Tea Party S.O.B. Brigade T-Shirt](https://stlouisteaparty.com/s-o-b-b
 
 The AUTHENTIC goods, designed by Chris Loesch.
 
-[![](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/09/TPSOB-Black-300x243.png)
+[{{< figure src="https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/09/TPSOB-Black-300x243.png" >}}
 ](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/09/TPSOB-Black.png)
 
 Available for a limited time.  Orders ship shortly.  Jump in. Everybody wants to see these on the streets of St. Louis.

@@ -24,5 +24,5 @@ UPDATE: Maybe its my DNS server. Or maybe half the internet is down. I can get t
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1377)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1377" >}}
 

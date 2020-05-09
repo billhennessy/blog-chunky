@@ -27,5 +27,5 @@ Along comes [ThoseShirts.com](https://www.thoseshirts.com/). I'm wearing this on
 
 My son, Patrick, has one on the way. As soon as he saw mine, he had to have.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1338)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1338" >}}
 

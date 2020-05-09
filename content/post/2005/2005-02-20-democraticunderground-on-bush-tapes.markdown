@@ -124,5 +124,5 @@ Releated:
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1137)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1137" >}}
 

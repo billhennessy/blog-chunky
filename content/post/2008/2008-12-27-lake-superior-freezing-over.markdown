@@ -13,7 +13,7 @@ tags:
 - Lake Superior
 ---
 
-![](https://www.piercecountyherald.com/gfx/photos/full/ice.jpg)
+{{< figure src="https://www.piercecountyherald.com/gfx/photos/full/ice.jpg" >}}
 Even as CO2 levels rise, western Lake Superior is [freezing over](https://www.riverfallsjournal.com/articles/index.cfm?id=18723&section=homepage&property_id=18) for the first time years.
 
 

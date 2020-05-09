@@ -21,5 +21,5 @@ I feel guilty when I read her columns. Of all the stimulae she could focus on, s
 
 Ms. Noonas has taken a 3 month break from column writing in order to help the Republican Party. [Her reasons for doing so](https://www.opinionjournal.com/columnists/pnoonan/), though a month old, are worth reading.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=587)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=587" >}}
 

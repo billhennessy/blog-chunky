@@ -83,5 +83,5 @@ Related: [Eason Jordan and Alger Hiss](https://blog.billhennessy.com/blogs/henne
 
 Update: [Dean's World ](https://www.deanesmay.com/posts/1108583755.shtml)has more blogger abuse. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1074)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1074" >}}
 

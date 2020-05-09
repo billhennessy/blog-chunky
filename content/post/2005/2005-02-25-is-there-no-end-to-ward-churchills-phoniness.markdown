@@ -81,5 +81,5 @@ UPDATE: Michelle has posted even more links demonstrating Churchill's rampant in
 
 UPDATE: [ If you haven't read this piece, please do so.](https://blog.billhennessy.com/blogs/hennessys_view/archive/2005/02/23/1214.aspx) I struck-through the references to the erroneous I'm Not an Indian story. That isn't much. The rest of the piece is only reinforced by subsequent events. Ward Churchill is as phony as a discount store toupee.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1232)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1232" >}}
 

@@ -15,5 +15,5 @@ While liberals always have and always will hate Ashcroft, make up stories about 
 
 I guess, in this case, the MSM has decided the losers will write the history while the winners are still busy running a country and a war.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=501)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=501" >}}
 

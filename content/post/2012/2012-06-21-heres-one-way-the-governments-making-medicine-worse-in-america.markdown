@@ -21,7 +21,7 @@ type: "post"
 
 I had to go to the doctor today. The reason's not important.  Here's what is:
 
-**It took my doctor 10 minutes to describe my symptoms into a government-mandated voice recognition system.  [![](https://ludicrite.files.wordpress.com/2012/06/04_dictaphone.jpg)
+**It took my doctor 10 minutes to describe my symptoms into a government-mandated voice recognition system.  [{{< figure src="https://ludicrite.files.wordpress.com/2012/06/04_dictaphone.jpg" >}}
 ](https://ludicrite.files.wordpress.com/2012/06/04_dictaphone.jpg)**
 
 In the old days, the doctor took notes.  Now, he has to recite his observations into a Mad Men-era dictaphone. "Male, age 48, blood pressure one-twenty-one over seventy-three . . . "

@@ -84,5 +84,5 @@ Oh, and don't forget about the [UN's Anti-Corruption Day](https://blog.billhenne
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1046)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1046" >}}
 

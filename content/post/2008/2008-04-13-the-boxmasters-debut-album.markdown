@@ -17,7 +17,7 @@ People love Billy Bob Thornton . . . or they hate him. Either way, they owe them
 
  
 
-[![](https://www.theboxmasters.com/media/1.jpg)
+[{{< figure src="https://www.theboxmasters.com/media/1.jpg" >}}
 ](https://www.theboxmasters.com/)
 
  

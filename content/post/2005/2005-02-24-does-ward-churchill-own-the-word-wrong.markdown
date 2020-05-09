@@ -279,5 +279,5 @@ _But that Churcillian statement does not jibe with this official statement from 
 
 __
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1214)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1214" >}}
 

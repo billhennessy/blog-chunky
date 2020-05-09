@@ -52,10 +52,10 @@ P.S. Two of my children are in harm's way in the US Navy. My thanks to them for 
 
 UPDATE: This image and message will sink deeply into the American psyche>
 
-![](https://hennessysview.com/wp-content/uploads/2017/04/Screenshot-2017-04-06-22.07.36.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/04/Screenshot-2017-04-06-22.07.36.png" >}}
 
 
 New York Times emphasizes the same Trump pull quote as I did:
 
-![](https://hennessysview.com/wp-content/uploads/2017/04/Screenshot-2017-04-06-22.03.08.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/04/Screenshot-2017-04-06-22.03.08.png" >}}
 

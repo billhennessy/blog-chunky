@@ -14,7 +14,7 @@ tags:
 type: "post"
 ---
 
-[![](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2012/02/stl-tp-logo-white-450-300x300.png)
+[{{< figure src="https://19015-hennessysview.hennessysview.com/wp-content/uploads/2012/02/stl-tp-logo-white-450-300x300.png" >}}
 ](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2012/02/stl-tp-logo-white-450.png)Two years ago today, fifteen hundred Americans took time off work, school, and leisure. You braved high winds and low temps to stand under the Arch and say, “We’ve had enough.”
 
 Since then, over 1,000 state and federal offices have changed hands.  In nearly 100 percent of these switches moves power from the privileged to the people. Some more than others. [Some not enough](https://hennessysview.com/missouri-2/disappointing-missouri-house-leadership-blowing-it/).  But an amazing reversal of trends, nonetheless.

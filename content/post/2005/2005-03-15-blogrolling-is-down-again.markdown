@@ -11,5 +11,5 @@ categories:
 
 I'm not stiffing anyone, but Blogrolling is down for the 3rd time in a week. When they're down, my site won't come up. Therefore, I've removed my blogroll. I'll put it back when the Blogrolling problems are resolved. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1359)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1359" >}}
 

@@ -16,5 +16,5 @@ It's so warm today, it must be going to snow.
 
 (Anyone from St. Louis will understand.)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1146)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1146" >}}
 

@@ -22,5 +22,5 @@ And read the whole thing!
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=556)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=556" >}}
 

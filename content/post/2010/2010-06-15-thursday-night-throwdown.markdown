@@ -19,7 +19,7 @@ type: "post"
 **AT SKY MUSIC LOUNGE IN BALLWIN**
 
 
-[![](https://hennessysview.com/wp-content/uploads/2010/06/sky1.jpg)
+[{{< figure src="https://hennessysview.com/wp-content/uploads/2010/06/sky1.jpg" >}}
 ](https://hennessysview.com/wp-content/uploads/2010/06/sky1.jpg)
 
 

@@ -15,7 +15,7 @@ categories:
 
 > It seems that NASA's James Hansen, head of the Goddard Institute for Space Studies (GISS), is at it again.  He just can't let the data speak for itself.  In yet another egregious display of Anthropogenic Global Warming (AGW) arrogance, he changed the temperature data from 1910-2008 to reflect what is clearly a cooling trend to reflect a warming trend.  (Y-axis = Annual Mean Temperatures in centigrade; X-axis = Year)
 
-![](https://www.americanthinker.com/blog/GISS-TrendComparison%20comp.jpg)
+{{< figure src="https://www.americanthinker.com/blog/GISS-TrendComparison%20comp.jpg" >}}
 
 
 

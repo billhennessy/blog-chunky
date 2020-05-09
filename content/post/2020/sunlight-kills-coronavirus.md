@@ -32,13 +32,13 @@ In March, Donald Trump and others said that warm weather would diminish the spre
 
 But the "experts," who are 95 percent progressives, immediately started screaming nonsense to the contrary. In minutes, the evil, lying fake news blasted headlines calling the President and some doctors associated with the White House liars:
 
-* ![](/images/uv-covid-1.png)
+* {{< figure src="/images/uv-covid-1.png" >}}
 ---
-* ![](/images/uv-covid-2.png)
+* {{< figure src="/images/uv-covid-2.png" >}}
 ---
-* ![](/images/uv-covid-4.png)
+* {{< figure src="/images/uv-covid-4.png" >}}
 ---
-* ![](/images/uv-covid-5.png)
+* {{< figure src="/images/uv-covid-5.png" >}}
 
 All those headlines were 100% pure, unfiltered bullshit. And they were all accurate summaries of what "the experts" were saying. 
 

@@ -12,7 +12,7 @@ type: "post"
 
 I hear about it all the time.  People are frustrated with me. With St. Louis Tea Party.
 
-[![](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/phone-430x285.jpg.scaled500.jpg)
+[{{< figure src="https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/phone-430x285.jpg.scaled500.jpg" >}}
 ](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/phone-430x285.jpg.scaled500.jpg)They're frustrated because they hear about our events _after_ the events.
 
 That's no good. We want people at the events. That's what makes them events.

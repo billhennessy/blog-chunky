@@ -9,5 +9,5 @@ categories:
 - Latest
 ---
 
-[Scrappleface characterizes perfectly](https://www.scrappleface.com) the essence of redistributive taxation policy as espoused by Hillary Clinton.![](https://blog.billhennessy.com/aggbug.aspx?PostID=726)
+[Scrappleface characterizes perfectly](https://www.scrappleface.com) the essence of redistributive taxation policy as espoused by Hillary Clinton.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=726" >}}
 

@@ -18,9 +18,9 @@ Here are my resolutions (which I don't make) for 2004:
 5. I will send letters to 27 people I don't know asking them to send me $1,000 in exchange for nothing. If they'd prefer, they can send $500 in exchange for my favorite pieces of dental flossing byproducts.  
 6. I will part my hair on the right side for 7 minutes a day.  
 7. I will stare at my reflection in the mirror each morning and pretend to recognize the face.  
-8. I will one room three different colors.   
+8. I will paint one room three different colors.   
 9. I will organize my luggage by size, shape, and color.  
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=817)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=817" >}}
 

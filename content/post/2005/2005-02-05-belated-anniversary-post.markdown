@@ -32,5 +32,5 @@ Anyway, thank you, blogosphere. It's been a very good year.
 Cordially,  
 Bill Hennessy
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=994)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=994" >}}
 

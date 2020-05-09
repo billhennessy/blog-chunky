@@ -56,5 +56,5 @@ But the[ killer story of the day comes from Joe Gandelman](https://www.themodera
 
 More on [GOP Bloggers](https://www.gopbloggers.org/mt/archives/000463.html)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1182)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1182" >}}
 

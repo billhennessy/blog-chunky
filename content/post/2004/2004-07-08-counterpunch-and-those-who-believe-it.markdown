@@ -17,5 +17,5 @@ The liberals have a little fiction mag called [CounterPunch.com](https://www.cou
   
 (I haven't had this much fun reading idiotic liberalism since college.)    
   
-Anyway, if you like this stuff, [Dean Esmay can use some help](https://www.deanesmay.com/posts/1089321794.shtml) fighting two young men who hang on each of Alexander Cockburn's words.![](https://blog.billhennessy.com/aggbug.aspx?PostID=708)
+Anyway, if you like this stuff, [Dean Esmay can use some help](https://www.deanesmay.com/posts/1089321794.shtml) fighting two young men who hang on each of Alexander Cockburn's words.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=708" >}}
 

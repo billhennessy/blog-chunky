@@ -39,7 +39,7 @@ If you're one of these, or anyone else, you probably trust your government to re
 
 Here's a chart of obesity rates over the same period we've been eating more of what the government tells us to eat:
 
-[caption id="attachment_21548" align="aligncenter" width="442"]![](https://hennessysview.com/wp-content/uploads/2017/02/obesity-trends.gif)
+[caption id="attachment_21548" align="aligncenter" width="442"]{{< figure src="https://hennessysview.com/wp-content/uploads/2017/02/obesity-trends.gif" >}}
 Source: CDC https://www.cdc.gov/diabetes/statistics/prev/national/figpersons.htm[/caption]
 
 You'll notice the upward trend in obesity really takes off in the late 90s—just when the government started cracking down on obesity and changing dietary guidelines. **It's as if the government wants you to get fat and die young. **

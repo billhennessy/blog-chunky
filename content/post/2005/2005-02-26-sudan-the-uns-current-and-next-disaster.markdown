@@ -16,5 +16,5 @@ In it's never-ending quest to supervise or ignore catastrophes, the United Natio
 
 [Andrew Quinn's](https://www.themoderatevoice.com/posts/1109385980.shtml) frustration shines through in this blog on The Moderate Voice. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1241)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1241" >}}
 

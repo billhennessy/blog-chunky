@@ -27,7 +27,7 @@ The new fad among Democrats is to see **how many illegal aliens they can pack in
 
 
 
-[![](https://ludicrite.files.wordpress.com/2012/04/push-back-sq.jpg)
+[{{< figure src="https://ludicrite.files.wordpress.com/2012/04/push-back-sq.jpg" >}}
 ](https://ludicrite.files.wordpress.com/2012/04/push-back-sq.jpg)
 
 The fact is, **most Americans are too stupid about politics to vote**, which explains the 2008 election.

@@ -22,5 +22,5 @@ Notice that the two areas of life in which some outside entity appears to be pay
 The cost of college tuition has increased at twice the rate of inflation for most of my life, according to the federal government.
 
     **Year** **College Inflation** **General Inflation** **Rate Ratio**  1958-1996 7.24% 4.49% 1.61  1977-1986 9.85% 6.72% 1.47  1987-1996 6.68% 3.67% 1.82  1958-2001 6.98% 4.30% 1.62  1979-2001 7.37% 3.96% 1.86  1992-2001 4.77% 2.37% 2.01  1985-2001 6.39% 3.18%   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=534)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=534" >}}
 

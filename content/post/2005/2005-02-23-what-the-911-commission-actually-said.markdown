@@ -79,5 +79,5 @@ UPDATE: Mr. FishNuts translates the above quote from the Commission report as
 
 I can only paraphrase William F. Buckley by saying that statement is conducive of the kind of pity one feels for the ignorance of animals.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1205)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1205" >}}
 

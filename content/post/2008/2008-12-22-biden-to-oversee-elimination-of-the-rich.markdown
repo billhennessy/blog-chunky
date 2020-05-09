@@ -15,7 +15,7 @@ categories:
 > As vice president, Joe Biden will oversee an Obama administration effort to find ways of building up the ranks of the middle class, that ambiguously defined segment of society most Americans identify with.  
 
 
-[![](https://farm4.static.flickr.com/3122/3125955784_b49069f766.jpg)
+[{{< figure src="https://farm4.static.flickr.com/3122/3125955784_b49069f766.jpg" >}}
 ](https://www.flickr.com/photos/15056253@N00/3125955784)  
 What does "expanding the middle class" entail, exactly? The government has spent tens of trillions of dollars trying to elevate the poor to middle class. That doesn't work, obviously. One must assume, then, that the way Obama and his trusty sidekick Biden intend to inflate the middle is by squeezing the top.   
   

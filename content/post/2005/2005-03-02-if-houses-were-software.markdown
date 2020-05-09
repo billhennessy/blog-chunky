@@ -27,5 +27,5 @@ Thanks to[ Nyomix the Crunchy Goddess](https://www.nyominx.com/blog/index.php).
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1279)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1279" >}}
 

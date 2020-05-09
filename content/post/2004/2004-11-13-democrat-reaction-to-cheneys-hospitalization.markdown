@@ -17,5 +17,5 @@ These maggots praise Arafat and curse Cheney. They praise Usama bin Laden and cu
 
 Is there a more vile, despicable, spoiled, whining, ignorant, unimaginative, hate-filled cretin in the world than an American liberal? I don't see how there could be.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=496)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=496" >}}
 

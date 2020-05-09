@@ -21,5 +21,5 @@ For more on Arafat's death, go [here](https://www.nationalreview.com/babbin/babb
 
 UPDATE: [Steven Taylor points out ](https://www.poliblogger.com/index.php?p=5293)that Arafat was as irresponsible with Palestinian peace as he was with Palestinian money.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=500)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=500" >}}
 

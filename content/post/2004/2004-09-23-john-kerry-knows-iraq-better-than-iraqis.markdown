@@ -15,5 +15,5 @@ Well, consider the source. John Kerry believes that the world was a better place
 
 Now, they do.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=554)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=554" >}}
 

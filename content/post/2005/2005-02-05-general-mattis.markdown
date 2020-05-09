@@ -70,5 +70,5 @@ UPDATE: More on Patton and Mattis [Outside the Beltway](https://www.outsidethebe
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=998)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=998" >}}
 

@@ -31,5 +31,5 @@ P.S. My essay on [CU's irresponsibility in this matter](https://blog.billhenness
 
 Thanks to [Backcountry Conservative ](https://www.jquinton.com/archives/002605.html)for the link
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1239)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1239" >}}
 

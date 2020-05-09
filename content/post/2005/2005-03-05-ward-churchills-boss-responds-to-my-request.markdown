@@ -131,5 +131,5 @@ That's encouraging, actually.
 
 UPDATE: Filed under Moonbats, the RightWingNut has his own examination of[ Bill Maher's pathetic butt kissing](https://rightwingnuthouse.com/archives/2005/03/05/beyond-the-pale/). 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1300)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1300" >}}
 

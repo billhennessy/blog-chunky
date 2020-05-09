@@ -19,8 +19,8 @@ USA Today has given us a county-by-county map of the election. If I were a Blue 
 
 
 
-![](/Portals/0/2004countymap3.gif)
+{{< figure src="/Portals/0/2004countymap3.gif" >}}
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=518)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=518" >}}
 

@@ -29,5 +29,5 @@ FUBAR
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=971)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=971" >}}
 

@@ -43,5 +43,5 @@ I was wrong.
 You made me.  
 I resisted.  
 I'm the man.  
-You made me.![](https://blog.billhennessy.com/aggbug.aspx?PostID=741)
+You made me.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=741" >}}
 

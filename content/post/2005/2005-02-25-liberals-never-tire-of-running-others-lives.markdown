@@ -41,5 +41,5 @@ Back in the 1970s, there was a frightening commercial depicting future man as a 
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1230)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1230" >}}
 

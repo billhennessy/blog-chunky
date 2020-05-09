@@ -44,5 +44,5 @@ So the news wasn't all bad. American workers have more job choices, hire incomes
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=713)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=713" >}}
 

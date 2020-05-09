@@ -11,7 +11,7 @@ categories:
 
 Last week, Rams owner Chip Rosenbloom all but promised Rams fans that head coach Scott Linehan would be fire along with others responsible for assembling and running the worst football in the NFL. 
 
-![](https://assets.espn.go.com/media/apphoto/e0cc5bdc-5783-4003-9b6e-3a14180864f5.jpg)
+{{< figure src="https://assets.espn.go.com/media/apphoto/e0cc5bdc-5783-4003-9b6e-3a14180864f5.jpg" >}}
 You might think that Linehan and the Rams would have opened a can of backs-against-the-wall whoopass on the 0-2 Seahawks today.
 
 They didn't. Apparently, they fumbled the whoopass can in the locker room before the game, drenching themselves with the toxic substance.

@@ -29,5 +29,5 @@ The White House said that plans are in place to take out the last of the insurge
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=582)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=582" >}}
 

@@ -21,5 +21,5 @@ Ah, well. They lost the biggest election of their putrid lives. I guess I should
 
 [Stephen Bainbridge ](https://www.professorbainbridge.com/2005/02/the_postsuper_b.html)noticed, too.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1034)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1034" >}}
 

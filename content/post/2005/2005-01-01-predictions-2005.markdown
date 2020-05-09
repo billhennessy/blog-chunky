@@ -102,5 +102,5 @@ Environmentalists, sensing loss of popular support for the junk science they nee
 
 Links: [Last Year's Predictions](https://blog.billhennessy.com/blogs/hennessys_view/archive/2003/12/31/819.aspx)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=916)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=916" >}}
 

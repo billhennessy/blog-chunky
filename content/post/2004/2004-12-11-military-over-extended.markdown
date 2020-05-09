@@ -47,5 +47,5 @@ If everyone would just accept the fact that Iraq will never be settled and that 
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=855)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=855" >}}
 

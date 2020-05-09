@@ -16,7 +16,7 @@ tags:
 - terrorism
 ---
 
-![](https://hennessysview.info/wp/wp-content/uploads/2007/07/072207-0112-democratsfa1.jpg)
+{{< figure src="https://hennessysview.info/wp/wp-content/uploads/2007/07/072207-0112-democratsfa1.jpg" >}}
 
 
 I hyperbolize now and then, but not this time.

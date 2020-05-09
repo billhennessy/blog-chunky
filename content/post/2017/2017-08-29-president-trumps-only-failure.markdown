@@ -52,7 +52,7 @@ You can't make America great again while tolerating Antifa terrorism.
 
 Whatever it takes to **protect and defend the Constitution** of the United States **against all enemies**, foreign and **domestic**. It's President Trump's job to do it now.
 
-![](https://hennessysview.com/wp-content/uploads/2017/08/img_0269.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/08/img_0269.png" >}}
 
 
 Cartoon via ZeroHedge.com

@@ -49,5 +49,5 @@ Nod to [Instapundit](https://instapundit.com/archives/021371.php).
 
 BTW, I know I write about Dean and Churchill a lot, but people seem to like it. Those two subjects, plus the UN, get twice as many page views as all my other stuff put together.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1228)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1228" >}}
 

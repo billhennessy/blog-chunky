@@ -19,5 +19,5 @@ No rational human being can conclude that Qadhafi's actions are the result of an
   
 Three cheers for real men of substance, Bush and Blair, whose steadfastness against evil, the UN, and terrorism has wrought yet another dividend.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=821)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=821" >}}
 

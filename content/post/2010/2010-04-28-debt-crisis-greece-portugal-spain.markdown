@@ -33,7 +33,7 @@ Markets react: DJIA plummets from +23 to â€“22 in seconds after S&P drops Spainâ
 
  
 
-![](https://socioecohistory.files.wordpress.com/2010/01/global-debt-issuance.jpg?w=398&h=398)
+{{< figure src="https://socioecohistory.files.wordpress.com/2010/01/global-debt-issuance.jpg?w=398&h=398" >}}
 
 
  

@@ -30,5 +30,5 @@ No, I think evil is craftier. I think the life taken in a murder is actually a l
 The Goldmans and the Grantskis seem to have devoted their lives to hating their daughters killers. I hope I am wrong. I pray that, if I am right, they find ways to untangle themselves from the deadly chains of anger and hatred. Let the People of California under the laws of the state and its courts carry the burden of executing Scott Peterson. Let God dish out OJs punishment. Dont devour your own souls over the likes of those putrid men. They are not worth it.
 Others:
 [Steven Taylor](https://www.poliblogger.com/index.php?cat=26) breaks his silence on Laci Peterson--somewhat
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1384)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1384" >}}
 

@@ -30,7 +30,7 @@ type: "post"
 
 Did I say “Tea Party Leader's message?” Sorry. I meant to say that was a paraphrasing of [Jimmy Hoffa’s message to his Teamsters](https://www.realclearpolitics.com/video/2011/09/05/jimmy_hoffa_at_obama_event_on_gop_lets_take_these_son_of_bitches_out.html). Hoffa introduced President Barack Obama. That’s part of Obama’s new civil tone.
 
-[![](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/09/Jim-Hoffa-Jr.jpg)
+[{{< figure src="https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/09/Jim-Hoffa-Jr.jpg" >}}
 ](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/09/Jim-Hoffa-Jr.jpg)
 
 I swapped Tea Party and Tea Partiers with union and workers.  Had I or any Tea Partier actually said those words, the FBI would already be at our doors. But union crooks get applause from the President for calling for violence.

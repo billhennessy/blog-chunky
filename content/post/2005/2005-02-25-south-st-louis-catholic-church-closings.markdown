@@ -49,5 +49,5 @@ What others are saying:
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1233)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1233" >}}
 

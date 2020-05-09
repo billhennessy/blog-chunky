@@ -11,5 +11,5 @@ categories:
 
 My cat's enough of a problem without a human brain. I'd hate to see [what he'd be like with one.](https://www.msnbc.msn.com/id/6534243)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=848)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=848" >}}
 

@@ -9,7 +9,7 @@ categories:
 - Latest
 ---
 
-![](/wp-content/roberts.jpg)
+{{< figure src="/wp-content/roberts.jpg" >}}
 Everyone thought it was going to be a woman, or a Hispanic, or a Black.  Instead, Bush put on the color-gender-sexual-orientation blinders and picked the best candidate:  George John Roberts Jr. or the federal appeals court.
 
 It's very easy to see why liberals hate--HATE--Judge Roberts:  He seems to agree with the president on everything.

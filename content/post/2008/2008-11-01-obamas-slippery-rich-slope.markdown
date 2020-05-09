@@ -14,7 +14,7 @@ categories:
 At the current rate of decline in Barack [Obama's definition of "the rich,"](https://hotair.com/archives/2008/11/01/video-selfishness-101/) by June 2009, anyone earning more than $20,136 a year will get a tax increase.
 
 
-![](https://hennessysview.com/wp-content/uploads/2008/11/110108-1615-obamasslipp11.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2008/11/110108-1615-obamasslipp11.png" >}}
 
 	
 

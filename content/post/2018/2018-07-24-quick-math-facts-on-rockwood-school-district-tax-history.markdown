@@ -139,7 +139,7 @@ It looks like the Rockwood School District server has an invalid SSL certificate
 
 
 
-![](https://www.hennessysview.com/wp-content/uploads/2018/07/rds-ssl.gif)
+{{< figure src="https://www.hennessysview.com/wp-content/uploads/2018/07/rds-ssl.gif" >}}
 
 
 
@@ -160,12 +160,12 @@ Compare Hennessy's View valid SSL message to the warning on Rockwood's:
 
 
 
-![](https://www.hennessysview.com/wp-content/uploads/2018/07/Screenshot-2018-07-24-22.18.01.png)
+{{< figure src="https://www.hennessysview.com/wp-content/uploads/2018/07/Screenshot-2018-07-24-22.18.01.png" >}}
 Hennessy's View is secure. You're safe here.
 
 
 
-![](https://www.hennessysview.com/wp-content/uploads/2018/07/Screenshot-2018-07-24-22.03.18.png)
+{{< figure src="https://www.hennessysview.com/wp-content/uploads/2018/07/Screenshot-2018-07-24-22.03.18.png" >}}
 Rocwood School District's site is not secure. DANGER!
 
 

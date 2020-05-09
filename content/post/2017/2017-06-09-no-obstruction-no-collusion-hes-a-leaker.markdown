@@ -20,7 +20,7 @@ That's how Trump summarized Comey's testimony to the Senate's Russian Conspiracy
 
 Click to watch:
 
-[![](https://hennessysview.com/wp-content/uploads/2017/06/Screenshot-2017-06-09-18.57.19.png)
+[{{< figure src="https://hennessysview.com/wp-content/uploads/2017/06/Screenshot-2017-06-09-18.57.19.png" >}}
 ](https://www.periscope.tv/ScottAdamsSays/1dRJZAeZryXGB?t=3s)
 
 Scott is a genius in persuasion and psychology. Everything he just said about Trump's linguistic kill-shot is dead-on accurate. Trump destroyed Comey without firing a shot. "No obstruction. No collusion. He's a leaker."

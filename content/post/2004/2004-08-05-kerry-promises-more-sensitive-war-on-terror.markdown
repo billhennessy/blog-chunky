@@ -19,5 +19,5 @@ Whatever funding the Bush Administration hasn't cut off from terrorists will now
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=654)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=654" >}}
 

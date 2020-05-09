@@ -9,7 +9,7 @@ categories:
 - Politics
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/a/a5/Vaclav-Klaus-01.jpg)
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Vaclav-Klaus-01.jpg" >}}
 While we in America credit Ronald Reagan with saving modern conservatism and the Western World, it was Margaret Thatcher who preceded Reagan and set the world stage for his entrance, stage right.
 
  

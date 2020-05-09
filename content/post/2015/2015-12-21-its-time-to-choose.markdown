@@ -64,7 +64,7 @@ Yet **Richard Nixon campaigned for Barry Goldwater at least as enthusiastically 
 
 As a Gen X conservative, I like to throw Nixon under the bus. But **Nixon and I had a remarkable correspondence in the late 1980s**. The Dickster even sent me an autographed copy of In The Arena. He wasn't all bad.
 
-![](https://hennessysview.com/wp-content/uploads/2015/12/nixon-225x300.jpeg)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2015/12/nixon-225x300.jpeg" >}}
 
 
 The true story of Nixon comes to mind as I read Mrs. Schlafly's interview. I'm reminded of the other hero of Goldwater's campaign: Ronald Reagan.

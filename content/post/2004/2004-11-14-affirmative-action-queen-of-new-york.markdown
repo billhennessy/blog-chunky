@@ -23,5 +23,5 @@ I enjoin Ms. Dowd to read what the life-affirming liberals on Democratic Undergr
 
 As I've written for many years, Ms. Dowd is an ignorant, mis-educated idiot given a prominent place in political discourse due to an accident of birth. Perhaps I shouldn't get so upset when she affirms my prejudice.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=494)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=494" >}}
 

@@ -21,5 +21,5 @@ No matter how you slice it, that map is really bad news for Kerry.
 
 What's worse is the new voter drive. The two groups of registered voters who are least likely to vote are the young (18-24 year olds are less than half as likely as 40 year olds to vote) and the newly registered, who frequently fail to show up on election day. According to a political science professor, Donald Green, interviewed by the Times, new voters are very unpredictable. "Do you get 30 percent, or do you get 70 percent?" Professor Green said. "
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=547)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=547" >}}
 

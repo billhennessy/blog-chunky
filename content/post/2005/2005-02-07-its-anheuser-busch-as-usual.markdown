@@ -9,7 +9,7 @@ categories:
 - Latest
 ---
 
-[![](/Documents%20and%20Settings/Bill/My%20Pictures/logo_02.jpg)
+[{{< figure src="/Documents%20and%20Settings/Bill/My%20Pictures/logo_02.jpg" >}}
 ](https://herosalute.com/states/big_game_ad.html)
 
 
@@ -92,5 +92,5 @@ UPDATE: [Backcountry Conservative ](https://www.jquinton.com/archives/002474.htm
 UPDATE: [Michelle Malkin agrees ](https://michellemalkin.com/archives/001441.htm)-- go figure. And she noticed that the New York Times found it too sweet.  
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1026)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1026" >}}
 

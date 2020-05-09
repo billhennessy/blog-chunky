@@ -49,5 +49,5 @@ UPDATE: [UN Responds to Michelle Malkin's ](https://michellemalkin.com/archives/
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1132)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1132" >}}
 

@@ -206,5 +206,5 @@ UPDATE: [Michell Malkin ](https://michellemalkin.com/archives/001617.htm)discuss
 * * *
 
 
-My special thanks to Jim Paine at [PirateBallerina ](https://www.pirateballerina.com)for providing the best Churchill round-up on the web and for excellent editing and tips. ![](https://blog.billhennessy.com/aggbug.aspx?PostID=1249)
+My special thanks to Jim Paine at [PirateBallerina ](https://www.pirateballerina.com)for providing the best Churchill round-up on the web and for excellent editing and tips. {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1249" >}}
 

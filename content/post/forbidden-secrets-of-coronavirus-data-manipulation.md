@@ -30,13 +30,13 @@ If you test 1 million people for anything, you will get more total positives tha
 
 To illustrate, this chart shows the percentage of positive tests  over the past few weeks. The light blue line is the 7-day moving average:
 
-![](/images/positive-ratio.png)
+{{< figure src="/images/positive-ratio.png" >}}
 
 The average is moving down since a peak in the first week of April. That means, for every 100 tests administered, about 16 are positive and 84 are negative. 
 
 The media fail to report that the number of tests administered has been rising exponentially every day in the first of April. So the spread between total positives and total negatives has grown enormous.
 
-![](/images/spread.png)
+{{< figure src="/images/spread.png" >}}
 
 Do you think the media are intentionally deceiving people or are they just too stupid to know what they're talking about? (It isn't just the media. A lot of "experts" deceive the same way.)
 
@@ -56,7 +56,11 @@ Just those facts would lead any thinking person to conclude that the official CO
 
 Citing a single statistic, COVID-19 as a percentage of all weekly deaths, Temte explains that, in a bad flu year, flu and pneumonia account for 10 percent of deaths in a given week. But in the week of April 11, 2020, COVID-19 accounted for 23.5 percent of all deaths. "I've never seen anything like this," he says. 
 
-While Temte could be right, he seems to be suffering from "what you see is all there is," as Danial Kahneman calls it. Temte leaves off an important number: the numerator. If the overall number of deaths is down, and entire categories of deaths (like industrial accidents and car crashes) are down compared to similar periods in prior years, each death's cause will have an outsized effect on categorization. I'll show you how this works in a simple table:
+While Temte could be right, he seems to be suffering from "what you see is all there is," or WYSIATI, as Danial Kahneman calls it. From *Thinking, Fast and Slow*, an explanation of WYSIATI: 
+
+> An essential design feature of the associative machine is that it represents only activated ideas. Information that is not retrieved (even unconsciously) from memory might as well not exist.
+
+Temte leaves off an important number: the numerator. If the overall number of deaths is down, and entire categories of deaths (like industrial accidents and car crashes) are down compared to similar periods in prior years, each death's cause will have an outsized effect on categorization. I'll show you how this works in a simple table:
 
 | Year | Cause of Death | Number of Deaths | % |
 | --- | --- | --- | ---: | ---: |
@@ -112,13 +116,11 @@ From the awesome book, *Thinking, Fast and Slow* by Nobel Laureate Daniel Kahnem
 
 > In a survey of 1,662 schools in Pennsylvania, for instance, 6 of the top 50 were small, which is an overrepresentation by a factor of 4. These data encouraged the Gates Foundation to make a substantial investment in the creation of small schools, sometimes by splitting large schools into smaller units. At least half a dozen other prominent institutions, such as the Annenberg Foundation and the Pew Charitable Trust, joined the effort, as did the U.S. Department of Education’s Smaller Learning Communities Program.
 
-
-
 And what was the result? 
 
 > Unfortunately, the causal analysis is pointless because the facts are wrong. **If the statisticians who reported to the Gates Foundation had asked about the characteristics of the worst schools, they would have found that bad schools also tend to be smaller than average**. The truth is that small schools are not better on average; they are simply more variable. If anything, say Wainer and Zwerling, large schools tend to produce better results, especially in higher grades where a variety of curricular options is valuable.
 
-A billion dollars wasted, and once proud high schools with histories were laid to dust because of a lack of critical thinking. 
+A billion dollars wasted, and once proud high schools with histories were laid to dust because of a lack of critical thinking. In other words, what they saw *wasn't* all there was.
 
 ### Doubt Everything
 

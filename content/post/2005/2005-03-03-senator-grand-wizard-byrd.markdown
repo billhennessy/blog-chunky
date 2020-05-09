@@ -79,5 +79,5 @@ UPDATE: More comment from [Professor Bainbridge](https://www.professorbainbridge
 
 UPDATE: [ Joe Gandelman ](https://www.deanesmay.com/posts/1110065383.shtml)follows up on the story on Dean's World. He links to this story by [Steven Taylor](https://www.poliblogger.com/index.php?p=6385). And still more from [Professor Bainbridge.](https://www.professorbainbridge.com/2005/03/robert_byrd_1.html)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1287)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1287" >}}
 

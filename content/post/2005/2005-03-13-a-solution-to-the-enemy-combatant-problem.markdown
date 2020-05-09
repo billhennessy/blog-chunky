@@ -44,5 +44,5 @@ I like it.
 
 _Abdullah Mehsud, one of 10 enemy combatants released from Guantanamo Bay who had returned to his terrorist ways abroad, reportedly died this week of wounds sustained in a gun battle with Army forces. After his release from U.S. custody, he went back to Pakistan and became a celebrity for kidnapping two Chinese civilians. (Simon World has background.)_
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1347)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1347" >}}
 

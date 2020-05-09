@@ -19,5 +19,5 @@ The Democrat party is all about inclusion. Now, they are [hiring sex offenders t
 
 Nod to [Drudge](https://www.drudgereport.com/)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=745)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=745" >}}
 

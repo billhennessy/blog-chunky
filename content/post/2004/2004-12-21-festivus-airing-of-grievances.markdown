@@ -44,5 +44,5 @@ UDATE: Hey, [OTB has a Festivus page, too.](https://www.outsidethebeltway.com/ar
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=894)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=894" >}}
 

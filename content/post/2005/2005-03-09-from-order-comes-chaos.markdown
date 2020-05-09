@@ -156,5 +156,5 @@ Luckily, the blogosphere knows what's real. [Matt Margolis ](https://www.blogsfo
 
 UPDATE: [ Captain's Quarters ](https://www.captainsquartersblog.com/mt/archives/004019.php)notes that Syria, bolstered by the New York Times endorsement, is reinstating its puppet prime minister. Expect violence.
 
-</td></tr></table>![](https://blog.billhennessy.com/aggbug.aspx?PostID=1321)
+</td></tr></table>{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1321" >}}
 

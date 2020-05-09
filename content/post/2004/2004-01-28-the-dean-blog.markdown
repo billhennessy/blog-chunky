@@ -37,5 +37,5 @@ Posted by **carol in santa fe** at **January 27, 2004 10:53 PM**
 
 ****
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=784)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=784" >}}
 

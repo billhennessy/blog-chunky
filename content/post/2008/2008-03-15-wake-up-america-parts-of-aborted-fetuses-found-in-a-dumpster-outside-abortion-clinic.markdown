@@ -21,7 +21,7 @@ Technorati Tags: [abortion](https://technorati.com/tags/abortion)
 >   
 > 
 > Body parts of aborted babies, bio-hazardous materials and patients' medical records, were all found in a dumpster outside of the WomanCare abortion clinic, in Lathrup Village, Michigan. Warning: Graphic Video below.*
-[![](https://bp0.blogger.com/_Xn_O-mM2sFk/R9vsx6N0aSI/AAAAAAAABSI/6Hcc2qlNX9w/s400/baby+hand.jpg)
+[{{< figure src="https://bp0.blogger.com/_Xn_O-mM2sFk/R9vsx6N0aSI/AAAAAAAABSI/6Hcc2qlNX9w/s400/baby+hand.jpg" >}}
 ](https://bp0.blogger.com/_Xn_O-mM2sFk/R9vsx6N0aSI/AAAAAAAABSI/6Hcc2qlNX9w/s1600-h/baby+hand.jpg)
 > 
 >    

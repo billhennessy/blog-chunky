@@ -19,7 +19,7 @@ tags:
 ****THIS IS HENNESSY'S VIEW'S 1000TH POST SINCE AUGUST, 2000****
 
 
-![](https://polls.newsmax.com/thompson/thompson.jpg)
+{{< figure src="https://polls.newsmax.com/thompson/thompson.jpg" >}}
 As an act of courtesy to the politics-weary American public, Fred Thompson is likely to announce his candidacy for the GOP nomination for President in September, according to columnist-reporter[ Robert Novak](https://www.humanevents.com/article.php?id=21616).
 
 Thompson's late entry may reverse a trend in recent years in which the next presidential campaign begins before the last one ends.  If Thompson believes the people will be sick of Giuliani, Clinton, and Obama by the time the Super Bowl comes around, he may be right.  An indicator of public weariness with election politics will be campaign contributions.  If the numbers for August pull back, expect Thompson to gain some support simply for waiting.

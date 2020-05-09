@@ -21,5 +21,5 @@ Without being sexist?
 
 How's that?
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1299)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1299" >}}
 

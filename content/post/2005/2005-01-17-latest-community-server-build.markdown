@@ -22,5 +22,5 @@ deadlines at work.
   
 
 But now, I'm back.   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=929)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=929" >}}
 

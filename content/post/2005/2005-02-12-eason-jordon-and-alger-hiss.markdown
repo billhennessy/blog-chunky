@@ -112,5 +112,5 @@ Hmmm. I'm not so sure. The fact that the MSM refused to cover a story about one 
 
 Missed [The American Mind.](https://www.theamericanmind.com/mt-test/archives/016374.html) A roundup of humor on the Eason affair.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1045)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1045" >}}
 

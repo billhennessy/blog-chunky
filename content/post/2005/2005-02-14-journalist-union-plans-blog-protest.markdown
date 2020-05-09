@@ -66,5 +66,5 @@ In other blog vs. mainstream media news:
 
 UPDATE: [Letter to NYT from Jeff Jarvis](https://www.buzzmachine.com/archives/2005_02_14.html#009061), thanks to[ Dean Esmay](https://www.deanesmay.com/posts/1108475862.shtml)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1061)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1061" >}}
 

@@ -16,5 +16,5 @@ Last night, after the thrill of a wonderful opering night, still buzzing from th
 I am sorry, Joe.  I will make it up today.    
   
 Cordially,  
-Bill![](https://blog.billhennessy.com/aggbug.aspx?PostID=684)
+Bill{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=684" >}}
 

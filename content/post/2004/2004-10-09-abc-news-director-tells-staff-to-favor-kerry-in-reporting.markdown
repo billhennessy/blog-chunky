@@ -16,5 +16,5 @@ categories:
 
 Coupled with Howard Fineman's assessment that the press has moral reasons to bury news that might help Bush, the conspiracy of the MSM against the president is more or less conceded by the conspirators themselves. Does anyone care?
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=536)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=536" >}}
 

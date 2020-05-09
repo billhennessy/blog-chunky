@@ -177,5 +177,5 @@ Likely alternatiaves (in order of probability):
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=530)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=530" >}}
 

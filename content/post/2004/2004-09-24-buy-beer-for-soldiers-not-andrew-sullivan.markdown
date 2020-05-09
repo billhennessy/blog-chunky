@@ -32,5 +32,5 @@ I hope Andrew Sullivan returns the world of reason.
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=549)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=549" >}}
 

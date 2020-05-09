@@ -36,5 +36,5 @@ The[ WSJ has an insightful](https://online.wsj.com/article/1,,SB1109897833338702
 
 While I don't necessarily favor a major move back into unions, I do wish that what remains of the labor movement would return to its original purpose and let Hollywood liberals fight their own battles.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1297)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1297" >}}
 

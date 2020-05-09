@@ -13,5 +13,5 @@ I found this on [Drudge](https://story.news.yahoo.com/news?tmpl=story&u=/afp/200
 
 My prediction is that these men will produce an overabundance of sperm for the next three weeks.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=800)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=800" >}}
 

@@ -9,7 +9,7 @@ categories:
 - Latest
 ---
 
-![](https://www.stlouisblues.com/fanstuff/blues_multimedia/wallpaper/wp_blueslogo_tn.gif)
+{{< figure src="https://www.stlouisblues.com/fanstuff/blues_multimedia/wallpaper/wp_blueslogo_tn.gif" >}}
 
 
 
@@ -42,5 +42,5 @@ I attended only 4 games last season, so it's not like they're losing a lot of mo
 
 Maybe St. Louis wasn't meant to have a hockey team.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=648)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=648" >}}
 

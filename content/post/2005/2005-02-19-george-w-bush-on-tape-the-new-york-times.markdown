@@ -79,5 +79,5 @@ UPDATE: [Read Steven Taylor's thoughts.](https://www.poliblogger.com/index.php?p
 
 UPDATE: [ Joe Gandelman ](https://www.deanesmay.com/posts/1108881226.shtml)chimes in. [Blogs for Bush ](https://www.blogsforbush.com/mt/archives/003751.html)says there's nothing new here. That's the story, if you ask me. [Wizbang has an analysis](https://wizbangblog.com/archives/005145.php). [ Jefe and the Man](https://jefeandtheman.blogspot.com/2005/02/secret-bush-tapes.html) concurs that Bush is a straight shooter.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1134)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1134" >}}
 

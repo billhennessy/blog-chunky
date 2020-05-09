@@ -37,5 +37,5 @@ Instead, the media will concentrate on the granola eating, Volvo-driving, recycl
   
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=612)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=612" >}}
 

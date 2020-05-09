@@ -16,7 +16,7 @@ type: "post"
 
 This is the abbey church at St. Meinrad's Archabbey in St. Meinrad, Indiana.
 
-![](/images/uploads/st-meinrad-church.jpg)
+{{< figure src="/images/uploads/st-meinrad-church.jpg" >}}
 
 My wife and I took a pilgrimage there this weekend. If you live in the St. Louis area, you're only about three hours away from a fascinating piece of church history. 
 
@@ -40,29 +40,29 @@ Mass at St. Meinrad's is at 9:30 on Sundays and 7:30 on weekdays.
 
 The highlights of the trip were the gift and casket shop (memento mori) and the mass Sunday morning. But just walking the grounds was so peaceful. The image below is my wife in front of the library.
 
-![](/images/uploads/st-meinrad-grounds.jpeg)
+{{< figure src="/images/uploads/st-meinrad-grounds.jpeg" >}}
 
 The garden is behind the church. We had to use our imagines to find it. Not sure if we were supposed to be back there or not. 
 
-![](/images/uploads/garden-2.jpeg)
+{{< figure src="/images/uploads/garden-2.jpeg" >}}
 
 A simple bridge.
 
-![](/images/uploads/st-meinrad-garden.jpg)
+{{< figure src="/images/uploads/st-meinrad-garden.jpg" >}}
 
 
 I love Benedictine crosses. St. Meinrad's has a beautiful one in front of the library.
 
-![](/images/uploads/benedictine-cross.jpg)
+{{< figure src="/images/uploads/benedictine-cross.jpg" >}}
 
 ### Cemetery
 
-![](/images/uploads/cemetery-2.jpeg)
+{{< figure src="/images/uploads/cemetery-2.jpeg" >}}
 
 
 After touring the church and spending some time with Christ in the adoration chapel, we prayed in the cemetery. November is the month of souls. 
 
-![](/images/uploads/st-meinrad-cemetery.jpeg)
+{{< figure src="/images/uploads/st-meinrad-cemetery.jpeg" >}}
 
 Next was the gift shop.
 
@@ -86,7 +86,7 @@ I haven't priced caskets lately, but the prices seemed reasonable for the qualit
 
 The gift shop has beautiful statuary. If it weren't so close to Christmas, and if buying a garden statue didn't feel so selfish, I would have come home with a $179 Pieta statue:
 
-![](/images/uploads/pieta.jpg)
+{{< figure src="/images/uploads/pieta.jpg" >}}
 
 We left with some awesome monk-made food, books, and a new friend in Sr. Nancy. 
 
@@ -98,10 +98,10 @@ Sr. Nancy, believe it or not, had been to Catholic Supply on Chippewa. Like the 
 
 St. Meinrad's offers many [retreat programs](https://www.saintmeinrad.org/retreats/). The retreat center reminded me of the one at Our Lady of Snows in Belleville, Illinois where I took my senior retreat with Bishop DuBourg High School. 
 
-![](/images/uploads/st-meinrad-visitor-center.jpeg)
+{{< figure src="/images/uploads/st-meinrad-visitor-center.jpeg" >}}
 
 ### Going Back
 
 We're already looking into retreats for next year. If you're traveling anywhere near Santa Claus, Indiana, just south of Evansville, think about spending a few hours or a day at St. Meinrad's Archabbey. Besides, it's one of only two archabbeys in the United States. 
 
-![](/images/uploads/church-2.jpeg)
+{{< figure src="/images/uploads/church-2.jpeg" >}}

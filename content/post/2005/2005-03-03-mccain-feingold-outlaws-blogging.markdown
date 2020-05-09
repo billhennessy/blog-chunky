@@ -62,5 +62,5 @@ UPDATE: The [Captain's Quarters ](https://www.captainsquartersblog.com/mt/archiv
 
 UPDATE: [Dean Esmay ](https://www.deanesmay.com/posts/1109924457.shtml)breaks his silence. [Blogs For Bush ](https://www.blogsforbush.com/mt/archives/003854.html)comments
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1288)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1288" >}}
 

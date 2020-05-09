@@ -14,7 +14,7 @@ tags:
 type: "post"
 ---
 
-[caption id="attachment_36429" align="alignleft" width="210"][![](https://www.hennessysview.com/wp-content/uploads/2018/08/doell.jpeg)
+[caption id="attachment_36429" align="alignleft" width="210"][{{< figure src="https://www.hennessysview.com/wp-content/uploads/2018/08/doell.jpeg" >}}
 ](https://www.hennessysview.com/wp-content/uploads/2018/08/doell.jpeg) Droopy (or Disgusting?) Matt Doell[/caption]
 
 Voters in House District 110 are asking why they received such a "disgusting" flyer from candidate Matt Doell.

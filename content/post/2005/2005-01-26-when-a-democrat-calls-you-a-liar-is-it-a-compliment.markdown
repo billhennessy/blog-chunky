@@ -15,5 +15,5 @@ While Senators have used the word liar occasionally, those occasions have been r
   
 Condoleezza Rice's confirmation is already in the books. She will receive more than 2/3 of the Senate's endorsement. In the end, the shouting whiners who today spoke volumes about themselves and scant little about the President or is Secretary of State to be will drift silently into the scrapheap of history as political footnotes.  
   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=950)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=950" >}}
 

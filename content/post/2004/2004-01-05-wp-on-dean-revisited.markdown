@@ -21,5 +21,5 @@ Reading Dean's quote, "Moral tone is a huge deal," elicits pity for the speaker.
 
 If my reassessment of the writer's motive is correct, then I owe Jim VandeHei an apology. This subtle, understated article may harm Dean more than all the vicious attacks combined. The article makes Dr. Dean look bad without the author saying so.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=799)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=799" >}}
 

@@ -13,7 +13,7 @@ tags:
 type: "post"
 ---
 
-[![](https://www.tucsonteaparty.info/images/Tucson-Tea-Party-Logo.jpg)
+[{{< figure src="https://www.tucsonteaparty.info/images/Tucson-Tea-Party-Logo.jpg" >}}
 ](https://www.tucsonteaparty.org/)I am very pleased and honored to tell you this news: Trent Humphries and the good people of the [Tucson Tea Party](https://www.tucsonteaparty.org) have asked me to speak at their [Third Annual April Tea Party](https://www.google.com/calendar/b/0/render?eid=MTIzY2s5Y3NsNDcyamF0ajM3cDltc2pzZ2MgdHVjc29udGVhcGFydHlAeWFob28uY29t&gsessionid=OK&sf=true&output=xml) on April 30, 2011, at 11:00 am. The theme is Reduce Taxes, Spending, and Waste.
 
  

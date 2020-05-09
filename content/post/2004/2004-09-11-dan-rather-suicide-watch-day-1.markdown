@@ -15,5 +15,5 @@ I'm sure, then, that the Senator would agree that intentionally passing fraudule
   
 Shortly, we'll introduce contests for Pick the Time and Date, Pick the Method, and Write Dan's Suicide Note which we'll have certified as authentic by CBS's own Marcel Matley.    
   
-Fun and games for.  We're gonna miss you, Dan.  Have fun in the great beyond.  Say hello to Satan, FDR, and the Rosenbergs for me, will you?  ![](https://blog.billhennessy.com/aggbug.aspx?PostID=570)
+Fun and games for.  We're gonna miss you, Dan.  Have fun in the great beyond.  Say hello to Satan, FDR, and the Rosenbergs for me, will you?  {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=570" >}}
 

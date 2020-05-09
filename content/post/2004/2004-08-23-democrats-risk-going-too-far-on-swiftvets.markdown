@@ -21,5 +21,5 @@ Stupid, stupid Democrats. You were winning this one, you morons! Instead of bein
 
 As a result, a man with visible war wounds has turned on Kerry with vengance. Bob Dole, whose one Purple Heart cost him an arm, is obviously sick of John F. Kerry. [Read the NY Post article](https://www.nypost.com/news/nationalnews/29319.htm)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=635)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=635" >}}
 

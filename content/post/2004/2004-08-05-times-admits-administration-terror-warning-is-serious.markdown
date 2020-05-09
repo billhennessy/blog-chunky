@@ -13,5 +13,5 @@ categories:
   
 That's from the newspaper that only Tuesday declared that George Bush made up the terror alert just to win votes.  
   
-The New York Times, its editors, and everyone who bought the political theory of the terror alert are un-American.![](https://blog.billhennessy.com/aggbug.aspx?PostID=653)
+The New York Times, its editors, and everyone who bought the political theory of the terror alert are un-American.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=653" >}}
 

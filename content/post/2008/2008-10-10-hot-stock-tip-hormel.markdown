@@ -13,7 +13,7 @@ St. Louis--One company expected to surge amidst the economic chaos about to plag
 
  
 
-![](https://www.hormelfoods.com/ASSETS/AA7CD4181EC94B75A97BFCEB54EA79B4/SPAM-Family.jpg)
+{{< figure src="https://www.hormelfoods.com/ASSETS/AA7CD4181EC94B75A97BFCEB54EA79B4/SPAM-Family.jpg" >}}
 
 
  

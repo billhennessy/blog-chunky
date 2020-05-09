@@ -47,5 +47,5 @@ Given the chance, Dr. Dean would visit the horrors of a centralized planning age
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1049)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1049" >}}
 

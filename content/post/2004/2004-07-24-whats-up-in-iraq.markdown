@@ -13,5 +13,5 @@ It would appear that the insurgency in Iraq heeded Southwest Airlines' marketing
   
 The United States had an opportunity to destroy the resistance in April, May, and June of 2003.  Instead, we chose to let them take their AK-47s and RPGs home to regroup, plot, and recruit.  Hypersensitivity to world opinion doomed the post-war Iraqi plan.    
   
-War is for the ruthless.  We stopped being ruthless after WWII--about the same time we stopped winning wars.  ![](https://blog.billhennessy.com/aggbug.aspx?PostID=674)
+War is for the ruthless.  We stopped being ruthless after WWII--about the same time we stopped winning wars.  {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=674" >}}
 

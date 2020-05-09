@@ -26,7 +26,7 @@ I received this response from Freida Keough, St. Louis County Director of[ Misso
 
 Ever heard of Raging Elephants? _Stampede_
 
-[![](https://ludicrite.files.wordpress.com/2012/04/elephant-stampede.jpg)
+[{{< figure src="https://ludicrite.files.wordpress.com/2012/04/elephant-stampede.jpg" >}}
 ](https://ludicrite.files.wordpress.com/2012/04/elephant-stampede.jpg)Missouri Precinct Project (MOPP)
 
 _"Let's MOPP 'em up in '12"_[_

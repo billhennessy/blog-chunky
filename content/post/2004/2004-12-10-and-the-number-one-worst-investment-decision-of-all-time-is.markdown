@@ -14,5 +14,5 @@ categories:
 That's right. MoveOn.org claims to have "bought and paid for" the DNC. Isn't that like buying the Titanic after it hit the ice berg?   
   
 People wonder why liberals flock to non-profits? If they use their money to buy things like the DNC, they can't be trusted with real companies.   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=844)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=844" >}}
 

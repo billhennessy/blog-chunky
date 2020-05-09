@@ -16,5 +16,5 @@ This is must-see TV
 
 [https://www.kerryoniraq.com/](https://www.kerryoniraq.com/)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=630)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=630" >}}
 

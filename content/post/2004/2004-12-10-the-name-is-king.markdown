@@ -16,5 +16,5 @@ My last name is perpetually mispelled. Hennessy becomes Hennessey, Henessy, Henn
 
 Even if your name is shamefully simple to spell, [Florence King's piece on National Review Online ](https://www.nationalreview.com/king/king200412091454.asp)is a gem. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=846)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=846" >}}
 

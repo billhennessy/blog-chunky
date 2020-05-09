@@ -38,7 +38,7 @@ Look at this headline from Business Insider:
 
 Check out these leading indicators ([link](https://www.businessinsider.com/consumer-business-ceo-confidence-higher-since-trump-election-2016-12)):
 
-![](https://hennessysview.com/wp-content/uploads/2016/12/screen-shot-2016-12-08-at-20628-pm.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2016/12/screen-shot-2016-12-08-at-20628-pm.png" >}}
 
 
 Business Insider points out that across-the-board positive sentiment quickly lifts the overall economy:

@@ -16,5 +16,5 @@ One day, [Howard Dean ](https://www.newsday.com/news/nationworld/wire/sns-ap-dea
 
 But, again, the [MSM ignored ](https://blog.billhennessy.com/blogs/hennessys_view/archive/2005/02/16/1108.aspx)another Dean f=== up.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1113)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1113" >}}
 

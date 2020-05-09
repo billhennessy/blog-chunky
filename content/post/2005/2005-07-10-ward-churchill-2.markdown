@@ -56,5 +56,5 @@ See [Protein Wisdom ](https://www.celluloid-wisdom.com/pw/index.php?/weblog/trac
 
 or [click here ](https://blog.billhennessy.com/photos/hennessys_view/picture981.aspx)to see Ward Churchill lecturing his class
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=978)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=978" >}}
 

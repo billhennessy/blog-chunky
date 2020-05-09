@@ -74,5 +74,5 @@ Before Senator Reid, et al, shuts down the Senate, he should talk to Newt Gingri
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1375)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1375" >}}
 

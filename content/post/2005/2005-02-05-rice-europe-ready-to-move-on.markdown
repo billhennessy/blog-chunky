@@ -49,5 +49,5 @@ UPDATE: [Jonah Goldberg ](https://www.nationalreview.com/thecorner/05_01_30_corn
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=999)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=999" >}}
 

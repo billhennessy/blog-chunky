@@ -16,5 +16,5 @@ I'm not buying the story that yesterday's leaked, mid-day exit poll results were
 
 This was shameful. Again and again in this election, the MSM have used their power to influence the vote. Again and again, they were thwarted by the will of the people. Now, let's have the will of the people dismantle the MSM.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=522)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=522" >}}
 

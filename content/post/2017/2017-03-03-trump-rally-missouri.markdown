@@ -14,7 +14,7 @@ The President needs us. From Show Me Trump
 
 THIS SATURDAY!
 
-[![](https://hennessysview.com/wp-content/uploads/2017/03/img_0101.jpg)
+[{{< figure src="https://hennessysview.com/wp-content/uploads/2017/03/img_0101.jpg" >}}
 ](https://hennessysview.com/wp-content/uploads/2017/03/img_0101.jpg)
 
 President Trump needs our support and hundreds of Missourians have already RSVP'd that they'll be attending! It's clear he is being severely pressured by Democrats and the media alike. Our rally will send an important message to our new Commander in Chief--We The People support you! Find the Facebook event page by clicking here.
@@ -139,5 +139,5 @@ Contact: Gary and Brenda
 
 (arriving early enough to get lunch on your own in Jefferson City)
 
-[![](https://hennessysview.com/wp-content/uploads/2017/03/img_0100.jpg)
+[{{< figure src="https://hennessysview.com/wp-content/uploads/2017/03/img_0100.jpg" >}}
 ](https://hennessysview.com/wp-content/uploads/2017/03/img_0100.jpg)

@@ -35,7 +35,7 @@ Jeff Neely's the guy Thomas Jefferson had in mind when wrote:
 
 Neely and his wife showed no shame in living like Donald Trump on taxpayers' dollars. They posted these photos on Google+.
 
-[![](https://ludicrite.files.wordpress.com/2012/04/neelys-vaca1.jpg)
+[{{< figure src="https://ludicrite.files.wordpress.com/2012/04/neelys-vaca1.jpg" >}}
 ](https://ludicrite.files.wordpress.com/2012/04/neelys-vaca1.jpg)
 
 When you meet one of those undecided voters this year, the ones whose white guilt wants to give Obama four more years to destroy America, show them these pictures of the people who eat the food they can't afford to feed their kids.

@@ -83,7 +83,7 @@ Braddock shows us how most people think: forward.
 > 
 
 > 
-> ![](https://hennessysview.com/wp-content/uploads/2017/03/14fef0_8e46ccb7aff244d7ab25bd425875f472mv2.jpg)
+> {{< figure src="https://hennessysview.com/wp-content/uploads/2017/03/14fef0_8e46ccb7aff244d7ab25bd425875f472mv2.jpg" >}}
 
 > 
 > 
@@ -104,7 +104,7 @@ Braddock shows us how most people think: forward.
 > 
 
 > 
-> ![](https://hennessysview.com/wp-content/uploads/2017/03/14fef0_f98bb015bee64398a094e54eea7dde40mv2.jpg)
+> {{< figure src="https://hennessysview.com/wp-content/uploads/2017/03/14fef0_f98bb015bee64398a094e54eea7dde40mv2.jpg" >}}
 
 > 
 > 

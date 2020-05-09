@@ -101,5 +101,5 @@ Of course I disagree on climate change, but I strongly agree with his topic sent
 
 Visit [Carnival of Trackbacks ](https://wizbangblog.com/archives/005346.php)at Wizbangblog
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1342)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1342" >}}
 

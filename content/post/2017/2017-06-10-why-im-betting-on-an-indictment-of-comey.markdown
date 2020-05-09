@@ -63,7 +63,7 @@ Let's look at the lawyer first.
 
 [Jonathan Turley is a famous lawyer](https://en.wikipedia.org/wiki/Jonathan_Turley). You see him on TV discussing big, complicated cases. He's well respected in the lawyer world.
 
-[caption id="attachment_22133" align="alignright" width="300"]![](https://hennessysview.com/wp-content/uploads/2017/06/turley-300x225.jpg)
+[caption id="attachment_22133" align="alignright" width="300"]{{< figure src="https://hennessysview.com/wp-content/uploads/2017/06/turley-300x225.jpg" >}}
 Jonathan Turley[/caption]
 
 Turley sees James Comey's recent testimony as a very bad move by Comey. For two reasons that will haunt Comey for the rest of his life:

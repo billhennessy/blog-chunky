@@ -21,5 +21,5 @@ I have maintained for more than a decade--even while I was still wearing a Navy 
 
 I'm not sure that a large portion of liberal America will decide to public pull for Al Qaeda. But I do think we'll see liberals demonstrate more hostility toward people in uniform. That's good for all of us, because, in time of war, it's good to know who your real enemies are.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=513)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=513" >}}
 

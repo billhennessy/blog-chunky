@@ -15,5 +15,5 @@ I hope we have more spine than Spain.  I hope the attack, should it materialize,
   
 I hope, but I do not trust.  My fellow Americans seem, for the most, weak and selfish.  They lack anything approaching a long-range vision.  If wiping out terrorism over the next 10 years means a dip in the stock market, well, we'll just have to learn to live with terrorism.    
   
-Prove me wrong, people.  Please. ![](https://blog.billhennessy.com/aggbug.aspx?PostID=704)
+Prove me wrong, people.  Please. {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=704" >}}
 

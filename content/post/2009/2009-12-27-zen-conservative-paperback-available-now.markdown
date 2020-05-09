@@ -16,8 +16,8 @@ tags:
 ** You Can Order My Book Online Today
 ****[Zen Conservatism](https://wp.zenconservatism.com)** is now available in paperback.
 
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1449959040&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hennesssview-20)
-](https://www.amazon.com/Zen-Conservatism-Reclaim-liberty-without/dp/1449959040/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=hennesssview-20&linkId=41c86eb5f2b1a20e0fac8a484e153d41)![](//ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=li3&o=1&a=1449959040)
+[{{< figure src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1449959040&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hennesssview-20" >}}
+](https://www.amazon.com/Zen-Conservatism-Reclaim-liberty-without/dp/1449959040/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=hennesssview-20&linkId=41c86eb5f2b1a20e0fac8a484e153d41){{< figure src="//ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=li3&o=1&a=1449959040" >}}
 
 
 I began this book in December 2008, just after the election.  My goal was to produce a book that would inspire people to restore our republic.  At the time, conservatives were disheartened, dismayed, and distracted.

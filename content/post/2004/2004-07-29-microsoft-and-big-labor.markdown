@@ -40,5 +40,5 @@ If American code bangers want to minimize the difference, they should concentrat
 These simple principles, resisted more by programmers than by management, will allow American ingenuity and proximity to the customer to dominate the software industry for another decade, at least.  
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=670)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=670" >}}
 

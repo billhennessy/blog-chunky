@@ -21,5 +21,5 @@ And let's start the death watch. Dean is intelligent enough to know that he does
 
 Ah, well. On to the Primaries Formerly Known as Super Tuesday
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=785)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=785" >}}
 

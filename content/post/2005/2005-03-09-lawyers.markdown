@@ -56,5 +56,5 @@ The big guy laughs, takes a swig of his beer, and looks sideways as the his litt
 
 "No. I'm an asshole."
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1289)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1289" >}}
 

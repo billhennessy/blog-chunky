@@ -16,5 +16,5 @@ categories:
 
 Hat tip to [Drudge](https://www.drudgereport.com)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=973)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=973" >}}
 

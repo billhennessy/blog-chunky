@@ -16,5 +16,5 @@ Apparently, the[ Brits don't appreciate ](https://www.cnn.com/2004/SHOWBIZ/books
 
 I envy Wolfe: I've never gotten an award for sex, good, bad, or indifferent.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=880)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=880" >}}
 

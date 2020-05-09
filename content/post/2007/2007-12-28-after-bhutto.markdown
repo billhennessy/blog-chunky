@@ -12,7 +12,7 @@ categories:
 Mark Steyn might have said it best
 
 
-Benazir Bhutto's return to Pakistan had a mad recklessness about it which give today's events a horrible[![](https://ak.imgfarm.com/images/ap/thumbnails//APTOPIX_Pakistan_Bhutto_Blast.sff_RWP103_20071227091520.jpg)
+Benazir Bhutto's return to Pakistan had a mad recklessness about it which give today's events a horrible[{{< figure src="https://ak.imgfarm.com/images/ap/thumbnails//APTOPIX_Pakistan_Bhutto_Blast.sff_RWP103_20071227091520.jpg" >}}
 ](https://apnews.myway.com/article/20071228/D8TQ3TQG0.html) inevitability.
 
 

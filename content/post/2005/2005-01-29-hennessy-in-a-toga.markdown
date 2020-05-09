@@ -11,5 +11,5 @@ categories:
 
 If you're wondering what I look like as [Holy Roman Empire prince . . . ](https://blog.billhennessy.com/photos/hennessy/Bill-Lewis.jpg)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=961)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=961" >}}
 

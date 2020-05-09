@@ -35,7 +35,7 @@ Research shows that[ people motivated by doing, by getting better, by learning, 
 > When you are focused on getting better, rather than on being good, you benefit in two very important ways. First, when things get tough— when you are faced with complexity, time pressure, obstacles, or unexpected challenges— you don’t get so discouraged. You’re more likely to believe you can still do well if you just keep trying. Second, when you do start to have doubts about how well you are doing, you are more likely to stay motivated anyway. Because even if you think succeeding will be difficult for you, you can still learn. Improvement is still possible. You can still get better. So when a task is difficult, and persistence is the key to higher achievement, get-better mastery goals have the clear advantage.
 
 
-From [Succeed: How We Can Reach Our Goals](https://www.amazon.com/gp/product/0452297710/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0452297710&linkCode=as2&tag=hennesssview-20)![](https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0452297710)
+From [Succeed: How We Can Reach Our Goals](https://www.amazon.com/gp/product/0452297710/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0452297710&linkCode=as2&tag=hennesssview-20){{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0452297710" >}}
  by Dr. Heidi Grant Halvorson
 I was surprised that Boehner stuck to his guns last week. I expected him to fold.
 

@@ -95,5 +95,5 @@ William T. Hennessy
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=901)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=901" >}}
 

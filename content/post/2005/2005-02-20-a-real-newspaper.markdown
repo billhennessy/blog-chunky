@@ -36,5 +36,5 @@ Still, the NYT has a problem with the truth. As reported on [Wizbang](https://wi
 
 Which leads me to my questions: are major dailies dead? Do they serve any purpose? Is quality newspaper production economically infeasible? And, finally, what would it take to start and operate a good, profitable city daily?
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1136)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1136" >}}
 

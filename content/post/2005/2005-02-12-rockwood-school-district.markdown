@@ -46,5 +46,5 @@ The people who live in this district are already among the most heavily taxed pr
 
 I hope the property owners of St. Louis County soundly reject Rockwood's efforts to make the administrators look cool. That's all this is. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1054)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1054" >}}
 

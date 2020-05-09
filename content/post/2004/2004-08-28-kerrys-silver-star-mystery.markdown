@@ -16,5 +16,5 @@ Former Navy Secretary John Lehman (who was SECNAV when I joined) says [he has no
 
 Nod to [Drudge](https://www.drudgereport.com)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=616)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=616" >}}
 

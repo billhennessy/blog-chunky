@@ -24,5 +24,5 @@ I would be shocked if the Kerry Campaign did NOT have a major role in the creati
 
 I still say Kerry will not be the Democrat candidate come November. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=561)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=561" >}}
 

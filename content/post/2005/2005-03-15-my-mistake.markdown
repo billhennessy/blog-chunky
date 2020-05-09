@@ -16,5 +16,5 @@ I thought thousands of protesters showed up in Beirut to demand freedom Syria.
 
 [Turns out, I was mistaken](https://www.celluloid-wisdom.com/pw/index.php?/weblog/entry/18121/)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1368)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1368" >}}
 

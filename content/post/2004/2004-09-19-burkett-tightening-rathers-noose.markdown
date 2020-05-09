@@ -54,5 +54,5 @@ Expect this story to completely unravel this week. CBS now stands alone in defen
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=562)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=562" >}}
 

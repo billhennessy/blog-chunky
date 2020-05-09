@@ -18,7 +18,7 @@ How many new _voters_ has the tea party movement created? There’s reason to ho
 
  
 
-About [8 million people turned 18](https://www.infoplease.com/ipa/A0005067.html) since the 2008 election. While the left undoubtedly brainwashed ![](https://www.justgrapeswine.com/wp-content/uploads/2010/01/Millennials.jpg)
+About [8 million people turned 18](https://www.infoplease.com/ipa/A0005067.html) since the 2008 election. While the left undoubtedly brainwashed {{< figure src="https://www.justgrapeswine.com/wp-content/uploads/2010/01/Millennials.jpg" >}}
 many of them before they reached voting age, many others avoided indoctrination through good parenting, good thinking, or simply not paying attention to the left’s message. 
 
  

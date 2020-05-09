@@ -16,7 +16,7 @@ A federal bailout for the Big Three auto manufacturers will be direct transfer o
 
 [Gateway Pundit provides](https://gatewaypundit.blogspot.com/) this chart showing the extravagant auto worker salaries.
 
-![](https://2.bp.blogspot.com/_L6pDyjqqsvY/SR4kou6b3pI/AAAAAAAAW8M/J2DBGJ7pRo4/s1600/chart.jpg)
+{{< figure src="https://2.bp.blogspot.com/_L6pDyjqqsvY/SR4kou6b3pI/AAAAAAAAW8M/J2DBGJ7pRo4/s1600/chart.jpg" >}}
  
 
 American auto workers make almost 160 percent of Japanese auto workers wages. And the Japanese produce better cars.

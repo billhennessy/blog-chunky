@@ -46,5 +46,5 @@ UPDATE: I found[ this interesting piece ](https://afterabortion.blogspot.com/200
 
 Related Posts: [Son of Blogger](https://blog.billhennessy.com/blogs/hennessys_view/archive/2004/06/12/750.aspx)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=878)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=878" >}}
 

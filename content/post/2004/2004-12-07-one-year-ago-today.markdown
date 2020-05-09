@@ -15,5 +15,5 @@ It flopped.
   
 In case you enjoy a little recent history, read [this ](https://blog.billhennessy.com/blogs/hennessys_view/archive/2004/01/03/807.aspx)and [this](https://blog.billhennessy.com/blogs/hennessys_view/archive/2004/01/01/815.aspx).   
   
-It's nice to have my archives back.![](https://blog.billhennessy.com/aggbug.aspx?PostID=455)
+It's nice to have my archives back.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=455" >}}
 

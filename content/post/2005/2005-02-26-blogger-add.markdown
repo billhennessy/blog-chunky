@@ -11,5 +11,5 @@ categories:
 
 I get bored easily with layouts. Sorry if the frequent skin changes on this blog annoy you, but that charcoal background was to depressing.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1242)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1242" >}}
 

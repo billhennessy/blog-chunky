@@ -43,7 +43,7 @@ Barack Obama to win 2008 US Presidential Election
  
 
 **Last Price:***
-****56.5 ![](https://www.intrade.com/jsp/intrade/common/images/homepage/priceDown.gif)
+****56.5 {{< figure src="https://www.intrade.com/jsp/intrade/common/images/homepage/priceDown.gif" >}}
 0.5****
 
  
@@ -74,7 +74,7 @@ John McCain to win 2008 US Presidential Election
  
 
 **Last Price:***
-****42.3 ![](https://www.intrade.com/jsp/intrade/common/images/homepage/priceUp.gif)
+****42.3 {{< figure src="https://www.intrade.com/jsp/intrade/common/images/homepage/priceUp.gif" >}}
 0.2****
 
  

@@ -79,7 +79,7 @@ For over a year I've carried a challenge coin that reminds me of my death:
 
 
 
-![](https://www.hennessysview.com/wp-content/uploads/2018/08/mm3_1024x1024@2x.png)
+{{< figure src="https://www.hennessysview.com/wp-content/uploads/2018/08/mm3_1024x1024@2x.png" >}}
 Memento Mori Coin by Daily Stoic ([link](https://prints.dailystoic.com/collections/coins/products/memento-mori))
 
 

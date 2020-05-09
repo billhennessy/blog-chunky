@@ -11,7 +11,7 @@ categories:
 
 I am disheartened that James Joyner continues to find more fault with conservatives' reasons and methods for attacking a socialist than with the socialist himself.
 
-![](https://bp0.blogger.com/_L6pDyjqqsvY/R7GqgwYqxhI/AAAAAAAALNA/A9hprawWxy8/s320/che+obama.jpg)
+{{< figure src="https://bp0.blogger.com/_L6pDyjqqsvY/R7GqgwYqxhI/AAAAAAAALNA/A9hprawWxy8/s320/che+obama.jpg" >}}
 In the growing debate over a Che Guevara  Cuban flag proudly adorning the wall of Barack Obama's headquarters in Houston, Texas, [ Joyner comes galloping to Obama's defense](https://www.outsidethebeltway.com/archives/2008/02/obama_che_guevara_flag_scandal/), ignoring the mounting evidence that Obama is as every bit as much a threat to capitalism as is Hugo Chavez.
 
 To be fair, Joyner may not understand the depths of the Obama's passion for collectivism.  With the wave of the hand, wrongly dismisses any connection between Obama and Communism:
@@ -23,7 +23,7 @@ To be fair, Joyner may not understand the depths of the Obama's passion for coll
 Oh, really?   Consider the news I learned today at [The Gateway Pundit](https://gatewaypundit.blogspot.com/2008/02/socialist-obama-takes-revolution-to.html):
 
 
-> Socialist (Democratic) Senators Obama and Sherrod Brown are proposing legislation that [**forces companies to unionize **![](https://i.ixnp.com/images/v3.13.1/t.gif)
+> Socialist (Democratic) Senators Obama and Sherrod Brown are proposing legislation that [**forces companies to unionize **{{< figure src="https://i.ixnp.com/images/v3.13.1/t.gif" >}}
 ](https://hotair.com/archives/2008/02/12/obama-wants-to-define-patriot-corporations/)to gain tax credits!
 
 

@@ -28,7 +28,7 @@ After delays due largely to violence in the parts of Iraq where Spirit of Americ
 * 4,554 pairs of children's athletic shoes.  
   
 It looks like these items will be arriving at just the right time. The first three items will be given by Marines to children in Al Anbar province. The Marines will take pictures of Iraqi families and give them as gifts of friendship. Assuming things go well with the cameras and film, because of your previous generous support we will send over 192 more cameras and 3840 packs of film. This will provide 1 camera for every platoon (incl. 30% spares) and 20 packs of film (200 photos) per camera. So, thanks to you, there will be 45,000 photographs of Iraqi families and children like the one below in Iraqi homes pretty soon.   
-![](https://img.jangomail.com/Clients/11661/Images/OperationSnapshotsmall.jpg)
+{{< figure src="https://img.jangomail.com/Clients/11661/Images/OperationSnapshotsmall.jpg" >}}
 
 
 
@@ -45,7 +45,7 @@ This is a great project that we should support: American soldiers helping the Ir
 
 
 
-![](https://img.jangomail.com/Clients/11661/Images/FortTalAfar.jpg)
+{{< figure src="https://img.jangomail.com/Clients/11661/Images/FortTalAfar.jpg" >}}
 
 
 
@@ -69,5 +69,5 @@ pps - you can always find Spirit of America updates at https://www.spiritofameri
   
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1322)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1322" >}}
 

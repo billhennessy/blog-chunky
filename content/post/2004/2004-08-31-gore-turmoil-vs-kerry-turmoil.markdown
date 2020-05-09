@@ -67,5 +67,5 @@ Ah hah! I've found some references from 2000. I was right: the media treated the
 
 Kerry's people should be concerned that most of Gore's turmoil occured before the DNC convention. Gore surged from that show and pulled into a slight lead shortly thereafter. Kerry has be dropping in public opinion and in the race ever since his convention. He will not have another chance to surge until October. That means a whole lot of pressure on him.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=592)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=592" >}}
 

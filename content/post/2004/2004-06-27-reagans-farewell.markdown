@@ -29,5 +29,5 @@ Godspeed, Ronald Reagan. I am sure I pray with all Americans that you face this 
 
 We love you, Mr. Reagan. God bless you.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=739)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=739" >}}
 

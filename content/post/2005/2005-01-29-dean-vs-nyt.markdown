@@ -80,5 +80,5 @@ President Bush said in an interview that he would withdraw U.S. forces from Iraq
 
 </td></tr></table>
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=963)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=963" >}}
 

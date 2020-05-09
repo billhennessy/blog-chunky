@@ -83,7 +83,7 @@ Finally, some activity. I don't remember what it was, but we knew something was 
 
 Anyway, a few minutes after the call-to-attention, explosions shook the muddy ground beneath our feet. Flashes, one by
 
-[caption id="" align="alignright" width="417"][![](https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/4d/04d7edb1-7feb-538e-8f9c-c6d1fb7ae431/512e7f895dbb3.preview-620.jpg)
+[caption id="" align="alignright" width="417"][{{< figure src="https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/4d/04d7edb1-7feb-538e-8f9c-c6d1fb7ae431/512e7f895dbb3.preview-620.jpg" >}}
 ](https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/4d/04d7edb1-7feb-538e-8f9c-c6d1fb7ae431/512e7f895dbb3.preview-620.jpg) The Arena Coming Down[/caption]
 
 one, began a march around the base of the building I loved since my first memories. Black smoke rose from the far side of The Arena. As the flashes reached halfway around the west side of the building, the south side began to collapse.

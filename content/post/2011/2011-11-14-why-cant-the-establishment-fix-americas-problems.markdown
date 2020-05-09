@@ -36,7 +36,7 @@ In 2012, the Republican machine, in races all across America, will nominate cand
 
 **The Grassroots Problem**
 
-[![](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/Phyllis-schlafly-2007-03_cc-225x300.jpg)
+[{{< figure src="https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/Phyllis-schlafly-2007-03_cc-225x300.jpg" >}}
 ](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/11/Phyllis-schlafly-2007-03_cc.jpg)Kingmakers laugh at grassroots candidates and activists.  We amuse them with our principles and idealism, our willingness to work for free, knocking on doors, sweating in the summer, shivering in the winter.
 
 Kingmakers don't deign to knock doors and meet ordinary people--they have deals to cut. They have staff to do the dirty work of meeting voters.

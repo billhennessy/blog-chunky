@@ -11,7 +11,7 @@ type: "post"
 ---
 
 
-![](https://www.hennessysview.com/wp-content/uploads/2018/08/FullSizeRender.png)
+{{< figure src="https://www.hennessysview.com/wp-content/uploads/2018/08/FullSizeRender.png" >}}
 Vote for Dottie Bailey
 
 

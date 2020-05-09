@@ -12,7 +12,7 @@ tags:
 - ward_churchill
 ---
 
-Funny thing . . . last night, I was cruising around one of my favorite blogs, [The Pirate Ballerina](https://www.pirateballerina.com/blog/entry.php?id=672), to see how the battle of Ward![](https://www.pirateballerina.com/files/churchillsmall.jpg)
+Funny thing . . . last night, I was cruising around one of my favorite blogs, [The Pirate Ballerina](https://www.pirateballerina.com/blog/entry.php?id=672), to see how the battle of Ward{{< figure src="https://www.pirateballerina.com/files/churchillsmall.jpg" >}}
 Churchill was going. It turns out, reading [Michelle Malkin](https://michellemalkin.com/2007/07/24/the-fate-of-ward-churchill/), that CU's decision to fire or retain the plagiarist, almost-American Indian renegade professor is due tonight.
 
 I'll add links to my previous WC posts shortly. In the meantime, go over to [Pirate Ballerina](https://www.pirateballerina.com/) and take a stroll down memory lane.

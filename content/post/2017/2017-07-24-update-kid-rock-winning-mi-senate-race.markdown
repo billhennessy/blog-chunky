@@ -23,7 +23,7 @@ Via [The Gateway Pundit](https://www.thegatewaypundit.com/2017/07/boom-kid-rock-
 
 
 
-![](https://www.thegatewaypundit.com/wp-content/uploads/640px-Kid_Rock_2013-575x384.jpg)
+{{< figure src="https://www.thegatewaypundit.com/wp-content/uploads/640px-Kid_Rock_2013-575x384.jpg" >}}
 
 
 Everyone who wrote this off as a joke, then as a publicity stunt, then as impossible, then as improbable will be forced to say "Senator Rock" soon. Very soon.

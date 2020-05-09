@@ -36,5 +36,5 @@ Well, folks, when you ask for gratuitous homages, sometimes you get them. And th
 
 Don't miss today's [Beltway Traffic Jam](https://www.outsidethebeltway.com/archives/9303)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1115)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1115" >}}
 

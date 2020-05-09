@@ -18,5 +18,5 @@ Just a quick rundown of top economic stories on this first business day of the n
 
 Stay tuned for more good news on the recovery. And to think it's all happening without nearly doubling our taxes, as Dr. Dean wants to do. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=811)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=811" >}}
 

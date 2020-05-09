@@ -21,5 +21,5 @@ categories:
 
 Remember when it took a truckload of courage to [call a number ](https://apnews.myway.com/article/20050216/D889SF385.html)at random from the phone book and ask if their refrigerator was running? Kids are getting bold, I tell ya.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1107)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1107" >}}
 

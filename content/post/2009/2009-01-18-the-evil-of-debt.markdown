@@ -54,10 +54,10 @@ The government has absolutely no plan to pay off its loans.  Have you noticed? 
 **Three Simple Steps**
 
 1.  Don't borrow another dime.  Not for a car, not for college, not for a house, not for a television, gasoline, groceries, clothes, vacations.  Stop borrowing.  If you need help, read [Dave Ramsey's](https://www.daveramsey.com/) books
-[The Total Money Makeover: A Proven Plan for Financial Fitness](https://www.amazon.com/gp/product/0785289089?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0785289089)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0785289089)
+[The Total Money Makeover: A Proven Plan for Financial Fitness](https://www.amazon.com/gp/product/0785289089?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0785289089){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0785289089" >}}
 
 or
-[Financial Peace Revisited](https://www.amazon.com/gp/product/0670032085?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0670032085)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0670032085)
+[Financial Peace Revisited](https://www.amazon.com/gp/product/0670032085?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0670032085){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0670032085" >}}
 
 
 2.  Have at least $1,000 in savings for true emergencies

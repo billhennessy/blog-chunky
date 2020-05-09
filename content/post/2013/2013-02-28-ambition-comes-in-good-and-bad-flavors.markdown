@@ -33,7 +33,7 @@ I wanted to _be_ something great. Jobs wanted to _do_  something great. Wanting
 #### Getting Better Beats Being Good
 
 
-Research shows that people perform better when pursuing getting-better goals than when pursing being-good goals. It’s wonderfully organized by Heidi Grant Halverson, PhD, in her useful and readable ebook [Nine Things Successful People Do Differently](https://www.amazon.com/gp/product/B00607EX1E/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00607EX1E&linkCode=as2&tag=hennesssview-20)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=B00607EX1E)
+Research shows that people perform better when pursuing getting-better goals than when pursing being-good goals. It’s wonderfully organized by Heidi Grant Halverson, PhD, in her useful and readable ebook [Nine Things Successful People Do Differently](https://www.amazon.com/gp/product/B00607EX1E/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00607EX1E&linkCode=as2&tag=hennesssview-20){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=B00607EX1E" >}}
 .
 
 

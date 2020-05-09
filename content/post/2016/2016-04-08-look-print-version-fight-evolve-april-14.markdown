@@ -20,8 +20,8 @@ type: "post"
 
 [Fight to Evolve: The Government's Secret War on NTX](https://www.amazon.com/Fight-To-Evolve-Governments-Secret-ebook/dp/B01DORSX0O/ref=zg_bs_157465011_2) will be **available in print on April 14**. Just go to amazon.com and search for Fight to Evolve.
 
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01DORSX0O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hennesssview-20)
-](https://www.amazon.com/Fight-To-Evolve-Governments-Secret-ebook/dp/B01DORSX0O/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=hennesssview-20&linkId=6d2d35997f4df8fdbf1161e081694011)![](//ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=li3&o=1&a=B01DORSX0O)
+[{{< figure src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01DORSX0O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hennesssview-20" >}}
+](https://www.amazon.com/Fight-To-Evolve-Governments-Secret-ebook/dp/B01DORSX0O/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=hennesssview-20&linkId=6d2d35997f4df8fdbf1161e081694011){{< figure src="//ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=li3&o=1&a=B01DORSX0O" >}}
 
 **If you can't wait (and there's no reason to wait)** you can buy the Kindle edition right now. [It's already #2 bestseller ](https://www.amazon.com/Fight-To-Evolve-Governments-Secret-ebook/dp/B01DORSX0O/ref=zg_bs_157465011_2)on censorship in the Kindle store.
 

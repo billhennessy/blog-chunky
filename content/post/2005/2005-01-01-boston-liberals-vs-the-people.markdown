@@ -11,5 +11,5 @@ categories:
 
 Here's a great post on [The Corner](https://www.nationalreview.com/thecorner/04_12_26_corner-archive.asp#049220). Perhaps Boston can take freedom lessons from Afghanistan.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=918)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=918" >}}
 

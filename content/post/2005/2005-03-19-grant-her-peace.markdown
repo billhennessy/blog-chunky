@@ -30,5 +30,5 @@ _Eternal rest grant her, o Lord, and let the perpetual light shine upon her. May
 
 Update:  [Blogs for Bush ](https://www.blogsforbush.com/mt/archives/004015.html)has comments. [Political Teen ](https://www.thepoliticalteen.net/archives/2005/03/_couey_admits_t.php)has video
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1411)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1411" >}}
 

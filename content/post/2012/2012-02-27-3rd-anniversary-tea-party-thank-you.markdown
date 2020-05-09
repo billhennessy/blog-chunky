@@ -22,8 +22,8 @@ The [3rd Anniversary Tea Party](https://3rdanniversaryteaparty.eventbrite.com/) 
 
 Although Dr. Larry Schweikart couldn’t make it (because of the Chicago snow storm), Friday’s event was better than planned or expected.  Tea Party champion Michael Patrick Leahy jumped into fill a last-minute void, and the crowd loved it.
 
-[![](https://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL110_&ASIN=0062066331&MarketPlace=US&ID=AsinImage&WS=1&tag=hennesssview-20&ServiceVersion=20070822)
-](https://www.amazon.com/gp/product/0062066331/ref=as_li_ss_il?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0062066331)I had the the pleasure of reading and advanced copy of [Mike Leahy's new book, Covenant of Liberty: The Ideological Origins of the Tea Party Movement](https://www.amazon.com/gp/product/0062066331/ref=as_li_ss_tl?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0062066331)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0062066331)
+[{{< figure src="https://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL110_&ASIN=0062066331&MarketPlace=US&ID=AsinImage&WS=1&tag=hennesssview-20&ServiceVersion=20070822" >}}
+](https://www.amazon.com/gp/product/0062066331/ref=as_li_ss_il?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0062066331)I had the the pleasure of reading and advanced copy of [Mike Leahy's new book, Covenant of Liberty: The Ideological Origins of the Tea Party Movement](https://www.amazon.com/gp/product/0062066331/ref=as_li_ss_tl?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0062066331){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0062066331" >}}
 in December. It blew me away. (I’ll publish a review shortly.)
 
 Mike’s interaction with the crowd, via Skype, lasted an hour. The conversation showcased the intelligence, integrity, and commitment of both Michael Patrick Leahy and the St. Louis Tea Partiers who attended the event.

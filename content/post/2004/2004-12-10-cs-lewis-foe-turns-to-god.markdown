@@ -42,5 +42,5 @@ Welcome to the light side, Antony. When you get to that special place, I'm sure 
 
 UPDATE: [Outside the Beltway ](https://www.outsidethebeltway.com/archives/8402)has some comments. So does [Steven Taylor](https://www.poliblogger.com/index.php?p=5573)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=840)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=840" >}}
 

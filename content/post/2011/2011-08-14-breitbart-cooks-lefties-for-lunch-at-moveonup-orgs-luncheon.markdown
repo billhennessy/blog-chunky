@@ -14,7 +14,7 @@ type: "post"
 
 "I will die fighting this Democrat-Media Complex, and I will fight alongside you."
 
-[![](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/08/breitbartMoveOnUp-293x300.jpg)
+[{{< figure src="https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/08/breitbartMoveOnUp-293x300.jpg" >}}
 ](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/08/breitbartMoveOnUp.jpg)That's Andrew Breitbart's commitment to African-American conservatives meeting at the Crowne Plaza Hotel at the airport in St. Louis, Missouri, yesterday.
 
 The three-day "Meet Me in the 'Lou" conference is the work of the remarkable people at [MoveOnUp.org](https://moveonup.ning.com/).  Today's day two, and Breitbart is the luncheon speaker.

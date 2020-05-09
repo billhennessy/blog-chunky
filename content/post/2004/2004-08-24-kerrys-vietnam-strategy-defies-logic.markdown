@@ -26,5 +26,5 @@ Kerry and most Democrats consider the US to be the bad guys in Vietnam, and the 
 
 Such brainlessness is why I could never be a Democrat. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=631)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=631" >}}
 

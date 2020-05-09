@@ -26,5 +26,5 @@ When people march and cry, wring their hands over war, pollution, and other pend
 
 On the other hand, they'll eventually be right.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=954)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=954" >}}
 

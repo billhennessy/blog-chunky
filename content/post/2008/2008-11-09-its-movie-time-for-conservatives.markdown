@@ -11,7 +11,7 @@ categories:
 
 Most enduring political truths are exposed and accessible in the 1995 Mel Gibson classic Braveheart: freedom, eros, love of country, sacrifice, loss, anger, vengeance, lust, hatred,betrayal, evil, and everything in between. Conservatives should see moderate Republicans in the character of Robert the Bruce's leper father. 
 
-![](https://www.hotflick.net/flicks/1995_Braveheart/995BVH_Ian_Bannen_002.jpg)
+{{< figure src="https://www.hotflick.net/flicks/1995_Braveheart/995BVH_Ian_Bannen_002.jpg" >}}
 
 
 > "You admire this man, this William Wallace. Uncompromising men are easy to admire. He has courage; so does a dog. But it is exactly the ability to 'compromise' that makes a man noble." -- Robert Bruce's father, advising his son to betray William Wallace
@@ -28,7 +28,7 @@ The next time we're asked to support a moderate Republican, we should remember W
 > 
 > 
 
-![](https://www.hotflick.net/flicks/1995_Braveheart/995BVH_Mel_Gibson_060.jpg)
+{{< figure src="https://www.hotflick.net/flicks/1995_Braveheart/995BVH_Mel_Gibson_060.jpg" >}}
 What's life without freedom? What's death without honor? What's Republican without conservatism?
 
 Technorati Tags: [moderate republcans](https://technorati.com/tags/moderate%20republcans),[compassionate conservatism](https://technorati.com/tags/compassionate%20conservatism),[Braveheart](https://technorati.com/tags/Braveheart)

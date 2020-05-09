@@ -19,5 +19,5 @@ UPDATE: [Poliblog ](https://www.poliblogger.com/index.php?p=5321)is linking to a
 
 ANOTHER UPDATE: I WAS WRONG! It's Condi. Sorry. My sources obviously suck. (Nope--Secretary of State is just too big a job to say no to.) Good call by [Steven Taylor](https://www.poliblogger.com)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=492)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=492" >}}
 

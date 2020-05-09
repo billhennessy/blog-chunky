@@ -14,5 +14,5 @@ I usually scoff at sanctions, like when the UN imposes sanctions against Iraq so
 1.  One year suspension of credentials to all federal government offices and events.  
 2.  Ban CBS from the presidential debates this fall.  
   
-These steps will ensure that the reorganized CBS News staff place objectivity and ethics before party politics and sensationalism. ![](https://blog.billhennessy.com/aggbug.aspx?PostID=557)
+These steps will ensure that the reorganized CBS News staff place objectivity and ethics before party politics and sensationalism. {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=557" >}}
 

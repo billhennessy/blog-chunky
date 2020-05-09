@@ -71,5 +71,5 @@ UPDATE: _[I told you so](https://www.blogsforbush.com/mt/archives/003787.html)_.
 
 Poor little fella. And some lefties call me a tool for merely suggesting that the MSM might crown this punk Victim of the Year.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1198)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1198" >}}
 

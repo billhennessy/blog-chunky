@@ -18,5 +18,5 @@ Again, his followers don't care, since they are motivated by anti-intellectual e
   
 Intelligent people don't take Dr. Dean very seriously.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=816)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=816" >}}
 

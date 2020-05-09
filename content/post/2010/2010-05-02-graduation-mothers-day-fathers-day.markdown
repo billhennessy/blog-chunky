@@ -13,7 +13,7 @@ type: "post"
 ---
 
 <table cellpadding="0" cellspacing="0" border="0" ><tbody >*<tr >*
-<td >![](https://ecx.images-amazon.com/images/I/31yJsUQXBOL._SL160_.jpg)
+<td >{{< figure src="https://ecx.images-amazon.com/images/I/31yJsUQXBOL._SL160_.jpg" >}}
 
 </td>*
 <td valign="top" >[Zen Conservatism](https://www.amazon.com/Zen-Conservatism-Reclaim-liberty-without/dp/1449959040%3FSubscriptionId%3D0JTCV5ZMHMF7ZYTXGFR2%26tag%3Dhennesssview-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1449959040), my latest book, is available for the early Summer gift season.   

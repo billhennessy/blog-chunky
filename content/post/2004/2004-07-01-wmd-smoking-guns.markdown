@@ -36,5 +36,5 @@ RUMSFELD:
 > 
 > 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=723)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=723" >}}
 

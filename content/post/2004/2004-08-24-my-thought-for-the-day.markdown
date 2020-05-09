@@ -9,5 +9,5 @@ categories:
 - Latest
 ---
 
-Never open a bottle of wine unless you intend to finish it.![](https://blog.billhennessy.com/aggbug.aspx?PostID=632)
+Never open a bottle of wine unless you intend to finish it.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=632" >}}
 

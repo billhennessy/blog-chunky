@@ -23,5 +23,5 @@ They are turning away and letting millions rot and die. Why? Because theythese
 
 Continued pressure by conservative organizations, including the Bush State Department, has force the UN to acknowledge that there is a problem. Europe still has not. Democrats in the US have not. Liberals, in general, have not. Years later, the killing goes on. As with Hitler and Fascism, Europeans wait for Americas army to fix the worlds problems. When that army isnt available, Europeans see no problems.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=545)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=545" >}}
 

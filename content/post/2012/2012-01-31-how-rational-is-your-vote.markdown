@@ -41,7 +41,7 @@ The power of physical attributes is even more dominant among less informed voter
 
 > [T]he effect of facial competence on voting is about three times larger for information-poor and TV-prone voters than for others who are better informed and watch less television.
 > 
-> Kahneman, Daniel (2011-10-25). Thinking, Fast and Slow (p. 91). Macmillan. Kindle Edition. ([Link to Book](https://www.amazon.com/mn/search/?_encoding=UTF8&keywords=thinking%20fast%20and%20slow&tag=hennesssview-20&index=stripbooks&linkCode=ur2&hvadid=8619117637&ref=pd_sl_6iwtp61chr_e&camp=1789&creative=390957)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=ur2&o=1)
+> Kahneman, Daniel (2011-10-25). Thinking, Fast and Slow (p. 91). Macmillan. Kindle Edition. ([Link to Book](https://www.amazon.com/mn/search/?_encoding=UTF8&keywords=thinking%20fast%20and%20slow&tag=hennesssview-20&index=stripbooks&linkCode=ur2&hvadid=8619117637&ref=pd_sl_6iwtp61chr_e&camp=1789&creative=390957){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=ur2&o=1" >}}
 )
 > 
 > 

@@ -65,5 +65,5 @@ Finally, how can a libertarian support the concept that 9 old ladies and men can
 
 That was the founders' dream. But the Supreme Court, like the allegorical tiger in that fantastic song in Les Miserables, came at night to tear apart the dream. What's left is something nasty, damp, far flung, and uniform, like the output of a sneeze.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1339)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1339" >}}
 

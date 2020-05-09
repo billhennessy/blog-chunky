@@ -27,5 +27,5 @@ Anti-War lefties hang American Soldier in effigy. Good job, folks. That convince
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1174)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1174" >}}
 

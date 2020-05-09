@@ -71,5 +71,5 @@ Since everybody's talking about Dean, might as well join [The Beltway Traffic Ja
 
 UPDATE: [Joe Gandelman ](https://themoderatevoice.powerblogs.com/posts/1107432402.shtml)has some observations that well worth the read.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=992)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=992" >}}
 

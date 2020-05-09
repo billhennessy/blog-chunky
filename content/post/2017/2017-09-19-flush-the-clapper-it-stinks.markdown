@@ -10,7 +10,7 @@ categories:
 type: "post"
 ---
 
-![](https://hennessysview.com/wp-content/uploads/2017/09/img_0302.jpg)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/09/img_0302.jpg" >}}
 
 
 James Clapper lied to Chuck Todd.

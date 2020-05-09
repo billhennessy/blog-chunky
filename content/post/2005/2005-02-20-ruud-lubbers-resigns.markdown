@@ -26,5 +26,5 @@ It looks like the UN's closet door is open, and the skeletons are shaking out. H
 
 [Michelle Malkin ](https://michellemalkin.com/archives/001561.htm)has more.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1147)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1147" >}}
 

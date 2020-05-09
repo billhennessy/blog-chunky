@@ -21,5 +21,5 @@ Why? Because America provides 40% of the total world charity while comprising le
 
 I hate the United Nations.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=915)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=915" >}}
 

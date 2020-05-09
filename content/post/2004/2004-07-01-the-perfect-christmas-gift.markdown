@@ -15,5 +15,5 @@ Now I know what to get the kids for Christmas.  Not too long ago, such a novelty
   
 This is the best proof in a long time that we were morally right to liberate Iraq.    
   
-On to Iran!![](https://blog.billhennessy.com/aggbug.aspx?PostID=729)
+On to Iran!{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=729" >}}
 

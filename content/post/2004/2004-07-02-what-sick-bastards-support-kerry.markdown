@@ -15,7 +15,7 @@ categories:
 <td >  
 
 
-![](https://www.pleasevote.com/downloads/PleaseVoteAd_email.jpg)
+{{< figure src="https://www.pleasevote.com/downloads/PleaseVoteAd_email.jpg" >}}
 
 
 </td>  
@@ -37,5 +37,5 @@ Nod to [Drudge](https://www.drudgereport.com/)
 
 </td></tr></tbody></table>  
 <table >  
-</tbody></table>![](https://blog.billhennessy.com/aggbug.aspx?PostID=718)
+</tbody></table>{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=718" >}}
 

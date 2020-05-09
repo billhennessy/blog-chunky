@@ -37,7 +37,7 @@ What you can do stop them:
 
 Finally, there's nothing wrong with hoping Obama fails in his mission to turn the US into a socialist country. As his poll numbers fall, he will make more mistakes. Drive down his poll numbers. This isn't personal; it's the business of preserving our Republic.
 
-[![](https://www.rasmussenreports.com/var/plain/storage/images/media/images/obama_index_0309/207702-1-eng-US/obama_index_0309.jpg)
+[{{< figure src="https://www.rasmussenreports.com/var/plain/storage/images/media/images/obama_index_0309/207702-1-eng-US/obama_index_0309.jpg" >}}
 ](https://www.rasmussenreports.com/public_content/politics/obama_administration/daily_presidential_tracking_poll)
 
 Technorati Tags: [tax party](https://technorati.com/tags/tax%20party),[liberal smear machine](https://technorati.com/tags/liberal%20smear%20machine),[daily kos](https://technorati.com/tags/daily%20kos)

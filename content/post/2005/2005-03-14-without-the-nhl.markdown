@@ -27,5 +27,5 @@ It was step-son Jordan's first live hockey game of any kind. He's seven. Of cour
 
 If you're a hockey fan who cannot fathom March and April without black rubber on frozen water, get to UHL game soon. If you're in St. Louis, you better see an Otter game soon. 4,342 fans paid to see today's game--the first for Mayers and Salvador. With four popular Bluenotes in the line-up, expect tickets to the [10,000 seat arena ](https://www.riverotters.com/schedule.php)to go quickly.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1350)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1350" >}}
 

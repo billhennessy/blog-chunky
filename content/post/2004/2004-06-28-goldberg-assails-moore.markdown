@@ -9,5 +9,5 @@ categories:
 - Latest
 ---
 
-[Jonah Goldberg's piece on Moore](https://www.nationalreview.com/goldberg/goldberg200406280944.asp) is required reading.  If you must have a review from a liberal who has seen the movie, read Christopher Hitchens's piece from _Slate_.  (link below)![](https://blog.billhennessy.com/aggbug.aspx?PostID=733)
+[Jonah Goldberg's piece on Moore](https://www.nationalreview.com/goldberg/goldberg200406280944.asp) is required reading.  If you must have a review from a liberal who has seen the movie, read Christopher Hitchens's piece from _Slate_.  (link below){{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=733" >}}
 

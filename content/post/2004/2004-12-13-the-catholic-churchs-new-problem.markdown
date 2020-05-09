@@ -51,5 +51,5 @@ The Catholic community in St. Louis in shambles. Shortly, South St. Louis will f
 
 I fought for celibate priests all of my life, especially during my 15 years in Catholic schools. But I have changed my mind. In order to save the church, we must ordain married men. And soon. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=864)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=864" >}}
 

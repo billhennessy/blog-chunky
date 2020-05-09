@@ -41,7 +41,7 @@ Here’s a screen shot taken March 25 about 7:30 p.m.
 
 And here’s a screenshot taken on March 24:
 
-![](https://journeymapp.com/hennessysview/wp-content/uploads/2012/02/6a0120a772b381970b014e60167b92970c-320wi.png?w=300)
+{{< figure src="https://journeymapp.com/hennessysview/wp-content/uploads/2012/02/6a0120a772b381970b014e60167b92970c-320wi.png?w=300" >}}
 
 
 Clearly, the Zimmerman campaign is trying to hide the dropped assessment for candidate Jake’s dad. The question is “why?”

@@ -32,5 +32,5 @@ High school students, just a year or two from voting, should probably form an un
   
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=564)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=564" >}}
 

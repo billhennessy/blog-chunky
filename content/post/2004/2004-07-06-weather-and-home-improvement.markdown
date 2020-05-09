@@ -15,5 +15,5 @@ If you've come here in the past few days, you've noticed that my site's been dow
   
 2.  Six hours after I got my servers back online, massive storms moved through the St. Louis area and took my electricity with them when they moved into Illinois.  I just got that back.    
   
-I apologize for the inconvenience.  If anyone would like to donate a generator, item 2 will never happen again.  ![](https://blog.billhennessy.com/aggbug.aspx?PostID=711)
+I apologize for the inconvenience.  If anyone would like to donate a generator, item 2 will never happen again.  {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=711" >}}
 

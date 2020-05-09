@@ -107,7 +107,7 @@ And [then the Boom!](https://www.thegatewaypundit.com/2017/05/boom-hacker-kim-do
 > #### **“I knew Seth Rich. I know he was the @Wikileaks source. I was involved.”**
 > 
 > 
-![](https://16004-presscdn-0-50.pagely.netdna-cdn.com/wp-content/uploads/kim-dotcom-seth-rich-1-575x177.jpg)
+{{< figure src="https://16004-presscdn-0-50.pagely.netdna-cdn.com/wp-content/uploads/kim-dotcom-seth-rich-1-575x177.jpg" >}}
 
 
 

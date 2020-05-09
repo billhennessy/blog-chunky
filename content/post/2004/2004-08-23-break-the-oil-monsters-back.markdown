@@ -34,5 +34,5 @@ Oil output is up and demand is down. The reasonable price for oil is about $35.0
 
 I have no idea how much daily oil consumption would be reduced if this list were followed by everyone. But it would be significant--may 10%. More ideas are welcome
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=636)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=636" >}}
 

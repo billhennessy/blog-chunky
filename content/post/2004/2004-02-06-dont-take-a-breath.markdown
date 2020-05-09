@@ -17,5 +17,5 @@ Today is Ronald Reagan's 93rd birthday.
 
 Godspeed, Gipper.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=770)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=770" >}}
 

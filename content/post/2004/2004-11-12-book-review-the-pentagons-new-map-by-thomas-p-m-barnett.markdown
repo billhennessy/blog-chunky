@@ -23,5 +23,5 @@ Perhaps the most enjoyable aspect of the book for me is Dr. Barnetts skewering
 
 The Pentagons New Map is an essential piece to the puzzle that is the war on terror. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=498)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=498" >}}
 

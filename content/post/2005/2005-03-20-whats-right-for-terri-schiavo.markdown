@@ -159,5 +159,5 @@ Feminists for Life Honorary Chair
 
 <td >![GreyPatty](https://blog.billhennessy.com/blogs/hennessys_view/greyPatty.jpg)
 
-</td></tr></tbody></table>![](https://blog.billhennessy.com/aggbug.aspx?PostID=1416)
+</td></tr></tbody></table>{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1416" >}}
 

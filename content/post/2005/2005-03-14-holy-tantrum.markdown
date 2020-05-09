@@ -64,5 +64,5 @@ UPDATE: [Political Teen ](https://www.thepoliticalteen.net/archives/2005/03/big_
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1351)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1351" >}}
 

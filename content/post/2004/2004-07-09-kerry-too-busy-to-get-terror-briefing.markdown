@@ -34,5 +34,5 @@ KERRY: Well, I haven't been briefed yet, Larry. They have offered to brief me. I
 The GOP has been ridiculed in the press for suggesting that Kerry would turn a deaf ear toward terrorism. Turns out the press and the DNC were all wet: Kerry has already turned a deaf ear to terrorism.   
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=698)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=698" >}}
 

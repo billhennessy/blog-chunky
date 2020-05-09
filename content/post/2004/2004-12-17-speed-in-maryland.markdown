@@ -26,5 +26,5 @@ We'll see.
 
 From the evidence disclosed thus far, I would be surprised if Speed ever goes to trial. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=890)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=890" >}}
 

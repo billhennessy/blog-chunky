@@ -24,5 +24,5 @@ Again, I'm amazed at the similarities between descriptions of Kerry's campaign p
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=606)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=606" >}}
 

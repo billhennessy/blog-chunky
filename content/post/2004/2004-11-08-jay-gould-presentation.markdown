@@ -13,5 +13,5 @@ Listening to Mr. Gould's presentation on Thursday, I was struck by the fact that
   
 I hope, in the coming weeks, to find ways to help this effort.  We will need some custom programming to maximize the value of the database.  We could also use the internet to provide some value to those potential and actual contributors.    
   
-I can't wait to get to work on these efforts.  ![](https://blog.billhennessy.com/aggbug.aspx?PostID=515)
+I can't wait to get to work on these efforts.  {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=515" >}}
 

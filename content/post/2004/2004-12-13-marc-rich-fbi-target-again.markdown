@@ -46,5 +46,5 @@ I hope he is indicted and found guilty of these charges. Poetic justice demands 
 
 Link via [Drudge](https://www.drudgereport.com).
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=872)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=872" >}}
 

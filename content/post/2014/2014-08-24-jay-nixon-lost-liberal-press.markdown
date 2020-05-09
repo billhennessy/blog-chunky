@@ -21,7 +21,7 @@ Man, he says! The insolence! “You brought it up, my friend. So you’re gonna 
 
 “Don’t you shine us up with no more your figures!” Another eruption in the crowd, louder this time: “Unnnnh-unnnnh-unnnh…Tell’im, bro… Y’ on the
 
-_—Tom Wolfe. [The Bonfire of the Vanities: A Novel](https://www.amazon.com/gp/product/B003GYEGNO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003GYEGNO&linkCode=as2&tag=hennesssview-20&linkId=I2Y2DSNPTYYHEWNE)![](https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=B003GYEGNO)
+_—Tom Wolfe. [The Bonfire of the Vanities: A Novel](https://www.amazon.com/gp/product/B003GYEGNO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003GYEGNO&linkCode=as2&tag=hennesssview-20&linkId=I2Y2DSNPTYYHEWNE){{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=B003GYEGNO" >}}
 
 (Kindle Locations 125-129). Farrar, Straus and Giroux. Kindle Edition. _
 
@@ -60,7 +60,7 @@ I won't be too hard on Bill, though. He seems to have had a bona fide friendshi
 
 
 
-When [Lee Presser](https://hennessysview.com/author/leepresser/) implored me to watch Nixon's painful press conference last weekend in Ferguson, I thought of Tom Wolfe's brilliant prologue to [The Bonfire of the Vanities: A Novel](https://www.amazon.com/gp/product/B003GYEGNO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003GYEGNO&linkCode=as2&tag=hennesssview-20&linkId=I2Y2DSNPTYYHEWNE)![](https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=B003GYEGNO)
+When [Lee Presser](https://hennessysview.com/author/leepresser/) implored me to watch Nixon's painful press conference last weekend in Ferguson, I thought of Tom Wolfe's brilliant prologue to [The Bonfire of the Vanities: A Novel](https://www.amazon.com/gp/product/B003GYEGNO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003GYEGNO&linkCode=as2&tag=hennesssview-20&linkId=I2Y2DSNPTYYHEWNE){{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=B003GYEGNO" >}}
 .
 
 In the prologue, a fictional New York mayor goes to Harlem and loses the audience. Here's where Jay Nixon lost his political future.

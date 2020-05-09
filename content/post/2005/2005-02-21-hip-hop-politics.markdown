@@ -21,5 +21,5 @@ Mr. SoupMan was reluctant to share his link with me. He didn't want hassles he'd
 
 Anyway, if you get a chance, check out his site. But please, please, be polite. We're guests on each others blogs--not family.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1169)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1169" >}}
 

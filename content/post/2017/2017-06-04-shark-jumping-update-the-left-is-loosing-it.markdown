@@ -26,7 +26,7 @@ Until [Kathy Griffin went too far](https://hennessysview.com).
 
 Comedians and leftist news people are bound to go too far. It's bio-chemical response. And now, so many leftists are in a race to the top on excess and insanity. Even the horrible Washington Post has noticed.
 
-![](https://hennessysview.com/wp-content/uploads/2017/06/Screenshot-2017-06-04-14.09.51-1024x459.png)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/06/Screenshot-2017-06-04-14.09.51-1024x459.png" >}}
 
 
 The [story tells you what probably already know](https://www.washingtonpost.com/news/the-fix/wp/2017/06/03/maher-griffin-colbert-anti-trump-comedians-are-having-a-really-bad-moment/). Bill Maher is in trouble for using the N word Friday night. Stephen Colbert is in trouble for a gay slur directed at Trump. And, of course, Kathy Griffin's career is over for beheading Trump as a joke.

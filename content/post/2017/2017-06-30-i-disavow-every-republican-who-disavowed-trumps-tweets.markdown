@@ -17,7 +17,7 @@ type: "post"
 
 When Reagan was president, we wanted him to hit back harder on the press. We wanted him to put Sam Donaldson in his place. We wanted him to call out the fake news.
 
-[caption id="attachment_22208" align="aligncenter" width="750"]![](https://hennessysview.com/wp-content/uploads/2017/06/reagan-donaldson.jpg)
+[caption id="attachment_22208" align="aligncenter" width="750"]{{< figure src="https://hennessysview.com/wp-content/uploads/2017/06/reagan-donaldson.jpg" >}}
 2/5/1981 President Reagan during an interview with Sam Donaldson of ABC News Leslie Stahl of CBS News and Judith Woodruff of NBC News with James Brady at the Cross Hall White House Library[/caption]
 
 But Reagan didn't.
@@ -34,7 +34,7 @@ They had it coming. They EARNED a presidential takedown. They earned it. They go
 
 When Nancy Pelosi, former lube rack swimsuit model, took to the podium to call Trump sexist, I laughed. What a stupid hypocrite Pelosi.
 
-[caption id="attachment_22202" align="aligncenter" width="1140"]![](https://hennessysview.com/wp-content/uploads/2017/06/nancy-pelosi-miss-lube-rack-1958.jpg)
+[caption id="attachment_22202" align="aligncenter" width="1140"]{{< figure src="https://hennessysview.com/wp-content/uploads/2017/06/nancy-pelosi-miss-lube-rack-1958.jpg" >}}
 Nancy Pelosi: Lube Rack Model[/caption]
 
 When I heard Republicans disavowing Trump's tweets, I yelled. Almost cried like Chuck Schumer.
@@ -45,7 +45,7 @@ The press deserves every ounce of scorn, ridicule, and condemnation it gets. The
 
 I am damn proud that my president remains true to his rallying, street-fighter campaign. I'm proud that Trump verbally punches stupidity in its plastic-surgery-lifted face (as Michelle Moore might say).
 
-[caption id="attachment_22206" align="aligncenter" width="480"]![](https://hennessysview.com/wp-content/uploads/2017/06/michelle-moore.jpg)
+[caption id="attachment_22206" align="aligncenter" width="480"]{{< figure src="https://hennessysview.com/wp-content/uploads/2017/06/michelle-moore.jpg" >}}
 Michelle Moore, St. Louis Tea Party Coalition Executive Director[/caption]
 
 I hope Trump's tweets hurt their feelings. Screw their feeling.

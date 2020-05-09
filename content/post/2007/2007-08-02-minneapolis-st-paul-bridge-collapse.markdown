@@ -27,7 +27,7 @@ I came home feeling feverish and went to bed earlier.  I woke up at 9:30, planni
 
 
 
-[![](https://www.visi.com/~jweeks/bridges/pics/i35wmiss02.jpg)
+[{{< figure src="https://www.visi.com/~jweeks/bridges/pics/i35wmiss02.jpg" >}}
 ](https://www.visi.com/~jweeks/bridges/pages/ms16.html)
 
 

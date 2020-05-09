@@ -55,5 +55,5 @@ UPDATE:  from [FoxNews](https://www.foxnews.com/story/0,2933,148867,00.html)
 But she's still not home where she belongs, and I'm still praying she gets home soon.  God bless her.
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1243)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1243" >}}
 

@@ -157,5 +157,5 @@ What others say:
 
 [Q and O ](https://www.qando.net/details.aspx?Entry=1147)ponders Paul Samuelson, liberalism's old favorite economist.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1079)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1079" >}}
 

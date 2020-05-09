@@ -18,5 +18,5 @@ Apparently, the only expert who thinks Jerry Killian typed and signed the CBS pa
   
 Funny--the liberal press isn't rallying to CBS's side.  MSNBC in particular seems to be leaning toward pronouncing the documents frauds.    
   
-Me, too.![](https://blog.billhennessy.com/aggbug.aspx?PostID=577)
+Me, too.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=577" >}}
 

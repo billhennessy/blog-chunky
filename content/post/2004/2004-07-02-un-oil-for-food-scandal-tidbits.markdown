@@ -21,5 +21,5 @@ Saddam used bribes to UN Officials to divert $10 billion from food and medicine 
 
 Giving money to UN relief agencies is more than a waste: it's supporting corruption that kills innocent people. The UN must be destroyed.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=720)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=720" >}}
 

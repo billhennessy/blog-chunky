@@ -34,7 +34,7 @@ Once you’ve established that baseline, there are things you can do start the u
 
  
 
-![](https://lauraberry.files.wordpress.com/2008/07/journal.jpg)
+{{< figure src="https://lauraberry.files.wordpress.com/2008/07/journal.jpg" >}}
 Writing down three things you’re grateful for every day, and an account for who or what is responsible, will elevate your happiness, according to several studies. I heard about these studies from [Dr. Shawn Achor](https://www.shawnachor.com/) who led positive psychology studies at Harvard until very recently. If you’d like to use a convenient online journal for this, try [www.thankfulfor.com](https://www.thankfulfor.com). It even lets you share your gratitude with the world on facebook or twitter if you choose.
 
  

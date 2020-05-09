@@ -31,5 +31,5 @@ The [Wall Street Journal ](https://online.wsj.com/article/1,,SB11098868874066989
 
 Hockey is my favorite sport, and I miss the NHL. This move, however, scares me. What if the owner decided it wanted to get out of the hockey business? Still, anything to have a season next year, and anything to keep the ticket prices in line.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1296)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1296" >}}
 

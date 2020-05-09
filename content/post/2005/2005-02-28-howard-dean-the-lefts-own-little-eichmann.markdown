@@ -78,5 +78,5 @@ Thanks to [KLo down at The Corner.](https://www.nationalreview.com/thecorner/05_
   
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1256)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1256" >}}
 

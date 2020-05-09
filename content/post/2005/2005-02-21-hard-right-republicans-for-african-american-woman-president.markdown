@@ -119,5 +119,5 @@ Linked by [Blogs for Condi](https://condoleezza.blogspot.com/2005/02/president-a
 [Michelle Malkin ](https://michellemalkin.com/archives/001565.htm)says it all: [Condi is a Doll](https://www.vicalecorporation.com/SearchResult.aspx?CategoryID=19)  
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1173)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1173" >}}
 

@@ -21,5 +21,5 @@ categories:
 
 (For the record, I was personnel officer in the Navy. I served nine years active duty, mostly in the submarine force, from 1985 to 1994, and two years as an active duty reservist with an in-shore combat unit. I am very familiar with requirements and procedures for awards.)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=619)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=619" >}}
 

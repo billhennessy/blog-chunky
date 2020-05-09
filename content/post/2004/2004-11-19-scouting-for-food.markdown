@@ -74,5 +74,5 @@ After consulting with numerous food pantry directors in the area and seeking nut
   * 
 
 
-**1 can of evaporated milk:** Makes an excellent source of calcium and protein. ![](https://blog.billhennessy.com/aggbug.aspx?PostID=490)
+**1 can of evaporated milk:** Makes an excellent source of calcium and protein. {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=490" >}}
 

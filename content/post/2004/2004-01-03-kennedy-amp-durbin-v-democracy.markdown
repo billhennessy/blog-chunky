@@ -23,5 +23,5 @@ I will rewrite it if I get the energy. This is all that remains--a quote from Fe
 
 In summary, anyone who votes for Kennedy or Durbin, votes against democracy and freedom.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=808)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=808" >}}
 

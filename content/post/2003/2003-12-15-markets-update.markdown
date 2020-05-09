@@ -13,5 +13,5 @@ Well, the President gets more positive coverage with a press conference, the Arm
 
 The American investor class knows nothing of patriotism. Sometimes, at seminal moments in history, it is right to subordinate your personal wealth to the national or world good. But the same "me first" monied folks who sold like mad after 9/11--Warren Buffett foremost--are padding their pockets today. Greed and selfishness know no bounds, political, patriotic, or otherwise. 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=824)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=824" >}}
 

@@ -16,5 +16,5 @@ I'm a Flippery Fish on the [TTLB Ecosystem](https://www.truthlaidbear.com/ecosys
 
 Thanks
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1369)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1369" >}}
 

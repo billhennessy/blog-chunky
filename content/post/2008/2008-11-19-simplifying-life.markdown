@@ -15,7 +15,7 @@ Searching for ideas (motivation, actually) to simply my life, I came across ZenH
 
 Some of the content is a little new age, but it's digestible.
 
-[![](https://zenhabits.net/fotos/ztd.png)
+[{{< figure src="https://zenhabits.net/fotos/ztd.png" >}}
 ](https://www.e-junkie.com/ecom/gb.php?ii=56260&c=ib&aff=41653)Along the way, I've bought his ebook, "Zen to Done."  Inspired by David Allen's great personal management book, "Getting Things Done," ZTD takes the concept to a simpler and more practical level. ( [Click here to view more details](https://www.e-junkie.com/ecom/gb.php?ii=56260&c=ib&aff=41653))
 
 Leo's system is simple:  reduce all of your action commitments or ideas to paper (or its electronic equal) and do them. 

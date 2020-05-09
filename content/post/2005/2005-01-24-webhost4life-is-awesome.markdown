@@ -14,5 +14,5 @@ My old hosting provider should have never gotten into the business. Over the pas
 I strongly recommend [WebHost4Life.com](https://www.WebHost4Life.com/default.asp?refid=whennessy) if you need excellent ASP.NET hosting at the best prices in the world.   
   
   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=949)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=949" >}}
 

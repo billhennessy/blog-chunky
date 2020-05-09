@@ -16,5 +16,5 @@ _The Dean plan, our ad notes, would raise taxes by $2,472 a year on a typical mi
 
 [Read the article](https://online.wsj.com/article/0,,SB107300503823525600,00.html?mod=opinion%5Fmain%5Fcommentaries). If you think Dean might win, get your assets into off-shore accounts as soon as possible.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=813)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=813" >}}
 

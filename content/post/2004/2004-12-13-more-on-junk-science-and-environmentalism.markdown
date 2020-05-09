@@ -46,5 +46,5 @@ UPDATE: Over lunch, I read the first 2.5 chapters of [State of Fear](https://www
 
 UPDATE: Nelson DeMille's latest work, [Night Fall](https://www.amazon.com/exec/obidos/redirect?tag=hennesssview-20&path=ASIN%2F0446576638%2Fqid%3D1102965357%2Fsr%3D2-1%2Fref%3Dpd_ka_b_2_1) , is also in bookstores.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=870)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=870" >}}
 

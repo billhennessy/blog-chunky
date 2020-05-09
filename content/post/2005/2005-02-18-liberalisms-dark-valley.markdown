@@ -124,5 +124,5 @@ Ultimately, that's the question for liberals to answer for themselves. Their ans
 
 Remember to check out the [Beltway Traffic Jam](https://www.outsidethebeltway.com/archives/9320)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1118)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1118" >}}
 

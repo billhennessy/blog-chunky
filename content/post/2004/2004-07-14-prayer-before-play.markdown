@@ -89,5 +89,5 @@ For me, the prayer worked. The tears carried off so many fears but left the stre
 
 
 
-I have so many, many things deserving my gratitude. My debt to Him grows each day. Today, as you passed me in the dark behind the flats that hide the cyclorama, I hid my tears behind hands that folded together in prayer many times during our performance, not to plead, but to thank God for the wonderful for talents, skills, friends, love, and life He's so graciously granted a creature as underserving as myself.![](https://blog.billhennessy.com/aggbug.aspx?PostID=686)
+I have so many, many things deserving my gratitude. My debt to Him grows each day. Today, as you passed me in the dark behind the flats that hide the cyclorama, I hid my tears behind hands that folded together in prayer many times during our performance, not to plead, but to thank God for the wonderful for talents, skills, friends, love, and life He's so graciously granted a creature as underserving as myself.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=686" >}}
 

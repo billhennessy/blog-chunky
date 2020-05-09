@@ -60,7 +60,7 @@ While the Republican presidential field has many good men an women in its ranks,
 
 **Our grassroots movement has come too far to return now to business as usual.**
 
-Last night, I had the rare and wonderful honor of introducing [Phyllis Schlafly](https://www.eagleforum.org/misc/bio.html) at a fundraiser for [Ed Martin](https://edmartinforcongress.com/).  Mrs. Schlafly sits in the conservative pantheon with William F. Buckley, Ronald Reagan, Russell Kirk, and Barry Goldwater.  Her 1964 book, [A Choice Not an Echo: The inside story of how American Presidents are chosen](https://www.amazon.com/gp/product/0686114868/ref=as_li_ss_tl?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0686114868)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0686114868&camp=217145&creative=399373)
+Last night, I had the rare and wonderful honor of introducing [Phyllis Schlafly](https://www.eagleforum.org/misc/bio.html) at a fundraiser for [Ed Martin](https://edmartinforcongress.com/).  Mrs. Schlafly sits in the conservative pantheon with William F. Buckley, Ronald Reagan, Russell Kirk, and Barry Goldwater.  Her 1964 book, [A Choice Not an Echo: The inside story of how American Presidents are chosen](https://www.amazon.com/gp/product/0686114868/ref=as_li_ss_tl?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0686114868){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0686114868&camp=217145&creative=399373" >}}
 , laid the blueprint for Ronald Reagan’s near-miss in 1976 and victory in 1980.
 
 In 2012, the GOP can give Americans a choice, or it can destroy itself with mere echoes.  At this moment in history, there is no third way.

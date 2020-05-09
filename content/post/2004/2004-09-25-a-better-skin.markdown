@@ -9,5 +9,5 @@ categories:
 - Latest
 ---
 
-I have to find a better skin for this site.  I don't like this one.  I should buck up and buy one, but I'm too cheap.  If you see funny things here today, please forgive me.![](https://blog.billhennessy.com/aggbug.aspx?PostID=546)
+I have to find a better skin for this site.  I don't like this one.  I should buck up and buy one, but I'm too cheap.  If you see funny things here today, please forgive me.{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=546" >}}
 

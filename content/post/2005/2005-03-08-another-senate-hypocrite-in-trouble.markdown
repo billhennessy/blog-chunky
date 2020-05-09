@@ -70,5 +70,5 @@ UPDATE: Kewl! I _finally_ scooped [Michelle Malkin](https://michellemalkin.com/a
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1318)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1318" >}}
 

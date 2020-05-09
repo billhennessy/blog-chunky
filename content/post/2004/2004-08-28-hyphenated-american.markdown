@@ -49,5 +49,5 @@ Hennessy--that's me.
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=615)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=615" >}}
 

@@ -13,7 +13,7 @@ tags:
 type: "post"
 ---
 
-![](https://journeymapp.com/hennessysview/wp-content/uploads/2012/02/warrencoteaparty-michelle3.jpg?w=119)
+{{< figure src="https://journeymapp.com/hennessysview/wp-content/uploads/2012/02/warrencoteaparty-michelle3.jpg?w=119" >}}
 The first St. Louis Tea Partier was Michelle Moore. In the annals of the Tea Party movement, the first action was a conference call held February 20, 2009. The only St. Louisan known to be on that call was Michelle Moore.
 
  

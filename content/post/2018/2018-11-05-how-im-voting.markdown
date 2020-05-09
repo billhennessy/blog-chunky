@@ -234,4 +234,4 @@ Don't forget to [Vote and Pray](https://www.hennessysview.com/2018/11/04/electio
 
 
 
-![](/images/uploads/st-meinrad-church.jpg)
+{{< figure src="/images/uploads/st-meinrad-church.jpg" >}}

@@ -26,5 +26,5 @@ Arafat was a terrorist, self-serving hate-monger. A murder of children. He deser
 
 FLASHBACK: [Arafat's Death](https://blog.billhennessy.com/blogs/hennessys_view/archive/2004/11/11/500.aspx)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=879)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=879" >}}
 

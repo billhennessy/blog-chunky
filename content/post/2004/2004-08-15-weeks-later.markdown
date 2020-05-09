@@ -15,5 +15,5 @@ I imagine life has settled back down for most of us. I stumbled onto Bill's webs
   
 Okay, enough soap boxing. I hope you are all well and happy!  
 Love to all  
-Carrie![](https://blog.billhennessy.com/aggbug.aspx?PostID=643)
+Carrie{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=643" >}}
 

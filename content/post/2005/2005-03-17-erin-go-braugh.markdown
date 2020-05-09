@@ -61,5 +61,5 @@ BTW--Erin go braugh means Forever Ireland.
 
 [UPDATE: Photos from the parade](https://blog.billhennessy.com/photos/st._patricks_parade_2005/default.aspx)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1386)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1386" >}}
 

@@ -14,7 +14,7 @@ tags:
 
 I'm terrible at holiday posts, so I turn to America's greatest Catholic preacher since Fulton Sheen:
 
-[![](https://www.fathercorapi.com/images/frcorapi.jpg)
+[{{< figure src="https://www.fathercorapi.com/images/frcorapi.jpg" >}}
 ](https://www.fathercorapi.com)The blessed and joyous time of Christmas is here again. So, I’ll just take the opportunity to thank all of our viewing and listening family for allowing us into your homes. I don’t take that for granted. I am honestly grateful to you for allowing us to serve you in that way.
 
 As I look out the windows of my home in Montana it sure is “beginning to look a lot like Christmas.” We have about a foot of snow and it’s been below zero for about ten days. Two of my dogs are under my desk with their heads resting on my feet--looking like those big fuzzy slippers that little kids sometimes wear.

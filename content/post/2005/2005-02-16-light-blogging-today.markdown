@@ -10,5 +10,5 @@ categories:
 ---
 
 Between a new project at work and two middle school band concerts tonight, I won't be doing much blogging.   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1102)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1102" >}}
 

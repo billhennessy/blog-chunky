@@ -39,5 +39,5 @@ Keep your fingers crossed. Apparently there's no way to head it off with vaccine
 
 Link by [Drudge](https://www.drudgereport.com/)
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1172)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1172" >}}
 

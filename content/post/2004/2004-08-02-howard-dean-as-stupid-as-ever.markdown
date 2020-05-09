@@ -15,5 +15,5 @@ Howard Dean is a stupid man.  Medical education, along with physics, engineering
   
 Apparently, Howard Dean wasn't even very good a physician.  He is worse a thinker on things civic.  
   
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=664)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=664" >}}
 

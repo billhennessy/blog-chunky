@@ -57,5 +57,5 @@ We acknowledge that education must be promoted and pursued; that government shou
 
 Finally, we believe that the course of history has bestowed upon us unparalleled opportunity and responsibility for the protection, nurturing, and advancement of Western Civilization.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=473)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=473" >}}
 

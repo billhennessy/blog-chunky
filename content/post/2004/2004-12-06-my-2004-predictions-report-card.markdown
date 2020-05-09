@@ -60,5 +60,5 @@ Jacko will be tried and convicted on some minor child abuse or endangerment char
 
 
 **Iraq**  
-The terrorism in Iraq will subside substantially after a major ![](https://blog.billhennessy.com/aggbug.aspx?PostID=467)
+The terrorism in Iraq will subside substantially after a major {{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=467" >}}
 

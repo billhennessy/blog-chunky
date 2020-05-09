@@ -19,7 +19,7 @@ Maybe you scoffed at the headline.  Maybe you didn't see it.  Maybe you're in 
 
 
 
-[![](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/09/reebok-seven-deadly-sins-pump-omni-lite.jpg)
+[{{< figure src="https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/09/reebok-seven-deadly-sins-pump-omni-lite.jpg" >}}
 ](https://19015-hennessysview.hennessysview.com/wp-content/uploads/2011/09/reebok-seven-deadly-sins-pump-omni-lite.jpg)
 
 

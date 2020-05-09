@@ -78,7 +78,7 @@ If you're sick of listening to me, don't worry. Lots of other great speakers.
 
 **JAN MORGAN**
 
-![](https://cdn.evbuc.com/eventlogos/1771166/janmorgan.png)
+{{< figure src="https://cdn.evbuc.com/eventlogos/1771166/janmorgan.png" >}}
 
 
 **Often referred to as the 1st Lady of the 2nd Amendment, Jan is a Nationally Recognized 2nd Amendment Advocate/Speaker, NRA Certified Firearms Instructor, NRA Certified Range Safety Officer, State Police Certified Concealed Carry Instructor, founder of Armed American Woman, (a national firearms training program for women) and owner of The Gun Cave Indoor Firing Range in Hot Springs. You can catch Jan weekly on Fox News/Fox Business Network as an analyst on Gun Rights issues. **
@@ -91,7 +91,7 @@ If you're sick of listening to me, don't worry. Lots of other great speakers.
 
 **DAN WOS**
 
-**![](https://cdn.evbuc.com/eventlogos/1771166/danwos.jpeg)
+**{{< figure src="https://cdn.evbuc.com/eventlogos/1771166/danwos.jpeg" >}}
 **
 
 **Dan's latest book "Good Gun Bad Guy" explores the minset of those who want to destrou the rights of gun owners in America.  Being a Pro-Gun advocate, Dan takes this subject very seriously.  He exposes the anger and misleading rhetoric of Anti-Gunners in the very revealing book.**

@@ -110,7 +110,7 @@ Remember that quote. It's important. **To the left, joy is a sin**. And Trump's 
 
 The great [Jim Hoft captured our joy in the faces](https://www.thegatewaypundit.com/2017/02/sweet-justice-photos-emerge-kellyanne-conway-sean-spicer-laughing-trump-castigates-liberal-press/) of Sean Spicer and Kellyanne Conway taken during Trump's presser:
 
-![](https://hennessysview.com/wp-content/uploads/2017/02/conway-spicer-laughing.jpg)
+{{< figure src="https://hennessysview.com/wp-content/uploads/2017/02/conway-spicer-laughing.jpg" >}}
 
 
 And **no one was more depressed or angrier than CNN's Jake Tapper**. His reaction to Trump's joyful presser was almost a suicide note caught on video. Trapper saw nothing but dark clouds.
@@ -149,7 +149,7 @@ Reagan's chief nemesis in the press was **Sam Donaldson who admitted that his re
 
 Trump's demeanor and temperament are very different from Reagan's, of course. Trump expresses his optimism differently. Trump's version of friendliness reflects his Queens upbringing while Reagan's reflected Dixon, Illinois.
 
-[caption id="attachment_21626" align="aligncenter" width="750"]![](https://hennessysview.com/wp-content/uploads/2017/02/reagan-donaldson.jpg)
+[caption id="attachment_21626" align="aligncenter" width="750"]{{< figure src="https://hennessysview.com/wp-content/uploads/2017/02/reagan-donaldson.jpg" >}}
 2/5/1981 President Reagan during an interview with Sam Donaldson of ABC News Leslie Stahl of CBS News and Judith Woodruff of NBC News with James Brady at the Cross Hall White House Library[/caption]
 
 But **Reagan and Trump share an optimism and faith in America that well from the same spring**. Pessimists don't wear ball caps emblazoned with the rallying cry "Make America Great Again." Leftists, we have learned, believe America never was great and never will be. **Leftists like Tapper suffer from a pervasive pessimism that borders on the pathological**. That's why Trump's joyful presser only increased Jake Tapper's feelings of depression and hopelessness.

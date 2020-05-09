@@ -44,5 +44,5 @@ My heart goes out to the judge who must feel more alone than I could imagine. Th
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1331)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1331" >}}
 

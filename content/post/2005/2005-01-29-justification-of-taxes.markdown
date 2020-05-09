@@ -27,5 +27,5 @@ _Glad to see you're satisfied with your "proofs." Your arguments are nothing mor
 _Frankly, your arguments are extremely similar to the Third Reich's justifications for seizing the homes of Jews. Social insurance. But, in your sentiment, the Nazis had every right to do so: they were freely elected by the people, they faced extraordinary social decay from the penalties of WWI, and they were, after all, the government.  
 _
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=957)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=957" >}}
 

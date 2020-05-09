@@ -15,7 +15,7 @@ Past US wars have spawned heroes.  Generations honored them.  I came of age in
 
 Liberalism, though, has robbed my sons of such heroes.  At least, it's made their task of learning about these heroes much more difficult.  In 1945, the  names of great warriors sat on the lips of every American.  Today, only their families, friends, and conservative bloggers know.
 
-The name Margo Martinez should be as familiar as Brittney Spears.  [Gateway Pundit ](https://gatewaypundit.blogspot.com/2007/12/american-hero-marco-martinez-recipient.html)has a terrific story about Cpl. Martinez, USMC, his book, and his heroics.  I ordered his book, [Hard Corps: From Gangster to Marine Hero](https://www.amazon.com/gp/product/0307383040?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0307383040)![](https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0307383040)
+The name Margo Martinez should be as familiar as Brittney Spears.  [Gateway Pundit ](https://gatewaypundit.blogspot.com/2007/12/american-hero-marco-martinez-recipient.html)has a terrific story about Cpl. Martinez, USMC, his book, and his heroics.  I ordered his book, [Hard Corps: From Gangster to Marine Hero](https://www.amazon.com/gp/product/0307383040?ie=UTF8&tag=hennesssview-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0307383040){{< figure src="https://www.assoc-amazon.com/e/ir?t=hennesssview-20&l=as2&o=1&a=0307383040" >}}
 , today, for myself and my kids.
 
 But American liberals have no time for heroes, only for scoundrels.  Search Marco Martinez on MSNBC, CNN, ABCNews.com, CBSNews.com, even FoxNews.com, and you get nothing about the Marine.  Liberals celebrate only two kinds of soldier:  treasonous and dead.  Martinez is neither.

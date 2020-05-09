@@ -21,5 +21,5 @@ I can see the MSM going berserk for the next two year. Everything the man says, 
 
 You know what they say about a lie repeated often enough. Well, that's what the MSM does best. Just ask Dan Rather.
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1043)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1043" >}}
 

@@ -32,5 +32,5 @@ Make-up, lights, set, house. Theatre's terms remind the uninducted of phoniness.
 The world slows down for me on stage, not because I'm hidden under Natural No. 2 and a toga, but because there, bathed in pink lights and waving my sword, I am most myself. I, who will not dance in clubs out of self-conscious paranoia, emerge on stage. For a few hours, I finally get to be myself and the smell of that liberty is intoxicating.   
   
 Farewell, brothers and sisters. I love you all.  
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=682)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=682" >}}
 

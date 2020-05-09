@@ -34,5 +34,5 @@ For the life of me, I don't get these people. Why is peace so shameful, so dange
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=1412)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=1412" >}}
 

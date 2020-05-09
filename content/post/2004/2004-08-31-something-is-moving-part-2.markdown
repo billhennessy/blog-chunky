@@ -74,5 +74,5 @@ I would disagree with Hunt's comparison to Clinton's campaign. Clinton was in tr
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=603)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=603" >}}
 

@@ -42,5 +42,5 @@ Sorry, folks, but the double standard among the elite in this country is sickeni
 
 
 
-![](https://blog.billhennessy.com/aggbug.aspx?PostID=962)
+{{< figure src="https://blog.billhennessy.com/aggbug.aspx?PostID=962" >}}
 

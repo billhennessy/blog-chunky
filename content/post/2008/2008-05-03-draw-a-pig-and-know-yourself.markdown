@@ -9,5 +9,5 @@ categories:
 - Latest
 ---
 
-**Bill** [![](https://drawapig.desktopcreatures.com/gallery/2008/5/3/1688840.jpg)
+**Bill** [{{< figure src="https://drawapig.desktopcreatures.com/gallery/2008/5/3/1688840.jpg" >}}
 Click to view my test results](https://drawapig.desktopcreatures.com/gallery/large.asp?id=1688840&p=0&hof=1&q=personality+test)
