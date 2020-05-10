@@ -31,6 +31,9 @@ The justification for M&A is always the same: "synergy." Synergy means consolida
 
 Within these businesses, systems are consolidated. Instead of four separate accounting systems, these functions are merged onto a single system. 
 
+{{< figure src="/images/Peter_Drucker.jpg" caption="'Executives spend so much time on mergers and acquisitions because it's more fun doing actual work.'" title="Peter Drucker" link="" >}}
+
+
 All of this makes sense when it's proposed, but business people are not immune to cognitive biases that cloud their estimation of risk. And risk is always out there. And all risks are eventually realized, even if we were never aware that risk existed at all. 
 
 The common name for realized risks that no one knew existed is "black swan." 
@@ -80,3 +83,5 @@ Alternatively, you can shake someone's confidence in their idea by demanding a l
 These little cognitive tricks might not dissuade your CFO from consolidating your company's bathrooms in the kitchen so you need only one set of pipes (efficiency), but they'll help chip away people's confidence in bad ideas. And, if enough people doubt an idea, the CFO might eventually question it himself. 
 
 Efficiency kills. 
+
+

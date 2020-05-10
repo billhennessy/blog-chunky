@@ -9,6 +9,7 @@ footnoteReturnLinkContents = "^"
 googleAnalytics = "UA-3826996-2"
 DisqusShortname = ""
 theme = "chunky"
+rssLimit = 5
 
 [menu]
   [[menu.main]]

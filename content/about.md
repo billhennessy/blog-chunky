@@ -40,3 +40,5 @@ Also, [I use Commento for commenting](https://commento.io/). Unlike some other c
 * [Email](mailto:bill@billhennessy.com)
 
 
+{{< figure src="/images/billhennessy.jpg" >}}
+
