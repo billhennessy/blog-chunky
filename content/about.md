@@ -4,8 +4,10 @@ description = "The blog of writer and activist Bill Hennessy"
 date = "2019-02-28"
 aliases = ["about-us","about-bill","contact"]
 author = "Bill Hennessy"
-images = ["bill-hennessy.jpg", "commento.png"]
+images = ["homepage-image-2.png", "bill-hennessy.jpg", "commento.png"]
 +++
+
+{{< figure src="/images/homepage-image-2.png" >}}
 
 I started this blog in 2000 on a blogging platform I developed myself and hosted with some company that has since been acquired about fourteen times. (If I'd spent more time developing that platform instead of writing, I'd probably be rich and living on Catalina Island by now.)
 

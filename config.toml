@@ -27,6 +27,11 @@ rssLimit = 5
     name = "Buy Me a Coffee?"
     url = "https://www.buymeacoffee.com/billhennessy"
     weight = 5
+    [[menu.main]]
+    identifier = "subscribe"
+    name = "Subscribe"
+    url = "http://eepurl.com/gRVOVf"
+    weight = 5
 
 [taxonomies]
 category = "categories"
