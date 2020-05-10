@@ -31,7 +31,7 @@ After declaring "I don't want to change" and hiring Stephen K. Bannon, the honey
 
 On top of that, Trump shamed and humiliated Barack Obama and Hillary Clinton by going to Louisianna and helping hand out relief supplies to flood victims. While Obama golfs and Hillary rests, Trump leads.  He looks like a serial winner and a humble servant while his rival gets her toenails painted by her servants.
 
-[caption id="attachment_20527" align="aligncenter" width="1280"]![Donald Trump delivers relief to Louisiana flood victims while Obama golfs and Hillary recovers](https://hennessysview.com/wp-content/uploads/2016/08/maxresdefault-3.jpg)
+{{< figure src="/wp-content/uploads/2016/08/maxresdefault-3.jpg" >}}
 Donald Trump delivers relief to Louisiana flood victims while Obama golfs and Hillary recovers[/caption]
 
 Think about this: who looks like they have the stamina? The golfer? The convalescent? or The Donald?
