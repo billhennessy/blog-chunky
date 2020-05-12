@@ -32,7 +32,7 @@ As unimaginable as it would be, evidence is mounting New York Governor Andrew Cu
 
 ### Dumped Off With Their Own Body Bags
 
-New York Governor Andrew Cuomo implemented an emergency declaration that required nursing homes to accept active Coronavirus patients regardless of their ability to care for or isolate the infected patients. As a result, at 12,000 people have died, and the number rises every day. 
+New York Governor Andrew Cuomo implemented an emergency declaration that required nursing homes to accept active Coronavirus patients regardless of their ability to care for or isolate the infected patients. As a result, at lease ~~12,000~~ 4,900 people have died, and the number rises every day. 
 
 Throughout the Coronavirus crisis in New York, the state has sent elderly Coronavirus patients to nursing homes that are ill-equipped to treat the disease or keep healthy residence safe from infection. Elderly patients who test positive for Coronavirus at hospitals are sent back to nursing homes with a supply of PPE for the staff and body bags for the patients. [From New York Post, April 23, 2020](https://nypost.com/2020/04/23/coronavirus-patients-admitted-to-queens-nursing-home-with-body-bags/):
 
@@ -68,7 +68,7 @@ Only a madman or an idiot, then, would send known carriers of the Coronavirus in
 
 > The governor — who himself has described nursing homes as a “feeding frenzy’’ for the deadly coronavirus — said that the facilities can’t challenge a state regulation forcing them to admit patients with the contagion.
 
-As a result, [half of New York's 25,000 Coronavirus deaths occurred in these facilities](https://news.wbfo.org/post/nursing-home-residents-account-almost-half-western-new-york-s-covid-19-deaths). Almost 12,000 dead thanks, in part, to a policy that assured maximum human destruction. 
+As a result, [at lease a quarter of New York's 25,000 Coronavirus deaths occurred in these facilities](https://news.wbfo.org/post/nursing-home-residents-account-almost-half-western-new-york-s-covid-19-deaths). Almost ~~12,000~~ 5,000 dead thanks, in part, to a policy that assured maximum human destruction. 
 
 Now, the question remains: did he do it on purpose?
 
@@ -120,3 +120,9 @@ I suggest the Department of Justice begin collecting all communications between 
 
 As that nursing home administrator told the Post: "Cuomo has blood on his hands." 
 
+---
+UPDATE: An earlier version of the story placed the number of nursing home deaths at 12,000 based on available data at the time. Since then, New York has released official numbers of 4,900 and rising (if you can believe anything official from New York state.)
+
+UPDATE 5/10/2020: Under mounting pressure, Governor Cuomo has completely reversed his order requiring nursing homes to accept patients with Coronavirus. The new order *prohibits* nursing homes from admitting anyone, including staff, who test positive for Coronavirus. 
+
+UPDATE 5/20/2020: At least four other Democrat-controlled states enacted similar orders forcing nursing homes to accept Coronavirus patients: New Jersey, Michigan, Pennsylvania, and California. It seems the nursing home maneuver was a coordinated effort to exterminate the elderly in those states. 
