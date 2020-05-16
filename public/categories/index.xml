@@ -7,26 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2000-2020, Bill Hennessy; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 May 2020 20:12:36 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2020 10:04:34 -0500</lastBuildDate>
     
 	<atom:link href="https://hennessysview.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Politics</title>
-      <link>https://hennessysview.com/categories/politics/</link>
-      <pubDate>Mon, 11 May 2020 20:12:36 -0500</pubDate>
+      <title>Living</title>
+      <link>https://hennessysview.com/categories/living/</link>
+      <pubDate>Sat, 16 May 2020 10:04:34 -0500</pubDate>
       
-      <guid>https://hennessysview.com/categories/politics/</guid>
+      <guid>https://hennessysview.com/categories/living/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Living</title>
-      <link>https://hennessysview.com/categories/living/</link>
-      <pubDate>Mon, 11 May 2020 15:59:12 -0500</pubDate>
+      <title>Satire</title>
+      <link>https://hennessysview.com/categories/satire/</link>
+      <pubDate>Thu, 14 May 2020 19:20:34 -0500</pubDate>
       
-      <guid>https://hennessysview.com/categories/living/</guid>
+      <guid>https://hennessysview.com/categories/satire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>https://hennessysview.com/categories/politics/</link>
+      <pubDate>Wed, 13 May 2020 15:21:05 -0500</pubDate>
+      
+      <guid>https://hennessysview.com/categories/politics/</guid>
       <description></description>
     </item>
     
@@ -45,15 +54,6 @@
       <pubDate>Thu, 02 Apr 2020 05:01:43 -0500</pubDate>
       
       <guid>https://hennessysview.com/categories/faith/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Donald Trump</title>
-      <link>https://hennessysview.com/categories/donald-trump/</link>
-      <pubDate>Mon, 24 Feb 2020 06:45:37 -0600</pubDate>
-      
-      <guid>https://hennessysview.com/categories/donald-trump/</guid>
       <description></description>
     </item>
     

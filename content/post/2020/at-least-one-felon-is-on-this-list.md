@@ -11,6 +11,7 @@ draft: false
 
 Releasing national security intercepts to unauthorized persons is a federal felony punishable by 10 years in prison. And at least one of the names on this list of top Obama Administration officials is guilty beyond a reasonable doubt. [18 U.S. Code § 798(a)(4)](https://www.law.cornell.edu/uscode/text/18/798):
 
+
 > Whoever knowingly and willfully communicates, furnishes, transmits, or otherwise makes available to an unauthorized person, or publishes, or uses in any manner prejudicial to the safety or interest of the United States or for the benefit of any foreign government to the detriment of the United States any classified information—obtained by the processes of communication intelligence from the communications of any foreign government, knowing the same to have been obtained by such processes—Shall be fined under this title or **imprisoned not more than ten years**, or both.
 
 This happened. Conversations subject to this law were released without lawful authority to the New York Times and the Washington Post by one or more of the persons listed below:
