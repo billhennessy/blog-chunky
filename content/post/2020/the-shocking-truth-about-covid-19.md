@@ -3,7 +3,7 @@ title: "The Humane Approach to Coronavirus Is to Open Up Everything"
 date: 2020-05-16T10:04:34-05:00
 url: the-humane-approach-to-coronavirus-open-up-everything
 authors: ["Bill Hennessy"]
-images: ["dogooder2.jpg"]
+images: ["/images/dogooder2.jpg"]
 categories: ["Living"]
 tags: ["Coronavirus"]
 draft: false
@@ -142,7 +142,7 @@ If you're not in an area where the hospitals are overwhelmed, wearing a mask wil
 
 Stop it, you do-gooders! You are the problem. I know you can't see it. I know it makes you feel good to wear a mask and snitch on your neighbors, but you are not helping them. Coddling your feelings is prolonging and exacerbating human suffering--the very thing you claim to be avoiding. 
 
-	{{< figure src="/images/jobless-claims.png" caption="Coronavirus panic drove largest spike in unemployment in US history." title="Weekly Unemployment Claims 2010-2020" link="" >}}
+{{< figure src="/images/jobless-claims.png" caption="Coronavirus panic drove largest spike in unemployment in US history." title="Weekly Unemployment Claims 2010-2020" link="" >}}
 
 
 This isn't about *your damned feelings!* Our rights don't stop where your feelings start. Get over yourself. You suck at critical thinking, so thinking "it might help" is dangerous. You're not asking "but how might it hurt?" One way it will definitely hurt: [masks make people meaner](https://hennessysview.com/post/2020/this-is-how-masks-will-change-people/). Another: you are causing [prolonged unemployment which increases depression, domestic violence, drug abuse, and suicide](https://www.msn.com/en-us/health/wellness/suicide-drug-abuse-and-domestic-violence-are-on-the-rise-due-to-coronavirus-quarantine-measures/ar-BB12fqPS). 
