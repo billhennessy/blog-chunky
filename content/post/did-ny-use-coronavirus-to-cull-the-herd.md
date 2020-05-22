@@ -32,7 +32,7 @@ As unimaginable as it would be, evidence is mounting New York Governor Andrew Cu
 
 ### Dumped Off With Their Own Body Bags
 
-New York Governor Andrew Cuomo implemented an emergency declaration that required nursing homes to accept active Coronavirus patients regardless of their ability to care for or isolate the infected patients. As a result, at lease ~~12,000~~ 4,900 people have died, and the number rises every day. 
+New York Governor Andrew Cuomo implemented an emergency declaration that required nursing homes to accept active Coronavirus patients regardless of their ability to care for or isolate the infected patients. As a result, at lease ~~12,000~~ ~~4,900~~ 5,800 people have died, and the number rises every day. 
 
 Throughout the Coronavirus crisis in New York, the state has sent elderly Coronavirus patients to nursing homes that are ill-equipped to treat the disease or keep healthy residence safe from infection. Elderly patients who test positive for Coronavirus at hospitals are sent back to nursing homes with a supply of PPE for the staff and body bags for the patients. [From New York Post, April 23, 2020](https://nypost.com/2020/04/23/coronavirus-patients-admitted-to-queens-nursing-home-with-body-bags/):
 

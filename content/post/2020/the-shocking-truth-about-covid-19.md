@@ -9,13 +9,15 @@ tags: ["Coronavirus"]
 draft: false
 ---
 
-The most human approach to Coronavirus is to let it spread without overwhelming the hospitals in any location. Mitigation orders, such as wearing masks, stay-at-home orders, and maintaining six feet of distance, while well-intentioned, actually prolong the agony except in places that are in danger of overwhelming the hospital system. 
+The most humanane approach to Coronavirus is to let it spread without overwhelming the hospitals in any location. Mitigation orders, such as wearing masks, stay-at-home orders, and maintaining six feet of distance, while well-intentioned, actually prolong the agony, except when required in places that are in danger of overwhelming the hospital system. 
 
-The idea that we can maintain this near-complete shutdown of society for as long as Coronavirus exists is a recipe for disaster on a Biblical scale. And it is the "good people"— the ones who fret over accidentally infecting someone else—who are inflicting the most damage to humanity.
+The idea that we can maintain this near-complete shutdown of society for as long as Coronavirus exists is a recipe for disaster on a Biblical scale. And it is the "good people"— the ones who fret over accidentally infecting someone else—who are inflicting the most pain on humanity.
 
 ### There Probably Won't Be a Coronavirus Vaccine
 
-Since early March, researchers around the world have been warning us that [a vaccine for Coronavirus is highly unlikely](https://www.abc.net.au/news/health/2020-04-17/coronavirus-vaccine-ian-frazer/12146616) for a very simple reason: they have been searching for vaccines against Coronaviruses for decades and have never produced one. None. Dr. Ian Frazer of Australia, the man who created the HPV vaccine, explains why in simple terms:
+Since early March, researchers around the world have been warning us that [a vaccine for Coronavirus is highly unlikely](https://www.abc.net.au/news/health/2020-04-17/coronavirus-vaccine-ian-frazer/12146616) for a very simple reason: they have been searching for vaccines against Coronaviruses for decades and have never produced one. None. 
+
+Dr. Ian Frazer of Australia, the man who created the HPV vaccine, explains why in simple terms:
 
 > He said the challenge is that coronaviruses have historically been hard to make safe vaccines for, partly because the virus infects the upper respiratory tract, which our immune system isn't great at protecting.
 >
@@ -29,16 +31,16 @@ Since early March, researchers around the world have been warning us that [a vac
 >
 > This is partly because only the outer layer of cells (the epthelial cells) get infected, which, compared to a severe infection of internal organs doesn't produce the same immune response, so is harder to target.
 
-There are vaccines against wide ranges of virus categories. But none for any Coronavirus despite decades of expensive, concentrated efforts. Now you know why.
+There are vaccines against wide ranges of viruses. But none for any Coronavirus despite decades of expensive, concentrated efforts. Now you know why.
 
 
 ### Most Big Projects With Deadlines Fail
 
 I know that President Trump and others keep telling you about "encouraging results" from Coronavirus vaccine tests. But think back to the 1980s and 1990s, if you can. We heard about many "encouraging results" from HIV vaccines. This is because of a natural tendency to conflate the lack of early failure with success. We make this mistake in everything from dating to software development. 
 
-I've been involved in software development since the late 1980s. Most of the major projects I've been involved with have been, objectively, failures. That's okay since [68 percent software projects are failures according IAG Consulting](https://www.zdnet.com/article/study-68-percent-of-it-projects-fail/). I won't get into the reasons for this high failure rate. Instead, I'm going to show you the lifecycle of a failed project to explain why "encouraging results" early in a development cycle are almost always meaningless.
+I've been involved in software development since the late 1980s. Most of the major projects I've been involved with have been, objectively, failures. That's okay, because [68 percent software projects are failures according IAG Consulting](https://www.zdnet.com/article/study-68-percent-of-it-projects-fail/). I won't get into the reasons for this high failure rate. Instead, I'm going to show you the lifecycle of a failed project to explain how "encouraging results" early in a development cycle are almost always meaningless.
 
-Here are the stages of a failed project. I wrote these for a friend of mine who's wondering if the project he's working on will end in doom:
+Here are the stages of a failed project. (I wrote this list for a friend of mine who's wondering if the project he's working on will end in doom):
 
 #### Stages of a Failed Software Project
 
@@ -57,31 +59,31 @@ Here are the stages of a failed project. I wrote these for a friend of mine who'
 13. Let one of the new people on the team try something that worked at his last company
 14. File into a big room where the CEO explains why he's stopping the project
 
-Another blogger recently posted [this example of a failed software project](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49). It's pretty consistent with my experience, though he blames deadlines for the chaos. I don't like to assess a root cause to failures, because most disasters have at least seven critical contributors, not one. 
+Another blogger recently posted [this example of a failed software project](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49). It's pretty consistent with my experience, though he blames deadlines for the chaos. I don't like to blame a root cause to failures, because most disasters have at least seven critical contributors, not just one. 
 
 {{< figure src="/images/driving-to-a-date-is-a-value-destroying-journey-r1.jpg" caption="Software Project Failure" title="" link="https://iism.org/materials?slideDeck=software-management-essentials-product-execution&material=driving-to-a-date-is-a-value-destroying-journey" >}}
 
-Coronavirus researchers are just like software development organizations. They mistake early lack of failure for success. The "encouraging results" you're hearing about are from Step 4 above. They couldn't make their prototype fail. That's a long way from being the next Facebook or Salesforce, or the vaccine equivalent thereof.
+Coronavirus researchers are just like software development organizations. **They mistake lack of early failure for success**. These "encouraging results" you're hearing about are from Step 4 above. Vaccine developers, so far, haven't made their prototypes fail. That's a long way from being the next Facebook or Salesforce, or the vaccine equivalent thereof. Plus, they're under pressure to not fail, which may lead to errors down the road.
 
 #### Seventy Percent of Science Research Can't Be Reproduced
 
 Over [seventy percent of peer-reviewed, published scientific and medical studies cannot be replicated](https://hennessysview.com/science-is-wrong-two-thirds-of-the-time/), as Hennessy's View pointed out on May 3. Are you beginning to see a pattern here? Maybe a thumb-rule?
 
-About 70 percent of human efforts fail. In software, smart companies figured this out long ago. They developed methods that are designed to achieve early failure. Failing early is failing cheap. Failure late costs a fortune. 
+**About 70 percent of human efforts end in failure**. In software, smart companies figured this out long ago. They developed methods that are designed to achieve early failure. Failing early is failing cheap. Late failure costs a fortune. 
 
-If 70 percent of our work is going to end in failure, it doesn't mean we should give up. It means we need to get through the failures fast so we can reap the rewards of the 30 percent that success sooner. 
+If 70 percent of our work is going to end in failure, it doesn't mean we should give up. It means we need to get through the failures fast so we can reap the rewards of the 30 percent that succeed faster. 
 
-The Coronavirus vaccine developers, though, are seeing billions of dollars thrown their way. And, like software developers in companies that haven't figured out the failure rate of software, they're under the pressure of a deadline. **Deadline pressure increases the likelihood that a defective product will be certified as safe and effective.**. 
+The Coronavirus vaccine developers, though, are seeing billions of dollars thrown their way. And, like software developers in companies that haven't figured out the failure rate of software, vaccine developers are under the pressure of a deadline. **Deadline pressure increases the likelihood that a defective product will be certified as safe and effective.**. 
 
-That's another lesson from software. If a development team is told they will deliver the new widget by June 1 "or else," deliver they will. Quality assurance will write tests guaranteed to pass. Developers will hack together anything to meet that deadline. They'll put on a showcase, carefully scripted, that convinces the executives their browbeating and threats worked. 
+That's another lesson from software. If a development team is told to deliver a new widget by June 1 "or else," deliver they will. Quality assurance teams will write tests that guarantee passing. Developers will hack together anything to meet that deadline. They'll put on a showcase, carefully scripted, that convinces the executives the widget works, and, sadly, that browbeating and threats from executives lead to success. 
 
-Then, the customer gets the widget, uses it in a slightly different way than the QA happy path that assured a "pass," and the customer goes berserk and cancels the contract.
+Then, the customer gets the widget, uses it in a slightly different way than the QA happy path, and exposes its problems. The customer goes berserk and cancels the contract. Executives blame developers. Developers blame the deadline and "vague" requirements. 
 
 (If you're a software engineer, you know what I'm talking about.)
 
 The problem with vaccine development is that the widget is actually a life-or-death proposition. A bad vaccine combined with a desire to force every human on the planet to take it could result in billions of death. (Yes, I said "billions of deaths.") 
 
-I'm predicting that. I'm predicting that I'm not the only one who sees this potential. I expect someone, sometime, to speak up and say "this vaccine can't go to market," either because it's not safe or because it's not effective. 
+I'm not predicting that. I'm predicting that I'm not the only one who sees this potential. I expect someone, sometime, to speak up and say "this vaccine can't go to market," either because it's not safe or because it's not effective. 
 
 That someone could be Dr. Fauci. [He's done it before](https://www.scientificamerican.com/article/nih-official-fauci-hiv-vaccine/). 
 
@@ -92,11 +94,9 @@ And the rule-of-thumb tells us that there's a 70 percent chance of failure in th
 
 ### What this 70/30 Number Means
 
-There's a 70 percent chance of no vaccine and a 30 percent chance of a vaccine in 12 months. 
+There's a 70 percent chance of no vaccine and a 30 percent chance of a vaccine in 12 months. What began as "15 Days to Slow the Spread" has turned into "15 Months to Eradicate the Disease." 
 
-What began as "15 Days to Slow the Spread" has turned into "15 Months to Eradicate the Disease." 
-
-There's a 70 percent chance that, even if we lockdown completely  for 15 months (total), there will be no eradication. 
+There's a 70 percent chance that, even if we lock down completely for 15 months (total), there will be no eradication. 
 
 Meanwhile, unemployment, already above Depression levels, will continue to rise. And the unemployment problem is caused by the totality of mitigation, not just lockdowns. The six-feet "rule" means most restaurants can't afford to open. It means many small businesses are better off closing for good, breaking leases, and defaulting on loans than operating at 25 percent capacity. It means the loss of most airlines and most hotels. For good. 
 

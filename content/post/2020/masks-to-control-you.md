@@ -75,6 +75,8 @@ Tocqueville continues:
 
 Restrained from acting. "No sunbathing on dry sand." "You're too close to that other person." "Wear a mask." "You're a threat to everyone." "Arrest that man! He's washing his car!"
 
+{{< figure src="/images/masks-people.jpg" caption="'what remains, but to spare them all the care of thinking and all the trouble of living?'" title="Democracy in America" link="" >}}
+
 Let's continue:
 
 > such a power does not destroy, but it prevents existence; it does not tyrannize, but it compresses, enervates, extinguishes, and stupefies a people, till each nation is reduced to be nothing better than a flock of timid and industrious animals, of which the government is the shepherd.
@@ -94,8 +96,8 @@ Extorted obedience, indeed.
 
 It's easy and wrong to feel anger and resentment at the cowed, stupefied, and self-loathing people who simultaneous signal their virtue and their malignancy with masks and sheepish avoidance of their fellow humans. (I'm not afraid of *them*; I'm afraid of *me*.) It's not their fault. They've been trained since infancy to think of themselves both as special beings filled with wonderful passions *and* as evil idiots who will hurt themselves and others if not for the benevolent despotism of schools, teachers, governments, and public health "experts." 
 
-{{< figure src="/images/masks-people.jpg" caption="'what remains, but to spare them all the care of thinking and all the trouble of living?'" title="Democracy in America" link="" >}}
 
+{{< twitter 1262028136016986113 >}}
 
 These sheep have been trained to trust the CDC and the WHO, even though those two organizations have been completely wrong about everything involving Coronavirus. The very organization that promoted obesity, diabetes, heart disease, and cancer for 40+ years, only recently admitting that [the high carbohydrate diet governments and nutrition "experts" pushed](https://hennessysview.com/2017/02/05/why-are-you-letting-your-doctor-kill-you/) since the Johnson administration is the leading cause of all those diseases. 
 
