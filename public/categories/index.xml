@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2000-2020, Bill Hennessy; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 22 May 2020 22:10:33 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 10:52:52 -0500</lastBuildDate>
     
 	<atom:link href="https://hennessysview.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>https://hennessysview.com/categories/blog/</link>
+      <pubDate>Sun, 24 May 2020 10:52:52 -0500</pubDate>
+      
+      <guid>https://hennessysview.com/categories/blog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Living</title>
@@ -45,15 +54,6 @@
       <pubDate>Sat, 09 May 2020 09:08:04 -0500</pubDate>
       
       <guid>https://hennessysview.com/categories/business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Faith</title>
-      <link>https://hennessysview.com/categories/faith/</link>
-      <pubDate>Thu, 02 Apr 2020 05:01:43 -0500</pubDate>
-      
-      <guid>https://hennessysview.com/categories/faith/</guid>
       <description></description>
     </item>
     

@@ -1,12 +1,12 @@
 ---
 title: "Democrats Turn Nursing Homes Into Death Camps"
-date: 2020-05-23T18:47:02-05:00
+date: 2020-05-24T18:47:02-05:00
 url: democrats-turn-nursing-homes-into-death-camps
 authors: ["Bill Hennessy"]
-images: []
-categories: []
-tags: []
-draft: true
+images: ["/images/death-camp.png"]
+categories: ["Politics"]
+tags: ["Coronavirus","New York","Illinois", "Michigan"]
+draft: false
 ---
 
 When I wrote [this post on May 6](https://hennessysview.com/did-cuomo-use-intentionally-kill-the-elderly/), I worried how it would be received. Accusing a governor of intentionally killing nursing home residents in order to save money is a serious charge. And, with only circumstantial evidence, difficult to prove. 
@@ -59,10 +59,8 @@ Moreover, police waited seven days to arrest the thug, presumably to allow him m
 
 If the perpetrator hadn't been stupid enough to post the videos on social media, the world would never have known about the beatings or about Whitmer's directive to infect nursing homes. But now we know. 
 
-Governor Whitmer is a murderer. Andrew Cuomo and JB Pritzker are murderers, too. They intentionally moved people with active Coronavirus into nursing homes, which Cuomo himself described as a "feeding frenzy for the virus." 
+When you hear Whitmer, Cuomo, or Pritzker, you think "murderer." You start to look at nursing homes in New York, Illinois, and Michigan as death camps. These governors intentionally moved people with active Coronavirus into nursing homes, which Cuomo himself described as a "feeding frenzy for the virus." 
 
-I don't even know what to say. I don't know why these governors aren't in jail. 
+It's difficult to find words to describe the horror of this policy. This must be how the world felt when Allied troops first reported what they found in Germany's concentration camps. 
 
-We're witnessing the greatest genocide ever on the North American continent, and it's treated as a mere curiosity on the news. No one, except those who lost a loved one in these death camps, seems concerned. 
-
-It's time to recognize the murderous evil of Pritzker, Cuomo, and Whitmer. Write the DOJ, and share this on social media. Get the word out.
+God, have mercy on us all. 

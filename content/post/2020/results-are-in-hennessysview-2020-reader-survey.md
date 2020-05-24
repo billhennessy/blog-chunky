@@ -35,7 +35,7 @@ Thank you, so much for these responses. Great topics, and it's very helpful to k
 ### Should Hennessy's View Add Authors?
 
 | Answer | % |
-| --- | ---: |
+| :-- | :-- |
 | Yes: |           24% |
 | No:  |           10% |
 |Doesn't Matter: | 66% |
