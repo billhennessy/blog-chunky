@@ -33,6 +33,12 @@ rssLimit = 5
     url = "http://eepurl.com/gRVOVf"
     weight = 5
 
+    [[menu.main]]
+    identifier = "top-9"
+    name = "Top 9"
+    url = "/top-posts/"
+    weight = 5
+
 [taxonomies]
 category = "categories"
 tag = "tags"

@@ -5,7 +5,7 @@ url: results-are-in-hennessysview-2020-reader-survey
 authors: ["Bill Hennessy"]
 images: ["/images/survey.jpg"]
 categories: ["Blog"]
-tags: ["Survey"]
+tags: ["2020 Survey"]
 draft: false
 ---
 

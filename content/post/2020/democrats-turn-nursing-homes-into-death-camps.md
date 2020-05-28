@@ -1,6 +1,6 @@
 ---
 title: "Democrats Turn Nursing Homes Into Death Camps"
-date: 2020-05-24T18:47:02-05:00
+date: 2020-05-24T16:47:02-05:00
 url: democrats-turn-nursing-homes-into-death-camps
 authors: ["Bill Hennessy"]
 images: ["/images/death-camp.png"]
