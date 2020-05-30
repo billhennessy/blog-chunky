@@ -63,7 +63,7 @@ More importantly, the media have a strong and open bias. They want the lockdown 
 
 It's not the experts who suffer from Dunning-Kruger, it's us.
 
-Likewise, your grocery store is probably running low on meat. Even restaurants are running out. My local Jimmy John's sandwich shop posted paper signs yesterday listing the kinds of meats they're out of and asking customers' patients when ordering sandwiches than usually contain those ingredients. Today, Fox News ran a horrible story about millions of pigs, cattle, and poultry being euthanized and cremated because Coronavirus shut down the supply chain to commercial distribution. 
+Likewise, your grocery store is probably running low on meat. Even restaurants are running out. My local Jimmy John's sandwich shop posted paper signs yesterday listing the kinds of meats they're out of and asking customers' patience when ordering sandwiches than usually contain those ingredients. Today, Fox News ran a horrible story about millions of pigs, cattle, and poultry being euthanized and cremated because Coronavirus shut down the supply chain to commercial distribution. 
 
 Another group of experts--efficiency experts--is mostly to blame for America's inability to adjust in an emergency, as [I wrote about May 9](https://hennessysview.com/how-efficiency-caused-food-shortages/). 
 
