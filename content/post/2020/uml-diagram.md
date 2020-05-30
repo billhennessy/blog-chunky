@@ -2,6 +2,7 @@
 title: "UML diagram"
 author: "billhennessy"
 draft: false
+date: 2020-05-30
 --
 
 ```mermaid
