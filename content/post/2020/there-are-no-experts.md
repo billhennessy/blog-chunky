@@ -11,6 +11,7 @@ draft: false
 
 *Today's post was supposed to be about the public health crisis caused by the Coronavirus quarantine, but something more urgent came up.*
 
+
 The Dunning-Kruger effect is a fascinating cognitive bias that causes enormous human suffering. We see it in the prolonged over-reaction to Coronavirus and the riots following the murder of George Floyd in Minneapolis. 
 
 The experts include politicians, police, and community activists (peaceful). Non-experts include anarchists and rioters, on the one side, and anti-riot militias, on the other.
