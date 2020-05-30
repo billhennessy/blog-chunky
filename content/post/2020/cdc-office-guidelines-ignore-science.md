@@ -1,12 +1,12 @@
 ---
 title: "New CDC Office Guidelines Ignore Science"
-date: 2020-05-28T16:32:03-05:00
+date: 2020-05-28T16:33:03-05:00
 url: cdc-office-guidelines-ignore-science
 authors: ["Bill Hennessy"]
 images: ["/images/mask-off.jpg"]
 categories: ["Living"]
 tags: ["Coronavirus","CDC", "Masks"]
-draft: true
+draft: false
 ---
 
 The CDC, today, issued guidelines for reopening offices that ignore medical guidance regarding masks. 

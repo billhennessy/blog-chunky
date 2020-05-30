@@ -1,5 +1,5 @@
 ---
-title: "Leave the Gun Take the Cannolis"
+title: "Leave the Gun. Take the Cannolis"
 date: 2020-05-22T20:10:46-05:00
 url: leave-the-gun-take-the-cannolis
 authors: ["Bill Hennessy"]

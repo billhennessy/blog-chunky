@@ -43,7 +43,7 @@ How many of these Illinois nursing homes were infected by Governor Pritzker? We 
 
 In Michigan, attention was recently drawn to the situation by a viral video that shows a 20-year-old black male beating a 77-year-old military veteran repeatedly. Here's that video:
 
-{{< twitter 1263357611950342145 >}}
+(Twitter has removed the video.)
 
 The perpetrator was transferred at Governor Whitmer's direction to that nursing home hundreds of miles away after the 20-year-old male was confirmed to have Coronavirus. The perpetrator's father spoke to [Fox 2 in Detroit](https://www.fox2detroit.com/news/father-of-20-year-old-patient-who-beat-elderly-man-at-detroit-nursing-home-says-son-shouldnt-have-been-there) and said this:
 
