@@ -101,3 +101,6 @@ Justice demands that a more serious crime deserves a harsher sentence. Society m
 And if we fail to reform our nation into one that honors its obligations under the covenant with God, we cut ourselves off from His mercy as well as from our rights under the Fourth Amendment. 
 
 Therefore, if we are concerned about the surveillance state and the loss of freedom, know that there is nothing we can do about it in this world. We are powerless against man's creation. But God is all powerful, all merciful, and all faithful. **If we want our freedom back, we must first surrender our freedom to God.** He is a jealous God who will gladly wrestle the chains away from government. 
+
+###
+
