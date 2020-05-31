@@ -55,10 +55,10 @@ Conservatives and business owners have seen our God-given and Constitutionally g
 
 **We know from history it took to earn those rights—woe to the "leader" who triggers a repeat of that history.** 
 
-Again, this is not a threat but a lesson from history. People are taking notes of what motivates "leaders" and what doesn't. If "leaders" like Page and Parson want peace, they better restore those lost rights and fast. And they'd be wise to stop sending the message that violence pays.
+Again, this is not a threat but a plea for common sense. People are taking notes of what "leaders" respond to and what they brush aside.  
 
 Stop the riots.
 
 Open the economy.
 
-Tick Tock. 
+The people's patience is gone.
