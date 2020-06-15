@@ -7,15 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2000-2020, Bill Hennessy; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 30 May 2020 07:36:18 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2020 11:22:27 -0500</lastBuildDate>
     
 	<atom:link href="https://hennessysview.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Politics</title>
+      <link>https://hennessysview.com/categories/politics/</link>
+      <pubDate>Sat, 13 Jun 2020 11:22:27 -0500</pubDate>
+      
+      <guid>https://hennessysview.com/categories/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fiction</title>
+      <link>https://hennessysview.com/categories/fiction/</link>
+      <pubDate>Sat, 13 Jun 2020 11:18:29 -0500</pubDate>
+      
+      <guid>https://hennessysview.com/categories/fiction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Living</title>
       <link>https://hennessysview.com/categories/living/</link>
-      <pubDate>Sat, 30 May 2020 07:36:18 -0500</pubDate>
+      <pubDate>Mon, 08 Jun 2020 07:13:56 -0500</pubDate>
       
       <guid>https://hennessysview.com/categories/living/</guid>
       <description></description>
@@ -31,29 +49,11 @@
     </item>
     
     <item>
-      <title>Politics</title>
-      <link>https://hennessysview.com/categories/politics/</link>
-      <pubDate>Sun, 24 May 2020 16:47:02 -0500</pubDate>
-      
-      <guid>https://hennessysview.com/categories/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Blog</title>
       <link>https://hennessysview.com/categories/blog/</link>
       <pubDate>Sun, 24 May 2020 10:52:52 -0500</pubDate>
       
       <guid>https://hennessysview.com/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Satire</title>
-      <link>https://hennessysview.com/categories/satire/</link>
-      <pubDate>Thu, 14 May 2020 19:20:34 -0500</pubDate>
-      
-      <guid>https://hennessysview.com/categories/satire/</guid>
       <description></description>
     </item>
     

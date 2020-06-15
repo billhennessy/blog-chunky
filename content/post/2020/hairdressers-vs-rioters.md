@@ -23,7 +23,7 @@ For months, Democrat mayors, county executives, and governors have attacked hair
 
 On the other hand, these same "leaders" allow terrorists, thugs, and hooligans to ravage their cities unchecked. Mayors and governors have even ordered police to let rioters burn sack and burn a police station.
 
-Public safety was never the motivation behind Coronavirus quarantines. After this week's riots, there's no denying that. Instead, **the motivation of many mayors, executives, and governors has been the emasculation of small businesses**. And here's why.
+We have to wonder if public safety was ever the motivation behind Coronavirus quarantines. After this week's riots, it seems unlikely. Instead, **the motivation of many mayors, executives, and governors has been the emasculation of small businesses**. And here's why.
 
 ### Entrepreneurs Are Free
 
@@ -35,7 +35,7 @@ Leaders have little control over these owners, which bothers them, especially De
 
 When Coronavirus came along, Democrats used the disease as cover to squash small businesses and get them in line. The hooligans and thugs looting and burning those businesses are just convenient weapons for these "leaders."
 
-That's why the same Democrats who hairdressers and gyms as if they were organized crime operations let Antifa burn cities, beat citizens, and loot businesses. Antifa is nothing but the Democrats' muscle. 
+That's why the same Democrats who treat hairdressers and gyms as if they were organized crime operations let Antifa burn cities, beat citizens, and loot businesses. Antifa is nothing but the Democrats' muscle. 
 
 ### Governor Parson Effectively Abdicated
 
@@ -49,11 +49,11 @@ What Parson, Page, and the other "leaders" fail to see is the rage brewing on th
 
 ### America is a Powder Keg
 
-On top of this rage, the right now sees that our "leaders" respond only to threats of violence. Worse, our "leaders" fold in the face of actual violence. There's no other lesson to be drawn from recent events. Rioting goes unchecked but gym owners are sued out of existence.
+On top of this rage, the right now sees that our "leaders" respond to threats of violence. Worse, our "leaders" fold in the face of actual violence. There's no other lesson to be drawn from recent events. Rioting goes unchecked, but gym owners are sued out of existence.
 
 Conservatives and business owners have seen our God-given and Constitutionally guaranteed rights to liberty, property, free exercise of religion, speech, assembly, and redress of grievances casually eliminated by government "leaders." We want those rights restored. 
 
-**We know from history it took to earn those rights—woe to the "leader" who triggers a repeat of that history.** 
+**We know from history what it took to earn those rights—woe to the "leader" who triggers a repeat of that history.** 
 
 Again, this is not a threat but a plea for common sense. People are taking notes of what "leaders" respond to and what they brush aside.  
 
