@@ -33,13 +33,13 @@ How fast is poverty spreading through St. Louis County? Take a look, [thanks to 
 
 Here's a census map of poverty from 2000.
 
-[caption id="attachment_15277" align="aligncenter" width="650"][![Poverty St. Louis County](https://hennessysview.com/wp-content/uploads/2014/08/Poverty-ferg-1.jpg)
-](https://hennessysview.com/wp-content/uploads/2014/08/Poverty-ferg-1.jpg) Poverty in St. Louis County 2000 with Ferguson called out[/caption]
+![Poverty St. Louis County](https://hennessysview.com/wp-content/uploads/2014/08/Poverty-ferg-1.jpg)
+](https://hennessysview.com/wp-content/uploads/2014/08/Poverty-ferg-1.jpg) Poverty in St. Louis County 2000 with Ferguson called out
 
 So what happened in the next 10 years? Poverty spread like untreated cancer:
 
-[caption id="attachment_15278" align="aligncenter" width="651"][![Poverty St. Louis County 2012](https://hennessysview.com/wp-content/uploads/2014/08/poverty-ferg-2_0.jpg)
-](https://hennessysview.com/wp-content/uploads/2014/08/poverty-ferg-2_0.jpg) Poverty in St. Louis County 2008-2012 with Ferguson called out[/caption]
+![Poverty St. Louis County 2012](https://hennessysview.com/wp-content/uploads/2014/08/poverty-ferg-2_0.jpg)
+](https://hennessysview.com/wp-content/uploads/2014/08/poverty-ferg-2_0.jpg) Poverty in St. Louis County 2008-2012 with Ferguson called out.
 
 OMG, is right. Ferguson went from a city with a pocket of poverty 2000 to a city of poor people in 2012. And look how many new poverty centers emerged while the Dow was breaking records. Here's more detail on [Ferguson's economic collapse from the Brookings Institute](https://www.brookings.edu/blogs/the-avenue/posts/2014/08/15-ferguson-suburban-poverty#.U-5z7Ce2biq.twitter):
 

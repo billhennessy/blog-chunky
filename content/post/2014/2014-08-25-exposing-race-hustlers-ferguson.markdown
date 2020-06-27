@@ -29,9 +29,7 @@ If you've read it, you know why Jesse Jackson and Capt. Ron Johnson and all the 
 
 > Every time there was a riot, whites would call on “Negro leaders” to try to cool it, only to find out that the Negro leaders didn’t have any followers. They sent Martin Luther King into Chicago and the people ignored him. They sent Dick Gregory into Watts and the people hooted at him and threw beer cans. During the riot in Hunters Point, the mayor of San Francisco, John Shelley, went into Hunters Point with the only black member of the Board of Supervisors, and the brothers threw rocks at both of them. They sent in the middle-class black members of the Human Rights Commission, and the brothers laughed at them and called them Toms. Then they figured the leadership of the riot was “the gangs,” so they sent in the “ex-gang leaders” from groups like Youth for Service to make a “liaison with the key gang leaders.” What they didn’t know was that Hunters Point and a lot of ghettos were so disorganized, there weren’t even any “key gangs,” much less “key gang leaders,” in there. That riot finally just burnt itself out after five days, that was all.
 
-Wolfe, Tom (2010-04-01). [Radical Chic & Mau-Mauing the Flak Catchers](https://www.amazon.com/gp/product/B003GFIVHK/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003GFIVHK&linkCode=as2&tag=hennesssview-20&linkId=OTN2PLMTRHECFJVS){{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=B003GFIVHK" >}}
-
-(pp. 104-105). Farrar, Straus and Giroux. Kindle Edition.
+Wolfe, Tom (2010-04-01). [Radical Chic & Mau-Mauing the Flak Catchers](https://www.amazon.com/gp/product/B003GFIVHK/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003GFIVHK&linkCode=as2&tag=hennesssview-20&linkId=OTN2PLMTRHECFJVS) (pp. 104-105). Farrar, Straus and Giroux. Kindle Edition.
 
 
 
@@ -40,12 +38,9 @@ Before we get ahead of ourselves, it's worth pointing out the those very poverty
 Mr. Wolfe explains:
 
 
-
 > So the poverty professionals were always on the lookout for the bad-acting dudes who were the “real leaders,” the “natural leaders,” the “charismatic figures” in the ghetto jungle. These were the kind of people the social-welfare professionals in the Kennedy Administration had in mind when they planned the poverty program in the first place. It was a truly adventurous and experimental approach they had. **Instead of handing out alms, which never seemed to change anything, they would encourage the people in the ghettos to organize.** They would help them become powerful enough to force the Establishment to give them what they needed. From the beginning the poverty program was aimed at helping ghetto people rise up against their oppressors. It was a scene in which the federal government came into the ghetto and said, “Here is some money and some field advisors. Now you organize your own pressure groups.” It was no accident that Huey Newton and Bobby Seale drew up the ten-point program of the Black Panther Party one night in the offices of the North Oakland Poverty Center.
 
-Wolfe, Tom (2010-04-01). [Radical Chic & Mau-Mauing the Flak Catchers](https://www.amazon.com/gp/product/B003GFIVHK/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003GFIVHK&linkCode=as2&tag=hennesssview-20&linkId=OTN2PLMTRHECFJVS){{< figure src="https://ir-na.amazon-adsystem.com/e/ir?t=hennesssview-20&l=as2&o=1&a=B003GFIVHK" >}}
-
-(pp. 105-106). Farrar, Straus and Giroux. Kindle Edition.
+Wolfe, Tom (2010-04-01). [Radical Chic & Mau-Mauing the Flak Catchers](https://www.amazon.com/gp/product/B003GFIVHK/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003GFIVHK&linkCode=as2&tag=hennesssview-20&linkId=OTN2PLMTRHECFJVS) (pp. 105-106). Farrar, Straus and Giroux. Kindle Edition.
 
 
 
@@ -53,7 +48,7 @@ Forty-four years later, black poverty is worse than it was in 1970, and race rel
 
 Following in the footsteps of Dick Gregory and Martin Luther King, Jesse Jackson came to Ferguson last week to quell the riots. But the rioters quelled him instead:
 
-https://youtu.be/EfUKTIUUxxE
+{{< youtube EfUKTIUUxxE >}}
 
 "When you gonna stop sellin' us out, Jesse?"
 
@@ -81,16 +76,11 @@ While society has improved many racial injustices in my life, we have not imp
 
 
 > Here, you can see there isn't so much a gap between black and white households as a Grand Canyon-sized void that has only gotten worse since the 1960s.
-
 > 
 > Since the 1960s, the difference in household income between black and white households ballooned from $19,000 to $27,000, meaning **black households on average earn  just 59% as much as their white neighbors**. Blacks enjoyed a bit of a boost from the prosperous early 2000s, when they earned 65% as much as white households, but the Great Recession made quick work of destroying those gains.
 > 
-> 
-
-> 
 > **Blacks have also been the most unemployed racial group in the U.S. over the last half century**, with an unemployment rate almost double the national average, [according to the Urban Institute.](https://www.urban.org/UploadedPDF/412596-Racial-and-Ethnic-Differences-in-Receipt-of-Unemployment-Insurance-Benefits-During-the-Great-Recession.pdf)
-> 
-> 
+
 
 
 
