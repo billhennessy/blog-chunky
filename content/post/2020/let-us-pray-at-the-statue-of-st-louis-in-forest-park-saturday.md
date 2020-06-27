@@ -37,7 +37,7 @@ This is one of the most powerful prayers to ask for God's assistance to live wel
 
 #### Lorica (Breastplate) of St. Patrick
 
-I bind to myself today the strong virtue of an Invocation of the Trinity: **I believe the Trinity in the Unity the Creator of the Universe.**
+I bind to myself today the strong virtue of an Invocation of the Trinity: I believe the Trinity in the Unity the Creator of the Universe.
 
 I bind to myself today the virtue of the Incarnation of Christ with His Baptism,   
 the virtue of His crucifixion with His burial,   
@@ -47,7 +47,8 @@ the virtue of His coming on the Judgement Day.
 I bind to myself today the virtue of the love of seraphim,  
 in the obedience of angels,  
 in the hope of resurrection unto reward,  
-in prayers of Patriarchs, in predictions of Prophets,  
+in prayers of Patriarchs,  
+in predictions of Prophets,  
 in preaching of Apostles,  
 in faith of Confessors,  
 in purity of holy Virgins,  
