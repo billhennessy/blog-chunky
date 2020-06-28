@@ -3,7 +3,7 @@ title: "Why We Prayed at the Statue of St. Louis IX, King of France"
 date: 2020-06-27T15:04:39-05:00
 url: why-we-prayed-at-statue-of-st-louis
 authors: ["Bill Hennessy"]
-images: ["/images/priest-rosary-stl.jpeg","/images/fr-miroscia.png","/images/priests-rosary-stl.jpeg"]
+images: ["/images/priest-rosary-stl.jpeg","/images/fr-miloscia.png","/images/priests-rosary-stl.jpeg"]
 categories: ["Faith"]
 tags: ["Statue of St. Louis", "Rosary", "Statue", "St. Louis", "Prayer"]
 draft: false
