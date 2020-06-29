@@ -61,7 +61,7 @@ When asked by a faithful Catholic why he and his fellow bishops were not activel
 
 Apparently, Bishop Barron believes the Second Vatican Council forbade priests from taking public stands for or against the desecration of sacred art. Fortunately, some priests still choose to lead. 
 
-{{< figure src="/images/priest-rosary-stl.jpeg" caption="A brave priest stands between angry protesters and the statue of St. Louis." >}}
+{{< figure src="/images/priest-rosary-stl.jpeg" caption="A brave priest , Fr. Stephen Schumacher, stands between angry protesters and the statue of St. Louis." >}}
 
 Four priests attended Saturday's Rosary. Father Miloscia, whom we mentioned earlier, traveled from Kansas City. His family came out, as well. They're from the St. Louis area. The three other priests apparently came from St. Francis de Sales Oratory run by the priests of the Institute of Christ the King. 
 
@@ -109,4 +109,6 @@ For these poor souls we pray.
 
 God sent His only Son to teach us how to avoid the evil one and live forever in glory. When we love and pray for our "enemies," we are doing God's will by winning souls. In the process, we love our neighbors by helping them escape an eternity in hell. 
 
-That's what love of neighbor means: helping people escape hell. And that it ultimately why we prayed at the statue of St. Louis on Saturday—in hopes of actively cooperating in God's will. 
+That's what love of neighbor means: helping people escape hell. And that is why we prayed at the statue of St. Louis on Saturday—in hopes of actively cooperating in God's will by helping souls find Him through Christ. 
+
+P.S. If anyone know the brave two brave priests we could not identify, please let me know by email (bill@billhennessy.com) or in the comments. I'd like them to get personal credit for their courage.
