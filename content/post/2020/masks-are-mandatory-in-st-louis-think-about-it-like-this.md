@@ -32,21 +32,23 @@ Coronavirus will stop spreading when a sufficient fraction of the population is 
 
 There are two ways we can reach this level of immunity: artificially through vaccinations and naturally through infection and recovery. 
 
-To reach [herd immunity naturally requires that about 43 percent](https://www.webmd.com/lung/news/20200626/herd-immunity-threshold-could-be-as-low-as-43-percent) of the population recover from the disease. To achieve it, artificially, through vaccination, requires about 60 percent of the people to be vaccinated. That's 200 million people, more or less.
+To reach [herd immunity naturally requires that about 43 percent](https://www.webmd.com/lung/news/20200626/herd-immunity-threshold-could-be-as-low-as-43-percent) of the population recover from the disease. 
+
+To achieve it, artificially, through vaccination, requires about 60 percent of the people to be successfully vaccinated. That's 200 million people, more or less.
 
 ([Read why herd immunity might be our only hope](https://hennessysview.com/post/2020/like-it-or-not-herd-immunity-is-probably-our-only-hope-to-stave-off-economy-depression/).)
 
 Until we reach herd immunity, the amount of suffering from Coronavirus will remain high. But what do we mean by "suffering?"
 
-The public health experts consider suffering only in the clinical sense. They seem to believe that "suffering" is limited to those diagnosed with the disease. But that's a very narrow definition of suffering. 
+The public health experts consider suffering only in the clinical sense. They seem to believe "suffering" is limited to those diagnosed with the disease. But that's a very narrow definition of suffering. 
 
-Empathetic and compassionate people draw a wider circle. These kind souls count their neighbors out of work, their friends' bankrupt business, and their lonely, elderly family as "suffering." 
+Empathetic and compassionate people draw a wider circle. These kind souls count their neighbors who are out of work, their friends' who lost their businesses, and their lonely, elderly family no one will visit among the suffering. 
 
-Compassionate people believe living forced behaviors, like being forced to wear a mask, as a form of suffering. 
+Compassionate people believe living under forced behaviors, like being forced to wear a mask, is a form of suffering. 
 
 Compassionate people also recognize false hopes and prolonged fear as forms of suffering. 
 
-And the more fear the Coronavirus, the more we all suffer. 
+And the longer people fear the Coronavirus, the longer we all suffer. The more we mitigate, the poorer we get.
 
 The compassionate people, therefore, want to end the suffering sooner. And this is where the great divide begins. 
 
@@ -66,19 +68,19 @@ That level of effectiveness is the same as the effectiveness of the flu vaccine.
 
 So, we now have two numbers: 30 percent and 50 percent. There is a 30 percent chance we will find a vaccine that inoculates 50 percent of the people who receive it. 
 
-> .3 * .5 = .15
+ `.3 * .5 = .15`
 
 That's how we get to the 15 percent chance that any American will be inoculated from Coronavirus via a vaccine. Can we reach 60 percent immunity via vaccine? Let's do a little more math. 
 
 There are 320 million people in the US, and each one has a 15 percent chance of reaching immunity via a vaccine. 
 
-> 320,000,000 * .15 = 48,000,000
+ `320,000,000 * .15 = 48,000,000`
 
-No. Based on probability, we cannot reach herd immunity through a vaccine. 
+Nope. Based on probability, we cannot reach herd immunity through a vaccine. 
 
 But let's go a step further. Let's pretend researchers do produce a vaccine that's 50-percent effective. Can we reach herd immunity this way?
 
-> 320,000,000 * .5 = 160,000,00
+ `320,000,000 * .5 = 160,000,00`
 
 Nope. We're still 38 million people short of artificial herd immunity. Artificial herd immunity would require 100 percent of Americans to receive a vaccine that's, at least, 60 percent effective. Or 60 percent of Americans to receive a vaccine that's 100 percent effective. 
 
@@ -103,9 +105,10 @@ The second part of the question is "when?"
 
 If we think about the search for a vaccine as a 12-hour clock, we are at 4 a.m. The clock started at the start of the pandemic in January. Today is July 2. We've traveled 4 hours in 6 months, and we have 8 hours to go. 
 
-January to June: 4 hours
-July to December: 4 hours
-January to June: 4 hours
+* January to June: 4 hours
+* July to December: 4 hours
+* January to June: 4 hours
+
 That means one year from today, you might be able to get a vaccine for Coronavirus. 
 
 That's another full year of suffering. 
@@ -126,9 +129,9 @@ Are we out of hope, then? No. There is a logical, compassionate way, as [I first
 
 The natural and compassionate way to end the Coronavirus scourge is through the natural, controlled spread of the disease as quickly as safely possible. 
 
-Healthy young people are more socially active than older or sickly people. You don't need an academic study to know this. Young people are also unlikely to suffer severe effects from Coronavirus. Sure, some will have a blood-clotting problem, but those cases are sporadic. Most young people who test positive have either no symptoms or mild cold-like symptoms. (Many common cold varieties are Coronaviruses.) 
+Healthy young people are more socially active than older or sickly people. You don't need an academic study to know this. Young people are also unlikely to suffer severe effects from Coronavirus. Sure, some will have a blood-clotting problem, but those cases are sporadic and rare. Most young people who test positive have either no symptoms or mild cold-like symptoms. (Many common cold varieties are Coronaviruses.) 
 
-Because healthy young people are more likely to catch an infectious disease, that demographic will reach high levels of immunity faster than less active groups. We should let them do whatever they want, with one exception: stay away from the sick and the elderly. 
+Because healthy young people are more likely to catch an infectious disease, that demographic will reach high levels of immunity faster than less active groups. **We should let healthy young people do whatever they want, with one exception: stay away from the sick and the elderly**. 
 
 Protect the people at greater risk of serious complications, let the others provide herd immunity. 
 
@@ -140,7 +143,7 @@ Time is against us. Every day that we live under restrictions on freedom is a da
 
 If we get to July 2, 2021, and find out there is no vaccine, we will have lost 1.5 years of life to false hope. We will have lost any hope of a comfortable retirement for most Americans. We will have lost millions of lives to diseases to diseases that were not treated out of fear of just one condition. 
 
-As a matter of fact, even we do have an 80-percent effective vaccine in July 2021, all that life would still have been lost. 
+And, imagine this: **if we do get to July 2021 without a vaccine, the CDC and Dr. Fauci will tell us to do exactly what we prescribe here: let the young and healthy build herd immunity for us**.
 
 On the other hand, we could achieve 43-percent immunity by the fall, or sooner, if we let it spread as fast as possible without overwhelming the healthcare system. If an effective vaccine comes along, great. We'll take it. But don't shut down the world for a year and a half on a 15 percent chance. Be compassionate, instead.
 
