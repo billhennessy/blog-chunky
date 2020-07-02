@@ -8,6 +8,9 @@ categories: ["Living"]
 tags: ["Coronavirus","Masks", "Herd Immunity", "Compassion"]
 draft: false
 ---
+
+{{< audio "/audio/Rawhide.mp3" auto autoplay >}}
+
 Do you consider yourself a "compassionate" person?
 
 You have probably heard that St. Louis City and County issued a new mask mandate on July 1. What do you think about that? 
@@ -148,3 +151,4 @@ And, imagine this: **if we do get to July 2021 without a vaccine, the CDC and Dr
 On the other hand, we could achieve 43-percent immunity by the fall, or sooner, if we let it spread as fast as possible without overwhelming the healthcare system. If an effective vaccine comes along, great. We'll take it. But don't shut down the world for a year and a half on a 15 percent chance. Be compassionate, instead.
 
 And it's all based on math, not masks.
+
