@@ -56,7 +56,7 @@ One side wants people to suffer until 60 percent of the population has been vacc
 
 There is a 30 percent chance of a vaccine that's 50 percent effective and a 70 percent chance of no vaccine. That means there's only a 15 percent chance that any particular American will achieve immunity through a vaccine. How do I know this? Simple probability:
 
-* 70 percent of all projects fail
+* 70 percent of all projects fail ([read this for more](https://hennessysview.com/the-humane-approach-to-coronavirus-open-up-everything/))
 * The search for a Coronavirus vaccine is a project
 * Therefore, there's a 70 percent chance it will fail and a 30 percent chance it will succeed
 
