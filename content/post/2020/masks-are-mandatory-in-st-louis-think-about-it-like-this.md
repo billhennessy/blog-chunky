@@ -9,8 +9,6 @@ tags: ["Coronavirus","Masks", "Herd Immunity", "Compassion"]
 draft: false
 ---
 
-{{< audio "/audio/Rawhide.mp3" auto autoplay >}}
-
 Do you consider yourself a "compassionate" person?
 
 You have probably heard that St. Louis City and County issued a new mask mandate on July 1. What do you think about that? 
@@ -67,7 +65,7 @@ There is a 30 percent chance of a vaccine that's 50 percent effective and a 70 p
 
 Next, let's calculate the effectiveness of a successful vaccine. According to the CDC, [a Coronavirus vaccine needs to be only 50 percent effective](https://arstechnica.com/science/2020/07/covid-19-vaccine-must-protect-50-of-people-for-approval-fda-says/). 
 
-That level of effectiveness is the same as the effectiveness of the flu vaccine. About 50 percent. In other words, half the people get a Coronavirus vaccine (assuming there ever is one) will still catch Coronavirus.
+That level of effectiveness is the same as the effectiveness of the flu vaccine. About 50 percent. In other words, half the people who get a Coronavirus vaccine (assuming there ever is one) will still catch Coronavirus. And, as we shall see, the older you get, the less likely you are to build immunities from a vaccine.
 
 So, we now have two numbers: 30 percent and 50 percent. There is a 30 percent chance we will find a vaccine that inoculates 50 percent of the people who receive it. 
 
@@ -89,6 +87,8 @@ Nope. We're still 38 million people short of artificial herd immunity. Artificia
 
 In other words, the chances of ending suffering from Coronavirus via a vaccine are infinitesimally tiny. Herd immunity from a vaccine would require that 80 percent of the population receive a vaccine that's 80-percent effective. 
 
+#### There Are Skeptical Experts
+
 Remember that virologists who don't work for the NIH, the CDC, or Big Pharma continue to caution against hoping for a vaccine. [As reported on CNBC last week](https://www.cnbc.com/2020/06/26/coronavirus-vaccine-will-not-be-a-cure-all-virologist-warns.html):
 
 > Speaking to CNBC's "Squawk Box Europe" on Friday, Robert Lambkin-Williams, an independent virologist at Virology Consult Ltd, said there was no clear evidence that antibodies produced to fight off the virus gave people any protection against being reinfected with Covid-19.
@@ -101,8 +101,19 @@ And further still:
 
 > "The vaccine is not going to be a cure-all. We have not had a successful vaccine against this type of virus ever," he told CNBC. "We will get a vaccine of some description in the next couple of years, but it will not be perfect and it will need to be developed going forward."
 
+And Dr. Lambkin-Williams is not the lone vaccine skeptic. [USA Today published this op-ed by Dr. Joel M. Zinberg](https://www.usatoday.com/story/opinion/2020/06/03/coronavirus-vaccine-not-end-all-must-plan-reopening-without-column/5265918002/), who wrote:
 
-### And, If So, When?
+> Dr. Anthony Fauci and other experts have touted vaccines as the ultimate solution to dealing with the threat of COVID-19.  There are strong reasons to doubt this. The eight vaccine candidates Dr. Fauci described to the Senate  face daunting obstacles on the road from laboratory to final Food and Drug Administration (FDA) approval and mass manufacturing. If one or two vaccines do make it through, it will be a year or more before they are widely available. Even then, the vaccines may not be effective enough or sufficiently utilized to defeat the new illness.
+
+He added that only 1 in 10 vaccines make it to market. That's a 90-percent failure rate if you you're keeping score.
+
+Plus, Dr. Zinberg provides other statistics that challenge the notion of artificial herd immunity:
+
+> **No vaccine is 100% effective at reducing the risk of becoming ill**. Effectiveness rates often vary by age group, particularly for the elderly who are most vulnerable to COVID-19 and may not mount as good an immune response to make antibodies as younger people. Over the past 15 years, vaccine effectiveness for another familiar respiratory illness — seasonal influenza — has ranged between 10 and 60%. **The vaccine that was specifically created for the 2009 influenza pandemic was 62% effective for people under 65 and 43% effective for people 65 and older**.
+
+The probability that a hurried vaccine development will result in a safe and effective vaccine anytime soon is near zero. Dr. Zinberg says it will not be before the end of 2021. 
+
+#### And, If So, When?
 
 The second part of the question is "when?" 
 
@@ -150,5 +161,10 @@ And, imagine this: **if we do get to July 2021 without a vaccine, the CDC and Dr
 
 On the other hand, we could achieve 43-percent immunity by the fall, or sooner, if we let it spread as fast as possible without overwhelming the healthcare system. If an effective vaccine comes along, great. We'll take it. But don't shut down the world for a year and a half on a 15 percent chance. Be compassionate, instead.
 
-And it's all based on math, not masks.
+Dr. Zinberg agrees:
+
+> Continuing the economically devastating lockdown another 6-12 months while we bet on the likelihood that a vaccine will be approved, that it will be highly effective and that people will use it, is a risky and unnecessary wager. As I have outlined elsewhere, we know that risk of hospitalization and death from COVID-19 is concentrated in the elderly and people with underlying medical problems, and it is largely a mild, even asymptomatic disease for the young. 
+
+
+And it's all based on experience and math, not masks.
 
