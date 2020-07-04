@@ -3,7 +3,7 @@ title: "Please Don't Share This Post on Social Media"
 date: 2020-07-04T08:38:00-05:00
 url: please-dont-share-this-post-on-social-media
 authors: ["Bill Hennessy"]
-images: ["/images/loneliness.jpg"]
+images: ["/images/loneliness.jpg","/images/digital-minimalism.jpg"]
 categories: ["Living"]
 tags: ["Social Media","Loneliness","Jealousy","Facebook","Twitter"]
 draft: false
@@ -13,6 +13,8 @@ It's time to pare back our addiction to social media, and I will propose an alte
 Facebook, Instagram, and Twitter are the primary causes of unhappiness, anger, tribalism, and violence in America and many other countries. Text messaging apps are accessories. 
 
 ### Heavy Facebook Users Are Miserable and Lonely
+
+{{< figure src="/images/digital-minimalism.jpg" caption="*Digital Minimalism* by Cal Newport available on [Amazon](https://read.amazon.com/kp/embed?asin=B07DBRBP7G&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_PpiaFbBXMTEE0)." >}}
 
 Replicated research shows that the top 1/4 of Facebook users are three times as angry and depressed as the bottom 1/4. This fact surprised the researchers who conducted the original experiment. They suspected some degree of life-dissatisfaction among people who spend more than four hours a day on social media. They did not expect these addicts to be orders of magnitude more miserable. But they are. 
 
@@ -72,7 +74,9 @@ Social media provide the *emotional* triggers for execution. Lonely, jealous peo
 
 ### Don't Play Chicken
 
-Chicken is, according to former CIA field officer John Braddock, a negative-sum game. They're wars of attrition. Braddock says, when you find yourself in a negative-sum game, the only strategy is to quit.
+Chicken is, according to [former CIA field officer John Braddock](https://www.amazon.com/John-Braddock/e/B00ZM3WNQ4/ref=dp_byline_cont_ebooks_1), a negative-sum game. They're wars of attrition. Braddock says, when you find yourself in a negative-sum game, the only strategy is to quit.
+
+([Read *A Spy's Guide to Thinking* by John Braddock](https://www.amazon.com/gp/product/B00XZCYHRW/ref=dbs_a_def_rwt_bibl_vppi_i0).)
 
 So, quit. 
 
