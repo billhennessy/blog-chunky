@@ -1,5 +1,5 @@
 ---
-title: "Please Don't Share This Post on Social Media"
+title: "Please Don\'t Share This Post on Social Media"
 date: 2020-07-04T08:38:00-05:00
 url: please-dont-share-this-post-on-social-media
 authors: ["Bill Hennessy"]
@@ -54,11 +54,11 @@ You post something in anger without a filter, without an editor to challenge you
 
 Chances are, the people who follow you on social media are mostly people like you. They will happily (or angrily) agree with your sentiment. They will "like" or "love" your angry post. They might tack on their emotional reply. 
 
-These likes and supportive replies provide a much more substantial dopamine boost. The emotional weight of the replies also triggers the release of adrenaline and cortisol, hormones associated with fear and movement. So you post another. You get more likes and replies with even more vigorous emotional intensity. 
+These likes and supportive replies provide a much more substantial dopamine boost. The emotional weight of the replies also triggers the release of adrenaline and cortisol, hormones associated with fear and movement. So you post another. You get more likes and replies with even more-vigorous emotional intensity. 
 
 Two hours later, your wife or husband or boss asks you what you've been doing all this time, and you're too ashamed to say, "I've been venting my spleen on Twitter." 
 
-Whether you realize it or not, you're now jealous, angry, isolated (you can't tell the truth), and flooded with adrenaline and cortisol. High cortisol levels signal the body to store fat. You won't see a difference in a day, but daily use of Facebook and Twitter will make you fat, all other things being equal. 
+Whether you realize it or not, you're now jealous, angry, isolated (because you can't tell the truth), and flooded with adrenaline and cortisol. High cortisol levels signal the body to store fat. You won't see a difference in a day, but daily use of Facebook and Twitter will make you fat, all other things being equal. 
 
 And, if you want to talk to an expert on this vicious cycle of negative feedback loops, you're reading his blog. 
 
@@ -70,7 +70,11 @@ And we are here mostly because of social media.
 
 No, Facebook didn't produce the intellectual (or anti-intellectual) bases for race hatred and social leveling. Those came from academia. But those philosophies have been around for centuries, even in the United States. They just weren't acted upon in significant ways. 
 
-Social media provide the *emotional* triggers for execution. Lonely, jealous people who lack both meaningful human relationships and the life skills to improve their situations turn to another lousy strategy. These people seek to make them happy, fulfilled people they see on social media as miserable and lonely as they are. Feeling unable to lift themselves up (because some malicious other is holding them down), these self-pitying souls demand that the government spread misery evenly. As the old saying goes, capitalism is the uneven distribution of wealth; socialism is the even distribution of poverty. You can replace "wealth" and "poverty" with "happiness" and "misery," and the saying is just as valid. 
+Social media provide the *emotional* triggers for execution. Lonely, jealous people who lack both meaningful human relationships and the life skills to improve their situations turn to another lousy strategy. These people seek to make those happy, fulfilled people they see on social media as miserable and lonely as they are. Feeling unable to lift themselves up (because some malicious other is holding them down), these self-pitying souls demand that the government spread misery evenly. "Defund the police." 
+
+And, if the government won't do it, why we'll form angry, lonely mobs to destroy what we see as someone else's happy life. 
+
+As the old saying goes, capitalism is the uneven distribution of wealth; socialism is the even distribution of poverty. You can replace "wealth" and "poverty" with "happiness" and "misery," and the saying is just as valid. 
 
 ### Don't Play Chicken
 
@@ -94,7 +98,9 @@ I urge you to reduce your use of social media and start having real conversation
 
 What if, instead of following me on Twitter or Facebook, I set up a weekly, one-hour Google Meet for up to 100 people? 
 
-We can use Twitter and Facebook for the logistics, but not as substitutes for conversation. I'll post a link. There's nothing to download or install. You just click the link, and I'll let you in. 
+We can use Twitter and Facebook for the logistics, but not as substitutes for conversation. As Cal Newport points out in *Digital Minimalism*, Twitter and Facebook and texting are great tools for logistics and quick fact exchange. They're just no substitutes for conversation and nurturing human relationships. 
+
+On Monday or Tuesday, I'll post a link and a time for the meet-up on Google Meet. There's nothing to download or install. And Meet doesn't have a record function, so you don't have to worry about something you say being misconstrued on social media. You just click the link, and I'll let you in. 
 
 I'm going to try this one night this week. I'll write a short blog post and tweets with the link. Just friends getting together face-to-face via the internet to catch up and talk about things. 
 
