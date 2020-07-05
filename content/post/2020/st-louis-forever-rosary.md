@@ -10,7 +10,7 @@ draft: false
 ---
 I kept crying. And the t-shirt I wore was utterly inappropriate.
 
-Last night (July 12), I *finally* made it to the nightly Rosary by the statue of St. Louis in Forest Park. It was the most fantastic experience. Most amazing. 
+Last night (July 2), I *finally* made it to the nightly Rosary by the statue of St. Louis in Forest Park. It was the most fantastic experience. Most amazing. 
 
 When I arrived, Fr. Stephen Schumacher was leading about fifty people in chanting Vespers in Latin. Right there in the middle of Forest Park. That uniquely and unmistakably Catholic rite of daily prayer. After Vespers, Fr. Schumacher blessed the people (asperges) and performed a minor exorcism of the area with the Prayer to St. Michael. 
 
@@ -38,6 +38,6 @@ Now, to see what Fr. Goring is talking about, see this video from Saturday's eve
 
 {{< twitter 1276969627025911809 >}}
 
-St. Michael the Archangel, protest this brave and holy priest. Lord, send us many more priests like him. 
+St. Michael the Archangel, protect this brave and holy priest. Lord, send us many more priests like him. 
 
 Praise Jesus!
