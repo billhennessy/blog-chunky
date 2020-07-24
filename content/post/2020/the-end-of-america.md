@@ -60,10 +60,11 @@ Here are the major political  groups I see in America:
 |  | Inertia | 2% |
 | Republican | Country Club | 19% |
 |  | Religious | 10% |
-| | Libertarian | 7% |
+| | Libertarian| 2% |
 | Other | Religious | 5% |
 |  | Anarchist | 10% |
 |  | Hank Hill | 15 %|
+|  | Libertarian | 5% |
 | Total | | 100%|
 
 If you can't figure out the characteristics of these factions by their names, I don't have time to explain it. And I probably couldn't, anyway. 
