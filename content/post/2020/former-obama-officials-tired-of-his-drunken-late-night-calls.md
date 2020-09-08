@@ -27,4 +27,3 @@ In the leaked call, Obama incorrectly asserted that General Flynn was indicted f
 
 The former president did not respond to a Twitter request for comment. 
 
-{{< twitter 1260023713635790854 >}}
