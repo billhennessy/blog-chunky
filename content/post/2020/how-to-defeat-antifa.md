@@ -6,12 +6,14 @@ authors: ["Bill Hennessy"]
 images: ["/images/armor-of-god.jpg"]
 categories: ["Faith", "Politics"]
 tags: ["Antifa", "Rosary", "Social Kingship of Chirst"]
-draft: true
+draft: false
 ---
 
 I recently read [the account of a Marine Corps veteran who traveled to Portland, Oregon, seeking a job as a Portland police officer](https://www.americanpartisan.org/2020/09/antifa-reality-check/). Along with two other combat veterans trained in urban warfare, this Marine, with permission from the Portland Police Department, decided to witness the nightly siege of Portland by Antifa and BLM activists. 
 
-His harrowing account reached this conclusion: don't go there. Antifa is better trained than any enemy we've faced in Iraq or Afghanistan. Antifa's command and control structure is superior to those of the Portland Police, the US Marine Corps, or the NSA. Their tactics render our best-trained urban warfare experts impotent and affraid. 
+His harrowing account can be summed as: **don't go there**. 
+
+Antifa is better trained than any enemy we've faced in Iraq or Afghanistan. Antifa's command and control structure is superior to those of the Portland Police, the US Marine Corps, or the NSA. Their tactics render our best-trained urban warfare experts impotent and affraid. 
 
 In short, Antifa sent these three Marines running scared for 11 blocks. And the Marines came armed, locked, and loaded. The Marine's sobering conclusion:
 
@@ -25,9 +27,9 @@ As I see it, Antifa is not an army of malcontents, but an army of the demonicall
 
 Defeating Antifa requires that we drop our man-made weapons and tactics and put on the full armor of God. And, for Catholics, that begins with shielding our thoughts and intentions from demonic surveillance. 
 
-Exorcists and Catholic demonologists who assist in solemn exorcism under the direction of bishop tell us that demons use our sins as weapons against us. Mortal sin opens our entire lives to satanic surveillance, the way bad software opens out keystrokes to hackers. We can close this wormhole only through a perfect sacramental Confession and absolution. 
+Exorcists and Catholic demonologists who assist in solemn exorcism under the direction of bishop tell us that demons use our sins as weapons against us. Mortal sin opens our entire lives to satanic surveillance, the way bad software exposes our keystrokes to hackers. We can close this wormhole only through a perfect sacramental Confession and absolution. 
 
-By confessing all of our sins, deprive demons of their greatest weapon: access to read our souls. We blind them and cut off their interactions. 
+By confessing all of our sins, we deprive demons of their greatest weapon: access to read our thoughts, our fears, our secrets, our souls. We blind them and cut off their interactions with us and with each other. 
 
 Sin, my friends, is the Devil's wormhole. 
 
@@ -35,7 +37,9 @@ Sin, my friends, is the Devil's wormhole.
 
 After sacramental confession, we can begin to fight in earnest. 
 
-While we cannot directly order demons to cease and desist, we can call on angels and saints and the God Almight—Father, Son, and Holy Ghost—to subdue demonic activity, even far away in Portland, Oregon. 
+While we cannot directly order demons to cease and desist in Portland, we can call on angels and saints and God Almighty—Father, Son, and Holy Ghost—to subdue demonic activity, even far away in Portland, Oregon. 
+
+(Note: A person in a state of grace *can* bind and expel demons from people and places over which he has lawful authority. But do not try this at home without guidance from a priest. Don't mess with demons directly. I recommend reading Fr. Chad Ripperger's [*Deliverance Prayers: for use by the laity*](https://read.amazon.com/kp/embed?asin=B01N5IDAPA&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_ArcwFb3P2XERE) and Adam C. Blei's [*Hauntings, Possessions, and Exorcisms*](https://read.amazon.com/kp/embed?asin=B075W79V5H&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_KqcwFbQXVYKFM) for more information.)
 
 In His mercy, Christ, through His Church, has given us spiritual combat prayers to use in our battle with powers and principalities. Make these words of the Apostle Paul your daily reading:
 
