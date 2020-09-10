@@ -1,12 +1,12 @@
 ---
 title: "How to Defeat Antifa"
-date: 2020-09-08T06:07:45-05:00
+date: 2020-09-08T05:07:45-05:00
 url: how-to-defeat-antifa
 authors: ["Bill Hennessy"]
 images: ["/images/armor-of-god.jpg"]
 categories: ["Faith", "Politics"]
 tags: ["Antifa", "Rosary", "Social Kingship of Chirst"]
-draft: true
+draft: false
 ---
 
 I recently read [the account of a Marine Corps veteran who traveled to Portland, Oregon, seeking a job as a Portland police officer](https://www.americanpartisan.org/2020/09/antifa-reality-check/). Along with two other combat veterans trained in urban warfare, this Marine, with permission from the Portland Police Department, decided to witness the nightly siege of Portland by Antifa and BLM activists. 
