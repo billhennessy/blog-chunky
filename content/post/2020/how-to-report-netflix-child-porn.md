@@ -13,6 +13,10 @@ draft: false
 
 According to federal law, child pornography refers to any kind of visual depiction that displays sexually explicit conduct that involves individuals who are under the age of 18 (source: Bartlby). 
 
+If you want to reference the actual law, it's 18 U.S. Code § 2252:
+
+> (a)(2)(A) the producing of such visual depiction involves the use of a minor engaging in sexually explicit conduct.
+
 A new Netflix series, which I have seen only in clips on social media, seems to fit that definition of child porn like a glove. 
 
 Clips from the program show girls reportedly as young as 11 working as strippers in a club. Dancing and twerking. (We’re not going to post any videos or photos from Cuties, because that would be distributing child pornography. And that’s a crime.) 
