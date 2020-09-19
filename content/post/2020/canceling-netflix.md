@@ -1,7 +1,7 @@
 ---
-title: "Canceling Netflix"
+title: "Cancelling Netflix"
 date: 2020-09-16T09:25:20-05:00
-url: canceling-netflix
+url: cancelling-netflix
 authors: ["Bill Hennessy"]
 images: ["/images/benedict-medal-2.jpg"]
 categories: ["Faith", "Living"]
