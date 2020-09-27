@@ -12,7 +12,7 @@ draft: false
 
 It isn't easy. 
 
-Nothing works out just the way want. Your best friend is a no-show at your daughter's wedding. Your boss tells you your job is being eliminated. A thunderstorm hits 30 minutes after you stain the deck despite in violation of the forecast. 
+Nothing works out just the way we want. Your best friend is a no-show at your daughter's wedding. Your boss tells you your job is being eliminated. A thunderstorm hits 30 minutes after you stain the deck in violation of the weather forecast. 
 
 Setbacks, big and small, dot our lives. 
 
@@ -65,10 +65,10 @@ In the end, gratitude is nothing more than love of the God for His condescension
 
 The Greek word the Stoics used for "gratitude" was εὐχάριστος or *eucharistos*. The Stoics didn't know it, but they were talking about The Eucharist, the body and blood, soul and divinity of Jesus Christ. 
 
-Another way of putting it: Jesus is the Eucharist, the thanksgiving, the source of all gratitude. 
+Another way of putting it: Jesus is the Eucharist, the thanksgiving, both source and object of all gratitude. 
 
 We cannot merit salvation ourselves, but we cannot feel gratitude ourselves, either. Left to our devices, we will curse even blessings that fail to meet our disordered expectations. 
 
 To live in perpetual gratitude for whatever happens is as simple (and as difficult) as living in Christ. Which is why the entirety of Augustine's Petitions points towards that end. Gratitude is not a destination but a result of seeking the destination Who is Jesus Christ. 
 
-Whatever happens is a cause for and caused by gratitude, for εὐχάριστος, for *eucharistos*, for Christ. 
+Whatever happens is a cause for and caused by gratitude, for and by εὐχάριστος, for and by *eucharistos*, for and by Christ. 
