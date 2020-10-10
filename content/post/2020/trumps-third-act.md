@@ -109,3 +109,6 @@ The suspense is what drives us to the movies. It's also what makes Donald Trump 
 
 Stay tuned. You'll be telling your grandkids about Trump's magnificent Act Three of 2020. 
 
+I'll leave you with this video by Russel Brand.
+
+{{< youtube mR52Cg__xYM >}}
