@@ -37,21 +37,23 @@ The *Access Hollywood* bombshell was almost certainly that "unsolvable problem" 
 
 ### March 16, 2020: Coronavirus
 
-If you were scripting *Trump: The Movie* and you'd thrown in a global pandemic at the start of Act Two, what would be the ultimate complicating factor to segue into Act Three?
+If you were scripting *Trump: The Movie* and you'd have thrown in a global pandemic at the start of Act Two, what would be the ultimate complicating factor to segue into Act Three?
 
 Of course. The hero contracts that virus that served as his nemesis throughout Act Two. 
 
-Coronavirus directly attacked Trump's greatest achievement, the one thing that made defeating him impossible: the greatest economy in US history. Going into Act Two, Trump had managed to reduced Black and Hispanic unemployment to all-time lows, drive Black and Hispanic employment, income, and homeownership to all-time highs, and renegotiate a bunch of unfavorable trade deals. Jobs were a dime a dozen, and no one really wanted to run against Trump in 2020. 
+Coronavirus directly attacked Trump's greatest achievement, the one thing that made defeating him impossible: the greatest economy in US history. Going into Act Two, Trump had managed to reduce Black and Hispanic unemployment to all-time lows, drive Black and Hispanic employment, income, and homeownership to all-time highs, and renegotiate a bunch of unfavorable trade deals. Jobs were a dime a dozen, and no one really wanted to run against Trump in 2020. 
 
 Then China unleashed a virus that sent the world into a panic. To fight the virus, Trump had to sacrifice his masterpiece. Like DaVinci burning the Last Supper *and* the Mona Lisa, Trump had to set a torch to the US economy to save American lives. 
 
 As the Second Act wound down, Trump had miraculously rejuvenated the economy, like the Wizard of Oz pulling strings to impose his will on America's job engine. He seemed, once again, on the clear path to victory, until . . . 
 
+### October 2, 2020: Quarantine
+
 Another Friday, October 2, we awoke to Trump's Ultimate Complicating Factor:
 
 {{< twitter 1311892190680014849 >}}
 
-The China Virus had infected the 74-year-old President of the United and his wife with only four weeks left in the presidential campaign. 
+The China Virus had infected the 74-year-old President of the United States and his wife with only four weeks left in the presidential campaign. 
 
 "It's over," a lot of people thought.
 
@@ -68,6 +70,8 @@ Watching videos (probably B roll) of Marine One disappearing over the Washington
 ---
 
 ### October 7, 2020: Please Take Your Seats. Act Three Is About to Begin
+
+Did you notice the masks? When Trump left the White House to board Marine One for Walter Reed, he wore a black mask. When he returned, his mask was white. That wasn't coincidence.
 
 If you're watching a movie and you have no idea how it ends, at this point, you might glance at your watch and ask, "Does he have time to get out of this?"
 
@@ -103,7 +107,7 @@ Our hero isn't out of the woods just yet. With Trump, news cycles are about 10 m
 
 But President Trump's unpredictability follows a pattern: emergence, exposition, rising action, ultimate complicating factor, heroic rebound, denouement. 
 
-We saw this pattern throughout the 2015 Republican race, the 2016 race, the Russia Hoax, and the impeachment farce. While we cannot predict the next confounding variable to emerge, we can expect Trump to rally from any setback in a way no one could possibly imagine. 
+We saw this pattern throughout the 2015 Republican race, the 2016 general election, the Russia Hoax, and the impeachment farce. While we cannot predict the next confounding variable to emerge, we can expect Trump to rally from any setback in a way no one could possibly imagine. 
 
 The suspense is what drives us to the movies. It's also what makes Donald Trump the most fascinating figure in modern history. 
 
