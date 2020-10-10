@@ -1,7 +1,7 @@
 ---
-title: "Will Catholic Bishops Attack Amy Coney Barrett"
+title: "Will Catholic Modernists Attack Amy Coney Barrett?"
 date: 2020-09-27T05:21:17-05:00
-url: will-catholic-bishops-attack-amy-coney-barrett
+url: will-catholic-modernists-attack-amy-coney-barrett
 authors: ["Bill Hennessy"]
 images: ["/images/amy-coney-barrett.jpg"]
 categories: ["Politics", "Faith"]
@@ -11,9 +11,13 @@ draft: false
 
 Everyone is expecting the Democrats to use their tired, old playbook against Amy Coney Barrett. You know the playbook I'm talking about: some old flame or old acquaintance will work up the "courage" to sit before the Senate Judiciary Committee and tell his story of something horrible the nominee did during Reagan's first term. 
 
-But Democrats could use a very different tactic this time with the help of the Catholic Church. 
+But Democrats could use a very different tactic this time with the help of the Catholic Church. Let's just call this a thought experiment. 
 
-**Expect the most vigorous attacks against Amy Coney Barrett to come from prominent Catholics, including some American cardinals and bishops**.
+**Expect the most vigorous attacks against Amy Coney Barrett to come from prominent Catholics, possibly even a bishop or two**.
+
+Rich Raho, who identifies as a theologian, has already declared that faithful Catholics must reject Amy Coney Barrett. Why? Because "orange man bad." 
+
+{{< figure src="/images/raho.png" caption="Rich Raho's first mindless attack on Amy Coney Barrett. Expect more to follow." >}}
 
 These Catholic accusers will mournfully tell Congress that Judge Barrett's "rigid" view of Catholicism makes her nomination "questionable" and "troubling." 
 
@@ -131,8 +135,8 @@ Additionally, turning the Church against Barrett would allow Democrats to look c
 
 Pope Francis would almost certainly encourage Catholic clergy to subtly damage Judge Barrett's confirmation prospects and undermine her legitimacy if confirmed. Bergoglio is, in the first place, a secular globalist. He fully endorses everything the United Nations advances, even instructing Catholics in 2018 that "[Our duty is to obey the UN](https://remnantnewspaper.com/web/index.php/articles/item/4603-pope-francis-our-duty-is-to-obey-the-united-nations)." Not God, but the UN. 
 
-If Abp. Viganó is right about the Deep State colluding with the Deep Church, Catholics can expect to see one of their favorite bishops undermining history's most pro-life president and most visibly Catholic Supreme Court nominee. They will feel conflicted and betrayed. 
+If Abp. Viganó is right about the Deep State colluding with the Deep Church (and we believe he is based on the evidence), Catholics can expect to see one of their favorite bishops or self-proclaimed "theologians" undermining history's most pro-life president and most visibly Catholic Supreme Court nominee. 
 
 Catholics are about to face the decision they've managed to avoid for decades. That choice is between obedience to Church hierarchy or obedience to the Word of God as promulgated for 2,000 years through the constant teaching of the Church. Sadly, Amy Coney Barrett could be caught in the crossfire of that battle. 
 
-Please pray that I am wrong. That no bishop or priest will serve as a tool for the godless Democrats in their quest to destroy a faithful Catholic. 
+Please pray that I am wrong. That no bishop, priest, or "theologian" will serve as a tool for the godless Democrats in their quest to destroy a faithful Catholic and prolong the era of naked perversion in US law. 
