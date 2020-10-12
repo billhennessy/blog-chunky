@@ -37,7 +37,7 @@ The *Access Hollywood* bombshell was almost certainly that "unsolvable problem" 
 
 ### March 16, 2020: Coronavirus
 
-If you were scripting *Trump: The Movie* and you'd have thrown in a global pandemic at the start of Act Two, what would be the ultimate complicating factor to segue into Act Three?
+If you were scripting *Trump: The Movie*, you'd have thrown in a global pandemic at the start of Act Two. Now, what would be the ultimate complicating factor to segue into Act Three?
 
 Of course. The hero contracts that virus that served as his nemesis throughout Act Two. 
 
