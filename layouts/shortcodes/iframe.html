@@ -1,0 +1,11 @@
+<!-- 
+A simple implementation of the HTML video tag. Supports MP4 files.
+Arguments:
+
+- source
+- width of frame (in pixels)
+- height of frame (in pixels)
+
+-->
+
+<iframe src="{{ index .Params 0 }}" width="{{ index .Params 1 }}" height="{{ index .Params 2 }}"></iframe>
