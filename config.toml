@@ -48,7 +48,7 @@ author = "authors"
 [params]
   author = "Bill Hennessy"
   description = "Doctor Recommended"
-  homepageImage = "/images/homepage-image.png"
+  homepageImage = "/images/homepage-image@3x.png"
   share = true
   showLanguageSwitcher = false
 
