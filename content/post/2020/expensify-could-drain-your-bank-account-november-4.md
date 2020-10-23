@@ -1,5 +1,5 @@
 ---
-title: "Expensify Could Drain Your Bank Account November 4"
+title: "UPDATE: Expensify Could Drain Your Bank Account November 4"
 date: 2020-10-23T14:06:44-05:00
 url: expensify-could-drain-your-bank-account-november-4
 authors: ["Bill Hennessy"]
@@ -30,6 +30,15 @@ Play it safe. **Close your Expensify account today**, and rescind Expensify's co
 
 Hurry.
 
+### UPDATE: Political Email Violated Expensify's Privacy Policy
+
+Expensify's CEO David Barrett appears to have violated the company's privacy policy by using personal identifying information (PII) stored in its database as part of a partisan political campaign. 
+
+Expensify is likely to update its privacy policy, so I saved a PDF of their policy as of today. (See end of this post.) No mention of political ads. 
+
+
 Here's part of David Barrett's email to Expensify customers:
 
 {{< figure src="/images/expensify-email.png" caption="Email to Expensify customers threatening civil war if Trump is re-elected." >}}
+
+{{< figure src="/images/privacy_policy.pdf" >}}
