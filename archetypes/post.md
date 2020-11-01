@@ -7,4 +7,11 @@ images: []
 categories: []
 tags: []
 draft: true
+keyConcept: ""
 ---
+
+### Opening Hook
+
+### Key Points
+
+### Closing Call-to-Action
