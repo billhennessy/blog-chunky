@@ -7,5 +7,10 @@ Arguments:
 - height of frame (in pixels)
 
 -->
-
-<iframe src="{{ index .Params 0 }}" width="{{ index .Params 1 }}" height="{{ index .Params 2 }}"></iframe>
+<div>
+<iframe class="" type="text/html" 
+    width="{{ if .Get "width" }}{{ .Get "width" }}{{ else }} 800 {{ end }}" 
+    height="{{ if .Get "height" }}{{ .Get "height" }}{{ else }} 400 {{ end }}" 
+    src="{{ .Get "src" }}"  frameborder="0">
+</iframe>
+</div>

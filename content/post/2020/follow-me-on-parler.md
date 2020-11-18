@@ -35,3 +35,4 @@ If you look below this paragraph, you'll see my sharing buttons. The first one i
 {{< figure src="/images/parler-share.png" caption="Parler share button (large)" width="50" >}}
 
 And [click here to follow me](https://parler.com/profile/Billhennessy) there.
+
