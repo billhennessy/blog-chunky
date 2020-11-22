@@ -31,10 +31,14 @@
                         {{- if and $path (not (in (slice "rss" "email") $name)) -}}
                         <li class="list-inline-item">
                             <a href="{{ $path | safeURL }}" class="icons d-block">
-                                <span class="fa-stack fa-lg">
+                                <!-- <span class="fa-stack fa-lg">
                                     <i class="fa fa-circle fa-stack-2x"></i>
                                     <i class="fab fa-{{ $name }} fa-stack-1x fa-inverse"></i>
-                                </span>
+                                    
+                                </span> -->
+                                <span class="fa-stack fa-lg">
+                                <img src="/images/{{ $name }}.png" height="40"></img>
+                            </span>
                             </a>
                         </li>
                         {{- end -}}

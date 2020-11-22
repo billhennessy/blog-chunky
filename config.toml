@@ -59,9 +59,10 @@ author = "authors"
   [params.social]
     rss = true
     email = "bill@billhennessy/com"
-    facebook = "https://www.facebook.com/wthennessy"
-    twitter = "https://twitter.com/hennessystl"
+    # facebook = "https://www.facebook.com/wthennessy"
+    # twitter = "https://twitter.com/hennessystl"
     parler = "https://parler.com/profile/Billhennessy/posts"
+    mewe = "https://mewe.com/i/billhennessy2"
     # linkedin = "https://linkedin.com"
     # stack-overflow = "https://stackoverflow.com"
     # instagram = "https://stackoverflow.com"
