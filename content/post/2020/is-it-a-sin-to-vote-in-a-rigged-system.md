@@ -38,4 +38,4 @@ Like it or not, until American elections are reasonably proven to be fraud-free,
 
 This sets up a moral dilemma. How will you resolve it?  
 
-Tomorrow, I will disclose how I resolve the dilemma. 
+Tomorrow, I will disclose [how I resolve the dilemma](https://hennessysview.com/how-to-resolve-the-voting-dilemma/). 
