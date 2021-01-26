@@ -20,7 +20,7 @@ And this is good news.
 
 Facebook, Twitter, and Google openly reject the rights of women and minorities to express their own views. The censors at these Silicon Valley tyrannies allow white men to pretty much say whatever they want. They also allow anyone to express leftist, anti-Western thoughts without filters. 
 
-{{< twitter 1322762168304050176 >}}
+[TWITTER NOT AVAILABLE]
 
 But, should a woman, a Black, a Hispanic, or a medical doctor express views that violate the left's prejudices, all hell breaks loose. Silicon Valley's oligarchs treat uppity members of "favored" groups like runaway slaves. 
 

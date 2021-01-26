@@ -1,19 +1,55 @@
 {{- if and .Site.Params.share (ne .Params.share false) -}}
-    <ul class="share nav my-3 justify-content-end">
-        <li class="nav-item">
-            <a class="nav-link" target="_blank" href="https://parler.com/new-post?message={{ .Title | htmlEscape }}&url={{ .Permalink | htmlEscape }}">
-              <!-- <i class="fa-fw fab fa-share" alt="Share on Parler"></i> -->
-              <button type="button" style="background-color: rgba(255, 0, 0, 0);
+
+<style type="text/css">
+    a.gab-share-btn {
+        display: inline-block;
+        padding: 8px 12px;
+        background: #00d178;
+        color: #ffffff;
+        border: solid 1px transparent;
+        border-radius: 8px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: inherit;
+        cursor: pointer;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+
+    a.gab-share-btn:hover {
+        border-color: black;
+    }
+
+    a.gab-share-btn:active {
+        border-color: #e8e8e8;
+        background: #01854b;
+        box-shadow: 0 0 4px rgba(0, 0, 0, 0.2) inset;
+    }
+</style>
+
+<ul class="share nav my-3 justify-content-end">
+    <!-- <li class="nav-item">
+        <a class="nav-link" target="_blank"
+            href="https://parler.com/new-post?message={{ .Title | htmlEscape }}&url={{ .Permalink | htmlEscape }}">
+    
+            <button type="button" style="background-color: rgba(255, 0, 0, 0);
               border: none; cursor: pointer; display: inline; outline: none" onclick="parlerSHARE()">
-              <img src="/images/parler.png" alt="P" width="45">
-              </button>
-          </a>
-        </li>
-       
-        <li class="nav-item">
-            <a class="nav-link" target="_blank" href="https://reddit.com/submit?url={{ .Permalink | htmlEscape }}&title={{ .Title | htmlEscape }}">
-                <i class="fa-fw fab fa-reddit-alien"></i>
-            </a>
-        </li>
+                <img src="/images/parler.png" alt="P" width="45">
+            </button>
+        </a>
+    </li> -->
+
+    <li class="nav-item">
+        <a id="gab-share-btn" class="gab-share-btn" title="Share to Gab" target="_blank"
+            href="https://gab.com/compose?url={{ .Permalink | htmlEscape }}&text={{ .Title | htmlEscape }}">Share to
+            Gab</a>
+
+    </li>
     </nav>
-{{- end -}}
+
+    {{- end -}}

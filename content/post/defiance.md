@@ -39,7 +39,7 @@ Donald Trump merely asked his mecical experts about the possibilities of AYTU He
 
 Caught in the middle of this war, the tech refugees, are people who could benefit from ATYU Healight's technology. Their low-grade UV catherter kills bacteria and viruses caused by catherters by releasing light inside the body. They are working on FDA approval to use their lifesaving probe in the tracheae of Coronavirus patients, killing the virus from the inside. It would be a lifesaving advance in biotech. 
 
-{{< twitter 1254255771774119936 >}}
+[TWEET DELETED]
 
 But Jack Dorsey of Twitter and Susan Wojkicki of YouTube would rather more people die than benefit from a technology Trump learned about before they did. 
 

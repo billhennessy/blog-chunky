@@ -21,7 +21,7 @@ Jon Karl was the kid who made sure the teacher didn't forget to collect homework
 
 Dan Bongino jumped on Karl immediately.
 
-{{< twitter 1259978396316184576 >}}
+[Tweet Deleted]
 
 John Roberts fired back, too. 
 

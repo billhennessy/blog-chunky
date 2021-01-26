@@ -51,7 +51,7 @@ As the Second Act wound down, Trump had miraculously rejuvenated the economy, li
 
 Another Friday, October 2, we awoke to Trump's Ultimate Complicating Factor:
 
-{{< twitter 1311892190680014849 >}}
+[TWEET DELETED]
 
 The China Virus had infected the 74-year-old President of the United States and his wife with only four weeks left in the presidential campaign. 
 

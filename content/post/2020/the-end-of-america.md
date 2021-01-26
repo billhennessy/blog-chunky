@@ -111,7 +111,7 @@ If Trump wins re-election, from November 4, 2020, to the end of 2022, America be
 
 Leftist states will become increasingly brazen and defiant of federal rules. Large numbers of companies and individuals in New York, California, and other leftist states will simply refuse to collect or report federal taxes. States will run elections utterly contrary to federal law, allowing anyone, citizen, resident, or a tourist from Lithuania, to vote in local and national elections. 
 
-If Trump loses, the Democrats will attempt "re-educate" conservatives who will rebel. A low-grade, guerrilla civil war will break out. Probably a little less "low-grade" than if Trump wins. 
+If Trump loses, the Democrats will attempt to "re-educate" conservatives who will rebel. A low-grade, guerrilla civil war will break out. Probably a little less "low-grade" than if Trump wins. 
 
 Either way, with death tolls in the hundreds of thousands and the economy in a complete shutdown, by the fall of 2022, something like a constitutional convention will be called. It won't be a legitimate Article 5 convention because the Constitution will be effectively scrap paper by then. Instead, leaders from several sides will agree to meet and settle things once and for all. 
 
