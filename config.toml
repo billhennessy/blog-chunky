@@ -10,6 +10,7 @@ googleAnalytics = "UA-3826996-2"
 DisqusShortname = ""
 theme = "chunky"
 rssLimit = 5
+ignoreErrors = ["error-remote-getjson"]
 
 [menu]
   [[menu.main]]
@@ -59,21 +60,11 @@ author = "authors"
   [params.social]
     rss = true
     email = "bill@billhennessy/com"
-    # facebook = "https://www.facebook.com/wthennessy"
-    # twitter = "https://twitter.com/hennessystl"
-    parler = "https://parler.com/profile/Billhennessy/posts"
+  
+    # parler = "https://parler.com/profile/Billhennessy/posts"
     mewe = "https://mewe.com/i/billhennessy2"
-    # linkedin = "https://linkedin.com"
-    # stack-overflow = "https://stackoverflow.com"
-    # instagram = "https://stackoverflow.com"
-    # github = "https://github.com"
-    # weibo = "https://www.weibo.com"
-    # medium = "https://medium.com"
-    # pinterest = "https://pinterest.com"
-    # reddit = "https://reddit.com"
-    # gitlab = "https://gitlab.com"
-    # mastodon = "https://mastodon.social"
-    # keybase = "https://keybase.io/"
+    gab = "https://gab.com/whennessy"
+    
 
   [params.prismJS]
     enable = true

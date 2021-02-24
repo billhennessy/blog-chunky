@@ -73,8 +73,6 @@ About 10:30 CDT, the mob in Lafayette Park becomes unruly. Fireworks, which have
 
 In New York, mayhem breaks out near Trump Tower. Then come reports of rioting in Philadelphia, Chicago, Seattle, San Francisco, and Los Angeles. Then, Denver. Network coverage goes to split screens with the election on one side and the mayhem on the other. 
 
-{{< twitter 1323422082110312448 >}}
-
 By 11:15, everyone knows Trump will win even though not a single network or newspaper has called it. Trump's margins in Pennsylvania, Michigan, and Wisconsin are larger than the outstanding mail-in votes available. 
 
 At 11:30 Central, President Trump declares himself the winner despite no call from "the sore loser" Joe Biden. Immediately, the mob in Washington storms the White House fence as splinter groups burn churches, businesses, and homes throughout the nation's capital. Commercial firework mortars begin hitting the White House. Washington's mayor refuses to allow the police to declare a riot or arrest anyone. The Secret Service takes the First Family to the secure bunker, and military helicopters fill the sky. 
