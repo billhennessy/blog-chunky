@@ -1,7 +1,7 @@
 ---
 title: "Significant: CDC Death Count Inflated by 25% per Dr. Birx"
 date: 2020-05-11T15:59:12-05:00
-url: CDC-death-count-inflated-by-25%
+url: CDC-death-count-inflated-by-25-percent
 authors: ["Bill Hennessy"]
 images: [dr-deborah-birx.jpg]
 categories: ["Living"]
