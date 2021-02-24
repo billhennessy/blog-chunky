@@ -8,7 +8,7 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 googleAnalytics = "UA-3826996-2"
 DisqusShortname = ""
-theme = "chunky"
+theme = "hugo-theme-chunky-poster"
 rssLimit = 5
 ignoreErrors = ["error-remote-getjson"]
 
