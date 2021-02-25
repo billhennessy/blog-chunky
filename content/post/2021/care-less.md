@@ -7,7 +7,7 @@ images: ["/images/heaven.jpg"]
 categories: ["Faith"]
 tags: ["caring", "awareness"]
 draft: false
-keyConcept: ""
+
 ---
 
 > Now I'm towing my car, there's a hole in the roof   
