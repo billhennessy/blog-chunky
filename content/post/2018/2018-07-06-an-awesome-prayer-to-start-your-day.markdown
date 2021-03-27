@@ -17,7 +17,7 @@ type: "post"
 
 
 
-You will find yourself saying this out loud as if it we're a great soliloquy. This prayer is pure strength. (Updated with version found in _[The Manual for Men]_(https://www.catholiccompany.com/manual-for-men-i124864/?aid=5417&new=yes&engine=email&trk_msg=2AU5FNSK4LQ4T2GBU5CVDHAA8G&trk_contact=1UJPB3PSL771MPT7G3JA8S5V8G&trk_sid=OP0ED4DVFP6GGATLOQK32FOHO0&utm_source=Listrak&utm_medium=Email&utm_term=Product&utm_campaign=06_30_18_Mystery_Promo_Last_Day&utm_content=POSTCARD).)
+You will find yourself saying this out loud as if it we're a great soliloquy. This prayer is pure strength. (Updated with version found in [_The Manual for Men_](https://www.catholiccompany.com/manual-for-men-i124864/?aid=5417&new=yes&engine=email&trk_msg=2AU5FNSK4LQ4T2GBU5CVDHAA8G&trk_contact=1UJPB3PSL771MPT7G3JA8S5V8G&trk_sid=OP0ED4DVFP6GGATLOQK32FOHO0&utm_source=Listrak&utm_medium=Email&utm_term=Product&utm_campaign=06_30_18_Mystery_Promo_Last_Day&utm_content=POSTCARD).)
 
 ## Lorica (Breastplate) of St. Patrick
 
