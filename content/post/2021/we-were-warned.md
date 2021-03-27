@@ -6,7 +6,7 @@ authors: ["Bill Hennessy"]
 images: ["/images/nike-satan-shoes-lil-nas.jpg"]
 categories: []
 tags: []
-draft: true
+draft: false
 keyConcept: ""
 ---
 
