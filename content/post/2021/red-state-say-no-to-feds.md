@@ -36,4 +36,3 @@ I maintain that most people don't want to be free. Most people want to be slaves
 
 Will Missouri or Texas or Oklahoma put freedom before the comfort? 
 
-Put up or shut up, #MOLeg. The time for talk is long over. 
