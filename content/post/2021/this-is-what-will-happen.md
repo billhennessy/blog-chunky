@@ -1,0 +1,152 @@
+---
+title: "This Is What Will Happen"
+date: 2021-04-03T08:16:34-05:00
+url: this-is-what-will-happen
+authors: ["Bill Hennessy"]
+images: ["/images/Iu.jpeg"]
+categories: ["Life"]
+tags: ["COVID Vaccine", "Future"]
+draft: true
+keyConcept: ""
+---
+
+This Is What Will Happen
+
+What I have to say will not sit well with you. It will not sit well because you have already felt it yourself. You hope that feeling is wrong, that you are misinterpreting it. 
+
+I am here to tell you, **the sick feelings and your interpretations of them are real. Sorry.**
+
+These feelings, I know, are vague. We do not receive clear images of what is to come, but murky sensations. Oh, to have dreams a clear as those of the Pharaoh, the ones Joseph interpreted about the putrid cows gobbling up the sleek and fat cows and the sickly grain devouring the plump grain. Those dreams would be like 4K TV compared to the feelings rumbling around in the bowels of our psyches. 
+
+Let me see if this sounds like the feeling you have: **things are not right, and they are going to get worse.** 
+
+We should put this down as a given: **Things *are* going to get worse.**
+
+Now, what about your role in all this bad stuff?
+
+You might be thinking, "I should have done more." On this, you would be wrong. At least, mostly wrong. 
+
+One more Tea Party would not have changed our destiny. Nor one more door knocked, nor one more phone called, nor one more email sent, nor one more Facebook meme shared. None of that would have averted what is coming. 
+
+Nor could you have prevented the deluge by attending one more workshop, read one more book, joined one more study group, or participated in one more webinar. 
+
+The work you've done to save Christendom and, with it, self-governance have not been wasted. Nor will future such actions be wasted. We have a duty to keep fighting. As Article II of the old Code of Conduct for POWs states:
+
+> I will never surrender of my own free will. If in command, I will never surrender the members of my command while they still have the means to resist.
+
+At some moments of history for people in certain situations, living to fight another day is not an option. This is one of those moments for most of us.
+
+But that feeling and you and I have in the pit of our stomachs tell us that we may have already been surrendered by turncoats and cowards in command. Without our knowing it. **We feel like we are already prisoners of war**. 
+
+Now, we turn to Article III of the Code of Conduct:
+
+> If I am captured I will continue to resist by all means available. I will make every effort to escape and to aid others to escape. I will accept neither parole nor special favors from the enemy.
+
+Therefore, continue to resist, evade, and defy. Refuse parole or special favors from the enemy. Help others to escape. 
+
+Escape what? 
+
+The remainder of this post will explain what is coming, what we must prepare to escape. 
+
+### Allegiances Will Soon Change
+
+The faction in America we call "conservative" is about to shrink and is already shrinking. 
+
+You don't want to hear this any more than I enjoy writing it. But it's true. 
+
+And this shrinkage will not be a small, incremental falling off of a few on the fringe. The vast majority of people who consider themselves "conservative" will defect within the year. 
+
+Why would they do this? Why would the men and women who have fought alongside us for decades suddenly switch to the other side? 
+
+They will not exactly "switch" to the other side. They will simply fall away. 
+
+They will fall away because of a simple but well-established law of persuasion, best explained by the ultimate guru of persuasion, Dr. Robert Cialdini, writing on the principle of "consistency":
+
+> Normally, we want to be (and to be seen) as consistent with our existing commitments—such as the previous statements we’ve made, stands we’ve taken, and **actions we’ve performed**.[^1]
+
+In other words, people strive to make future behaviors consistent with past behaviors. We do not like being seen as flippant. 
+
+But there two important details of consistency we must understand to see why many conservatives will soon hop off the Trump Train.
+
+First, the hierarchy of behaviors. Some past behaviors drive a stronger need for consistency than others. And that hierarchy goes like this:
+
+1. Actions we've performed trump
+2. stands we've taken which trump
+3. statements we've made.
+
+It looks like this:
+
+{{< figure src="/images/statements-stands-actions.jpg" caption="Actions trump Stands which trump Statements." >}}
+
+You know this is true. Suppose you have talked for months about how much you would like to own a Nissan Maxima. You just love that car. Your friends and co-workers have heard you say many times, "My next car is going to be a Nissan Maxima." Those are statements. 
+
+When an opportunity comes along to buy your father's two-year-old Mazda 6, which is very similar to a Maxima, at a ridiculous price, you pass. "Nope. I'm holding out until I can afford a new Maxima, Dad. But, thanks." That's taking a stand. 
+
+Now, a few month later, your mechanic gives you some bad news. "The transmission's shot, and a rod is bent. Fixing it would cost way more than the car is worth." To make matters worse, you still haven't saved enough to buy a Maxima. You couldn't afford the payments on the loan you'd need. And your trade-in is now worth zero. 
+
+In desperation, you crawl back to your dad. He holds nothing against you and sells you his Mazda 6 with terms only a father would give. 
+
+You would have no problem explaining your inconsistency to your friends. You needed a car desperately, you couldn't afford a new Maxima, and your dad helped you out. When you look at the facts, it doesn't even *look* inconsistent. 
+
+But what happens next? Do you continue to say, "my next car will be a new Maxima?"
+
+Probably not. Why? Because **actions speak louder than words, especially to the person doing the acting and speaking**. 
+
+Your brain does the math for you:
+
+1. You claimed allegiance to the Maxima.
+2. But you bought a Mazda 6.
+3. Therefore, you were never really a Maxima person.
+
+Your brain *must* rationalize this way in order to be consistent with itself. The action of buying the Mazda involved more parts of the brain than your statements about a Nissan. Your *body* was heavily involved in buying and taking ownership of the Mazda. Your brain has no memory of buying and taking ownership of a Nissan. 
+
+In short, one simple action provides your brain with irrefutable evidence that you are, in fact, a Mazda person now, and you never really were a Nissan person. 
+
+Further, because you own a Mazda, you research your new car online. You learn about the great features of the car. You join a Mazda 6 owners group. You buy new, laser-cut floor mats and join a carwash club to protect your investment. 
+
+You begin to notice other Mazda 6s on the highway, and you feel a touch of kinship with their drivers. If another Mazda 6 cuts you off, your initial fury subsides quickly when you notice that the offending driver is in a Mazda 6—like *yours*. 
+
+**Actions speak louder than words**. Speaking is a kind of action, but it takes little effort and, therefore, affects few parts of the brain. Taking a stand requires more deliberation and more energy, therefore, makes a stronger implant on the brain. But complex mental and physical actions dwarf speeches and stands in rewiring the circuitry of the human brain. That is why actions speak louder than words. 
+
+(Holding a pencil crosswise in your teeth can make you happier.[^2] This fact is more evidence that even small physical actions change the way our brains function. Often, mood and feelings result from our physical actions, not the other way around. [Read about it here](https://www.linkedin.com/pulse/more-persuasive-happier-today-bill-hennessy/?published=t).)
+
+Secondly, recency (technically known as the "availability heuristic") influences consistency. We tend to strive consistency with our more recent actions compared to more distant actions or words. 
+
+This, too, is obvious. Twenty years ago, I was an avid running. I ran about three miles every day. I urged my friends to run. I read running magazines and spent too much money on running shoes. Now, I lift weights and pull on a rowing machine for exercise. 
+
+My next action related to exercise is more likely to be lifting weights or rowing than running. If asked what I consider the best form of exercise, I would say heavy lifting. Even though I spent more time as a running than as a lifter, I associate myself with the more recent actions. To do otherwise would seem insane. 
+
+And that is also why millions of conservatives are about to leave the fold. 
+
+### Most People Will Get a COVID Vaccine No Matter What They Say
+
+The reality is that most people will get one of the COVID vaccines in the next six months. And many of those people will have already stated or taken a stand against the vaccine, against vaccine passports, against masks, and against all things associated with the virus. 
+
+Those who behave (take the jab) in opposition to their previous statements ("I will not take the jab") will do so to be consistent with other previous statements and actions. We should not judge them too harshly. 
+
+Very likely, those who refuse to take the jab or who refuse to prove they've taken it will be denied entry into almost everywhere. They will not be allowed into their place of work. They will not be allowed into stores. They will not be allowed into movie theaters or sports venues or concerts. They may not even be allowed into churches. They will not be allowed to vote in person. What's worse: they will be ostracized by family and friends. 
+
+Ostracization is one of the most powerful forms of psychological and physiological torture. Exile is usually considered one step down from execution, and history shows many people have chosen death over isolation. 
+
+Moreover, think of the values held by conservatives and the very people who have spoken against these experimental gene therapy shots. More than likely, they pride themselves on:
+
+* Caring for their families
+* Being self-sufficient
+* Being involved in their communities and churches
+
+As such, their brains have been wired over the years. They work hard to give their families good homes in safe neighborhoods with sufficient food and comfort. They have contribute to the success of the companies they've worked for. They have never taken welfare or assistance of any kind. They help out at church events and when a tragedy strikes. 
+
+If they refuse the jab, that consistent character they've spent a lifetime building all goes away. Suddenly, they are out of their home and out of work. They are homeless and ineligible even for handouts from a food pantry. 
+
+{{< figure src="/images/UK-vaccine-work.png" caption="UK will require vaccine passport to work. US will follow." >}}
+
+Now, we have a conflict. They can be consistent with the people they've been their entire lives, or they can be consistent with their anti-COVID-vaccine rhetoric of the past few months. **Which character do you think will win with most people?** 
+
+(I'm not saying you. Think about 5 people you know who share your views on the vaccine. How many of them, facing the probability of dying in the streets, will take the vaccine?)
+
+
+
+
+
+[^1]: Cialdini, Robert. Pre-Suasion: A Revolutionary Way to Influence and Persuade . Simon & Schuster. Kindle Edition. 
+[^2]: Strack F, Martin LL, Stepper S. Inhibiting and facilitating conditions of the human smile: a nonobtrusive test of the facial feedback hypothesis. J Pers Soc Psychol. 1988 May;54(5):768-77. doi: 10.1037//0022-3514.54.5.768. PMID: 3379579.

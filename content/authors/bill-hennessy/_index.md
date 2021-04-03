@@ -1,5 +1,5 @@
 ---
 name: "Bill Hennessy"
 images: []
-twitter: "hennessystl"
+gab: "whennessy"
 ---
