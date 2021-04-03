@@ -108,7 +108,7 @@ You begin to notice other Mazda 6s on the highway, and you feel a touch of kinsh
 
 **Actions speak louder than words**. Speaking is a kind of action, but it takes little effort and, therefore, affects few parts of the brain. Taking a stand requires more deliberation and more energy, therefore, makes a stronger implant on the brain. But complex mental and physical actions dwarf speeches and stands in rewiring the circuitry of the human brain. That is why actions speak louder than words. 
 
-(Holding a pencil crosswise in your teeth can make you happier.[^2] This fact is more evidence that even small physical actions change the way our brains function. Often, mood and feelings result from our physical actions, not the other way around. [Read about it here](https://www.linkedin.com/pulse/more-persuasive-happier-today-bill-hennessy/?published=t).)
+(Holding a pencil crosswise in your teeth can make you happier.[^2] This fact is more evidence that even small physical actions change the way our brains function. Often, mood and feelings result from our physical actions, not the other way around. [Read about it here](https://www.hennessysview.com/action-first-persuasion).)
 
 Secondly, recency (technically known as the "availability heuristic") influences consistency. We tend to strive consistency with our more recent actions compared to more distant actions or words. 
 
@@ -142,8 +142,31 @@ If they refuse the jab, that consistent character they've spent a lifetime build
 
 Now, we have a conflict. They can be consistent with the people they've been their entire lives, or they can be consistent with their anti-COVID-vaccine rhetoric of the past few months. **Which character do you think will win with most people?** 
 
-(I'm not saying you. Think about 5 people you know who share your views on the vaccine. How many of them, facing the probability of dying in the streets, will take the vaccine?)
+(I'm not saying you. Think about 5 people you know who share your views on the vaccine. How many of them, facing the possibility of dying in the streets, will take the vaccine?)
 
+Now, think back to the mental process that happens *after* we take action. People to get the vaccine (and the passport that will soon follow) will *use* the vaccine to avoid the catastrophes caused by the vaccine passport mandates. Of course, they will. Why wouldn't they? The reason they violated their own statements was to be able to avoid the consequences of not having a vaccine passport. 
+
+Every time they show their passport (or get the chip scanned), they will be reinforcing their new identity, just like the Mazda owner reinforced his identity as a Mazda owner every time he drove the car or even heard the word "Mazda."
+
+Repeated reinforcement of identity as a vaccinated person will also make them feel like a member of the vaccinated team. In their minds, they have some strong association with other people who have been vaccinated. They will research the positive aspects of being on the V-team. Out of psychological necessity, they begin to feel their decision to get vaccinated was a good decision, that other who made the same decision made the right decision, and, therefore, **anyone who chose otherwise made an inferior decision.**
+
+Vaccinated people will begin to associate (mentally) with fellow passport-holders than with their old (former) Tea Party and Trump friends. Why? Recency and frequency. They will hear about the vaccine, the woes of those who refuse it, and the benefits of showing their passports. Just the I associate (and trust?) weight-lifters more than I do runners (even though I used to be a runner.)
+
+### What Happens to the Holdouts?
+
+While most people who make statements against the COVID vaccines will get them, some will not. Perhaps you are one of these. Let us look at how the near future might unfold for you. 
+
+First, we can see from recent CDC guidelines, with full support from airlines, that flying will be almost impossible for those who have not been vaccinated. You will be required to obtain tests before and after your trip, and you will have to quarantine for two weeks upon arrival at your destination, and again upon returning home. That means a one-hour flight from St. Louis to Kansas City for a one-hour meeting will take a month. You could walk it faster. Same goes for buses and Amtrak. And, while you could drive, you will still technically be required to do the 4-week quarantine. 
+
+Second, you will come under increasing pressure from your employer. You will likely be hit with a draconian health insurance surcharge of up to $200 a month. Or, you may be dropped altogether. You will be required to wear a mask whenever you're  on company property, including outside and in your car. You will not be allowed physically in meetings with others, so you'll be joining from your desk on Zoom. Eventually, you will be asked to leave the company. If you don't, you will be terminated. And, good luck finding a company that both needs your skills *and* defies government and insurance-company pressure to have a 100%-vaccinated workforce. (You'll be hearing about this initiative very soon.)
+
+Third, you will not be allowed to shop. Apple Pay, PayPal, Amazon, and Walmart are already preparing to require proof of vaccination in order to shop *online*, much less in a retail location. Grocery stores are already requiring masks far beyond local dictates. They, too, will bar entry for the non-vaccinated. You better enjoy gardening and raising chickens. 
+
+Fourth, homeowners associations and apartment management companies will get into the act. If you live in a subdivision or rent, you will probably be given a few months to get the jab or get out. (Without a job, this might happen sooner.) If you're relying on the unlawful eviction moratorium, guess what? It won't apply if the reason for the eviction is your refusal to get the shot. 
+
+All of these things will come about by this time in 2022, but most will start much sooner. 
+
+Meanwhile, your old friends (who don't want to be around you now), will be enjoying the spoils of 
 
 
 
