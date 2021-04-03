@@ -6,7 +6,7 @@ authors: ["Bill Hennessy"]
 images: ["/images/mlb-unamerican.png"]
 categories: ["Politics"]
 tags: ["MLB", "election fraud", "Georgia"]
-draft: true
+draft: false
 keyConcept: ""
 ---
 
