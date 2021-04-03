@@ -22,6 +22,8 @@ By caving to a demand by Joe Biden, MLB entered the political fray with both fee
 
 [President Donald Trump has called on all Americans to boycott baseball](https://www.thegatewaypundit.com/2021/04/president-trump-releases-statement-boycott-baseball-companies-interfering-fair-free-elections-listening-coke-delta/), Coca-Cola, and Delta Airlines. I second his call. 
 
+{{< figure src="/images/trump-save-america.jpg" caption="President Trump's statement on boycotting MLB, Coke, and Delta. Via The Gateway Pundit">}}
+
 For myself, I hope never to attend a Major League Baseball game again. I'm done with the boring, expensive pastime. I hope the people who read this blog will end any attachments to the sport, as well. 
 
 Make Major League Baseball an unAmerican has-been. Boycott baseball.
