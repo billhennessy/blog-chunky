@@ -134,9 +134,9 @@ Moreover, think of the values held by conservatives and the very people who have
 * Being self-sufficient
 * Being involved in their communities and churches
 
-As such, their brains have been wired over the years. They work hard to give their families good homes in safe neighborhoods with sufficient food and comfort. They have contribute to the success of the companies they've worked for. They have never taken welfare or assistance of any kind. They help out at church events and when a tragedy strikes. 
+As such, their brains have been wired over the years. They work hard to give their families good homes in safe neighborhoods with sufficient food and comfort. They have contributed to the success of the companies they've worked for. They have never taken welfare or assistance of any kind. They help out at church events and when a tragedy strikes. 
 
-If they refuse the jab, that consistent character they've spent a lifetime building all goes away. Suddenly, they are out of their home and out of work. They are homeless and ineligible even for handouts from a food pantry. 
+If they refuse the jab, that consistent character they've spent a lifetime building goes away. Suddenly, they are out of their homes and out of work. They are homeless and ineligible even for handouts from a food pantry. 
 
 {{< figure src="/images/UK-vaccine-work.png" caption="UK will require vaccine passport to work. US will follow." >}}
 
@@ -144,13 +144,13 @@ Now, we have a conflict. They can be consistent with the people they've been the
 
 (I'm not saying you. Think about 5 people you know who share your views on the vaccine. How many of them, facing the possibility of dying in the streets, will take the vaccine?)
 
-Now, think back to the mental process that happens *after* we take action. People to get the vaccine (and the passport that will soon follow) will *use* the vaccine to avoid the catastrophes caused by the vaccine passport mandates. Of course, they will. Why wouldn't they? The reason they violated their own statements was to be able to avoid the consequences of not having a vaccine passport. 
+Now, think back to the mental process that happens *after* we take action. People who get the vaccine (and the passport that will soon follow) will *use* the vaccine to avoid the catastrophes caused by the vaccine passport mandates. Of course, they will. Why wouldn't they? The reason they violated their own statements was to be able to avoid the consequences of not having a vaccine passport. 
 
 Every time they show their passport (or get the chip scanned), they will be reinforcing their new identity, just like the Mazda owner reinforced his identity as a Mazda owner every time he drove the car or even heard the word "Mazda."
 
 Repeated reinforcement of identity as a vaccinated person will also make them feel like a member of the vaccinated team. In their minds, they have some strong association with other people who have been vaccinated. They will research the positive aspects of being on the V-team. Out of psychological necessity, they begin to feel their decision to get vaccinated was a good decision, that other who made the same decision made the right decision, and, therefore, **anyone who chose otherwise made an inferior decision.**
 
-Vaccinated people will begin to associate (mentally) with fellow passport-holders than with their old (former) Tea Party and Trump friends. Why? Recency and frequency. They will hear about the vaccine, the woes of those who refuse it, and the benefits of showing their passports. Just the I associate (and trust?) weight-lifters more than I do runners (even though I used to be a runner.)
+Vaccinated people will begin to associate (mentally) with fellow passport-holders than with their old (former) Tea Party and Trump friends. Why? Recency and frequency. They will hear about the vaccine, the woes of those who refuse it, and the benefits of showing their passports. Just as I associate with (and trust?) weight-lifters more than I do runners (even though I used to be a runner.)
 
 ### What Happens to the Holdouts?
 
