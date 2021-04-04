@@ -1,12 +1,12 @@
 ---
 title: "This Is What Will Happen"
-date: 2021-04-03T08:16:34-05:00
+date: 2021-04-04T08:16:34-05:00
 url: this-is-what-will-happen
 authors: ["Bill Hennessy"]
 images: ["/images/Iu.jpeg"]
 categories: ["Life"]
-tags: ["COVID Vaccine", "Future"]
-draft: true
+tags: ["COVID Vaccine", "Future", "prophesy"]
+draft: false
 keyConcept: ""
 ---
 
@@ -166,10 +166,46 @@ Fourth, homeowners associations and apartment management companies will get into
 
 All of these things will come about by this time in 2022, but most will start much sooner. 
 
-Meanwhile, your old friends (who don't want to be around you now), will be enjoying the spoils of 
+Meanwhile, your old friends (who don't want to be around you now), will be enjoying the spoils of vaccination. The jobs vacated by holdouts will need to be filled. Wages will likely rise. They will be able to come and go as they please without masks. Mobile apps will allow them to "check in" to stores, restaurants, sporting events, and theaters without even pausing. (An alarm will sound if someone without the app, or without a vaccine, attempts to pass the sensors.)
+
+In short, the holdouts will feel like (and be seen as) outsiders, as others, like foreigners. 
+
+And this is where our story gets interesting. 
+
+### Vaccine Holdouts Will Resemble First-Century Christians 
+
+> "They therefore that received his word, were baptized; and there were added in that day about three thousand souls. And they were persevering in the doctrine of the apostles, and in the communication of the breaking of bread, and in prayers. And fear came upon every soul: many wonders also and signs were done by the apostles in Jerusalem, and there was great fear in all. And all they that believed, were together, and had all things common. Their possessions and goods they sold, and divided them to all, according as every one had need. And continuing daily with one accord in the temple, and breaking bread from house to house, they took their meat with gladness and simplicity of heart; Praising God, and having favour with all the people. And the Lord increased daily together such as should be saved." (Acts 2:41-47)
+
+The holdouts will band together. Those who own land will open it to reasonable numbers of fellow holdouts to work the land and earn their keep, for those unwilling to work will not eat (2 Thessalonians 3:10). Yes, their new lives will scarcely resemble their old ones, but they will quickly find a peace they'd never experienced before. Free from the distractions of television, mobile phones, computers, bills to pay, errands to run, vacations to plan, they will find time to pray, help others, grow their food, raise livestock, build and maintain shelter, and live as man lived until about the late 18th century. 
+
+Soon, the idea of suing for a return to the larger society will seem foolish, even terrifying. Instead, they will ask only to be left alone. The world that rejected them for their obstinance will become to them "the old world." And the old world will seem very old and dark. 
+
+Reflecting on the old world, the Holdouts (for they proudly and accidentally adopt the title "Holdouts") remember it the way Digory thought of the dead city of Charn in C.S. Lewis's *The Magician's Nephew*:
+
+> The wind that blew in their faces was cold, yet somehow stale....Low down and near the horizon hung a great, red sun, far bigger than our sun. Digory felt at once that is was also older than ours: a sun near the end of its life, weary of looking down upon that world.[^3]
+
+Those so inclined will begin to speak and write their history: how they came to live as they do and to warn their children against the seductions of the old world. Removed from the distractions of the old world, the passport world, the will see clearly that even the most devout and faithful among them were seduced by modernism's temptations. Before the passports, before the virus, they had all been living as machines plugged into a central and ungodly power source. Now, though, they were living as actual men.
+
+Detached from the modern pharmaceutical world and its contraceptives, their numbers will grow very quickly. Education becoming a continuous practice with elders constantly teaching what they know, the young will marry young, in their mid-teens. Babies will abound in the safety of a tight community. 
+
+Gender roles will quickly return to historical norms, as the young women (what we call teenagers) raise their children with the help of older women (in their 30s). Men will spend most of their days together, working on buildings, wells, septic systems, hunting or raising livestock, fishing (for food), felling trees for a new home for a marrying couple, growing fruits and vegetables. 
+
+Yet, with so much to do, there will still be large amounts of time for prayer and education. Older men and women (those older than 50 or so) who are so gifted will spend much of their time teaching. Lessons and learning will range from practical skills like farming, husbandry, medicine, cooking, cleaning, and sowing, to science lessons in math, geology, astronomy, physics, and biology, to intellectual arts like rhetoric, philosophy, and literature. 
+
+When it comes to work and knowledge of how to live, children will come of age much faster than in the old world. But when it comes to innocence and wonder and imagination, these new young will remain children deep into their second decades of life. Contrasted with the young in the old world who have been given so much that their sights are aimed terribly low, the children of this new world, needing to work so hard just survive and help their families, will retain a constant sense of the infinite and of possibility. 
+
+News from the Old World, which the Holdouts craved insatiably in the early days of their exodus, is now greeted with annoyance, as if thinking about their old lives causes emotional pain. Not the pain of longing or nostalgia, but more like remembering the pain of trauma or terrible fear. The older Holdouts, when reminded, are overcome interiorly with pangs of regret over so many years spent worshipping the gods of that dying world. "How did I fall for that?" they ask themselves. "God, forgive me."
+
+Beyond these things, I cannot see. I do not know what happens to the Old World, but I suspect it ends up like C.S. Lewis's fictitious city of Charn:
+
+> And on the earth, in every direction, as far as the eye could reach, there spread a vast city in which there was no living thing to be seen. And all the temples, towers, palaces, pyramids, and bridges cast long, disastrous-looking shadows in the light of that withered sun.
+
+Choose wisely.
+
+{{< figure src="/images/957.jpg" caption="First Century Christians hearing the Gospel." >}}
 
 
 
-
-[^1]: Cialdini, Robert. Pre-Suasion: A Revolutionary Way to Influence and Persuade . Simon & Schuster. Kindle Edition. 
-[^2]: Strack F, Martin LL, Stepper S. Inhibiting and facilitating conditions of the human smile: a nonobtrusive test of the facial feedback hypothesis. J Pers Soc Psychol. 1988 May;54(5):768-77. doi: 10.1037//0022-3514.54.5.768. PMID: 3379579.
+[^1]: Cialdini, Robert. *Pre-Suasion: A Revolutionary Way to Influence and Persuade* . Simon & Schuster. Kindle Edition. 
+[^2]: Strack F, Martin LL, Stepper S. *Inhibiting and facilitating conditions of the human smile: a nonobtrusive test of the facial feedback hypothesis*. J Pers Soc Psychol. 1988 May;54(5):768-77. doi: 10.1037//0022-3514.54.5.768. PMID: 3379579.
+[^3]: Lewis, C.S. *The Magician's Nephew*. The Bodley Head, 1955.
