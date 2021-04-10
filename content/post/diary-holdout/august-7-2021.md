@@ -27,6 +27,7 @@ I'm kind of lucky. I have a few months income in savings and a decent amount in 
 the plan from here is about what I've been thinking for a few years. Before covid:
 
 - Put the house up for sale. Probably give up $20k to sell as-is
+- Add to my precious medals savings
 - Buy a small house with 10 or 15 acres somewhere in the middle of nowhere
 - Sell all the stuff we won't need there: computers, pads, most of our phones, etc. 
 - Invest what we can in off-grid technology: geothermal, wood furnace, solar panals, and the like

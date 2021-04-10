@@ -5,7 +5,7 @@ url: this-is-what-will-happen
 authors: ["Bill Hennessy"]
 images: ["/images/Iu.jpeg"]
 categories: ["Life"]
-tags: ["COVID Vaccine", "Future", "prophesy"]
+tags: ["COVID Vaccine", "Future", "prophesy", "the great reset"]
 draft: false
 keyConcept: ""
 ---

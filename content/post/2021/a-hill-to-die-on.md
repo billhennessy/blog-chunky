@@ -5,7 +5,7 @@ url: a-hill-to-die-on
 authors: ["Bill Hennessy"]
 images: ["/images/GordonsCalvary.jpeg"]
 categories: ["Faith"]
-tags: ["COVID vaccine","vaccine passport","mark of the beast"]
+tags: ["COVID vaccine","vaccine passport","mark of the beast", "the great reset"]
 draft: false
 keyConcept: ""
 ---
