@@ -6,7 +6,7 @@ authors: ["Bill Hennessy"]
 images: ["/images/Irenaeus-of-Lyons.jpg"]
 categories: ["Faith","Politics"]
 tags: ["mark of the beast", "the great reset"]
-draft: true
+draft: false
 keyConcept: ""
 ---
 
