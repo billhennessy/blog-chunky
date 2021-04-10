@@ -43,7 +43,7 @@ Those are optimism and pessimism. Then, there is hope.
 
 Hope is a theological virtue. It comes from God through the Holy Ghost. We cannot manufacture it ourselves no matter how hard we try. (But do not despair: good news is coming to those who keep reading.) Again, looking to Chesterton for wisdom, we find this:
 
-> Hope means hoping when things are hopeless, or it is no virtue at all. 
+> Hope means hoping when things are hopeless, or it is no virtue at all.[^2]
 
 When we recognize that things will get worse, that the American Experiment ended in failure on November 4, 2020, that Trump will not be triumphantly returned to the White House by the Army and the Supreme Court, that conservative Christians will be banned from holding jobs in most companies, that Caucasians will be denied healthcare, our only response can be hope. 
 
