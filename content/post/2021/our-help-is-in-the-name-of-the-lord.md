@@ -1,15 +1,20 @@
 ---
-title: "Our Help Is in the Name of the Lord"
-date: 2021-04-10T11:29:53-05:00
+title: Our Help Is in the Name of the Lord
+date: 2021-04-10T11:29:53.000-05:00
 url: our-help-is-in-the-name-of-the-lord
-authors: ["Bill Hennessy"]
-images: ["/images/Irenaeus-of-Lyons.jpg"]
-categories: ["Faith","Politics"]
-tags: ["mark of the beast", "the great reset"]
-draft: false
-keyConcept: ""
----
+authors:
+- Bill Hennessy
+images:
+- https://res.cloudinary.com/hennessysview/image/upload/v1618328351/image/upload/Irenaeus-of-Lyons_sluyh3.jpg
+categories:
+- Faith
+- Politics
+tags:
+- mark of the beast
+- the great reset
+keyConcept: ''
 
+---
 Early Christians in the Roman Empire
 
 Last week, I published an article that received immediate reaction from some friends of ours. "The first paragraph said it all." 
