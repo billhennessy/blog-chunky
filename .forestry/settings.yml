@@ -29,8 +29,8 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: https://res.cloudinary.com/hennessysview/image/upload
-public_path: https://api.cloudinary.com/v1_1/hennessysview/image/upload
+upload_dir: image/upload
+public_path: https://res.cloudinary.com/hennessysview/image/upload
 front_matter_path: https://res.cloudinary.com/hennessysview/image/upload
 use_front_matter_path: true
 file_template: ":filename:"
