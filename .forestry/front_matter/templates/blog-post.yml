@@ -26,3 +26,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/post/panic-fda-halts-j-j-covid-vacccine-due-to-deadly-blood-clots.md
