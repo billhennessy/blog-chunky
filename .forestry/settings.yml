@@ -29,10 +29,10 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: content/images
-public_path: "/images"
-front_matter_path: ''
-use_front_matter_path: false
+upload_dir: https://res.cloudinary.com/hennessysview
+public_path: https://api.cloudinary.com/v1_1/hennessysview
+front_matter_path: https://res.cloudinary.com/hennessysview
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
