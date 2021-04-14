@@ -30,9 +30,9 @@ sections:
   create: all
   match: "*"
 upload_dir: image/upload
-public_path: https://res.cloudinary.com/hennessysview
+public_path: https://res.cloudinary.com/hennessysview/image/upload
 front_matter_path: https://res.cloudinary.com/hennessysview
-use_front_matter_path: true
+use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
