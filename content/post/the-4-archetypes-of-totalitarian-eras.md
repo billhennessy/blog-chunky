@@ -9,7 +9,7 @@ title = "The 4 Archetypes of Totalitarian Eras"
 url = "archetypes-of-totalitarian-eras"
 
 +++
-_This post is a follow up to_ [_This Is What Will Happen_](https://www.hennessysview.com/this-is-what-will-happen/) _and_ [_I Don't Know How I Know These Things_](https://www.hennessysview.com/i-dont-know/)_. Jump to end for movie recommendation that inspired this post._
+_This post is a follow-up to_ [_This Is What Will Happen_](https://www.hennessysview.com/this-is-what-will-happen/)_,_ _and_ [_I Don't Know How I Know These Things_](https://www.hennessysview.com/i-dont-know/)_. Jump to end for movie recommendation that inspired this post._
 
 Would you have resisted and defied the Nazis if you'd lived in Germany in the 1930s?
 
@@ -62,11 +62,10 @@ God bless.
 
 ### Movie: A Hidden Life
 
-{{< figure src="/images/screen-shot-2021-04-17-at-5-31-38-pm.png" >}}
-This post was inspired by a remarkable movie, _A Hidden Life,_ the story of Franz Jägerstätter, an Austrian Christian who refused to serve in the Nazi army or sign an oath of loyalty to Hitler.
+{{< figure src="/images/screen-shot-2021-04-17-at-5-31-38-pm.png" caption="Scene from _A Hidden Life_" >}} This post was inspired by a remarkable movie, _A Hidden Life,_ the story of Franz Jägerstätter, an Austrian Christian who refused to serve in the Nazi army or sign an oath of loyalty to Hitler.
 
 ([Click to watch the trailer.](https://www.imdb.com/video/vi4230135577?))
 
 Franz, a simple farmer who lost his own father in World War I, struggles with the decision to be true to his faith at the risk of losing his life.
 
-The movie portrays the way a community, even a community of dissidents, turns on those who live their faith to the end.
+The movie portrays how a community, even a community of dissidents, turns on those who live their faith to the end.
