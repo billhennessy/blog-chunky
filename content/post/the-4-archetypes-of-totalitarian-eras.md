@@ -9,7 +9,7 @@ title = "The 4 Archetypes of Totalitarian Eras"
 url = "archetypes-of-totalitarian-eras"
 
 +++
-_This post is a follow-up to_ [_This Is What Will Happen_](https://www.hennessysview.com/this-is-what-will-happen/)_,_ _and_ [_I Don't Know How I Know These Things_](https://www.hennessysview.com/i-dont-know/)_. Jump to end for movie recommendation that inspired this post._
+{{% tip %}} This post is a follow-up to [This Is What Will Happen](https://www.hennessysview.com/this-is-what-will-happen/), and [I Don't Know How I Know These Things](https://www.hennessysview.com/i-dont-know/). Jump to end for a [movie recommendation](#movie-a-hidden-life) that inspired this post. {{% /tip %}}
 
 Would you have resisted and defied the Nazis if you'd lived in Germany in the 1930s?
 
