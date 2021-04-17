@@ -1,7 +1,8 @@
 +++
-authors = []
+authors = ["Bill Hennessy"]
 categories = []
 date = 2021-04-16T01:15:42Z
+featured_image = ""
 images = ["https://res.cloudinary.com/hennessysview/image/upload/v1618329348/image/upload/don-draper-1_vtuf1r.jpg"]
 tags = []
 title = "I don't know how I know these things"
