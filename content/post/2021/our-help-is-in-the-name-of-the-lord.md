@@ -5,7 +5,7 @@ url: our-help-is-in-the-name-of-the-lord
 authors:
 - Bill Hennessy
 images:
-- https://res.cloudinary.com/hennessysview/image/upload/v1618328351/image/upload/Irenaeus-of-Lyons_sluyh3.jpg
+- Irenaeus-of-Lyons.jpg
 categories:
 - Faith
 - Politics
