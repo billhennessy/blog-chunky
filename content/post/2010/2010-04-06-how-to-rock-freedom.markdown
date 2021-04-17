@@ -9,7 +9,6 @@ categories:
 - Living
 tags:
 - gimme back my freedom
-- music
 - rock
 - tom schweich
 

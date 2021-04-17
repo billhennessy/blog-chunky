@@ -6,13 +6,9 @@ title: How to Answer Chavez
 layout: blog
 url: /2010/06/27/how-to-answer-chavez/
 categories:
-- Crime
+- Politics
 tags:
 - chavez
-- communism
-- Helmerich and Payne
-- marxism
-- oil rigs
 - venezuela
 type: "post"
 ---

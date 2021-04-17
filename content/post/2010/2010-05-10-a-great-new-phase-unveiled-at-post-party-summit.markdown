@@ -8,9 +8,6 @@ url: /2010/05/09/a-great-new-phase-unveiled-at-post-party-summit/
 categories:
 - Activism
 tags:
-- lincoln
-- mcclellan
-- ned ryun
 - Post Party Summit
 type: "post"
 ---

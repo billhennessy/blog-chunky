@@ -11,10 +11,7 @@ tags:
 - '1980'
 - ABC News
 - Frank Reynolds
-- Nightline
-- reagan
-- Ted Koppel
-- victory
+
 type: "post"
 ---
 

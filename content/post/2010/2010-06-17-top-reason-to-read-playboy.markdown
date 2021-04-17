@@ -8,10 +8,9 @@ url: /2010/06/16/top-reason-to-read-playboy/
 categories:
 - Politics
 tags:
-- Politics
 - Playboy
 - Rogues of K Street
-- Tea party consultant
+
 type: "post"
 ---
 

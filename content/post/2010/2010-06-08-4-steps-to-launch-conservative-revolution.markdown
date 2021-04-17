@@ -10,12 +10,7 @@ categories:
 - Politics
 tags:
 - conservative revolution
-- HCFA
-- Livingcare freedom act
-- howard jarvis
-- Politics
-- Politics
-- tax revolt
+
 type: "post"
 ---
 

@@ -9,7 +9,6 @@ categories:
 - Politics
 tags:
 - Alfred McCoy
-- America
 - Salon
 - Scrooge
 type: "post"

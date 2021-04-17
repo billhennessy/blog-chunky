@@ -11,9 +11,7 @@ tags:
 - '2012'
 - conservative coalition
 - frank luntz
-- peggy noonan
-- republican
-- Politics
+
 type: "post"
 ---
 

@@ -9,9 +9,6 @@ categories:
 - American Tea Party
 - Latest
 tags:
-- 'tcot'
-- American Tea Party
-- president
 - sotu
 - speech
 - Tea Party News

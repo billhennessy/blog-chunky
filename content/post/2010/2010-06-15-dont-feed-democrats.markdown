@@ -9,13 +9,8 @@ categories:
 - Crime
 - Politics
 tags:
-- assault
 - Bob Etheridge
-- college student assaulted
-- democrat assaults student
-- democrat attacks
 - etheridge attacks
-- viral congressional attack
 type: "post"
 ---
 

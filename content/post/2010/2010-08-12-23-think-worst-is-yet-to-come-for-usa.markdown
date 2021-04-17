@@ -10,8 +10,7 @@ categories:
 tags:
 - deficits
 - Economy
-- national debt
-- obama
+
 type: "post"
 ---
 

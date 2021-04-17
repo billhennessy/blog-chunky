@@ -6,15 +6,8 @@ title: Ensuring Liberty Congressional Town Hall
 layout: blog
 url: /2010/05/14/ensuring-liberty-congressional-town-hall/
 categories:
-- Activism
 - Politics
-- Politics
-tags:
-- Politics
-- Michele Bachmann
-- Steve King
-- Todd Akin
-- town hall
+
 type: "post"
 ---
 

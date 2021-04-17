@@ -9,9 +9,7 @@ categories:
 - Latest
 tags:
 - socialism
-- statism
-- Tea Party News
-- tyranny
+
 ---
 
 ![destruction1](https://stlouisteaparty.com/wp-content/uploads/2009/04/destruction1-150x150.jpg)

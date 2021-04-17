@@ -11,9 +11,7 @@ tags:
 - beer taster
 - book ban
 - cheers
-- elena kagan
-- norm peterson
-- Supreme-Court
+
 type: "post"
 ---
 

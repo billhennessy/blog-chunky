@@ -8,11 +8,9 @@ url: /2010/05/09/terrific-u-s-opens-pumping-into-european-economic-abyss/
 categories:
 - Economy
 tags:
-- debt
 - debt crisis
 - european union
-- Greece
-- sovereign debt crisis
+
 type: "post"
 ---
 

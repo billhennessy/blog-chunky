@@ -11,8 +11,7 @@ tags:
 - arson
 - carnahan
 - firebomb
-- leftist bloggers
-- RFT
+
 type: "post"
 ---
 

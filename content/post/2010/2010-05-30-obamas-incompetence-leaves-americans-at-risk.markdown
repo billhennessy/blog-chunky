@@ -7,17 +7,9 @@ layout: blog
 url: /2010/05/30/obamas-incompetence-leaves-americans-at-risk/
 categories:
 - Politics
-- Politics
 tags:
 - afghanistan
-- chemical warfare
-- foreign policy
-- iran
-- North Korea
-- obama
-- sinking
-- South Korea
-- wmd
+
 type: "post"
 ---
 

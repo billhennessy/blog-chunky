@@ -10,13 +10,6 @@ categories:
 tags:
 - arkansas
 - arlen_specter
-- blanche lincoln
-- kentucky
-- Pennsylvania
-- primaries
-- rand paul
-- Tim Burns
-- trey grayson
 type: "post"
 ---
 

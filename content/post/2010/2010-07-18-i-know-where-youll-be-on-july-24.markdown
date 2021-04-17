@@ -10,8 +10,7 @@ categories:
 tags:
 - Alton Tea Party
 - Madison County
-- Riverbend 9-12 Project
-- Politics
+
 type: "post"
 ---
 

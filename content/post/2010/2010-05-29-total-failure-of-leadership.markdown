@@ -10,11 +10,7 @@ categories:
 tags:
 - bill clinton
 - BP
-- incompetence
-- obama
-- oil spill
-- peggy noonan
-- sestak
+
 type: "post"
 ---
 

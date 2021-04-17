@@ -11,9 +11,7 @@ categories:
 tags:
 - Murtha
 - PA12
-- Pennsylvania
-- Special Election
-- Tim Burns
+
 type: "post"
 ---
 

@@ -10,10 +10,7 @@ categories:
 tags:
 - debt
 - g20
-- obama
-- threaten
-- toronto
-- tyranny
+
 type: "post"
 ---
 

@@ -10,8 +10,7 @@ categories:
 tags:
 - NAACP
 - racism
-- resolution
-- Politics
+
 type: "post"
 ---
 

@@ -6,7 +6,6 @@ title: Reason TV Destroys Hillary Clinton’s Tax Theories
 layout: blog
 url: /2010/05/29/reason-tv-destroys-hillary-clintons-tax-theories/
 categories:
-- Economy
 - Politics
 tags:
 - Hillary-Clinton

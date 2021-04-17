@@ -6,20 +6,11 @@ title: What Are We For?
 layout: blog
 url: /2010/05/30/what-are-we-for/
 categories:
-- Economy
-- Politics
-- Politics
 - Politics
 tags:
 - bob bennett
 - entitlements
 - fair tax
-- flat tax
-- goals
-- Livingcare
-- Politics
-- social security
-- Politics
 type: "post"
 ---
 

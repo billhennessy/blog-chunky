@@ -11,8 +11,7 @@ tags:
 - consumer protection czar
 - Elizabeth Warren
 - fight flight freeze
-- glenn beck
-- psychology
+
 type: "post"
 ---
 

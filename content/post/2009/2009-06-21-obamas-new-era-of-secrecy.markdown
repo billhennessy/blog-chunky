@@ -11,9 +11,6 @@ tags:
 - foia
 - freedom of information act
 - isikoff
-- obama
-- openess
-- transparency
 ---
 
 ![Secret](https://hennessysview.com/wp-content/uploads/2009/06/Secret-300x220.jpg)

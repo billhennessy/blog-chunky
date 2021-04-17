@@ -8,8 +8,6 @@ url: /2010/06/03/how-to-explain-the-uselessness-of-teachers-unions/
 categories:
 - Academics
 tags:
-- bullies
-- Christie
 - NEA
 - New Jersey
 - Teachers unions

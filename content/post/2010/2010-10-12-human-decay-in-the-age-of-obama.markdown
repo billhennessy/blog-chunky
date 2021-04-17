@@ -10,10 +10,7 @@ categories:
 tags:
 - Barack Obama
 - Greece
-- Julius Caesar
-- Michael Lewis
-- peggy noonan
-- Vanity Fair
+
 type: "post"
 ---
 

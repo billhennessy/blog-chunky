@@ -11,8 +11,6 @@ tags:
 - Celeste Finkenbine
 - Debra Blessman
 - Francis Howell
-- Sicko
-- tea bagger
 type: "post"
 ---
 

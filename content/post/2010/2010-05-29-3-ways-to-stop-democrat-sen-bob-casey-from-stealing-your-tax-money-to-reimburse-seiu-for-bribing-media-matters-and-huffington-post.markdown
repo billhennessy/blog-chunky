@@ -7,12 +7,9 @@ title: 4 Ways to Stop Democrat Sen. Bob Casey From Stealing Your Tax Money to Re
 layout: blog
 url: /2010/05/28/3-ways-to-stop-democrat-sen-bob-casey-from-stealing-your-tax-money-to-reimburse-seiu-for-bribing-media-matters-and-huffington-post/
 categories:
-- Crime
-- Politics
 - Politics
 tags:
 - bob casey
-- Corruption
 - Kenneth Gladney
 - SEIU
 type: "post"

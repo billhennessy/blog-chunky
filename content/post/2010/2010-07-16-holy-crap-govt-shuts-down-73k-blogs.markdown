@@ -10,7 +10,7 @@ categories:
 tags:
 - censorship
 - first amendment
-- freedom of the press
+
 type: "post"
 ---
 

@@ -8,8 +8,6 @@ url: /2009/06/09/5-horrors-of-inflation/
 categories:
 - Latest
 tags:
-- inflation
-- interest rates
 - kemp
 - reagan
 - treasuries

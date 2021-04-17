@@ -6,14 +6,10 @@ title: 8,000 Dow? *UPDATE*
 layout: blog
 url: /2010/05/20/8000-dow/
 categories:
-- Business
-- Economy
 - Politics
 tags:
 - Economy
-- Euro Zone
-- Roubini
-- sovereign debt
+
 type: "post"
 ---
 

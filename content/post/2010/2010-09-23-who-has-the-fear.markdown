@@ -8,15 +8,7 @@ url: /2010/09/22/who-has-the-fear/
 categories:
 - Academics
 - Politics
-tags:
-- Academics
-- factory class
-- ruling class
-- schools
-- Seth Godin
-- the NEA
-- unions
-- woodrow wilson
+
 type: "post"
 ---
 

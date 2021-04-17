@@ -10,12 +10,7 @@ categories:
 tags:
 - depression
 - economic depression
-- Economy
-- Hindenberg Omen
-- housing
-- obama
-- recession
-- unemployment
+
 type: "post"
 ---
 

@@ -7,13 +7,6 @@ layout: blog
 url: /2010/04/28/debt-crisis-greece-portugal-spain/
 categories:
 - Economy
-tags:
-- Economy
-- government debt
-- S&amp;P
-- sovereign debt
-- spain
-- standard &amp; poors
 type: "post"
 ---
 

@@ -10,7 +10,7 @@ categories:
 tags:
 - government is the problem
 - morning in america
-- ronald-reagan
+- ronald reagan
 type: "post"
 ---
 

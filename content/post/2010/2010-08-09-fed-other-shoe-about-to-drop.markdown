@@ -10,10 +10,7 @@ categories:
 tags:
 - consumer confidence
 - Economy
-- Federal Reserve
-- FOMC
-- obama
-- unemployment
+
 type: "post"
 ---
 

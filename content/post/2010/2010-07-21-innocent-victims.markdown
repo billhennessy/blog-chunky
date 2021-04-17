@@ -9,8 +9,6 @@ categories:
 - Living
 tags:
 - NAACP
-- racism
-- redemption
 - Shirley Sherrod
 type: "post"
 ---

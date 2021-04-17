@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - ed martin
-- Politics 2010
-- Livingcare Free Choice Act
-- Politics
+
 type: "post"
 ---
 

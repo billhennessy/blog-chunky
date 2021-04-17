@@ -11,9 +11,7 @@ categories:
 tags:
 - Politics
 - Liberty Caucus
-- Michele Bachmann
-- Steve King
-- virtual town hall
+
 type: "post"
 ---
 

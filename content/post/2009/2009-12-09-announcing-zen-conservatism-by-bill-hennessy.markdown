@@ -8,10 +8,7 @@ url: /2009/12/09/announcing-zen-conservatism-by-bill-hennessy/
 categories:
 - Latest
 tags:
-- Bill Hennessy
-- ebook
-- new book
-- Zen Conservatism
+
 ---
 
 My new ebook, [Zen Conservatism](https://wp.zenconservatism.com/), will be available for download ($9.50) within the week.  To prepare, I’ve posted the first chapter which you can [download for free](https://wp.zenconservatism.com/downloads/1).

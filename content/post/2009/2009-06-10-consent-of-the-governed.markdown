@@ -8,12 +8,7 @@ url: /2009/06/09/consent-of-the-governed/
 categories:
 - Latest
 tags:
-- American Tea Party
-- consent
-- just powers
-- statism
-- Tea Party News
-- The Constitution
+
 ---
 
 In the battle between conservatives and statists, a fundamental difference seems to lie in the meaning of a concept found in the [Declaration of Independence:](https://www.ushistory.org/declaration/document/index.htm)

@@ -8,10 +8,7 @@ url: /2009/12/09/are-there-any-courageous-business-executives-alive-today/
 categories:
 - Latest
 tags:
-- Business Executives
 - buycott
-- CEO
-- cowards
 - George Soros
 - John Mackey
 ---

@@ -12,8 +12,7 @@ tags:
 - disillusionment
 - Donald J. Trump
 - glory
-- triumph
-- victory
+
 type: "post"
 ---
 

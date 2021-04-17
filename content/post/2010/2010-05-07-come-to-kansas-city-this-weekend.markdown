@@ -8,12 +8,7 @@ url: /2010/05/06/come-to-kansas-city-this-weekend/
 categories:
 - Activism
 - Politics
-tags:
-- American Majority
-- Bill Hennessy
-- dana loesch
-- kansas city
-- Post Party Summit
+
 type: "post"
 ---
 

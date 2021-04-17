@@ -11,14 +11,7 @@ tags:
 - arthur laffer
 - asia
 - Barack Obama
-- bernanke
-- Economy
-- g20
-- geithner
-- inflation
-- stagflation
-- unemployment
-- Politics
+
 type: "post"
 ---
 

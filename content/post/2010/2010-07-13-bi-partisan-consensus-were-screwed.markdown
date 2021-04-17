@@ -10,9 +10,7 @@ categories:
 tags:
 - alan simpson
 - debt
-- debt commission
-- erskine bowles
-- home mortgage deduction
+
 type: "post"
 ---
 

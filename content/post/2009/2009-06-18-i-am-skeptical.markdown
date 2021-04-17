@@ -9,10 +9,7 @@ categories:
 - Economy
 tags:
 - jobless
-- new jobs
-- obama
-- stimulus
-- unemployment
+
 ---
 
 You should be, too.

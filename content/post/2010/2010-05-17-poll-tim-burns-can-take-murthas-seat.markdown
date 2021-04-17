@@ -11,8 +11,6 @@ categories:
 tags:
 - Mark Critz
 - PA12
-- Prayer
-- Tim Burns
 type: "post"
 ---
 

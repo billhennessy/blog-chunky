@@ -10,9 +10,7 @@ categories:
 tags:
 - civilization
 - dark ages
-- european debt crisis
-- Leadership
-- walter russell mead
+
 type: "post"
 ---
 

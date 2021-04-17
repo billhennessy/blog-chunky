@@ -10,9 +10,7 @@ categories:
 - Politics
 tags:
 - Edward Whitacre
-- General Motors
-- GM
-- Government Motors
+
 type: "post"
 ---
 

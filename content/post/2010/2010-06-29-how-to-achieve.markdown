@@ -10,8 +10,7 @@ categories:
 tags:
 - achieving
 - focus
-- intended outcomes
-- multitasking
+
 type: "post"
 ---
 

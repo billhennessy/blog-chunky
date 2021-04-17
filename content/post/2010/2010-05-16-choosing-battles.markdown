@@ -7,16 +7,9 @@ layout: blog
 url: /2010/05/15/choosing-battles/
 categories:
 - Politics
-- Politics
-- Politics
-- Politics
 - Donald Trump
 tags:
-- autism
-- Donald J. Trump
 - elections
-- Politics healthcare free choice act
-- Politics
 type: "post"
 ---
 

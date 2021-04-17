@@ -9,9 +9,6 @@ categories:
 - American Tea Party
 - Latest
 tags:
-- 'tcot'
-- American Tea Party
-- Chicago Tea Party
 - Tea Party News
 ---
 

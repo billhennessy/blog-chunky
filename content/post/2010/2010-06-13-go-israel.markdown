@@ -8,11 +8,7 @@ url: /2010/06/13/go-israel/
 categories:
 - Living
 - News
-tags:
-- christianity
-- iran
-- Israel
-- saudi arabia
+
 type: "post"
 ---
 

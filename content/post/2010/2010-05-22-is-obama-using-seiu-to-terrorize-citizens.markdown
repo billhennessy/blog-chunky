@@ -6,13 +6,10 @@ title: Is Obama Using SEIU to Terrorize Citizens?
 layout: blog
 url: /2010/05/22/is-obama-using-seiu-to-terrorize-citizens/
 categories:
-- Crime
 - Politics
 tags:
-- Impeachment
 - SEIU
 - Union Thugs
-- Politics
 type: "post"
 ---
 

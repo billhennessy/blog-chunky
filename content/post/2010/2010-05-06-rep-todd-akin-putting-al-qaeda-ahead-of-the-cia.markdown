@@ -9,8 +9,6 @@ categories:
 - Politics
 tags:
 - al-qaeda
-- big government
-- CIA
 - Plame
 - Todd Akin
 type: "post"

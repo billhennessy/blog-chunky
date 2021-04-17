@@ -9,8 +9,6 @@ categories:
 - Politics
 tags:
 - Jimmy Carter
-- obama
-- peggy noonan
 - ronald_reagan
 - snake-bit
 type: "post"

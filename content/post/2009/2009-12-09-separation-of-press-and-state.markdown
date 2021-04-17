@@ -7,12 +7,7 @@ layout: blog
 url: /2009/12/09/separation-of-press-and-state/
 categories:
 - Latest
-tags:
-- bailout
-- freedom of the press
-- government
-- separation of press and state
-- state-run media
+
 ---
 
 Borrowing liberally from [Americans United](https://www.au.org/issues/why-church-state-separation.html) for Separation of Church and State, let’s adopt this manifesto of our resolve to keep the government from taking over (via voluntary non-profit status) the free press in the United States:

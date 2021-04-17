@@ -6,9 +6,6 @@ title: 30 Minute Town Hall with Michele Bachmann is Tuesday Night
 layout: blog
 url: /2010/05/10/30-minute-town-hall-with-michele-bachmann-is-tonight/
 categories:
-- Activism
-- Economy
-- Politics
 - Politics
 tags:
 - Dodd Financial Reform

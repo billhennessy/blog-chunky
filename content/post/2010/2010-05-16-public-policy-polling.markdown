@@ -6,8 +6,6 @@ title: Public Policy Polling
 layout: blog
 url: /2010/05/16/public-policy-polling/
 categories:
-- Economy
-- Politics
 - Politics
 type: "post"
 ---

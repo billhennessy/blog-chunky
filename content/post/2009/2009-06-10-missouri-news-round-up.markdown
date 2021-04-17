@@ -8,9 +8,6 @@ url: /2009/06/09/missouri-news-round-up/
 categories:
 - Latest
 tags:
-- accountability portal
-- heartland
-- home school
 - missouri
 - nixon
 ---

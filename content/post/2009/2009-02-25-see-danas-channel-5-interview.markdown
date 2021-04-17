@@ -9,7 +9,6 @@ categories:
 - American Tea Party
 - Latest
 tags:
-- 'tcot'
 - American Tea Party
 - dana loesch
 - Tea Party News

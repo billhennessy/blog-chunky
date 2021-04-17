@@ -9,10 +9,7 @@ categories:
 - Politics
 tags:
 - gulf oil spill
-- make-up
-- obama
-- oil
-- oval office
+
 type: "post"
 ---
 

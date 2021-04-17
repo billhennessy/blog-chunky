@@ -9,7 +9,6 @@ categories:
 - American Tea Party
 - Limited Government
 tags:
-- 'tcot'
 - American Tea Party
 - KMOV
 - Tea Party News

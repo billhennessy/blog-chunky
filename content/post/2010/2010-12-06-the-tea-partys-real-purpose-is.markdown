@@ -7,15 +7,7 @@ layout: blog
 url: /2010/12/06/the-tea-partys-real-purpose-is/
 categories:
 - Politics
-tags:
-- adams
-- Constitution
-- happiness
-- jay
-- jefferson
-- Politics
-- principles
-- Politics
+
 type: "post"
 ---
 

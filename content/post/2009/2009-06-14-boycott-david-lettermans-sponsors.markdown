@@ -9,13 +9,7 @@ categories:
 - Politics
 tags:
 - Chase
-- Citigroup
-- David Letterman
-- Mazda
-- Proctor and Gamble
-- Sarah Palin
-- T-Mobile
-- Toyota
+
 ---
 
 If you don't know why, then you're reading the wrong blog.

@@ -12,13 +12,6 @@ categories:
 tags:
 - balanced budget
 - consumer debt
-- credit card debt
-- dave ramsey
-- debt
-- deficit spending
-- Economy
-- good government
-- national debt
 ---
 
 **_The debtor is a slave to his lender.  _**

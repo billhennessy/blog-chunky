@@ -9,11 +9,7 @@ categories:
 - Politics
 tags:
 - block captains
-- gallup
-- Liberty Caucus
-- liberty evangelism
-- overconfidence
-- rasmussen
+
 type: "post"
 ---
 

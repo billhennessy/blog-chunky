@@ -8,9 +8,7 @@ url: /2010/07/02/latest-missouri-us-senate-race-poll/
 categories:
 - Politics
 tags:
-- Chuck Purgason
-- Politics Senate Race
-- rasmussen report
+
 - Robin Carnahan
 - roy blunt
 type: "post"

@@ -8,9 +8,6 @@ url: /2010/06/03/how-to-ignore-critics/
 categories:
 - Living
 tags:
-- critics
-- haters
-- Liberation
 - nasim taleb
 - timothy ferriss
 type: "post"

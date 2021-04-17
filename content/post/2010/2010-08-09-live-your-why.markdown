@@ -9,11 +9,7 @@ categories:
 - Living
 tags:
 - 9-12 Tea Party
-- glenn beck
-- martin luther king
-- restoring honor
 - simon sinek
-- TED.com
 type: "post"
 ---
 

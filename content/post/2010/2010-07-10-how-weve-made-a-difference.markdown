@@ -11,13 +11,7 @@ tags:
 - Claire McCaskill
 - Politics
 - obama
-- peggy noonan
-- revolution
-- russ carnahan
-- SEIU
-- st.-louis
-- town hall
-- Townhall
+
 type: "post"
 ---
 

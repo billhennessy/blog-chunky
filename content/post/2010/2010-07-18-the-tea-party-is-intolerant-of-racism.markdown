@@ -11,11 +11,7 @@ tags:
 - Adam Sharp
 - Al Sharpton
 - Ben Jealous
-- Jeremiah Wright
-- Jesse Jackson
-- Louis Farrakhan
-- NAACP
-- racism
+
 type: "post"
 ---
 

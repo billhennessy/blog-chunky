@@ -9,9 +9,7 @@ categories:
 - News
 tags:
 - Politics Day
-- Livingcare Free Choice Act
-- Prop C
-- vote
+
 type: "post"
 ---
 

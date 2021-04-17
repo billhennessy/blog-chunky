@@ -9,10 +9,7 @@ categories:
 - Limited Government
 tags:
 - 10th amendment
-- Gary Nodler
-- sovereignty
-- state sovereignty
-- Tenth-Amendment
+
 ---
 
 Usually, I’m against any government adding anything to its list of functions. But our friend Carl Bearden points out a novel and needed commission proposed by Missouri State Senator Gary Nodler. If enacted, [Senate Bill No. 587](https://www.senate.mo.gov/10info/pdf-bill/intro/SB587.pdf) would require Missouri to establish a 10th Amendment Commission.

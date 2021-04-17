@@ -10,8 +10,6 @@ categories:
 tags:
 - AF1
 - AF1 fly-over
-- Blink
-- Caldera
 ---
 
 ![af1_photo1](https://stlouisteaparty.com/wp-content/uploads/2009/05/af1_photo1-150x150.jpg)
