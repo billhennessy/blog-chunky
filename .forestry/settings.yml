@@ -29,10 +29,10 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: image/upload
-public_path: "/image/upload/c_scale,w_auto:100,dpr_auto"
+upload_dir: content/images
+public_path: "/images"
 front_matter_path: ''
-use_front_matter_path: true
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:
