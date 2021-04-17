@@ -2,7 +2,8 @@
 authors = ["Bill Hennessy"]
 categories = ["Coronavirus"]
 date = 2021-04-13T14:43:30Z
-images = ["/v1618331176/image/upload/Screen_Shot_2021-04-13_at_9.20.00_AM_gdufxe.png", "/images/screen-shot-2021-04-13-at-9-20-00-am.png"]
+featured_image = ""
+images = ["/images/screen-shot-2021-04-13-at-9-20-00-am.png"]
 tags = ["J&J"]
 title = "PANIC: FDA Halts J&J COVID Vacccine Due to Deadly Blood Clots"
 url = "panic-fda-halts-jandj-vaccine"
