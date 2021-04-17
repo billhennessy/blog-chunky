@@ -26,6 +26,11 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: featured_image
+  type: file
+  config:
+    maxSize: 64
+  label: Featured image
 pages:
 - content/post/i-don-t-know-how-i-know-this-things.md
 - content/post/panic-fda-halts-j-j-covid-vacccine-due-to-deadly-blood-clots.md
