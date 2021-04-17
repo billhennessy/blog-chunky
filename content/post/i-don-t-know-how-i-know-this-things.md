@@ -1,10 +1,10 @@
 +++
 authors = ["Bill Hennessy"]
-categories = []
+categories = ["Politics"]
 date = 2021-04-16T01:15:42Z
 featured_image = ""
-images = ["https://res.cloudinary.com/hennessysview/image/upload/v1618329348/image/upload/don-draper-1_vtuf1r.jpg"]
-tags = []
+images = ["/images/don-draper-1.jpg"]
+tags = ["Election 2020", "Supreme Court"]
 title = "I don't know how I know these things"
 url = "i-dont-know"
 
