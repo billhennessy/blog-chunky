@@ -9,6 +9,10 @@ title = "I don't know how I know these things"
 url = "i-dont-know"
 
 +++
+> _It’s your life. You don’t know how long it’s gonna last, but you know it doesn’t end well. You’ve gotta move forward … as soon as you can figure out what that means._
+>
+> —Mad Men, Season Two, _Six Month Leave_
+
 You might think I'm all doom and gloom. You might think I've given up.
 
 You'd be wrong, but partially right.
