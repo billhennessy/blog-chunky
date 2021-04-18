@@ -4,7 +4,7 @@ categories = ["Politics"]
 date = 2021-04-16T01:15:42Z
 featured_image = ""
 images = ["/images/don-draper-1.jpg"]
-tags = ["Election 2020", "Supreme Court"]
+tags = ["prophecy", "Election 2020", "Supreme Court"]
 title = "I don't know how I know these things"
 url = "i-dont-know"
 

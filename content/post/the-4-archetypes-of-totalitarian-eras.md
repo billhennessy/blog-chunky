@@ -4,12 +4,11 @@ categories = []
 date = 2021-04-17T21:00:24Z
 featured_image = ""
 images = ["/images/crowd-management-1-1.jpg"]
-tags = ["zealots", "Adapters"]
+tags = ["prophecy", "zealots", "Adapters"]
 title = "The 4 Archetypes of Totalitarian Eras"
 url = "archetypes-of-totalitarian-eras"
 
 +++
-
 {{< tip >}} This post is a follow-up to [This Is What Will Happen](https://www.hennessysview.com/this-is-what-will-happen/), and [I Don't Know How I Know These Things](https://www.hennessysview.com/i-dont-know/). Jump to end for a [movie recommendation](#movie-a-hidden-life) that inspired this post. {{< /tip >}}
 
 Would you have resisted and defied the Nazis if you'd lived in Germany in the 1930s?
