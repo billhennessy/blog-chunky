@@ -78,7 +78,7 @@ The only way to escape culpability for America's dismal future is incomprehensib
 * Hunt and fish for food
 * Pray constantly
 
-You'll still be supporting the utilities. Go further by giving up air conditioning, heating with wood harvested from your land, and generating your own electricity with solar panels or a windmill.
+You'll still be supporting the utilities. Go further by giving up the air conditioning, heating with wood harvested from your land, and generating your own electricity with solar panels or a windmill.
 
 If you're not completely off the grid, you're funding the enemies of America. It's that simple.
 
@@ -96,4 +96,4 @@ And we have no one but ourselves to blame.
 
 Pray. The only things left to save are our souls. And those are the only things that ever mattered, anyway.
 
-Deo gratias.
+Deo Gratias.
