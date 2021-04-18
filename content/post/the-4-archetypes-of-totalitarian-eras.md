@@ -12,9 +12,7 @@ url = "archetypes-of-totalitarian-eras"
 
 {{< tip >}} This post is a follow-up to [This Is What Will Happen](https://www.hennessysview.com/this-is-what-will-happen/), and [I Don't Know How I Know These Things](https://www.hennessysview.com/i-dont-know/). Jump to end for a [movie recommendation](#movie-a-hidden-life) that inspired this post. {{< /tip >}}
 
-{{% tip %}} Test {{% /tip %}}
-
-Would you have resisted and {{< text-color color="red" text="defied" >}} the Nazis if you'd lived in Germany in the 1930s?
+Would you have resisted and defied the Nazis if you'd lived in Germany in the 1930s?
 
 Would you have defied the Jewish authorities to plead for Jesus' life had you lived in Jerusalem in 33 A.D.?
 
