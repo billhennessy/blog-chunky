@@ -20,6 +20,12 @@ I promise you that I have thought it all and more. Whatever condemnation you con
 
 Being a coward, of course, I didn't come right out and say what I knew back in 2018. Instead, I trickled out the message in long, laborious blogs. I was hoping some fine reader would say the magic words for me. I trickled the story, which is only five words long, through dozens of posts:
 
+* [What Should We Do Next?](https://www.hennessysview.com/2018/08/10/what-should-we-do-next/)
+* [The End of America](https://www.hennessysview.com/the-end-of-america/)
+* [Winner Take All Election](https://www.hennessysview.com/winner-take-all-election/)
+* [This Is What Will Happen](https://www.hennessysview.com/this-is-what-will-happen/)
+* and, finally, [I Don't Know How I Know These Things](https://www.hennessysview.com/i-dont-know/)
+
 I now realize that no one wants to go first. No one in my circles, anyway. We want to pretend we believe America's best days are ahead of us, that Republicans will man up and retake the House and Senate in 2022, then restore Donald Trump or one of his kids in 2024. That those silent and invisible "good, honest, patriotic" FBI agents will rise up and arrest their evil overlords in the DOJ. That 2025 will look remarkably like 1985. Or 1955. Or 1795.
 
 That's what we tell ourselves. That's what we tell our friends. That's what we post on Gab.
