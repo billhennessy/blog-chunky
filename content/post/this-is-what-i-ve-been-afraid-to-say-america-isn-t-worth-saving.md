@@ -1,10 +1,10 @@
 +++
-authors = []
+authors = ["Bill Hennessy"]
 categories = ["Living", "Faith", "Politics"]
 date = 2021-04-21T23:59:37Z
 featured_image = "/images/upside-down-american-flag.jpeg"
 images = ["/images/upside-down-american-flag.jpeg", "/images/6d851d8c-77f1-4ae0-b1ee-5ae6e9463ea0_1_201_a.jpeg"]
-tags = ["denial", "nostalgia", "sentimentality"]
+tags = ["prophecy", "denial", "nostalgia", "sentimentality"]
 title = "This Is What I've Been Afraid to Say: America Is Not Worth Saving"
 url = "america-is-not-worth-saving"
 
@@ -41,19 +41,19 @@ For good or ill, my fellow Americans, I now have the courage to write this becau
 
 Now, finally, I can say it: **America is not worth saving**!
 
-We "right-leaning" folks have two memories of America. One memory comes from our oral tradition, the stories of America handed down to us by our parents and teachers, by old movies and books, through our history study. 
+We "right-leaning" folks have two memories of America. One memory comes from our oral tradition, the stories of America handed down to us by our parents and teachers, by old movies and books, through our history study.
 
-Our other memory comes from our lived experience. We remember things. We witnessed history filtered through the lens of that oral tradition. We understood that socialism doesn't work, that those who refuse to work shall not eat, that man seeks to better himself, that every attempt at socialism ended in abject failure. 
+Our other memory comes from our lived experience. We remember things. We witnessed history filtered through the lens of that oral tradition. We understood that socialism doesn't work, that those who refuse to work shall not eat, that man seeks to better himself, that every attempt at socialism ended in abject failure.
 
-Most of all, we knew and know today that, absent the grace of God, we can do nothing but sin. As a creature and as a nation, our nature is, at best, weak and selfish, at worst diabolical. 
+Most of all, we knew and know today that, absent the grace of God, we can do nothing but sin. As a creature and as a nation, our nature is, at best, weak and selfish, at worst diabolical.
 
-In our love of the idea of America, we refused to admit that America kicked God out long ago. Probably the 1950s. Certainly, in the 1960s. We gave a God probationary readmittance in the Carter and Reagan years from 1977 to 1989, but we soon kicked Him out again. Or, more accurately, we rescinded His probation. 
+In our love of the idea of America, we refused to admit that America kicked God out long ago. Probably the 1950s. Certainly, in the 1960s. We gave a God probationary readmittance in the Carter and Reagan years from 1977 to 1989, but we soon kicked Him out again. Or, more accurately, we rescinded His probation.
 
-At that point, we were on our own, left to our own natures and our own devices. 
+At that point, we were on our own, left to our own natures and our own devices.
 
-For some foolish reason, probably hubris, we still believed that our own good natures and two centuries of breeding would allow us to remain a "moral" nation even without God's saving grace. We believed that our past would somehow form our future. That we had banked enough grace by 1990 to carry us on forever and ever. 
+For some foolish reason, probably hubris, we still believed that our own good natures and two centuries of breeding would allow us to remain a "moral" nation even without God's saving grace. We believed that our past would somehow form our future. That we had banked enough grace by 1990 to carry us on forever and ever.
 
-But that didn't happen. 
+But that didn't happen.
 
 Somewhere between the first Gulf War and 2018, our well of grace ran dry. America went morally bankrupt. We were running on fumes provided almost exclusively by Donald Trump. And I knew our engine was sputtering when I wrote in _What Should We Do Next_:
 
@@ -61,11 +61,11 @@ Somewhere between the first Gulf War and 2018, our well of grace ran dry. Americ
 >
 > We could then fight a bloody civil war. It would be a low-level war fought in small skirmishes. A guerilla war that lasts for decades.
 
-A nation flowing with God's graces could not produce the Russian Hoax. The Russia Hoax was a coup, and every institution in America took part. From the FBI and DOJ to the Amry, Navy, and Marine Corps. They were all part of the coup. You know it, and you knew it then. Like me, though, you refused to admit what you knew in your heart. 
+A nation flowing with God's graces could not produce the Russian Hoax. The Russia Hoax was a coup, and every institution in America took part. From the FBI and DOJ to the Amry, Navy, and Marine Corps. They were all part of the coup. You know it, and you knew it then. Like me, though, you refused to admit what you knew in your heart.
 
-America is not worth saving. Not any longer. 
+America is not worth saving. Not any longer.
 
-The America of our memories, yes. But too much water flowed under the bridge between the reality on which those memories were based, and the moment we realized water flowed no more. The well had gone dry. 
+The America of our memories, yes. But too much water flowed under the bridge between the reality on which those memories were based, and the moment we realized water flowed no more. The well had gone dry.
 
 > The three men I admired most,
 >
@@ -75,40 +75,40 @@ The America of our memories, yes. But too much water flowed under the bridge bet
 >
 > the day the music died.
 
-The grace of a nation flows from God through man, who empowers a government with certain just powers. When man separates himself from God's graces, he has no just power to give to the government. 
+The grace of a nation flows from God through man, who empowers a government with certain just powers. When man separates himself from God's graces, he has no just power to give to the government.
 
-In short, the government did not go bad on its own; the government went bad because the people no longer had enough grace to lend it. It's not the government's fault; it's our fault. 
+In short, the government did not go bad on its own; the government went bad because the people no longer had enough grace to lend it. It's not the government's fault; it's our fault.
 
-Don't get me wrong. Most of my readers are and always have been well-connected with God's saving grace. But we are a tiny remnant of what once was, arguably, the most God-fearing nation on earth. Certainly, America was the most God-fearing mighty power on earth. That's how we got great. When 80 percent of Americans prayed every day and went to church every week, we had an abundance of grace to share with the government. We did not keep the government in check; God kept the government in check through the abundance of graces stored in the American people. 
+Don't get me wrong. Most of my readers are and always have been well-connected with God's saving grace. But we are a tiny remnant of what once was, arguably, the most God-fearing nation on earth. Certainly, America was the most God-fearing mighty power on earth. That's how we got great. When 80 percent of Americans prayed every day and went to church every week, we had an abundance of grace to share with the government. We did not keep the government in check; God kept the government in check through the abundance of graces stored in the American people.
 
-Then we stopped filling our tanks. Not you and I, perhaps, but millions and millions of Americans. Many Americans who continued to go to church regularly really didn't believe they needed God. "I am an intrinsically good person," they said. "I have the best intentions." "I am spiritual, but not religious." 
+Then we stopped filling our tanks. Not you and I, perhaps, but millions and millions of Americans. Many Americans who continued to go to church regularly really didn't believe they needed God. "I am an intrinsically good person," they said. "I have the best intentions." "I am spiritual, but not religious."
 
-Once there were 280 million springs of grace feeding the river that flowed to the government, we are now about 75 million springs. 75 million doing the work of 320 million. 
+Once there were 280 million springs of grace feeding the river that flowed to the government, we are now about 75 million springs. 75 million doing the work of 320 million.
 
-On top of that hideous math, those 75 million must use more of their grace to keep from acting on our urges to "do something drastic." We are assaulted on all sides, reviled by our children and communities, mocked and vilified on television and the internet, accused of racism, and worse. Few but the holiest have enough graces to give away. The fact that more right-leaning Americans have not done something drastic is proof, not of our restraint, but of God's saving grace and mercy. God holds us at bay out of mercy for our enemies, who are also the enemies of Christ. 
+On top of that hideous math, those 75 million must use more of their grace to keep from acting on our urges to "do something drastic." We are assaulted on all sides, reviled by our children and communities, mocked and vilified on television and the internet, accused of racism, and worse. Few but the holiest have enough graces to give away. The fact that more right-leaning Americans have not done something drastic is proof, not of our restraint, but of God's saving grace and mercy. God holds us at bay out of mercy for our enemies, who are also the enemies of Christ.
 
-You can no longer deny that America is not worth saving. The price in blood to restore something like the America we love is too steep. We are in the horns of a dilemma: to fight with a chance to win on earth, lose heaven, or choose heaven now and let America fall. 
+You can no longer deny that America is not worth saving. The price in blood to restore something like the America we love is too steep. We are in the horns of a dilemma: to fight with a chance to win on earth, lose heaven, or choose heaven now and let America fall.
 
-We cannot save America and ourselves. The river has been dry too long. The sandy bed is cracked and dry. It sucks up the graces before they reach the delta. 
+We cannot save America and ourselves. The river has been dry too long. The sandy bed is cracked and dry. It sucks up the graces before they reach the delta.
 
-And, yet, there is hope. Hope, not that America will miraculously recover its former goodness, but hope that 75 million Americans will stay true to God. They will keep that river of grace flowing into their own hearts. They will persevere through whatever tribulations come our way. That whatever nation emerges from the ashes of this one will remember those children of God the way 3rd century Romans remembered the Christians who nursed them through the plague. 
+And, yet, there is hope. Hope, not that America will miraculously recover its former goodness, but hope that 75 million Americans will stay true to God. They will keep that river of grace flowing into their own hearts. They will persevere through whatever tribulations come our way. That whatever nation emerges from the ashes of this one will remember those children of God the way 3rd century Romans remembered the Christians who nursed them through the plague.
 
-In [Vaccine Passports and Tributes to Pagan Gods](/vaccine-passports-and-tributes-to-pagan-gods/), I reviewed an early chapter of _The Church and the Roman Empire_ by Mike Aquilina. But I left off just as Rome was facing a menace worse than the persecutions of Decius. A plague broke out that killed Christians and pagans alike. 
+In [Vaccine Passports and Tributes to Pagan Gods](/vaccine-passports-and-tributes-to-pagan-gods/), I reviewed an early chapter of _The Church and the Roman Empire_ by Mike Aquilina. But I left off just as Rome was facing a menace worse than the persecutions of Decius. A plague broke out that killed Christians and pagans alike.
 
-But the Christians behaved in an odd way to the sentiments of Roman pagans. While the pagans fled to the country or locked themselves inside family compounds (lockdown), the Christians fearlessly took to the streets to care for the afflicted. 
+But the Christians behaved in a way that seemed odd to the sentiments of Roman pagans. While the pagans fled to the country or locked themselves inside family compounds (lockdown), the Christians fearlessly took to the streets to care for the afflicted.
 
-> With rousing sermons, Cyprian sent the Christians out into the streets to take care of the plague victims—not just the Christian victims but every neighbor, of every religion. And the same thing happened in other cities, whenever the plague hit. Christians poured into the streets, looking for sick people to help. The bishops organized companies of paramedics. There was no cure for the disease (it might have been smallpox making its first appearance in the Mediterranean world), but the victims could at least be made more comfortable—a cup of water, a bit of food, a damp rag to wipe their foreheads. 
+> With rousing sermons, Cyprian sent the Christians out into the streets to take care of the plague victims—not just the Christian victims but every neighbor, of every religion. And the same thing happened in other cities, whenever the plague hit. Christians poured into the streets, looking for sick people to help. The bishops organized companies of paramedics. There was no cure for the disease (it might have been smallpox making its first appearance in the Mediterranean world), but the victims could at least be made more comfortable—a cup of water, a bit of food, a damp rag to wipe their foreheads.
 >
->    "And many who had thus cured others of their signnesses, and restored them to strength, died themselves, having transferred to their own bodies the death that lay upon the others." So one witness in Alexandria wrote of the Christians he witnessed in his city.
+> "And many who had thus cured others of their signnesses, and restored them to strength, died themselves, having transferred to their own bodies the death that lay upon the others." So one witness in Alexandria wrote of the Christians he witnessed in his city.
 
-And, again, the Christian Church grew in _absolute numbers_ as a result of a plague. By the grace of God, the Christians rose above the madness to do His will. 
+And, again, the Christian Church grew in _absolute numbers_ as a result of a plague. By the grace of God, the Christians rose above the madness to do His will.
 
-So it is for us, dear reader, to rise above the madness by bowing down to God and letting go of the America that was once but is no more. As I wrote in my first blog on this topic in 2018:
+So it is for us, dear reader, to rise above the madness by bowing down to God and letting go of an America that was once but is no more. As I wrote in my first blog on this topic in 2018:
 
 > Our early Christian fathers and mothers didn’t fight Rome with arrows and fire. They fought evil with good works, prayer, and hope in Christ. They were tortured and died following the plan. The Plan.
 
-We come back to the beginning in this series of posts and the Christian Era. We were then a tiny fragment of Christian faith under the thumb of a giant pagan empire. We are now a tiny remnant of Christian faith under the thumb of a giant pagan empire. 
+We come back to the beginning in this series of posts and to a reflection of the beginning of the Christian Era. We were then a tiny fragment of Christian faith under the thumb of a giant pagan empire. We are now a tiny remnant of Christian faith under the thumb of a giant pagan empire.
 
-The America we love and wish to restore remains in our hearts. If we persevere, something like it may emerge from this trial by fire. But only if we take up our cross every day and follow Him. 
+The America we love and wish to restore remains in our hearts. If we persevere, something like it may emerge from this trial by fire. But only if we take up our cross every day and follow Him.
 
-Our help is in the name of the Lord who made heaven and earth, not in the America that does no longer deserves our toil, sweat, blood, and tears. Build up a surplus of God's graces to see you and your family through. Let man's creation go. 
+Our help is in the name of the Lord who made heaven and earth, not in an "America" that no longer deserves our toil, sweat, blood, and tears. Build up a surplus of God's graces to see you and your family through. Let man's creation go.
