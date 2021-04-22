@@ -87,7 +87,7 @@ Once there were 280 million springs of grace feeding the river that flowed to th
 
 On top of that hideous math, those 75 million must use more of their grace to keep from acting on our urges to "do something drastic." We are assaulted on all sides, reviled by our children and communities, mocked and vilified on television and the internet, accused of racism, and worse. Few but the holiest have enough graces to give away. The fact that more right-leaning Americans have not done something drastic is proof, not of our restraint, but of God's saving grace and mercy. God holds us at bay out of mercy for our enemies, who are also the enemies of Christ.
 
-You can no longer deny that America is not worth saving. The price in blood to restore something like the America we love is too steep. We are in the horns of a dilemma: to fight with a chance to win on earth, lose heaven, or choose heaven now and let America fall.
+You can no longer deny that America is not worth saving. The price in blood to restore something like the America we love is too steep. We are in the horns of a dilemma: we can fight for the America that exists only in our memories. We might win on earth and lose heaven in the process. Or we can surrender that memory and save our souls. 
 
 We cannot save America and ourselves. The river has been dry too long. The sandy bed is cracked and dry. It sucks up the graces before they reach the delta.
 
