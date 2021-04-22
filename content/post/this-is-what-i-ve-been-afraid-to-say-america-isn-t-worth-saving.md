@@ -40,4 +40,24 @@ For good or ill, my fellow Americans, I now have the courage to write this becau
 
 — [Milo on Gab](https://gab.com/m/posts/106104210286491243)
 
-There it is! Now, finally, I can say it: **America is not worth saving**!
+Now, finally, I can say it: **America is not worth saving**!
+
+We "right-leaning" folks have two memories of America. One memory comes from our oral tradition, the stories of America handed down to us by our parents and teachers, by old movies and books, through our study of history. 
+
+Our other memory comes from our lived experience. We remember things. Sure, those memories were filtered through the lens of that oral tradition, but we witnessed history. We understood that socialism doesn't work, that those who refuse to work shall not eat, that man seeks to better himself, that every attempt at socialism ended in abject failure. 
+
+Most of all, we knew and know today that, absent the grace of God, we can do nothing but sin. As a creature and as a nation, our nature is, at best, weak and selfish, at worst diabolical. 
+
+In our love of the idea of America, we refused to admit that America kicked God out long ago. Probably the 1950s. Certainly, in the 1960s. We gave a God probationary readmittance in the Carter and Reagan years from 1977 to 1989, but we soon kicked Him out again. Or, more accurately, we rescinded His probation. 
+
+At that point, we were on our own, left to our own natures and our own devices. 
+
+For some foolish reason, probably hubris, we still believed that our own good natures and two centuries of breeding would allow us to remain a "moral" nation even without God's saving grace. We believed that our past would somehow form our future. That we had banked enough grace by 1990 to carry us on forever and ever. 
+
+But that didn't happen. 
+
+Somewhere between the first Gulf War and 2018, our well of grace ran dry. America went morally bankrupt. We were running on fumes provided almost exclusively by Donald Trump. And I knew our engine was sputtering when I wrote in _What Should We Do Next_:
+
+> For the time being, President Trump holds our torturers and persecutors at bay. But Trump won’t be president forever. He could be out of office a year from now should the Democrats take over the House and Senate in January. And, if Trump is impeached and convicted, the future President Pence has little chance of winning in 2020.
+>
+> We could then fight a bloody civil war. It would be a low-level war fought in small skirmishes. A guerilla war that lasts for decades.
