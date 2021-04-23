@@ -8,8 +8,6 @@ url: /2012/03/12/the-white-house-will-ban-rush-from-armed-forces-radio/
 categories:
 - Politics
 tags:
-- Armed Forces Radio
-- feminazis
 - rush limbaugh
 type: "post"
 ---

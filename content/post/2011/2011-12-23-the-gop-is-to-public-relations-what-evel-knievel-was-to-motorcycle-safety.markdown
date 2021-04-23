@@ -10,9 +10,7 @@ categories:
 - Politics
 tags:
 - Donald J. Trump
-- payroll tax cut
-- public relations
-- tax cut extension
+
 type: "post"
 ---
 

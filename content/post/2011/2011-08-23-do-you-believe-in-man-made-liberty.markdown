@@ -6,13 +6,10 @@ title: Do You Believe in Man-Made Liberty?
 layout: blog
 url: /2011/08/22/do-you-believe-in-man-made-liberty/
 categories:
-- Events
-- News
+- Politics
 tags:
 - God
-- jefferson
-- liberty
-- Wallbuilders
+
 type: "post"
 ---
 

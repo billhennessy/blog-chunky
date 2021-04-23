@@ -9,11 +9,7 @@ categories:
 - Politics
 tags:
 - Jay Nixon
-- Kinder v. Holden
-- Politics
-- Politics
-- Special Session
-- Steve Tilley
+
 type: "post"
 ---
 

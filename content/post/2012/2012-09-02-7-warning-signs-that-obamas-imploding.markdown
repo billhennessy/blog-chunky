@@ -8,14 +8,8 @@ url: /2012/09/02/7-warning-signs-that-obamas-imploding/
 categories:
 - Politics
 tags:
-- BarackObama
-- bill clinton
-- Clint Eastwood
-- Jimmy Carter
-- Mitt Romney
-- New Orleans
-- obama
-- republican
+- Barack Obama
+
 type: "post"
 ---
 

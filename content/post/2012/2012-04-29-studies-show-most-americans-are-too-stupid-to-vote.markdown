@@ -9,17 +9,7 @@ categories:
 - Politics
 tags:
 - Constitution
-- democrats
-- Academics
-- idiots
-- ignorant Americans
-- ignorant voters
-- morons
-- political intelligence
-- stupidity
-- uninformed
-- voters
-- voting
+
 type: "post"
 ---
 

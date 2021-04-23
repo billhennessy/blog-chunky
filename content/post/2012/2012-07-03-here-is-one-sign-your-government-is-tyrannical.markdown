@@ -8,12 +8,7 @@ url: /2012/07/03/here-is-one-sign-your-government-is-tyrannical/
 categories:
 - Politics
 tags:
-- inducements
-- negative feedback
-- obama
-- positive feedback
-- punishments
-- tyranny
+
 type: "post"
 ---
 

@@ -9,9 +9,7 @@ categories:
 - Living
 tags:
 - bob mccarty
-- books
-- reading
-- three days in august
+
 type: "post"
 ---
 

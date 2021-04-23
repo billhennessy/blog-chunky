@@ -10,7 +10,7 @@ categories:
 tags:
 - focus
 - Saint Francis de Sales
-- Politics
+
 type: "post"
 ---
 

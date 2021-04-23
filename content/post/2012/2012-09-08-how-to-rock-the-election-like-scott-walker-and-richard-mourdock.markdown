@@ -9,13 +9,7 @@ categories:
 - Politics
 tags:
 - Barack Obama
-- Indiana
-- Politics Missouri
-- Platte City Missouri
-- Richard Mourdock
-- Tea Party movement
-- United States
-- Washington
+
 type: "post"
 ---
 

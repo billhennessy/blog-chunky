@@ -8,14 +8,7 @@ url: /2012/03/30/the-supreme-court-votes-on-obamacare-today/
 categories:
 - Politics
 tags:
-- anthony Kennedy
-- chief justice
-- Covenant of Liberty
-- Living insurance
-- John Roberts
-- michael patrick leahy
-- Politics
-- Supreme-Court
+
 type: "post"
 ---
 

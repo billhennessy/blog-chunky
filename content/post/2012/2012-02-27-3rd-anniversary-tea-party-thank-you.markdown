@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - 3rd anniversary tea party
-- crowne plaza
-- michael patrick leahy
-- Politics tea party
+
 type: "post"
 ---
 

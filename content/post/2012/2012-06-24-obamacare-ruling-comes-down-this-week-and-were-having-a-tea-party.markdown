@@ -10,15 +10,7 @@ categories:
 - Politics
 tags:
 - Activism
-- Activism Alert
-- Art Hill
-- Demonstration
-- Forest Park
-- Politics
-- rally
-- Politics tea party
-- Supreme-Court
-- Politics
+
 type: "post"
 ---
 

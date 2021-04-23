@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - Ben Franklin
-- Politics
-- Republican Party
-- Politics
+
 type: "post"
 ---
 

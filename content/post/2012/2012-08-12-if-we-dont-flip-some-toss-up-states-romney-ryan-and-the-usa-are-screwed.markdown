@@ -10,20 +10,7 @@ categories:
 tags:
 - Cole McNary
 - ed martin
-- Politics
-- electoral college
-- Mitt Romney
-- New Hampshire
-- Paul Ryan
-- RealClearPolitics
-- republican
-- romney
-- Ryan
-- Strategy
-- Todd Akin
-- toss-up
-- United States
-- Victory Field House
+
 type: "post"
 ---
 

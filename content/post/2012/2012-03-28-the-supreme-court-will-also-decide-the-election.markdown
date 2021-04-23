@@ -9,8 +9,7 @@ categories:
 - Politics
 tags:
 - obama
-- Supreme-Court
-- winner take all
+
 type: "post"
 ---
 

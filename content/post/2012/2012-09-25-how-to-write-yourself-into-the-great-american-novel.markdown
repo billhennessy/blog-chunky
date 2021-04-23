@@ -8,19 +8,7 @@ url: /2012/09/24/how-to-write-yourself-into-the-great-american-novel/
 categories:
 - Politics
 tags:
-- Arthur
-- Barack Obama
-- Clint Eastwood
-- Dirty Harry
-- Politics 2012
-- Holy Grail
-- King Arthur
-- newt gingrich
-- Republican Party
-- Saturday
-- Politics
-- Todd Akin
-- victory
+
 type: "post"
 ---
 

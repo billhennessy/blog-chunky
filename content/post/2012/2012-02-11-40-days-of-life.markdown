@@ -9,10 +9,7 @@ categories:
 - Living
 tags:
 - abortion
-- faith
-- life
-- peace
-- Prayer
+
 type: "post"
 ---
 

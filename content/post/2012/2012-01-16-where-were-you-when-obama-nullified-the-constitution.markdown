@@ -8,13 +8,7 @@ url: /2012/01/16/where-were-you-when-obama-nullified-the-constitution/
 categories:
 - Constitution
 tags:
-- Constitution
-- eric holder
-- justice department
-- mark lavin
-- obama
-- recess appointment
-- senate
+
 type: "post"
 ---
 

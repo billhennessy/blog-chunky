@@ -10,8 +10,7 @@ categories:
 tags:
 - flat tax
 - Jack Kemp
-- tax code
-- tax reform
+
 type: "post"
 ---
 

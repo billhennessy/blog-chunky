@@ -8,15 +8,7 @@ url: /2012/04/16/no-one-did-it-like-breitbart/
 categories:
 - Living
 tags:
-- 'DJBreitbart'
-- Andrew Breitbart
-- Breitbart.com
-- David Carr
-- heart attack
-- I am Breitbart
-- Los Angeles
-- new york times
-- the bigs
+
 type: "post"
 ---
 

@@ -9,11 +9,7 @@ categories:
 - Politics
 tags:
 - bureaucrats
-- Living Insurance Exchanges
-- Politics Ballot
-- Politics
-- Prop E
-- Proposition E
+
 type: "post"
 ---
 

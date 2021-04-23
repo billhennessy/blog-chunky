@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - 3rd anniversary tea party
-- apathy
-- candidates
-- elections
+
 type: "post"
 ---
 

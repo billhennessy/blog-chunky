@@ -9,13 +9,8 @@ url: /2012/06/25/richard-florida-has-the-relationship-between-home-ownership-and
 categories:
 - Economy
 tags:
-- business insider
-- Economics
-- Economy
-- growth
-- home ownership
-- richard florida
-- rotman university
+
+
 type: "post"
 ---
 

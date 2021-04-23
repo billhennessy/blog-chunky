@@ -8,13 +8,8 @@ url: /2012/10/02/happy-birthday-jack-hennessy/
 categories:
 - Living
 tags:
-- Birthday
 - ed martin
-- Happy Birthday
-- History
-- Holidays
-- North Korea
-- World War II
+
 type: "post"
 ---
 

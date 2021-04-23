@@ -9,12 +9,7 @@ categories:
 - Politics
 tags:
 - Gingrich
-- New Hampshire
-- Perry
-- primary
-- republican
-- romney
-- Santorum
+
 type: "post"
 ---
 

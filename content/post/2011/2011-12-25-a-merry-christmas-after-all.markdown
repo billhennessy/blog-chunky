@@ -10,7 +10,7 @@ categories:
 tags:
 - A Christmas Carol
 - Merry Christmas
-- Revelation
+
 type: "post"
 ---
 

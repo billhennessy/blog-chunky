@@ -10,11 +10,7 @@ categories:
 tags:
 - crime
 - jimmy hoffa
-- Politics
-- teamsters
-- Union Thugs
-- union violence
-- unions
+
 type: "post"
 ---
 

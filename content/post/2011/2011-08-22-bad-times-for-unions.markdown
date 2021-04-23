@@ -6,18 +6,11 @@ title: Bad Times for Unions
 layout: blog
 url: /2011/08/21/bad-times-for-unions/
 categories:
-- News
 - Politics
 tags:
 - CWA
 - IBEW
-- recall
-- Scott Walker
-- UAW
-- unions
-- Verizon
-- WEAC
-- wisconsin
+
 type: "post"
 ---
 

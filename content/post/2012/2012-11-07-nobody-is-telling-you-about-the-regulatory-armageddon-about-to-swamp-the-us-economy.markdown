@@ -10,12 +10,7 @@ categories:
 - Economy
 tags:
 - coal industry
-- economic meltdown
-- enterprise-free zones
-- EPA
-- federal register
-- regulations
-- regulatory cliff
+
 type: "post"
 ---
 

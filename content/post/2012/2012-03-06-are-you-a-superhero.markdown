@@ -8,11 +8,7 @@ url: /2012/03/06/are-you-a-superhero/
 categories:
 - News
 tags:
-- Activism
-- give
-- superhero
-- Politics
-- traits
+
 type: "post"
 ---
 

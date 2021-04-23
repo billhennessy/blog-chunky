@@ -8,16 +8,9 @@ layout: blog
 url: /2011/09/19/who-will-feed-the-hungry-clothe-the-naked-tend-the-sick-visit-the-imprisoned/
 categories:
 - Politics
-- Politics
+
 tags:
 - CNN
-- liberty
-- Republican Debate
-- ron paul
-- social hour
-- Society
-- Politics
-- Politics
 - Wolf Blitzer
 type: "post"
 ---

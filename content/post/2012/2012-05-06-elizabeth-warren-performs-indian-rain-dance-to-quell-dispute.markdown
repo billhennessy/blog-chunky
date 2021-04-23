@@ -9,11 +9,7 @@ categories:
 - Satire
 tags:
 - American Indian
-- Elizabeth Warren
-- Native American
-- pepaw
-- rain dance
-- Scott Brown
+
 type: "post"
 ---
 

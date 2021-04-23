@@ -8,11 +8,10 @@ url: /2011/08/05/what-do-you-serve-at-a-downgrade-party/
 categories:
 - Economy
 - Politics
-- Politics
+
 tags:
 - AA+
-- downgraded
-- standard &amp; poors
+
 type: "post"
 ---
 

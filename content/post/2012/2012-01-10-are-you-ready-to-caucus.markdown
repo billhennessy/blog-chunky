@@ -8,11 +8,7 @@ url: /2012/01/09/are-you-ready-to-caucus/
 categories:
 - Politics
 tags:
-- Politics Caucus
-- Politics
-- Olivette
-- Presidential caucus
-- Politics
+
 type: "post"
 ---
 

@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - Candy Crowley
-- KMOX
-- presidential debate
-- Total Information AM
+
 type: "post"
 ---
 

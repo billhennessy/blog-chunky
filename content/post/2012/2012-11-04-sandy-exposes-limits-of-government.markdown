@@ -8,13 +8,7 @@ url: /2012/11/04/sandy-exposes-limits-of-government/
 categories:
 - Politics
 tags:
-- 'sandy'
-- FEMA
-- hurricane
-- Politics
-- relief
-- rockaways
-- staten island
+
 type: "post"
 ---
 

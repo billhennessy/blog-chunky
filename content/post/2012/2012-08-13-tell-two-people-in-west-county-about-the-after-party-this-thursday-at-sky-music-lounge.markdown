@@ -10,11 +10,7 @@ categories:
 - Activism
 tags:
 - Activism
-- grassroots
-- Networks
-- Sky Music Lounge
-- Politics
-- West County
+
 type: "post"
 ---
 

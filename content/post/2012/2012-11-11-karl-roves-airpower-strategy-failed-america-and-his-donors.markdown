@@ -8,15 +8,7 @@ url: /2012/11/10/karl-roves-airpower-strategy-failed-america-and-his-donors/
 categories:
 - Politics
 tags:
-- Politics
-- conservative donors
-- Crossroads
-- Crossroads Generation
-- Crossroads GPS
-- Karl Rove
-- Karl Rove's Meltdown
-- Super PAC
-- winning strategies for republicans
+
 type: "post"
 ---
 

@@ -8,24 +8,7 @@ url: /2012/11/05/this-is-why-you-are-underemployed/
 categories:
 - Politics
 tags:
-- bureau of labor statistics
-- cost of healthcare
-- employoment
-- food service
-- Full-time
-- Living care
-- Livingcare
-- hospitality
-- Illinois
-- jobs
-- middle class
-- Politics
-- Obmacare
-- Part-time
-- Patient Protection and Affordable Care Act
-- underemployment
-- unemployment
-- United States
+
 type: "post"
 ---
 

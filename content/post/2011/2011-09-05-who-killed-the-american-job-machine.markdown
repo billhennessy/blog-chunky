@@ -8,12 +8,7 @@ url: /2011/09/05/who-killed-the-american-job-machine/
 categories:
 - Economy
 tags:
-- democrats
-- Economy
-- jobs
-- maureen dowd
-- recovery
-- unemployment
+
 type: "post"
 ---
 

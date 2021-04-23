@@ -8,19 +8,7 @@ url: /2012/05/06/hey-candy-crowley-tea-party-groups-resemble-the-13-colonies-mor
 categories:
 - Politics
 tags:
-- campaign
-- Candy Crowley
-- Cole McNary
-- ed martin
-- GOP
-- grassroots
-- KMOX
-- republican
-- Sarah Steelman
-- Tea Party Express
-- Total Information AM
-- US Senate
-- Victory Field House
+
 type: "post"
 ---
 

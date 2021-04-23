@@ -9,10 +9,7 @@ categories:
 - Living
 tags:
 - earthquakes
-- gods
-- Italy
-- roman mythology
-- Living
+
 type: "post"
 ---
 

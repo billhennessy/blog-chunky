@@ -8,16 +8,7 @@ url: /2012/08/20/preserving-the-republic-is-paramount-in-2012/
 categories:
 - Politics
 tags:
-- Ann Wagner
-- Claire McCaskill
-- Cole McNary
-- Jim Lembke
-- legitimate rape
-- Politics
-- rape
-- republican
-- Shane Schoeller
-- Todd Akin
+
 type: "post"
 ---
 

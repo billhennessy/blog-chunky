@@ -9,14 +9,7 @@ categories:
 - Activism
 - Economy
 tags:
-- '2012'
-- Crossroads Generation
-- debt
-- Gen Y
-- Millennials
-- obama
-- unemployment
-- youth
+
 type: "post"
 ---
 

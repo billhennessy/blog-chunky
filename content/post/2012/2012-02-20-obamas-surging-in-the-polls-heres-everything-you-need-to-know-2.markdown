@@ -9,11 +9,7 @@ categories:
 - Politics
 tags:
 - apathy
-- candidates
-- Politics
-- obama
-- Polls
-- Repbulican
+
 type: "post"
 ---
 

@@ -9,14 +9,7 @@ categories:
 - Living
 tags:
 - Bain Capital
-- Ecstasy
-- Politics
-- Melissa Gay
-- Missing Girl
-- Mitt Romney
-- president
-- Rave
-- Search
+
 type: "post"
 ---
 

@@ -8,11 +8,6 @@ url: /2012/02/08/wait-til-these-kids-meet-the-tax-man/
 categories:
 - Politics
 tags:
-- bureacracy
-- georgetown
-- irs
-- rules
-- the hoya
 - tocqueville
 type: "post"
 ---

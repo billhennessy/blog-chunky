@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - Continental Army
-- George Washington
-- Valley Forge
-- Washingtons Birthday
+
 type: "post"
 ---
 

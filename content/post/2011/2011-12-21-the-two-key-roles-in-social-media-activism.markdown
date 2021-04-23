@@ -9,10 +9,7 @@ categories:
 - Politics
 tags:
 - connections
-- elections
-- human networks
-- social networks
-- Politics
+
 type: "post"
 ---
 

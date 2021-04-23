@@ -8,13 +8,6 @@ url: /2012/03/14/breaking-watch-the-kudlow-report-at-6-central-tonight/
 categories:
 - News
 tags:
-- CNBC
-- GOP
-- Larry Kudlow
-- Politics
-- primaries
-- RomneyCare
-- Politics
 - The Kudlow Report
 type: "post"
 ---

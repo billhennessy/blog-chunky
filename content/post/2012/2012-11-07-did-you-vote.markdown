@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - low turnout
-- poll
-- turnout was down
-- vote
+
 type: "post"
 ---
 

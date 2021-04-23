@@ -9,9 +9,7 @@ url: /2012/03/29/its-impossible-to-exaggerate-the-historical-importance-of-the-s
 categories:
 - Constitution
 tags:
-- Politics
-- Supreme-Court
-- Politics
+
 type: "post"
 ---
 

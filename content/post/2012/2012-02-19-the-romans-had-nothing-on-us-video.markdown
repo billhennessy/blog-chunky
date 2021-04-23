@@ -9,9 +9,7 @@ categories:
 - Faith
 tags:
 - Christian persecution
-- christianity
-- islamic terrorists
-- religious bigotry
+
 type: "post"
 ---
 

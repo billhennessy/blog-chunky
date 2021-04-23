@@ -9,11 +9,7 @@ url: /2012/10/30/mitt-romneys-cleaning-up-in-early-voting-but-its-confused-the-h
 categories:
 - Politics
 tags:
-- Early Voting
-- Politics 2012
-- gallup
-- politico
-- romney
+
 type: "post"
 ---
 

@@ -11,12 +11,7 @@ post_format:
 - Image
 tags:
 - depression
-- Economy
-- infographic
-- Millennials
-- recession
-- student loans
-- unemployment
+
 type: "post"
 ---
 

@@ -8,7 +8,7 @@ url: /2011/08/02/what-everybody-ought-to-know-about-the-debt-deal/
 categories:
 - Economy
 - Politics
-- Politics
+
 tags:
 - debt deal
 type: "post"

@@ -9,25 +9,7 @@ categories:
 - Politics
 tags:
 - 1980 Election
-- 1980 Gallup Poll
-- Barack Obama
-- Dead Head
-- Democratic Party (United States)
-- Politics map 2012
-- electoral map
-- Jimmy Carter
-- John B. Anderson
-- Mitt Romney
-- Newsweek
-- Race is a dead heat
-- reagan
-- Republicans
-- romney
-- Romney Landslide
-- ronald-reagan
-- Time Magazine
-- United States
-- Wave
+
 type: "post"
 ---
 

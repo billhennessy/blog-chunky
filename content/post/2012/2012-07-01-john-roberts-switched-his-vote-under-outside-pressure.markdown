@@ -8,10 +8,7 @@ url: /2012/07/01/john-roberts-switched-his-vote-under-outside-pressure/
 categories:
 - Constitution
 tags:
-- character
-- cowardice
-- John Roberts
-- Politics
+
 type: "post"
 ---
 

@@ -10,8 +10,6 @@ categories:
 post_format:
 - Aside
 tags:
-- courts
-- judges
 - The Missouri Plan
 type: "post"
 ---

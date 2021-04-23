@@ -8,13 +8,7 @@ url: /2012/03/28/the-state-of-the-gop/
 categories:
 - Politics
 tags:
-- establishment
-- GOP
-- Livingcare
-- Politics
-- Republican Party
-- Scott Brown
-- Politics
+
 type: "post"
 ---
 

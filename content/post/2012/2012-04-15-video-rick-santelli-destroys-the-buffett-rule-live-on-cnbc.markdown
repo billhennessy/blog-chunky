@@ -10,7 +10,7 @@ categories:
 tags:
 - Lee Presser
 - Rick Santelli
-- taxes
+
 type: "post"
 ---
 

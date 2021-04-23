@@ -9,15 +9,7 @@ categories:
 - Politics
 tags:
 - conservative
-- grassroots
-- Hottentot
-- liberal
-- Mainstream
-- media
-- Mitt Romney
-- press
-- Relate
-- Severely
+
 type: "post"
 ---
 

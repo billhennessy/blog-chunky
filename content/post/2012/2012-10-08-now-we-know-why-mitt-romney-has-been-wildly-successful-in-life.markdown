@@ -10,22 +10,7 @@ categories:
 tags:
 - authority
 - Barack Obama
-- character
-- competence
-- confidence
-- empty chair
-- Eye contact
-- intelligence
-- Jim Lehrer
-- Mitt Romney
-- new yorker
-- obama
-- president
-- presidential debate
-- readiness
-- romney
-- strength
-- Sunday school
+
 type: "post"
 ---
 

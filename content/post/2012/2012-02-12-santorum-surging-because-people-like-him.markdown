@@ -9,10 +9,7 @@ categories:
 - Politics
 tags:
 - Mitt Romney
-- PPP
-- public policy polling
-- rick Santorum
-- Santorum
+
 type: "post"
 ---
 

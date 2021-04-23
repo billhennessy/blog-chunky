@@ -10,13 +10,7 @@ categories:
 tags:
 - Availability Bias
 - Confirmation Bias
-- diabetes
-- emotional reactions
-- fiscal cliff
-- gun violence
-- guns
-- media manipulation
-- rational mind
+
 type: "post"
 ---
 

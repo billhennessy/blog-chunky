@@ -8,9 +8,7 @@ url: /2011/09/11/why-is-9-15-the-perfect-day-to-start-the-after-party/
 categories:
 - Politics
 tags:
-- 9-11
 - Patrick Mahon
-- Politics
 type: "post"
 ---
 

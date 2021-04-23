@@ -9,13 +9,7 @@ categories:
 - Politics
 tags:
 - bureaucracy
-- dictaphone
-- government mandate
-- Livingcare
-- Politics
-- Politics tea party
-- Politics
-- waste
+
 type: "post"
 ---
 

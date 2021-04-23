@@ -6,14 +6,10 @@ title: Who Would Call Out Maxine Waters?  Martin Baker Would
 layout: blog
 url: /2011/08/29/who-would-call-out-maxine-waters-martin-baker-would/
 categories:
-- News
 - Politics
 tags:
 - frederica wilson
-- Martin Baker
-- maxine waters
-- racism
-- Politics
+
 type: "post"
 ---
 

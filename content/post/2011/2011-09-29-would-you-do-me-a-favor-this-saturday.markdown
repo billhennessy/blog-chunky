@@ -6,13 +6,10 @@ title: Would you do me a favor this Saturday?
 layout: blog
 url: /2011/09/29/would-you-do-me-a-favor-this-saturday/
 categories:
-- Activism
-- Press
 - Politics
 tags:
 - Betsey Bruce
 - charles jaco
-- KPLR
 - Shirley Washington
 type: "post"
 ---

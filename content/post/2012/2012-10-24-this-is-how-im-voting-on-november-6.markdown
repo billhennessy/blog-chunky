@@ -8,13 +8,7 @@ url: /2012/10/24/this-is-how-im-voting-on-november-6/
 categories:
 - Politics
 tags:
-- Politics
-- Politics
-- endorsements
-- how to vote
-- Politics ballot measures
-- november 6
-- support
+
 type: "post"
 ---
 

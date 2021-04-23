@@ -9,11 +9,7 @@ categories:
 - Economy
 tags:
 - employment
-- jobs
-- joe weisenthal
-- private sector
-- public sector
-- unemployment
+
 type: "post"
 ---
 

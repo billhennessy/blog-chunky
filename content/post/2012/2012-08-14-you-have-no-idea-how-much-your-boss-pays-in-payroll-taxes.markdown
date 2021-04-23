@@ -9,13 +9,7 @@ categories:
 - Economy
 tags:
 - Democratic Party
-- employment
-- rasmussen
-- rush limbaugh
-- Small business
-- Tax
-- United States
-- Washington
+
 type: "post"
 ---
 

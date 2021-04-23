@@ -10,31 +10,7 @@ categories:
 - Politics
 - News
 tags:
-- America
-- analysis
-- Andrea
-- Carville
-- cliché
-- democracy
-- Down
-- Politics
-- Eviction
-- Gave
-- George
-- Here
-- James
-- Mitchell
-- News
-- Notice
-- obama
-- Over
-- president
-- Republicans
-- romney
-- Stephanopoulos
-- Stephie
-- viewers
-- Went
+
 type: "post"
 ---
 

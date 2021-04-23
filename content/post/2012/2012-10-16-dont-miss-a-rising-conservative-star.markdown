@@ -9,11 +9,7 @@ categories:
 - Politics
 tags:
 - Activism
-- American Majority
-- conservative
-- Hillsdale College
-- Madison Project
-- Raz Shafer
+
 type: "post"
 ---
 

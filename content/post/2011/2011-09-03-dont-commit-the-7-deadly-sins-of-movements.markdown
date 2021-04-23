@@ -6,12 +6,10 @@ title: Don't Commit the 7 Deadly Sins of Movements
 layout: blog
 url: /2011/09/03/dont-commit-the-7-deadly-sins-of-movements/
 categories:
-- News
 - Politics
 tags:
 - 7 Deadly Sins
-- Politics
-- Politics
+
 type: "post"
 ---
 

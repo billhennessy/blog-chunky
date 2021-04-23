@@ -8,8 +8,6 @@ url: /2011/11/14/you-could-be-saving-a-life/
 categories:
 - Politics
 tags:
-- donations
-- Help
 - joplin
 type: "post"
 ---

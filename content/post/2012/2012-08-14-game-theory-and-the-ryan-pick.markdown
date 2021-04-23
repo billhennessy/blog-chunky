@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - game theory
-- obama
-- Paul Ryan
-- romney
+
 type: "post"
 ---
 

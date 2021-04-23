@@ -9,16 +9,7 @@ categories:
 - Politics
 tags:
 - Chris Koster
-- local control
-- Louis
-- Politics
-- police
-- proposition a
-- rex sinquefield
-- Politics Missouri
-- Politics police
-- Politics Police Department
-- st.-louis
+
 type: "post"
 ---
 

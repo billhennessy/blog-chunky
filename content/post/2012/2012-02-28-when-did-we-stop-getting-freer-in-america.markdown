@@ -9,11 +9,7 @@ categories:
 - Politics
 tags:
 - 13th Amendment
-- 13th Amendment Freedom Week
-- emancipation
-- freedom
-- Kariem Haqq
-- liberty
+
 type: "post"
 ---
 

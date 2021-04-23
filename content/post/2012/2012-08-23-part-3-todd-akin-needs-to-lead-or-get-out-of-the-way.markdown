@@ -9,13 +9,7 @@ categories:
 - News
 tags:
 - Barack Obama
-- Claire McCaskill
-- GOP
-- Politics
-- republican
-- senate
-- Todd Akin
-- United States Senate
+
 type: "post"
 ---
 

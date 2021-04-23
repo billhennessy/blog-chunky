@@ -8,23 +8,8 @@ url: /2012/07/06/time-for-defiance-resistance-and-resolve-in-missouri/
 categories:
 - Politics
 tags:
-- Bobby Jindal
-- brian nieves
-- defiance
-- Politics
-- Insurance Exchange
-- Jane Cunningham
-- Jason Crowell
-- Jim Lembke
-- Politics
-- Politics
-- Politics
-- republican
-- resistance
-- resolve
-- Show-Me Health Insurance Exchange Act
-- state sovereignty
-- Will Kraus
+
+
 type: "post"
 ---
 

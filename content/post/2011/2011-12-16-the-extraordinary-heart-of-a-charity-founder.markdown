@@ -9,12 +9,7 @@ categories:
 - Living
 tags:
 - Africa
-- charity
-- giving
-- Help
-- Kenya
-- mercys hope
-- others
+
 type: "post"
 ---
 

@@ -7,10 +7,8 @@ layout: blog
 url: /2011/08/04/are-you-ready-for-the-next-wave/
 categories:
 - Politics
-- Politics
 tags:
-- Politics
-- Politics
+
 type: "post"
 ---
 

@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - 11th commandment
-- nashua debate
-- newt gingrich
-- ronald-reagan
+
 type: "post"
 ---
 

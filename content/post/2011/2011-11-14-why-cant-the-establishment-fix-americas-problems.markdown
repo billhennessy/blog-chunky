@@ -7,14 +7,10 @@ layout: blog
 url: /2011/11/14/why-cant-the-establishment-fix-americas-problems/
 categories:
 - Politics
-- News
+
 tags:
 - Barry Goldwater
-- establishment
-- grassroots
-- phyllis schlafly
-- ronald-reagan
-- Politics
+
 type: "post"
 ---
 

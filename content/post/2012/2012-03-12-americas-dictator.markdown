@@ -9,9 +9,7 @@ categories:
 - News
 tags:
 - dictator
-- new york times
-- president obama
-- summary execution
+
 type: "post"
 ---
 

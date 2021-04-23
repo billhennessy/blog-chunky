@@ -9,16 +9,7 @@ categories:
 - Politics
 tags:
 - bill clinton
-- Democrat
-- democrats
-- Mackinac Center for Public Policy
-- Politics
-- republican
-- Republicans
-- Tax
-- Tax credit
-- TurboTax
-- United States
+
 type: "post"
 ---
 

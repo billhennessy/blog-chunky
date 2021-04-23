@@ -11,11 +11,7 @@ categories:
 tags:
 - compromise
 - Debt Ceiling
-- debt deal
-- default
-- establishment
-- obama
-- Politics
+=
 type: "post"
 ---
 

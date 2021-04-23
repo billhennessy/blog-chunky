@@ -11,20 +11,7 @@ tags:
 - al-qaeda
 - Barack Obama
 - benghazi
-- Chris Stevens
-- CIA
-- Dreyfus Affair
-- heroes
-- honor
-- military
-- Navy SEAL
-- obama
-- petraeus
-- Ty Woods
-- Tyrone Woods
-- United States
-- Politics
-- youtube
+
 type: "post"
 ---
 

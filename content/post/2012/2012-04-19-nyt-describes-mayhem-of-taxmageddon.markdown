@@ -12,17 +12,7 @@ post_format:
 - Standard
 tags:
 - David Leonhardt
-- debt
-- Economy
-- Politics
-- entitlements
-- government
-- new york times
-- romney
-- spending
-- tax increase
-- taxes
-- Taxmageddon
+
 type: "post"
 ---
 

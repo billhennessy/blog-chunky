@@ -8,10 +8,7 @@ url: /2012/01/02/imagine-that-america-was-40000-laws-short-of-a-full-deck/
 categories:
 - Politics
 tags:
-- Politics
-- hoarders
-- laws
-- new laws
+
 type: "post"
 ---
 

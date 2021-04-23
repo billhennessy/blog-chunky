@@ -8,21 +8,8 @@ url: /2012/11/02/life-as-youve-known-it-is-about-to-change/
 categories:
 - Activism
 tags:
-- Politics
-- Activism
-- Barack Obama
-- Politics 2012
-- Free society
-- freedom
-- GOTV
-- liberty
-- Lin Ferry
-- president
-- Politics Missouri
-- Politics tea party
-- st.-louis
-- Todd Akin
-- United States
+
+
 type: "post"
 ---
 

@@ -10,14 +10,7 @@ categories:
 - Politics
 tags:
 - abortion
-- Birth Control
-- Bishops
-- Faith
-- Chief of Staff
-- Jack Lew
-- Politics
-- totalitarian
-- Politics
+
 type: "post"
 ---
 

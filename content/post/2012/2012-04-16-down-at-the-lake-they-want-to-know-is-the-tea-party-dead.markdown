@@ -10,13 +10,7 @@ categories:
 - Politics
 tags:
 - Camdenton
-- Cynthia Davis
-- ed martin
-- Lake Liberal
-- Lake of the Ozarks
-- Politics
-- Rallies
-- Politics
+
 type: "post"
 ---
 

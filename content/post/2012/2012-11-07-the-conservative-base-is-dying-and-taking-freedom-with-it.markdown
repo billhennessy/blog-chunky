@@ -9,13 +9,7 @@ categories:
 - Politics
 tags:
 - Barack Obama
-- Politics
-- George W. Bush
-- GOP
-- Harvard Institute of Politics
-- republican
-- Politics
-- voting
+
 type: "post"
 ---
 

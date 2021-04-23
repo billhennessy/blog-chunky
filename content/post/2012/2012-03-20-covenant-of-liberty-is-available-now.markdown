@@ -9,7 +9,6 @@ categories:
 - Politics
 tags:
 - American History
-- Constitution
 - Covenant of Liberty
 - michael patrick leahy
 type: "post"

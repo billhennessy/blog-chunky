@@ -9,15 +9,7 @@ categories:
 - Politics
 tags:
 - Barack Obama
-- Chicago
-- Michael Dukakis
-- Mitt Romney
-- obama
-- Paul Ryan
-- Rahm Emanuel
-- Republicans
-- romney
-- United States
+
 type: "post"
 ---
 

@@ -8,14 +8,7 @@ url: /2012/12/05/the-gop/
 categories:
 - Politics
 tags:
-- Boxing
-- Hook (boxing)
-- New Jersey
-- Olympic Games
-- Television
-- The Champ
-- Vaseline
-- Wine tasting descriptors
+
 type: "post"
 ---
 

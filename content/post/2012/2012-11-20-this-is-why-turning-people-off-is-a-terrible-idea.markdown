@@ -9,13 +9,7 @@ categories:
 - News
 tags:
 - abortion
-- CNN
-- gallup
-- Michael Kinsley
-- new york times
-- Opposition to the legalization of abortion
-- Support for the legalization of abortion
-- Todd Akin
+
 type: "post"
 ---
 

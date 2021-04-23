@@ -9,12 +9,7 @@ categories:
 - Politics
 tags:
 - afghanistan
-- John McCain
-- Lindsey Graham
-- mike mullen
-- obama
-- petraeus
-- troop withdrawal
+
 type: "post"
 ---
 

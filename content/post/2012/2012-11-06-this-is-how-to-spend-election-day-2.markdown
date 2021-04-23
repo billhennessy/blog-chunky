@@ -9,11 +9,7 @@ categories:
 - Living
 tags:
 - Politics 2012
-- Politics Day
-- Ferris Bueller's Day Off
-- Leisure
-- pursuit of happiness
-- rights
+
 type: "post"
 ---
 

@@ -8,13 +8,6 @@ url: /2012/09/17/can-you-trust-barack-obama-for-4-more-years/
 categories:
 - Politics
 tags:
-- BarackObama
-- Iraq
-- Middle East
-- Nassim Nicholas Taleb
-- obama
-- president
-- United States
 - William S. Burroughs
 type: "post"
 ---

@@ -10,9 +10,6 @@ categories:
 tags:
 - crisis
 - Generation X
-- History
-- james goulding
-- Millennials
 - strauss and howe
 type: "post"
 ---

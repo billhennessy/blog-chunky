@@ -9,14 +9,7 @@ url: /2012/12/05/here-is-exactly-how-the-special-election-to-replace-jo-ann-emer
 categories:
 - News
 tags:
-- 8th Congressional District
-- Congressional district
-- elections
-- Jo Ann Emerson
-- Politics
-- Politics's 8th congressional district
-- National Rural Electric Cooperative Association
-- republican
+
 type: "post"
 ---
 

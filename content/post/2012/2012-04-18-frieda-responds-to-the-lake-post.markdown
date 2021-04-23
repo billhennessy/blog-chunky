@@ -9,11 +9,7 @@ categories:
 - Activism
 tags:
 - Activism
-- GOP
-- Politics Precinct Project
-- MOPP
-- Raging Elephants
-- republican
+
 type: "post"
 ---
 

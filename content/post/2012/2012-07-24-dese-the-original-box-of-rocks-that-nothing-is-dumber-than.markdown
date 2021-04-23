@@ -8,14 +8,7 @@ url: /2012/07/24/dese-the-original-box-of-rocks-that-nothing-is-dumber-than/
 categories:
 - Academics
 tags:
-- California State Board of Education
-- Chris Nicastro
-- DESE
-- Politics
-- Secondary education
-- Tim Jones
-- United States
-- United States Department of Education
+
 type: "post"
 ---
 

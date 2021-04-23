@@ -6,15 +6,10 @@ title: What Do Post Dispatch Reporters and Penn State Have in Common?
 layout: blog
 url: /2011/11/19/what-do-post-dispatch-reporters-and-joe-paterno-have-in-common/
 categories:
-- Press
 - Politics
 tags:
 - 'occupystl'
-- occupy
-- OWS
-- Penn State
-- post-dispatch
-- sexual assault
+
 type: "post"
 ---
 

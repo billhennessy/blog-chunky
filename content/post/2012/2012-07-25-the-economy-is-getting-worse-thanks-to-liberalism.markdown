@@ -9,13 +9,7 @@ categories:
 - Economy
 tags:
 - Barack Obama
-- Betamax
-- china
-- Great Depression
-- obama
-- United States
-- United States Department of Labor
-- VHS
+
 type: "post"
 ---
 

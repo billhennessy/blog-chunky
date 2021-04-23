@@ -11,11 +11,7 @@ categories:
 tags:
 - charity
 - Donald J. Trump
-- government
-- human networks
-- Scrooge
-- Politics
-- welfare
+
 type: "post"
 ---
 

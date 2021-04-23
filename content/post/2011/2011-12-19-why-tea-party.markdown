@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - debt
-- liberty
-- Politics
-- tyranny
+
 type: "post"
 ---
 

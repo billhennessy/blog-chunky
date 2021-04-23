@@ -10,10 +10,7 @@ categories:
 - Living
 tags:
 - depression
-- Politics
-- perseverance
-- psychology
-- Supreme-Court
+
 type: "post"
 ---
 

@@ -8,14 +8,8 @@ url: /2012/02/01/dont-bet-on-election-outcomes/
 categories:
 - Politics
 tags:
-- Politics
-- 3rd anniversary tea party
-- bet on elections
-- kahneman
-- narrative fallacy
-- Politics
-- Living
-- statistics
+
+
 type: "post"
 ---
 

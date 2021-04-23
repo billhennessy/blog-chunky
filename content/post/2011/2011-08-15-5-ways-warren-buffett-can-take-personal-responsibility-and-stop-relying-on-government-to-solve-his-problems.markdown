@@ -8,13 +8,8 @@ layout: blog
 url: /2011/08/15/5-ways-warren-buffett-can-take-personal-responsibility-and-stop-relying-on-government-to-solve-his-problems/
 categories:
 - Politics
-- News
+
 tags:
-- mega-rich
-- personal responsibility
-- tax increase
-- taxes
-- Politics
 - warren buffett
 type: "post"
 ---

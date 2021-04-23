@@ -8,11 +8,6 @@ url: /2012/05/03/action-steve-tilley-and-kevin-engler-want-to-implement-obamacar
 categories:
 - Activism
 tags:
-- Activism
-- fillibuster
-- HB 1193
-- Politics
-- Obmacare
 - tilley
 type: "post"
 ---

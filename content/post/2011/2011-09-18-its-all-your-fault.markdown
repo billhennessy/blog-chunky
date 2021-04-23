@@ -7,10 +7,10 @@ layout: blog
 url: /2011/09/18/its-all-your-fault/
 categories:
 - Politics
-- Politics
+
 tags:
 - Overflow
-- Politics
+
 type: "post"
 ---
 

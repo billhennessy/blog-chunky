@@ -8,14 +8,8 @@ url: /2012/07/16/just-how-bad-would-a-second-obama-term-be/
 categories:
 - Politics
 tags:
-- BarackObama
-- God
-- obama
-- Obama administration
-- United State
-- United States Congress
-- United States Constitution
-- Politics
+
+
 type: "post"
 ---
 

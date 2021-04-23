@@ -9,12 +9,7 @@ categories:
 - Politics
 tags:
 - banking
-- business insider
-- derivatives
-- Henry Blodget
-- JP Morgan
-- risk
-- wall street
+
 type: "post"
 ---
 

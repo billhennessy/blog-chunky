@@ -7,11 +7,7 @@ layout: blog
 url: /2011/08/31/missouris-crap-sandwich-servers/
 categories:
 - Politics
-- Politics
-- Politics
 tags:
-- aerotropolis
-- china hub
 - Eric Schmitt
 type: "post"
 ---

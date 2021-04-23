@@ -9,11 +9,7 @@ categories:
 - Faith
 tags:
 - Faith
-- Christian
-- humility
-- Lent
-- mortality
-- sacrifice
+
 type: "post"
 ---
 

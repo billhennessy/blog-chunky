@@ -8,14 +8,7 @@ url: /2012/09/30/ignoramus-rex/
 categories:
 - Politics
 tags:
-- Attorney General
-- ed martin
-- Politics 2012
-- Politics
-- Obama's Lawyer
-- Republicans
-- Rex Singquefield
-- Politics
+
 type: "post"
 ---
 

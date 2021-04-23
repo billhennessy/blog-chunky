@@ -10,13 +10,7 @@ categories:
 tags:
 - African-American
 - black conservatives.
-- Christopher Arps
-- elections
-- Martin Baker
-- MO-1
-- MoveOneUp
-- Politics tea party
-- Politics
+
 type: "post"
 ---
 

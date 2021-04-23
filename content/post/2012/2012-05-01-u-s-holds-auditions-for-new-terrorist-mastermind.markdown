@@ -9,12 +9,7 @@ categories:
 - Satire
 tags:
 - funny
-- humor
-- Jay Carney
-- laughs
-- obama
-- Osama bin Laden
-- satire
+
 type: "post"
 ---
 

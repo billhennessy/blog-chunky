@@ -8,10 +8,6 @@ url: /2012/12/21/heres-what-happens-now-that-boehners-plan-b-went-down-in-flames
 categories:
 - Politics
 tags:
-- Boehner
-- compromise
-- fiscal cliff
-- Plan B
 - Strategy
 type: "post"
 ---

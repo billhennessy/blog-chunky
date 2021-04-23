@@ -9,11 +9,9 @@ categories:
 - News
 tags:
 - Baby Boomers
-- debt
 - Generation X
 - Millennials
-- Scrooge
-- WWII Generation
+
 type: "post"
 ---
 

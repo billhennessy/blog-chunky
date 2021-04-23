@@ -9,20 +9,7 @@ categories:
 - Politics
 tags:
 - Barack Obama
-- demographics
-- GOP
-- John McCain
-- marketing
-- Millennials
-- Mitt Romney
-- political marketing
-- Politics
-- republican
-- Republican voters are dying faster than they're being replaced
-- romney
-- statistics
-- Washington
-- Washington DC
+
 type: "post"
 ---
 

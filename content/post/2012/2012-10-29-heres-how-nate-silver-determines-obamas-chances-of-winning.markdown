@@ -8,12 +8,8 @@ url: /2012/10/29/heres-how-nate-silver-determines-obamas-chances-of-winning/
 categories:
 - Politics
 tags:
-- business insider
-- FiveThirtyEight
 - Henry Blodget
 - Nate Silver
-- obama
-- Polls
 - satire
 type: "post"
 ---

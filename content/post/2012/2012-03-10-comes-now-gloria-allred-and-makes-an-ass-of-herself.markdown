@@ -8,11 +8,7 @@ url: /2012/03/09/comes-now-gloria-allred-and-makes-an-ass-of-herself/
 categories:
 - News
 tags:
-- florida law
-- gloria allred
-- rush limbaugh
-- sandra fluke
-- slut
+
 type: "post"
 ---
 

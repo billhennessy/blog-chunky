@@ -8,18 +8,7 @@ url: /2012/12/11/american-schools-replace-great-fiction-with-government-propagan
 categories:
 - Academics
 tags:
-- A Separate Peace
-- Catcher in the Rye
-- common core standards
-- Department of Education
-- Academics
-- English literature
-- Fear and Loathing in Las Vegas
-- humanities education
-- individualism
-- literature
-- schools
-- standardized testing in schools
+
 type: "post"
 ---
 

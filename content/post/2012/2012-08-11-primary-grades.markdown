@@ -9,10 +9,7 @@ categories:
 - Politics
 tags:
 - ed martin
-- Politics
-- Peter Kinder
-- primary
-- republican
+
 type: "post"
 ---
 

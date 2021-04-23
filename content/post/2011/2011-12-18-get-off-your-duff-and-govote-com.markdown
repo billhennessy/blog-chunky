@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - civics
-- govote.com
-- participation
-- Politics
+
 type: "post"
 ---
 

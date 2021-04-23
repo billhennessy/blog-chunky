@@ -10,11 +10,7 @@ categories:
 tags:
 - A Christmas Carol
 - Dickens
-- good government
-- good society
-- liberty
-- pursuit of happiness
-- wealth
+
 type: "post"
 ---
 

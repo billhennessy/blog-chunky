@@ -11,11 +11,6 @@ categories:
 post_format:
 - Aside
 tags:
-- democrats
-- Ed Griesedieck
-- fraud
-- Politics employers mutual
-- money laundering
 - roger wilson
 type: "post"
 ---

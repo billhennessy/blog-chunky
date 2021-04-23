@@ -10,12 +10,7 @@ categories:
 tags:
 - charles jaco
 - Claire McCaskill
-- Karl Rove
-- Politics
-- republican
-- Rove
-- Todd Akin
-- United States
+
 type: "post"
 ---
 

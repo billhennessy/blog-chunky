@@ -9,12 +9,7 @@ categories:
 - Politics
 tags:
 - brain science
-- colonoscopies
-- daniel kahneman
-- Debates
-- elections
-- experience
-- memory
+
 type: "post"
 ---
 

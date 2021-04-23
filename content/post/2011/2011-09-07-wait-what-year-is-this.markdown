@@ -8,8 +8,6 @@ url: /2011/09/06/wait-what-year-is-this/
 categories:
 - Politics
 tags:
-- '1979'
-- '2011'
 - Barack Obama
 - Jimmy Carter
 type: "post"

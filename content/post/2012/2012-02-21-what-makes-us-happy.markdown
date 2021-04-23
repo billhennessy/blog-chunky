@@ -8,12 +8,7 @@ url: /2012/02/21/what-makes-us-happy/
 categories:
 - Faith
 tags:
-- christianity
-- contraception
-- government
-- jihad
-- obama
-- persecution
+
 type: "post"
 ---
 

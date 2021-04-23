@@ -10,13 +10,7 @@ categories:
 - Politics
 tags:
 - conservatives
-- Politics
-- police
-- solyndra
-- Politics Board of Police Commissioners
-- Politics Missouri
-- Politics Police Department
-- st.-louis
+
 type: "post"
 ---
 

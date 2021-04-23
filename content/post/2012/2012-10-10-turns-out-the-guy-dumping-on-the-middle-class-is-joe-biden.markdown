@@ -10,12 +10,7 @@ categories:
 tags:
 - Barack Obama
 - ed martin
-- Joe Biden
-- obama
-- Paul Ryan
-- Thursday
-- Todd Akin
-- United States
+
 type: "post"
 ---
 

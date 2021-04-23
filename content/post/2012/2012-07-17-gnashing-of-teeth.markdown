@@ -10,13 +10,7 @@ categories:
 - News
 tags:
 - Barack Obama
-- Mitt Romney
-- obama
-- Opinion poll
-- president
-- RealClearPolitics
-- Thursday
-- United States
+
 type: "post"
 ---
 

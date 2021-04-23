@@ -10,13 +10,7 @@ categories:
 - Donald Trump
 tags:
 - bureaucracy
-- Donald J. Trump
-- government
-- GSA
-- Jeff Neely
-- Las Vegas
-- M Hotel
-- scandal
+
 type: "post"
 ---
 

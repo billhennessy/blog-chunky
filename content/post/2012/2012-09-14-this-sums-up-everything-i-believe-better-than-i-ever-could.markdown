@@ -9,12 +9,6 @@ categories:
 - News
 tags:
 - Barack Obama
-- Mitt Romney
-- MSNBC
-- National Review
-- new york times
-- Politics
-- United States
 - William F. Buckley
 type: "post"
 ---

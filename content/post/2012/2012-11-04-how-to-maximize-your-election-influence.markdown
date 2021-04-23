@@ -8,20 +8,7 @@ url: /2012/11/04/how-to-maximize-your-election-influence/
 categories:
 - Politics
 tags:
-- answer
-- Politics
-- 'Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives'
-- Early Voting
-- Politics Day
-- elections
-- Facebook
-- Hachette Book Group USA
-- James H. Fowler
-- Multiplayer online game
-- Politics
-- President of the United States
-- United States
-- voting
+
 type: "post"
 ---
 

@@ -8,14 +8,7 @@ url: /2012/03/29/a-health-insurance-solution-that-some-smart-state-should-try/
 categories:
 - Politics
 tags:
-- Politics
-- Living insurance
-- Livingcare
-- medical costs
-- medical insurance
-- medicine
-- Politics
-- tort reform
+
 type: "post"
 ---
 

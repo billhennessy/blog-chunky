@@ -9,8 +9,7 @@ categories:
 - News
 tags:
 - email
-- spam filters
-- yahoo
+
 type: "post"
 ---
 

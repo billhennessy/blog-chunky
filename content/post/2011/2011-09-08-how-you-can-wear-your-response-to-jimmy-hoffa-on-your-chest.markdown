@@ -8,8 +8,6 @@ url: /2011/09/07/how-you-can-wear-your-response-to-jimmy-hoffa-on-your-chest/
 categories:
 - Politics
 tags:
-- jimmy hoffa
-- t-shirts
 - Tea Party Gear
 type: "post"
 ---

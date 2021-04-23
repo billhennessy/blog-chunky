@@ -9,12 +9,7 @@ categories:
 - News
 tags:
 - contraceptives
-- georgetown
-- ivanhoe
-- rush limbaugh
-- sandra fluke
-- sir walter scott
-- slut
+
 type: "post"
 ---
 

@@ -9,19 +9,7 @@ categories:
 - Politics
 tags:
 - Attorney General
-- Chris Koster
-- ed martin
-- Politics 2012
-- Get Out the Vote
-- GOTV
-- grassroots
-- Heritage Action
-- Madison Project
-- Politics
-- republican
-- Politics Missouri
-- Politics tea party
-- Todd Akin
+
 type: "post"
 ---
 

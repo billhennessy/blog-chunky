@@ -10,11 +10,7 @@ categories:
 tags:
 - establishment
 - Gingrich
-- Iowa Caucus
-- Paul
-- Repbulican
-- romney
-- Santorum
+
 type: "post"
 ---
 

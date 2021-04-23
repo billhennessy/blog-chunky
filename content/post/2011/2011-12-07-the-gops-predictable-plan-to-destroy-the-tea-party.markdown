@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - establishment
-- GOP
-- insurgents
-- Politics
+
 type: "post"
 ---
 

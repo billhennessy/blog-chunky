@@ -9,10 +9,7 @@ categories:
 - Politics
 tags:
 - emotions
-- facts
-- logic
-- rational mind
-- thinking
+
 type: "post"
 ---
 

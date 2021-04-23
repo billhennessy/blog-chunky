@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - David and Goliath
-- establishment
-- insurgents
-- malcolm gladwell
+
 type: "post"
 ---
 

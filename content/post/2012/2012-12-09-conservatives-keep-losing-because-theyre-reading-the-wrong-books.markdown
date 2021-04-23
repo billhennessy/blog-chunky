@@ -8,24 +8,6 @@ url: /2012/12/09/conservatives-keep-losing-because-theyre-reading-the-wrong-book
 categories:
 - Politics
 tags:
-- books
-- Colorado
-- Constitution
-- Democratic Party
-- Generation Y
-- grow your mind
-- important books for conservatives
-- power
-- read this not that
-- reading the right books
-- reading the wrong books
-- republican
-- right vs. winning
-- Steve Jobs
-- Study group
-- United States Constitution
-- victory
-- what conservatives should read
 - winning
 type: "post"
 ---

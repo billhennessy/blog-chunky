@@ -9,13 +9,7 @@ categories:
 - Politics
 tags:
 - Barack Obama
-- CNN
-- Facebook
-- Mitt Romney
-- North Carolina
-- obama
-- romney
-- Politics
+
 type: "post"
 ---
 

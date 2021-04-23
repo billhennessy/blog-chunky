@@ -9,13 +9,7 @@ categories:
 - News
 tags:
 - Ben Evans
-- Member of Congress
-- Patient Protection and Affordable Care Act
-- Todd Akin
-- Twitter
-- United States Congress
-- United States House of Representatives
-- Politics
+
 type: "post"
 ---
 

@@ -10,11 +10,7 @@ categories:
 tags:
 - '1996'
 - Bob Dole
-- Buchanan Brigades
-- establishment
-- Mitt Romney
-- Pat Buchanan
-- republican
+
 type: "post"
 ---
 

@@ -8,10 +8,7 @@ url: /2012/07/05/millennials-about-to-bite-obamas-crap-sandwich-with-relish/
 categories:
 - Politics
 tags:
-- business insider
-- insurance costs
-- Millennials
-- Politics
+
 type: "post"
 ---
 

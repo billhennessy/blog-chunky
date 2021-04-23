@@ -9,10 +9,7 @@ categories:
 - Economy
 tags:
 - David C. Rose
-- Economics
-- Interview
-- liberty
-- UMSL
+
 type: "post"
 ---
 

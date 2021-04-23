@@ -9,12 +9,6 @@ categories:
 - Politics
 tags:
 - abortion
-- contraceptions
-- obama
-- old courthouse
-- relig
-- religious freedom
-- Timothy Cardinal Dolan
 - zip rzeppa
 type: "post"
 ---

@@ -8,14 +8,7 @@ url: /2012/12/04/did-lloyd-smith-and-jo-ann-emerson-plan-this-all-along/
 categories:
 - Politics
 tags:
-- Emerson
-- Jo Ann Emerson
-- John McCain
-- Lloyd Smith
-- Politics
-- Mitt Romney
-- republican
-- Smith
+
 type: "post"
 ---
 

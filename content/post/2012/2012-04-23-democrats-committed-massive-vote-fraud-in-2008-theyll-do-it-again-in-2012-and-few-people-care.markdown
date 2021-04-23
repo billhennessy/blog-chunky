@@ -10,12 +10,7 @@ categories:
 post_format:
 - Standard
 tags:
-- democrat election fraud
-- Politics fraud
-- eric holder
-- new black panther party
-- voter fraud
-- voter intimidation
+
 type: "post"
 ---
 

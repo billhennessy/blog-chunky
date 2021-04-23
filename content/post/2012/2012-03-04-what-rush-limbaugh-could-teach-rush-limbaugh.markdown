@@ -8,9 +8,6 @@ url: /2012/03/04/what-rush-limbaugh-could-teach-rush-limbaugh/
 categories:
 - News
 tags:
-- apology
-- carbonite
-- political correctness
 - rush limbaugh
 type: "post"
 ---

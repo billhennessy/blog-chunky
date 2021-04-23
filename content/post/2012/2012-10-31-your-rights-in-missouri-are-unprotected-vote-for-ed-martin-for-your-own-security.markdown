@@ -8,14 +8,7 @@ url: /2012/10/31/your-rights-in-missouri-are-unprotected-vote-for-ed-martin-for-
 categories:
 - Politics
 tags:
-- Attorney General
-- Chris Koster
-- ed martin
-- Facebook
-- LinkedIn
-- Politics
-- Reddit
-- StumbleUpon
+
 type: "post"
 ---
 

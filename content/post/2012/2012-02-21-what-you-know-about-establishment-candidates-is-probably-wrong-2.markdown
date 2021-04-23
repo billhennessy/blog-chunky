@@ -8,9 +8,7 @@ url: /2012/02/21/what-you-know-about-establishment-candidates-is-probably-wrong-
 categories:
 - Politics
 tags:
-- candidates
-- establishment
-- mr. smith goes to washington
+
 type: "post"
 ---
 

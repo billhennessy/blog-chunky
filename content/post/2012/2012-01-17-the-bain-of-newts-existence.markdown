@@ -8,13 +8,7 @@ url: /2012/01/17/the-bain-of-newts-existence/
 categories:
 - Business
 tags:
-- apple
-- Bain Capital
-- Mitt Romney
-- newt gingrich
-- private equity
-- Steve Jobs
-- venture capital
+
 type: "post"
 ---
 

@@ -7,9 +7,9 @@ layout: blog
 url: /2011/09/15/my-remarks-to-first-after-party/
 categories:
 - Politics
-- Politics
+
 tags:
-- Politics
+
 type: "post"
 ---
 

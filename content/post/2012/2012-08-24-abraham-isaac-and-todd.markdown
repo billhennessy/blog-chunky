@@ -8,15 +8,7 @@ url: /2012/08/24/abraham-isaac-and-todd/
 categories:
 - Politics
 tags:
-- Abraham
-- Binding of Isaac
-- faith
-- God
-- Isaac
-- Israel
-- republican
-- Sarah
-- Todd Akin
+
 type: "post"
 ---
 

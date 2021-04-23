@@ -9,13 +9,7 @@ categories:
 - Economy
 tags:
 - crash
-- david stockman
-- debt
-- hedge funds
-- investment banks
-- paul krugman
-- ronald-reagan
-- wall street
+
 type: "post"
 ---
 

@@ -9,12 +9,7 @@ categories:
 - Politics
 tags:
 - Bain
-- capital
-- obama
-- private equity
-- romney
-- solyndra
-- venture capital
+
 type: "post"
 ---
 

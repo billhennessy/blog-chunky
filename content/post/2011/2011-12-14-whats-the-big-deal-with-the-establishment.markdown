@@ -9,10 +9,7 @@ categories:
 - Politics
 tags:
 - establishment
-- freedom
-- liberty
-- republican
-- Politics
+
 type: "post"
 ---
 

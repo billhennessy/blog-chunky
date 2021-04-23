@@ -9,8 +9,6 @@ categories:
 - Politics
 tags:
 - ed martin
-- kansas city
-- Nullify Now
 - Tenth-Amendment
 type: "post"
 ---

@@ -9,13 +9,7 @@ categories:
 - News
 tags:
 - Barack Obama
-- Democratic
-- democrats
-- God
-- Israel
-- Jerusalem
-- Third World
-- United States
+
 type: "post"
 ---
 

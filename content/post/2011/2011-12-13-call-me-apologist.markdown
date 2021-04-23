@@ -9,10 +9,7 @@ categories:
 - Living
 tags:
 - apologist
-- Glenn Kessler
-- obama
-- romney
-- Washington Post
+
 type: "post"
 ---
 

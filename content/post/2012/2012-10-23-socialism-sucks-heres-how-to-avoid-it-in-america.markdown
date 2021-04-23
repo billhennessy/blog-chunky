@@ -8,14 +8,6 @@ url: /2012/10/23/socialism-sucks-heres-how-to-avoid-it-in-america/
 categories:
 - Politics
 tags:
-- evil
-- freedom
-- Hayek
-- liberty
-- Nazi
-- socialism
-- The Road to Surfdom
-- totalitarianism
 type: "post"
 ---
 

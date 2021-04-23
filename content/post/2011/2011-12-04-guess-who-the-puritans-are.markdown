@@ -9,10 +9,7 @@ categories:
 - Living
 tags:
 - doctrinaire
-- establishment
-- puritanical
-- republican
-- Politics
+
 type: "post"
 ---
 

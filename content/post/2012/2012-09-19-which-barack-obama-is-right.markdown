@@ -8,14 +8,7 @@ url: /2012/09/19/which-barack-obama-is-right/
 categories:
 - Politics
 tags:
-- '2008'
-- BarackObama
-- elections
-- government
-- MittRomney
-- obama
-- president
-- United States
+
 type: "post"
 ---
 

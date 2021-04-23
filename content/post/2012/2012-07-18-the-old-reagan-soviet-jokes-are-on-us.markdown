@@ -9,13 +9,7 @@ categories:
 - Politics
 tags:
 - Barack Obama
-- obama
-- reagan
-- ronald-reagan
-- Russian jokes
-- Soviet Union
-- toronto
-- United States
+
 type: "post"
 ---
 

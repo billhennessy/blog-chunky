@@ -9,13 +9,7 @@ categories:
 - Politics
 tags:
 - Barack Obama
-- Democratic
-- God
-- Israel
-- Jerusalem
-- John Boehner
-- Tammy Bruce
-- United States
+
 type: "post"
 ---
 

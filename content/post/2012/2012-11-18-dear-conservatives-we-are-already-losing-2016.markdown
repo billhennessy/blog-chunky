@@ -9,14 +9,7 @@ categories:
 - Politics
 tags:
 - Barack Obama
-- Democratic Party (United States)
-- electoral college
-- Generation Y
-- Millennials
-- obama
-- republican
-- United States
-- voting
+
 type: "post"
 ---
 

@@ -8,8 +8,6 @@ url: /2012/01/01/a-maniacal-focus-for-2012/
 categories:
 - Living
 tags:
-- '2012'
-- focus
 - Steve Jobs
 - Walter Isaacson
 type: "post"

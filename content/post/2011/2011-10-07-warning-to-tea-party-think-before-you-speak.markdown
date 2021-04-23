@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - Occupy Wall Street
-- OccupyWallStreet
-- TARP
-- Politics
+
 type: "post"
 ---
 

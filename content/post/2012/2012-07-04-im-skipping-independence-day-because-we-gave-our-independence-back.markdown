@@ -9,13 +9,7 @@ categories:
 - Politics
 tags:
 - 4th of July
-- American surrender
-- Barack Obama
-- Independence Day
-- John Roberts
-- Politics
-- slavery
-- suicide
+
 type: "post"
 ---
 

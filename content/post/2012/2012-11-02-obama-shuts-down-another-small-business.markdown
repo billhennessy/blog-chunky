@@ -9,13 +9,7 @@ categories:
 - Economy
 tags:
 - Barack Obama
-- Mitt Romney
-- obama
-- Obama administration
-- president
-- Small business
-- Politics Missouri
-- United States
+
 type: "post"
 ---
 

@@ -9,13 +9,7 @@ categories:
 - Politics
 tags:
 - domestic terrorism
-- FBI definition of terrorism
-- michigan
-- right to work
-- Politics
-- union terrorism
-- union violence
-- unions
+
 type: "post"
 ---
 

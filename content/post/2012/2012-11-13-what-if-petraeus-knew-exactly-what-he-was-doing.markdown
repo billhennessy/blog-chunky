@@ -9,15 +9,7 @@ categories:
 - Politics
 tags:
 - andrea mitchell
-- benghazi
-- Central Intelligence Agency
-- David Petraeus
-- Federal Bureau of Investigation
-- Jill Kelley
-- obama
-- Paula Broadwell
-- United States
-- Politics
+
 type: "post"
 ---
 

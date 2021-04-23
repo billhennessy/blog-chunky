@@ -9,14 +9,7 @@ categories:
 - Politics
 tags:
 - elitists
-- establishment
-- GOP
-- obama
-- primaries
-- Repbulican
-- romney
-- Santorum
-- voter enthusiasm
+
 type: "post"
 ---
 

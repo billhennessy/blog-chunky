@@ -8,15 +8,7 @@ url: /2012/01/26/breaking-ed-martin-running-for-attorney-general-in-missouri/
 categories:
 - Politics
 tags:
-- 'tcot'
-- 'teaparty'
-- Attorney General
-- Chris Koster
-- conservative
-- ed martin
-- Politics 2012
-- Politics
-- republican
+
 type: "post"
 ---
 

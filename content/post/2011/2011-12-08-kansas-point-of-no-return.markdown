@@ -9,11 +9,7 @@ categories:
 - Politics
 tags:
 - collectivism
-- individualism
-- Kansas
-- marxism
-- obama
-- socialism
+
 type: "post"
 ---
 

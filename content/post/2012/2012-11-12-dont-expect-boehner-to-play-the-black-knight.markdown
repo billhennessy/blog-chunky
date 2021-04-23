@@ -9,23 +9,7 @@ categories:
 - Politics
 tags:
 - Black Night
-- Boehner
-- Debt Ceiling
-- Debt Ceiling Showdown
-- dominant strategy
-- fiscal cliff
-- game theory
-- House Republicans
-- John Boehner
-- Michelle Malkin
-- Mitt Romney
-- Monty Python
-- Monty Python and the Holy Grail
-- Nate Silver
-- Reagan budget
-- republican
-- sequestration
-- the election
+
 type: "post"
 ---
 

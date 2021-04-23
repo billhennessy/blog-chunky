@@ -8,13 +8,8 @@ url: /2012/03/19/go-vote-in-illinois/
 categories:
 - Politics
 tags:
-- cook for congress
-- Politics
-- Il-12
-- Illinois
-- Illinois Congressional District 12
 - Rodger Cook
-- vote
+
 type: "post"
 ---
 

@@ -8,21 +8,7 @@ url: /2012/11/16/colleges-suffocate-free-speech/
 categories:
 - Academics
 tags:
-- Arts
-- Barack Obama
-- censorship
-- college
-- Colleges and Universities
-- Directories
-- Academics
-- first amendment
-- free speech
-- Freedom of speech
-- Greg Lukianoff
-- Hillsdale College
-- student rights
-- United States
-- universities
+
 type: "post"
 ---
 

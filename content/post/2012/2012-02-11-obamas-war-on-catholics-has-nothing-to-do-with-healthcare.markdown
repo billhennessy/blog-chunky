@@ -8,14 +8,7 @@ url: /2012/02/10/obamas-war-on-catholics-has-nothing-to-do-with-healthcare/
 categories:
 - Politics
 tags:
-- Faith
-- christianity
-- contraceptives
-- Livingcare
-- insurance
-- jihad
-- obama
-- Politics
+
 type: "post"
 ---
 

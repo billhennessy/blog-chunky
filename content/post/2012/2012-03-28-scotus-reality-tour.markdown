@@ -9,9 +9,7 @@ categories:
 - News
 tags:
 - anthony Kennedy
-- Livingcare
-- Politics
-- scotus
+
 type: "post"
 ---
 

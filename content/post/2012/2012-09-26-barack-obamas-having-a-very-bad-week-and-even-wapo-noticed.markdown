@@ -8,13 +8,6 @@ url: /2012/09/26/barack-obamas-having-a-very-bad-week-and-even-wapo-noticed/
 categories:
 - Politics
 tags:
-- BarackObama
-- iran
-- Israel
-- Jennifer Rubin
-- Middle East
-- obama
-- United State
 - Winston Churchill
 type: "post"
 ---

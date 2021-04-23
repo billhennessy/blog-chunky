@@ -10,12 +10,7 @@ categories:
 tags:
 - crazy talk
 - Politics 2012
-- Politics fraud
-- electoral college
-- Mitt Romney
-- romney
-- secession
-- vote fraud
+
 type: "post"
 ---
 

@@ -9,12 +9,7 @@ categories:
 - Economy
 tags:
 - Barack Obama
-- college cost
-- college tuition
-- Academics
-- higher education
-- medical costs
-- student loans
+
 type: "post"
 ---
 

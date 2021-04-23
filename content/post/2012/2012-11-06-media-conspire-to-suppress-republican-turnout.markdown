@@ -8,13 +8,6 @@ url: /2012/11/06/media-conspire-to-suppress-republican-turnout/
 categories:
 - Politics
 tags:
-- Barack Obama
-- KSDK
-- obama
-- politico
-- republican
-- United States
-- Voter suppression
 - voter turnout
 type: "post"
 ---

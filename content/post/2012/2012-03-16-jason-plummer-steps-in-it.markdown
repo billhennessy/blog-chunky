@@ -9,12 +9,7 @@ categories:
 - Politics
 tags:
 - GOP Establishment
-- grassroots
-- Il-12
-- Illinois Congressional District 12
-- Jason Plummer
-- Rodger Cook
-- Politics
+
 type: "post"
 ---
 

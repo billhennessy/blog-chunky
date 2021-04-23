@@ -8,11 +8,6 @@ url: /2012/03/17/rodger-cook-best-choice-for-southern-illinois/
 categories:
 - Politics
 tags:
-- Illinois
-- Illinois Congressional District 12
-- March 20
-- primary
-- Repbulican
 - Rodger Cook
 type: "post"
 ---

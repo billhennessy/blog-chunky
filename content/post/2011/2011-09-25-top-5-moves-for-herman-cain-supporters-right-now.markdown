@@ -9,15 +9,7 @@ categories:
 - Politics
 tags:
 - Politics 2012
-- Florida Straw Poll
-- GOP
-- herman cain
-- Mitt Romney
-- phyllis schlafly
-- republican
-- Rick Perry
-- social media
-- Weaving the Roots
+
 type: "post"
 ---
 

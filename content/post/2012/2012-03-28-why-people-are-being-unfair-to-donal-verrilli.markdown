@@ -9,10 +9,7 @@ categories:
 - News
 tags:
 - Donald Verrilli
-- My Cousin Vinny
-- Politics
-- scotus
-- Supreme-Court
+
 type: "post"
 ---
 

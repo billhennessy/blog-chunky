@@ -9,14 +9,7 @@ categories:
 - Politics
 tags:
 - Arizona
-- Claire McCaskill
-- conservatives
-- Politics
-- Sotomayor
-- Supreme-Court
-- trayvon martin
-- Verrilli
-- zimmerman
+
 type: "post"
 ---
 

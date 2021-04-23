@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - ruth bader ginsberg
-- Scouts
+
 type: "post"
 ---
 

@@ -8,13 +8,7 @@ url: /2012/08/23/part-2-here-is-todd-akins-real-crime/
 categories:
 - Politics
 tags:
-- Politics
-- Politics
-- republican
-- Todd
-- Todd Akin
-- United States Senate
-- Politics
+
 type: "post"
 ---
 

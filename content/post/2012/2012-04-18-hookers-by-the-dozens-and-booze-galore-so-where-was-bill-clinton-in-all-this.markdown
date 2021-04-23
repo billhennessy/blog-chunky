@@ -13,15 +13,7 @@ post_format:
 tags:
 - Barack Obama
 - booze
-- Cartagena
-- Columbia
-- drinking
-- GSA
-- Hillary-Clinton
-- hookers
-- nightclub
-- scandal
-- Secret Service
+
 type: "post"
 ---
 

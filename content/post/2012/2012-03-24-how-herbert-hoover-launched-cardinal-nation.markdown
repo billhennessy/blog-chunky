@@ -9,20 +9,7 @@ categories:
 - Politics
 - Politics
 tags:
-- 'tcot'
-- 'teaparty'
-- amazon
-- books
-- Cardinals Baseball
-- Covenant of Liberty
-- Herbert Hover
-- History
-- KMOX
-- michael patrick leahy
-- reading
-- Politics Cardinals
-- statism
-- woodrow wilson
+
 type: "post"
 ---
 

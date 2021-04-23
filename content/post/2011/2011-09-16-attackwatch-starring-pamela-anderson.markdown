@@ -9,10 +9,7 @@ categories:
 - News
 tags:
 - 'AttackWatch'
-- Baywatch
-- obama paranoia
-- pamela anderson
-- snitch program
+
 type: "post"
 ---
 

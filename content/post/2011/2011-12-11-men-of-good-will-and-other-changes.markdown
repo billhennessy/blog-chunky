@@ -9,9 +9,7 @@ categories:
 - News
 tags:
 - gloria
-- latin
-- mass
-- men of goodwill
+
 type: "post"
 ---
 

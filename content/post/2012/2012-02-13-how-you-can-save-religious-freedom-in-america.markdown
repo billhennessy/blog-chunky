@@ -9,14 +9,7 @@ categories:
 - Politics
 tags:
 - Faith
-- Politics
-- first amendment
-- freedom
-- life
-- obama
-- Faith
-- Faith
-- religious freedom
+
 type: "post"
 ---
 

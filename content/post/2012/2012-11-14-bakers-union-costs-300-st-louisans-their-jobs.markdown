@@ -9,19 +9,7 @@ categories:
 - Politics
 tags:
 - bakers union
-- bakers union strike
-- Barack Obama
-- Bayou Cane Louisiana
-- Citigroup
-- Hostess
-- Hostess strike
-- jobs
-- teamsters
-- Twinkie
-- unemployment
-- unions
-- United States
-- Xerox
+
 type: "post"
 ---
 

@@ -8,16 +8,7 @@ url: /2012/01/11/new-hampshire-exposes-gops-diverse-base/
 categories:
 - Politics
 tags:
-- '2012'
-- Blue Collar voters
-- Politics 2012
-- establishment
-- GOP
-- New Hampshire
-- Reagan Democrats
-- Repbulican
-- romney
-- Politics
+
 type: "post"
 ---
 

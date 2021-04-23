@@ -9,15 +9,7 @@ categories:
 - Economy
 tags:
 - central planning
-- failure of government
-- fiscal cliff
-- Hayek
-- liberty
-- planning
-- pursuit of happiness
-- recession
-- recession 2013
-- wall street journal
+
 type: "post"
 ---
 
