@@ -8,10 +8,7 @@ url: /2014/05/22/cried-made-bed/
 categories:
 - Living
 tags:
-- Admiral William McRaven
-- character
-- making the bed
-- Navy SEAL
+
 type: "post"
 ---
 

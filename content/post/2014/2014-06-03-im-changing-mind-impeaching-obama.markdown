@@ -10,9 +10,7 @@ categories:
 - Politics
 tags:
 - afghanistan
-- Bergdahl
-- desertion
-- US Army
+
 type: "post"
 ---
 

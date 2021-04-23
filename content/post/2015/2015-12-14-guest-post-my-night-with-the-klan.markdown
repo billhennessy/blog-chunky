@@ -8,8 +8,7 @@ url: /2015/12/14/guest-post-my-night-with-the-klan/
 categories:
 - Politics
 tags:
-- 2nd Amendment
-- KKK
+
 type: "post"
 ---
 

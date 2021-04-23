@@ -8,8 +8,7 @@ url: /2015/04/15/we-all-need-a-drink/
 categories:
 - Politics
 tags:
-- government
-- ronald-reagan
+
 type: "post"
 ---
 

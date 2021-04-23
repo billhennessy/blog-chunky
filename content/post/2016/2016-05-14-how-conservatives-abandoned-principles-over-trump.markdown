@@ -7,13 +7,10 @@ layout: blog
 url: /2016/05/14/how-conservatives-abandoned-principles-over-trump/
 categories:
 - Politics
-- Politics
-- Donald Trump
+
 tags:
 - Donald Trump
-- founding principles
-- Keeping the Promise
-- principles
+
 type: "post"
 ---
 

@@ -8,12 +8,7 @@ url: /2014/08/25/exposing-race-hustlers-ferguson/
 categories:
 - 'Ferguson'
 tags:
-- Al Sharpton
-- Politics
-- Jesse Jackson
-- mau-mauing the flak catchers
-- Economy
-- Tom Wolfe
+
 type: "post"
 ---
 

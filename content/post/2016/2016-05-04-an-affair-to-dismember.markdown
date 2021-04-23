@@ -7,11 +7,10 @@ layout: blog
 url: /2016/05/04/an-affair-to-dismember/
 categories:
 - Politics
-- Donald Trump
+
 tags:
 - Donald Trump
-- george will
-- Never-Trump
+
 type: "post"
 ---
 

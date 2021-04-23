@@ -9,11 +9,7 @@ categories:
 - News
 - Donald Trump
 tags:
-- '@realDonaldTrump'
-- Arthur C. Brooks
-- Donald Trump
-- New Dichotomy
-- political dichotomy
+
 type: "post"
 ---
 

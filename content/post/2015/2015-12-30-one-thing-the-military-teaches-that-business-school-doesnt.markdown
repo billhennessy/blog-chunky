@@ -10,7 +10,7 @@ categories:
 - Living
 tags:
 - Adam Carolla
-- Jordan Garrett
+
 type: "post"
 ---
 

@@ -7,13 +7,9 @@ layout: blog
 url: /2015/07/14/eric-greitens-shocking-revelation-could-shatter-peoples-faith/
 categories:
 - Politics
-- Politics
+
 tags:
-- Democrat
-- EricGreitens
-- Former Democrat
-- Governor
-- Politics
+
 type: "post"
 ---
 

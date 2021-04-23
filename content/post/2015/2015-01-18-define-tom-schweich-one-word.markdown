@@ -8,10 +8,7 @@ url: /2015/01/18/define-tom-schweich-one-word/
 categories:
 - Politics
 tags:
-- Catherine Hanaway
-- Governor
-- Politics
-- Rex Singquefield
+
 - tom schweich
 type: "post"
 ---

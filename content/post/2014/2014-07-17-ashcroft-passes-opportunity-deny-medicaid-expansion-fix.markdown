@@ -8,10 +8,7 @@ url: /2014/07/16/ashcroft-passes-opportunity-deny-medicaid-expansion-fix/
 categories:
 - Politics
 tags:
-- Jack Spooner
-- Jay Ashcroft
-- medicaid expansion
-- Politics
+
 type: "post"
 ---
 

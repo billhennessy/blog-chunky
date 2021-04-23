@@ -7,10 +7,10 @@ layout: blog
 url: /2016/05/05/world-leaders-and-paul-ryan-begin-negotiating-with-trump/
 categories:
 - Politics
-- Donald Trump
+
 tags:
 - Donald Trump
-- Paul Ryan
+
 type: "post"
 ---
 

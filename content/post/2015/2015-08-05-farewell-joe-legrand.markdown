@@ -8,10 +8,8 @@ url: /2015/08/04/farewell-joe-legrand/
 categories:
 - Living
 tags:
-- featured
-- Joe LeGrand
-- South St. Louis
-- Politics Hills
+
+
 type: "post"
 ---
 

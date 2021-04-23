@@ -9,11 +9,7 @@ categories:
 - Economy
 - Political Psychology
 tags:
-- Dan Gilbert
-- Harvard
-- Hedonic Treadmill
-- Minimum Wage
-- st.-louis
+
 type: "post"
 ---
 

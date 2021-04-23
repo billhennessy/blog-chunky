@@ -9,12 +9,8 @@ categories:
 - Economy
 - Politics
 tags:
-- Politics
-- export-import
-- featured
-- Jonah Goldberg
-- Millennial
-- republican
+
+
 type: "post"
 ---
 

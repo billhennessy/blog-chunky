@@ -6,15 +6,11 @@ title: The Psychology of The Inevitable
 layout: blog
 url: /2016/05/01/the-psychology-of-the-inevitable/
 categories:
-- Politics
 - Political Psychology
 - Donald Trump
 tags:
 - Donald J. Trump
-- Donald Trump
-- Expectations
-- Indiana Primary
-- Polls
+
 - Strategy
 - Ted Cruz
 type: "post"

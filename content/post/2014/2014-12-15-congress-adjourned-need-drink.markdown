@@ -7,12 +7,9 @@ layout: blog
 url: /2014/12/14/congress-adjourned-need-drink/
 categories:
 - Politics
-- Politics
-- Living
-- Politics
+
 tags:
-- 'HeritageAction'
-- Party
+
 type: "post"
 ---
 

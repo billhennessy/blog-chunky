@@ -9,9 +9,7 @@ categories:
 - Economy
 - Politics
 tags:
-- financial crash
-- Michael Lewis
-- The Big Short
+
 type: "post"
 ---
 

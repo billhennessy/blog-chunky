@@ -8,10 +8,7 @@ url: /2015/08/25/correction/
 categories:
 - Economy
 tags:
-- Central Banker
-- central banks
 - game theory
-- Stock-Market
 type: "post"
 ---
 

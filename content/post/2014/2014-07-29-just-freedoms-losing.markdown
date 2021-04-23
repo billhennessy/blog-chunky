@@ -9,10 +9,7 @@ categories:
 - Living
 tags:
 - Democracy in America
-- freedom
-- Gangnam Style
-- liberty
-- tocqueville
+
 type: "post"
 ---
 

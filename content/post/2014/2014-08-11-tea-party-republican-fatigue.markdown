@@ -8,11 +8,7 @@ url: /2014/08/11/tea-party-republican-fatigue/
 categories:
 - Politics
 tags:
-- 2104 Primary
-- Ann Wagner
-- August 5
-- Politics
-- Politics
+
 type: "post"
 ---
 

@@ -8,10 +8,7 @@ url: /2015/08/10/do-you-really-want-your-principles-to-win/
 categories:
 - Politics
 tags:
-- Politics
-- majoritarian
-- Politics
-- The Conservative Heart
+
 type: "post"
 ---
 

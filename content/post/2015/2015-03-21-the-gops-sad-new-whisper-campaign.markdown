@@ -8,9 +8,7 @@ url: /2015/03/21/the-gops-sad-new-whisper-campaign/
 categories:
 - Politics
 tags:
-- Catherine Hanaway
 - Eric Greitens
-- whisper campaign
 type: "post"
 ---
 

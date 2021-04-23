@@ -7,12 +7,10 @@ layout: blog
 url: /2016/01/31/cruzs-epic-facepalm/
 categories:
 - Politics
-- Donald Trump
+
 tags:
 - Donald J. Trump
-- Iowa Caucus
-- Ted Cruz
-- Voter Violation
+
 type: "post"
 ---
 

@@ -7,14 +7,9 @@ layout: blog
 url: /2014/07/15/francis-slay-destroys-transportation-sales-tax-trying-support/
 categories:
 - Activism
-- Activism
+
 tags:
-- Amendment 7
-- Gary Wiegert
-- Mayor Slay
-- Politics Sales Tax
-- Sales Tax Increase
-- Transportation Sales Tax
+
 type: "post"
 ---
 

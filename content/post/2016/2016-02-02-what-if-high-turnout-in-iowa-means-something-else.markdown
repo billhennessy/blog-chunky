@@ -7,12 +7,11 @@ layout: blog
 url: /2016/02/01/what-if-high-turnout-in-iowa-means-something-else/
 categories:
 - Politics
-- Donald Trump
+
 tags:
 - Ben Carson
 - Donald J. Trump
-- Iowa Caucus
-- rand paul
+
 type: "post"
 ---
 

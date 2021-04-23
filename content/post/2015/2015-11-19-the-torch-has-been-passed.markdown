@@ -8,7 +8,6 @@ url: /2015/11/18/the-torch-has-been-passed/
 categories:
 - News
 tags:
-- kids
 - Navy
 type: "post"
 ---

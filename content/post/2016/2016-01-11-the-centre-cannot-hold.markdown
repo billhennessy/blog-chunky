@@ -7,13 +7,10 @@ layout: blog
 url: /2016/01/10/the-centre-cannot-hold/
 categories:
 - Politics
-- Donald Trump
+
 tags:
-- Politics
-- crisis
 - Donald J. Trump
-- The Fourth Turning
-- The Second Coming
+
 type: "post"
 ---
 

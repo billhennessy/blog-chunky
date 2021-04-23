@@ -8,9 +8,7 @@ url: /2015/02/01/maybe-police-officers-rather-tax-collectors/
 categories:
 - Politics
 tags:
-- Politics
-- police
-- speed traps
+
 type: "post"
 ---
 

@@ -8,9 +8,7 @@ url: /2015/11/21/the-only-rule-of-engagement-will-be-victory/
 categories:
 - Politics
 tags:
-- rules of engagement
-- Politics
-- war
+
 type: "post"
 ---
 

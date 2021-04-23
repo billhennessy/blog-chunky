@@ -8,10 +8,7 @@ url: /2014/09/23/beware-republicans-offering-clear-decks/
 categories:
 - Politics
 tags:
-- 'endExIm'
-- Ann Wagner
-- corporat
-- lame duck
+
 type: "post"
 ---
 

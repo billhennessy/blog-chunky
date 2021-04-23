@@ -7,14 +7,10 @@ layout: blog
 url: /2016/01/12/white-waterblack-ops/
 categories:
 - Politics
-- News
-- Donald Trump
+
 tags:
 - Donald J. Trump
-- email
-- FBI
-- Hillary
-- Tired
+
 type: "post"
 ---
 

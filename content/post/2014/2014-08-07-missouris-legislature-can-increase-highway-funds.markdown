@@ -8,13 +8,7 @@ url: /2014/08/07/missouris-legislature-can-increase-highway-funds/
 categories:
 - Politics
 tags:
-- Amendment 7
-- Politics House
-- Politics Senate
-- Speaker John Diehl
-- TEA
-- Transportation E
-- Transportation Sales Tax
+
 type: "post"
 ---
 

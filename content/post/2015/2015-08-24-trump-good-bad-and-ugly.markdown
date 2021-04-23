@@ -10,7 +10,6 @@ categories:
 - Donald Trump
 tags:
 - Donald Trump
-- Donald Trump
 - voter expectations
 type: "post"
 ---

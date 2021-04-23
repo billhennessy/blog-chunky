@@ -9,10 +9,7 @@ categories:
 - Politics
 tags:
 - ed martin
-- Mississippi
-- Republican Establishment
-- Politics
-- Thad Cochran
+
 type: "post"
 ---
 

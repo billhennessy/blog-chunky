@@ -8,11 +8,6 @@ url: /2014/07/13/ronald-reagan-wants-transportation-empowerment-act/
 categories:
 - Politics
 tags:
-- Ann Wagner
-- Heritage Action
-- Highways
-- ronald-reagan
-- Politics
 - William F. Buckley
 type: "post"
 ---

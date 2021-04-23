@@ -8,11 +8,7 @@ url: /2015/03/10/which-two-industries-suck-most-at-customer-service/
 categories:
 - News
 tags:
-- 'netneutrality'
-- Comcast
-- government
-- Statista
-- telecommunications
+
 type: "post"
 ---
 

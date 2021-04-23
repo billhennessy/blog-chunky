@@ -9,10 +9,8 @@ categories:
 - Faith
 tags:
 - abortion
-- body parts
-- Deborah Nucatola
-- evil
-- Planned Parenthood
+
+
 type: "post"
 ---
 

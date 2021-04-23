@@ -8,11 +8,7 @@ url: /2014/08/04/michelle-obamas-dictates-force-eureka-high-pto-beg/
 categories:
 - Politics
 tags:
-- Department of
-- michelle obama
-- nutrition
-- Obesity
-- School lunches
+
 type: "post"
 ---
 

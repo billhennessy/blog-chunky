@@ -8,9 +8,7 @@ url: /2014/06/29/7-missouri-candidates-one-told/
 categories:
 - News
 tags:
-- Independent
-- libertarian
-- Libertarian Party
+
 type: "post"
 ---
 

@@ -10,9 +10,7 @@ categories:
 - News
 tags:
 - ACLU
-- American Nazi Party
-- Cliven Bundy
-- Skokie
+
 type: "post"
 ---
 

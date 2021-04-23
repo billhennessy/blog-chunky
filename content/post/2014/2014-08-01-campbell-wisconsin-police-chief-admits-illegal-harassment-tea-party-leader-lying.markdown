@@ -9,11 +9,7 @@ url: /2014/08/01/campbell-wisconsin-police-chief-admits-illegal-harassment-tea-p
 categories:
 - Politics
 tags:
-- Campbell
-- Chief Kenemen
-- michigan
-- Sharp Elbows
-- TCOT Report
+
 type: "post"
 ---
 

@@ -9,12 +9,7 @@ categories:
 - Faith
 - Donald Trump
 tags:
-- capital punishment
-- David Berkowitz
-- death penalty
-- Donald J. Trump
-- Son of Sam
-- the arena
+
 type: "post"
 ---
 

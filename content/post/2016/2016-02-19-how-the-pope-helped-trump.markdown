@@ -7,11 +7,10 @@ layout: blog
 url: /2016/02/18/how-the-pope-helped-trump/
 categories:
 - Politics
-- Donald Trump
+
 tags:
-- Donald Trump
 - Pope Francis
-- The Wall
+
 type: "post"
 ---
 

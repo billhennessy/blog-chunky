@@ -10,12 +10,7 @@ categories:
 tags:
 - baby boomer
 - Generation X
-- in-group
-- labels
-- libertarian
-- Millennial
-- out-group
-- Politics
+
 type: "post"
 ---
 

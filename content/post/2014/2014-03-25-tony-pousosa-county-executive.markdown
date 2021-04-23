@@ -8,8 +8,6 @@ url: /2014/03/25/tony-pousosa-county-executive/
 categories:
 - Politics
 tags:
-- featured
-- Politics Executive
 - Tony Pousosa
 type: "post"
 ---

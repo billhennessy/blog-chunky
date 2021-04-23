@@ -8,12 +8,7 @@ url: /2014/07/26/francis-slay-wont-tell-missouri-roads/
 categories:
 - News
 tags:
-- Amendment 7
-- Politics
-- No 7
-- No on 7
-- Regressive Tax
-- sales tax
+
 type: "post"
 ---
 

@@ -9,9 +9,7 @@ categories:
 - Military
 - Living
 tags:
-- National Service
-- Navy
-- Living
+
 type: "post"
 ---
 

@@ -10,13 +10,8 @@ categories:
 post_format:
 
 tags:
-- KAL007
-- MH17
-- obama
-- putin
-- reagan
-- russia
-- Soviet Union
+
+
 type: "post"
 ---
 

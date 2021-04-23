@@ -9,10 +9,7 @@ categories:
 - Politics
 - Donald Trump
 tags:
-- Dan Gilbert
-- Donald Trump
-- happiness
-- positive psychology
+
 type: "post"
 ---
 

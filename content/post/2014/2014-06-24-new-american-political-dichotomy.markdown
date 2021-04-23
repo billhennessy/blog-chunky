@@ -8,7 +8,6 @@ url: /2014/06/24/new-american-political-dichotomy/
 categories:
 - Politics
 tags:
-- crony capital
 - cronyism
 type: "post"
 ---

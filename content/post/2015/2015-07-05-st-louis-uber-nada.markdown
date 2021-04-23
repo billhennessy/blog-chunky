@@ -8,11 +8,7 @@ url: /2015/07/05/st-louis-uber-nada/
 categories:
 - Politics
 tags:
-- Kim Tucci
-- Metropolitan Taxi Commission
-- st.-louis
-- über
-- Politics
+
 type: "post"
 ---
 

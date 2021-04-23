@@ -10,8 +10,7 @@ categories:
 - Donald Trump
 tags:
 - Donald J. Trump
-- National Service
-- poll
+
 type: "post"
 ---
 

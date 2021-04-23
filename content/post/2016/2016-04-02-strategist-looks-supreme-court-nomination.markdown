@@ -7,11 +7,9 @@ layout: blog
 url: /2016/04/02/strategist-looks-supreme-court-nomination/
 categories:
 - Politics
-- Donald Trump
 tags:
 - Donald J. Trump
 - game theory
-- Merrick Garland
 - Strategy
 type: "post"
 ---

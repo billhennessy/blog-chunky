@@ -8,10 +8,7 @@ url: /2015/12/05/up-from-political-correctness/
 categories:
 - Politics
 tags:
-- 'bubblemakers'
-- Islamic radicalism
-- political correctness
-- San Bernardino
+
 type: "post"
 ---
 

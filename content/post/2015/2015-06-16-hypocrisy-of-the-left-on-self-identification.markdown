@@ -8,10 +8,7 @@ url: /2015/06/16/hypocrisy-of-the-left-on-self-identification/
 categories:
 - News
 tags:
-- Caitlyn Jenner
-- hypocrisy
-- Rachel Dolezal
-- self-identity
+
 type: "post"
 ---
 

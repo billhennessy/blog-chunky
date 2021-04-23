@@ -8,7 +8,6 @@ url: /2014/08/21/export-import-bank-story-post-dispatch-refused-print/
 categories:
 - Politics
 tags:
-- Politics
 - cronyism
 - export-import
 type: "post"

@@ -8,11 +8,7 @@ url: /2015/12/31/2016-bad-year/
 categories:
 - Business
 tags:
-- apple
-- BBBY
-- capex
-- Lehman Brothers
-- stock buybacks
+
 type: "post"
 ---
 

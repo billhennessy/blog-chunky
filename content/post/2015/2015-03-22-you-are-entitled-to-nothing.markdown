@@ -10,12 +10,7 @@ categories:
 post_format:
 
 tags:
-- entitlements
-- Frank Underwood
-- House of Cards
-- Medicaid
-- Medicare
-- social security
+
 type: "post"
 ---
 

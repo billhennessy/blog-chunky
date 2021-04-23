@@ -10,10 +10,7 @@ categories:
 - Donald Trump
 tags:
 - Donald J. Trump
-- Greenville
-- Heritage Action
-- heritage foundation
-- Presidential Forum
+
 type: "post"
 ---
 

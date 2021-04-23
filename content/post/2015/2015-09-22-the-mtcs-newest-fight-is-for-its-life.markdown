@@ -9,9 +9,7 @@ categories:
 - News
 tags:
 - Kim Tucci
-- Metropolitan Taxi Commission
-- über
-- Uber X
+
 type: "post"
 ---
 

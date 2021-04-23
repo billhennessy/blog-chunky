@@ -8,10 +8,7 @@ url: /2015/08/11/request-for-interview-police-foot-patrol/
 categories:
 - News
 tags:
-- Community Policing
-- Foot Patrol
-- police
-- Walk the Beat
+
 type: "post"
 ---
 

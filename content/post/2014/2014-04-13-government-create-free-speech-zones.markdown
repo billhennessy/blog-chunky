@@ -9,11 +9,7 @@ categories:
 - Politics
 tags:
 - Bundy Ranch
-- first amendment
-- first amendment pen
-- free speech zones
-- Thomas Jefferson
-- Thomas Jefferson's Birthday
+
 type: "post"
 ---
 

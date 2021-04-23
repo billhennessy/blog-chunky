@@ -8,7 +8,6 @@ url: /2015/04/14/how-to-know-youre-doing-the-right-thing/
 categories:
 - Politics
 tags:
-- 'stlteaparty'
 - Eric Greitens
 type: "post"
 ---

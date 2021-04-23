@@ -9,8 +9,7 @@ categories:
 - Politics
 - Politics
 tags:
-- jihad
-- Loretta Lynch
+
 type: "post"
 ---
 

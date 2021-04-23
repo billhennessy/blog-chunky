@@ -8,16 +8,7 @@ url: /2014/07/31/im-voting-august-5-primary-printable-grid-ballot-initiatives/
 categories:
 - News
 tags:
-- Ballot Measures
-- Constitutional Amendment
-- Politics
-- Get Out the Vote
-- guns
-- Politics
-- primary
-- second amendment
-- taxes
-- vote
+
 type: "post"
 ---
 

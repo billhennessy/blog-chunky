@@ -9,11 +9,7 @@ url: /2014/08/23/action-tell-missouri-legislature-pass-tax-holiday-ferguson/
 categories:
 - 'Ferguson'
 tags:
-- Jay Nixon
-- Politics
-- Sales Tax Holiday
-- Tim Jones
-- Veto Session
+
 type: "post"
 ---
 

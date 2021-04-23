@@ -8,9 +8,7 @@ url: /2014/11/29/us-house-insider-money-buys-leadership-positions/
 categories:
 - Politics
 tags:
-- 'endExIm'
-- Ann Wagner
-- House Leadership
+
 type: "post"
 ---
 

@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - Banksters
-- Politics
-- political dichotomy
-- red death
+
 type: "post"
 ---
 

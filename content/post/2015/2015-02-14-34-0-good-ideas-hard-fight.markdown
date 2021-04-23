@@ -8,9 +8,6 @@ url: /2015/02/13/34-0-good-ideas-hard-fight/
 categories:
 - News
 tags:
-- 'municourts'
-- Eric Schmitt
-- municipal court
 - tom schweich
 type: "post"
 ---

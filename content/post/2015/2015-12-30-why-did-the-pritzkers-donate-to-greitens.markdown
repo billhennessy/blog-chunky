@@ -10,9 +10,7 @@ categories:
 - News
 tags:
 - Eric Greitens
-- MoGov
-- Pritzker
-- republican
+
 type: "post"
 ---
 

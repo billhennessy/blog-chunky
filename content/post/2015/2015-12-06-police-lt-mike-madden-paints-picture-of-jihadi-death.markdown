@@ -10,8 +10,7 @@ categories:
 post_format:
 
 tags:
-- Mike Madden
-- San Bernardino
+
 type: "post"
 ---
 

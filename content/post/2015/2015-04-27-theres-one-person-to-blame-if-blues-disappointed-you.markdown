@@ -8,12 +8,7 @@ url: /2015/04/26/theres-one-person-to-blame-if-blues-disappointed-you/
 categories:
 - Living
 tags:
-- 'stlblies'
-- Disappointment
-- oshie
-- Politics blues
-- Stanley Cup Playoffs
-- Twitter
+
 type: "post"
 ---
 

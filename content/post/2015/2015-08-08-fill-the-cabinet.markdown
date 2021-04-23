@@ -9,10 +9,7 @@ categories:
 - Politics
 - Donald Trump
 tags:
-- Politics
-- Cabinet Officers
-- Donald J. Trump
-- republican
+
 type: "post"
 ---
 

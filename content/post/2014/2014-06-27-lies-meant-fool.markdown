@@ -8,9 +8,7 @@ url: /2014/06/26/lies-meant-fool/
 categories:
 - Crime
 tags:
-- irs
-- Lois Lerner
-- Tony Soprano
+
 type: "post"
 ---
 

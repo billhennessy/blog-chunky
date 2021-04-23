@@ -8,10 +8,8 @@ url: /2015/03/05/providence-and-hope-in-missouri/
 categories:
 - Politics
 tags:
-- Catherine Hanaway
 - Eric Greitens
 - John Hancock
-- Politics
 - tom schweich
 type: "post"
 ---

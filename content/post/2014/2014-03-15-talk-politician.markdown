@@ -8,11 +8,7 @@ url: /2014/03/15/talk-politician/
 categories:
 - Politics
 tags:
-- featured
-- Jim Camp
-- negotiations
-- politicians
-- Start With No
+
 type: "post"
 ---
 

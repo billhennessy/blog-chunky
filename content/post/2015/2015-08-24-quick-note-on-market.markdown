@@ -8,9 +8,7 @@ url: /2015/08/24/quick-note-on-market/
 categories:
 - News
 tags:
-- Economy
-- market crash
-- markets
+
 type: "post"
 ---
 

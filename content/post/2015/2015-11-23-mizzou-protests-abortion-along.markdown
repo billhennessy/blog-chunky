@@ -9,9 +9,7 @@ categories:
 - Academics
 - News
 tags:
-- Concerned Student 1950
-- Mizzou
-- Planned Parenthood
+
 type: "post"
 ---
 

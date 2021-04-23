@@ -9,7 +9,6 @@ categories:
 - Politics
 - Donald Trump
 tags:
-- Cabinet
 - Donald J. Trump
 type: "post"
 ---

@@ -8,11 +8,7 @@ url: /2015/10/11/whip-it-whip-it-good/
 categories:
 - Politics
 tags:
-- Ann Wagner
-- House Majority Whip
-- House Speaker
-- kevin mccarthy
-- The Conservative Heart
+
 type: "post"
 ---
 

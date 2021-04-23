@@ -8,15 +8,9 @@ url: /2016/05/13/how-to-predict-trumps-landslide-win/
 categories:
 - Politics
 - Political Psychology
-- Donald Trump
+
 tags:
-- Donald Trump
-- forecasting
-- landslide
-- Paul Ryan
-- prediction
-- Ted Cruz
-- Donald Trump
+
 type: "post"
 ---
 

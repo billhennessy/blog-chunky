@@ -10,11 +10,7 @@ categories:
 - News
 tags:
 - Eric Greitens
-- Milton Friedman
-- National Service
-- Living
-- Stanley McChrystal
-- The Franklin Project
+
 type: "post"
 ---
 

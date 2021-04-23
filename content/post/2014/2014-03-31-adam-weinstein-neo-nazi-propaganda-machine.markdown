@@ -11,14 +11,7 @@ categories:
 - Donald Trump
 tags:
 - Adam Weinstein
-- AGW
-- CAGW
-- climate-change
-- deniers
-- eugenics
-- featured
-- Gawker
-- global-warming
+
 type: "post"
 ---
 

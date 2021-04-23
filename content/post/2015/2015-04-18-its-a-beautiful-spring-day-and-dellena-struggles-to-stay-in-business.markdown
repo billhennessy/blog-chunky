@@ -8,13 +8,7 @@ url: /2015/04/18/its-a-beautiful-spring-day-and-dellena-struggles-to-stay-in-bus
 categories:
 - Activism
 tags:
-- 'FergusonBuycott'
-- 911 Hair Salon
-- Dellana Jones
-- Politics
-- Politics Recovery
-- Politics Riots
-- Small business
+
 type: "post"
 ---
 

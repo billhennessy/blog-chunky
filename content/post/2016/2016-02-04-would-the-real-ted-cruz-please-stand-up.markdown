@@ -9,7 +9,6 @@ categories:
 - Politics
 tags:
 - Ben Carson
-- CNN
 - Ted Cruz
 type: "post"
 ---

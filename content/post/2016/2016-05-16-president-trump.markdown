@@ -7,9 +7,9 @@ layout: blog
 url: /2016/05/16/president-trump/
 categories:
 - Politics
-- Donald Trump
+
 tags:
-- Crooked Hillary
+
 - Donald J. Trump
 type: "post"
 ---

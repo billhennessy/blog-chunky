@@ -8,9 +8,7 @@ url: /2015/12/31/how-missourians-can-access-military-bases-after-january-10/
 categories:
 - News
 tags:
-- DHS
-- Politics Drivers Licence
-- REAL ID
+
 type: "post"
 ---
 

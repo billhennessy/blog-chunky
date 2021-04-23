@@ -9,9 +9,7 @@ categories:
 - Living
 - News
 tags:
-- National Service
-- The Fourth Turning
-- William F. Buckl
+
 type: "post"
 ---
 

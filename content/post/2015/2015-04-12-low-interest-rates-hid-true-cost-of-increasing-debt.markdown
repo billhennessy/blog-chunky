@@ -8,10 +8,7 @@ url: /2015/04/12/low-interest-rates-hid-true-cost-of-increasing-debt/
 categories:
 - Economy
 tags:
-- interest rates
-- Lee Presser
-- national debt
-- taxes
+
 type: "post"
 ---
 

@@ -8,11 +8,7 @@ url: /2014/07/06/thad-cochran-mortally-wound-gop/
 categories:
 - Politics
 tags:
-- Politics
-- cronyism
-- Millennials
-- Mississippi run-off
-- Thad Cochran
+
 type: "post"
 ---
 

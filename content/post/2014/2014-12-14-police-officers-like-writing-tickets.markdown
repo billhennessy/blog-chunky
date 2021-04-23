@@ -9,11 +9,7 @@ categories:
 - 'Ferguson'
 - Politics
 tags:
-- 'municourts'
-- Arch City Defenders
-- Politics
-- Politics
-- police
+
 type: "post"
 ---
 

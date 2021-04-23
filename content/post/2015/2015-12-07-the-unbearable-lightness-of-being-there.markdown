@@ -8,10 +8,7 @@ url: /2015/12/06/the-unbearable-lightness-of-being-there/
 categories:
 - Politics
 tags:
-- Being There
-- Islamic radicalism
-- Mad Men
-- obama
+
 type: "post"
 ---
 

@@ -8,11 +8,6 @@ url: /2015/09/09/why-welfare-reform-must-continue/
 categories:
 - Politics
 tags:
-- idleness
-- Marienthal Austria
-- Nisbett and Ross
-- Person and Situation
-- Economy
 - The Conservative Heart
 type: "post"
 ---

@@ -9,9 +9,7 @@ categories:
 - 'Ferguson'
 - Politics
 tags:
-- 'municourts'
-- Politics
-- Politics
+
 type: "post"
 ---
 

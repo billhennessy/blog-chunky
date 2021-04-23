@@ -9,13 +9,7 @@ categories:
 - Politics
 tags:
 - Barack Obama
-- crash
-- Democratic Fundraiser
-- Malaysian Flight 17
-- MH17
-- putin
-- russia
-- ukraine
+
 type: "post"
 ---
 

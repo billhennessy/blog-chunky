@@ -10,7 +10,7 @@ categories:
 tags:
 - Andrew Ian Dodge
 - Gateway to November
-- tea party patriots
+
 type: "post"
 ---
 

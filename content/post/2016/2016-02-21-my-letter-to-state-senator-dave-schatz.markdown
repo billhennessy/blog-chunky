@@ -8,8 +8,7 @@ url: /2016/02/21/my-letter-to-state-senator-dave-schatz/
 categories:
 - Politics
 tags:
-- Dave Schatz
-- Ethics Reform
+
 type: "post"
 ---
 

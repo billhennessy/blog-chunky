@@ -7,9 +7,9 @@ layout: blog
 url: /2016/01/11/bill-cosby-should-ask-for-change-of-venue-to-cologne-germany/
 categories:
 - Politics
-- Donald Trump
+
 tags:
-- Cologne
+
 - Donald J. Trump
 type: "post"
 ---

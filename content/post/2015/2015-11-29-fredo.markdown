@@ -10,10 +10,7 @@ categories:
 - Politics
 tags:
 - Eric Greitens
-- Fredo Corleone
-- Hyman Roth
-- John Brunner
-- The Godfather
+
 type: "post"
 ---
 

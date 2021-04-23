@@ -7,7 +7,7 @@ layout: blog
 url: /2016/02/20/this-is-the-gen-x-election/
 categories:
 - Politics
-- Donald Trump
+
 tags:
 - Donald J. Trump
 

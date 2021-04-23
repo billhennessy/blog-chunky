@@ -9,8 +9,7 @@ categories:
 - Politics
 tags:
 - Eric Greitens
-- John Brunner
-- Politics
+
 type: "post"
 ---
 

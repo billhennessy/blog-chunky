@@ -8,9 +8,7 @@ url: /2014/04/27/far-blues-playoff-run-carbon-copy-2013/
 categories:
 - News
 tags:
-- 'stlblues'
-- NHL Playoffs
-- Stanley Cup Playoffs
+
 type: "post"
 ---
 

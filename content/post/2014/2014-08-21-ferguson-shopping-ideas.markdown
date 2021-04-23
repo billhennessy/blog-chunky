@@ -8,9 +8,8 @@ url: /2014/08/21/ferguson-shopping-ideas/
 categories:
 - Activism
 tags:
-- buycott
 - BUYcott Ferguson
-- Politics
+
 type: "post"
 ---
 

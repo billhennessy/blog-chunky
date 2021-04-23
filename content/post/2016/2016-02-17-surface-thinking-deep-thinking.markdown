@@ -8,7 +8,6 @@ url: /2016/02/17/surface-thinking-deep-thinking/
 categories:
 - Politics
 tags:
-- conservative
 - Eric Greitens
 type: "post"
 ---

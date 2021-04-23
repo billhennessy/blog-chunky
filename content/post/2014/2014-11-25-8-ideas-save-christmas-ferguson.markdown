@@ -8,11 +8,7 @@ url: /2014/11/25/8-ideas-save-christmas-ferguson/
 categories:
 - 'Ferguson'
 tags:
-- buycott
-- Christmas
-- featured
-- Politics
-- nixon
+
 type: "post"
 ---
 

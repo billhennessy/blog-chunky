@@ -12,8 +12,7 @@ categories:
 
 tags:
 - Donald J. Trump
-- polarization
-- Ross Perot
+
 type: "post"
 ---
 

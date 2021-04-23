@@ -8,10 +8,8 @@ url: /2015/04/10/the-seal-the-race-and-the-ceo/
 categories:
 - Politics
 tags:
-- Aslan
 - Eric Greitens
-- John Brunner
-- Steve Jobs
+
 type: "post"
 ---
 

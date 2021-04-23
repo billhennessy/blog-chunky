@@ -9,10 +9,7 @@ categories:
 - Living
 - Donald Trump
 tags:
-- Donald J. Trump
-- Leadership
-- National Service
-- simon sinek
+
 type: "post"
 ---
 

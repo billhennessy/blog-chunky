@@ -6,9 +6,8 @@ title: Dr. Strangedebate (or how I learned to stop worrying and love the GOP)
 layout: blog
 url: /2015/12/16/dr-strangedebate-or-how-i-learned-to-stop-worrying-and-love-the-gop/
 categories:
-- News
-- Donald Trump
-- Donald Trump
+- Politics
+
 tags:
 - Donald J. Trump
 type: "post"

@@ -9,9 +9,7 @@ categories:
 - Politics
 - News
 tags:
-- american exceptionalism
-- Politics
-- Economy
+
 type: "post"
 ---
 

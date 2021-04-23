@@ -11,10 +11,6 @@ categories:
 tags:
 - bureau of land management
 - Cliven Bundy
-- featured
-- first amendment
-- freedom
-- liberty
 - second amendment
 type: "post"
 ---

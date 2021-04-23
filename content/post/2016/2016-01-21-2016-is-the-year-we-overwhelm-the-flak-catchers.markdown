@@ -6,7 +6,7 @@ title: 2016 is the year we overwhelm the Flak Catchers
 layout: blog
 url: /2016/01/20/2016-is-the-year-we-overwhelm-the-flak-catchers/
 categories:
-- News
+
 - Politics
 type: "post"
 ---

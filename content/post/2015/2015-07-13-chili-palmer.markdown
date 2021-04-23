@@ -8,12 +8,8 @@ url: /2015/07/13/chili-palmer/
 categories:
 - Politics
 tags:
-- Chili Palmer
-- debt
-- Get Shorty
-- Greece
-- Grexit
-- Merkel
+
+
 type: "post"
 ---
 

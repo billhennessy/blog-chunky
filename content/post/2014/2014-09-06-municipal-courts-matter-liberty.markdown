@@ -9,13 +9,7 @@ categories:
 - Politics
 - Donald Trump
 tags:
-- Arch City Defenders
-- Donald J. Trump
-- featured
-- Politics
-- libertarian
-- Politics
-- Politics
+
 type: "post"
 ---
 

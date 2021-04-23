@@ -8,8 +8,7 @@ url: /2015/07/08/rant-metropolitan-taxicab-commission-is-killing-capitalism/
 categories:
 - Politics
 tags:
-- KimTucci
-- MTC
+
 type: "post"
 ---
 

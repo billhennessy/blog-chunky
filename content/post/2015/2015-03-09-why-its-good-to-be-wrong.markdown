@@ -9,7 +9,7 @@ categories:
 - Living
 tags:
 - being wrong
-- Kinky Friedman
+
 type: "post"
 ---
 

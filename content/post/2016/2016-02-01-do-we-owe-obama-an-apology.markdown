@@ -10,8 +10,7 @@ categories:
 tags:
 - affinity bubbles
 - Bundy Ranch
-- obama
-- Oregon standoff
+
 type: "post"
 ---
 

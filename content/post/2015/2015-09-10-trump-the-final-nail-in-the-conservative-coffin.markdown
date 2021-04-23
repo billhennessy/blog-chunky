@@ -9,9 +9,7 @@ categories:
 - Politics
 - Donald Trump
 tags:
-- Donald Trump
-- Jonah Goldberg
-- Donald Trump
+
 type: "post"
 ---
 

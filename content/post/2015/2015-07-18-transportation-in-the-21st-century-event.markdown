@@ -6,12 +6,10 @@ title: Transportation in the 21st Century Event
 layout: blog
 url: /2015/07/18/transportation-in-the-21st-century-event/
 categories:
-- Events
+- Politics
 tags:
-- Politics
-- ride sharing
-- Politics
-- über
+
+
 type: "post"
 ---
 

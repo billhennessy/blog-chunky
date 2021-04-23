@@ -8,9 +8,7 @@ url: /2014/11/25/worst-humanity-abence-leadership-ferguson/
 categories:
 - News
 tags:
-- Chris Koster
-- Politics
-- Jay Nixon
+
 type: "post"
 ---
 

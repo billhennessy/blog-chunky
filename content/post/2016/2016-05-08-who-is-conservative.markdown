@@ -8,11 +8,10 @@ url: /2016/05/08/who-is-conservative/
 categories:
 - Politics
 - Political Psychology
-- Donald Trump
+
 tags:
 - Donald J. Trump
-- Donald Trump
-- ronald-reagan
+
 type: "post"
 ---
 

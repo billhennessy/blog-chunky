@@ -9,11 +9,7 @@ categories:
 - Politics
 - Military
 tags:
-- Business
-- Leadership
-- military
-- Politics
-- simon sinek
+
 type: "post"
 ---
 

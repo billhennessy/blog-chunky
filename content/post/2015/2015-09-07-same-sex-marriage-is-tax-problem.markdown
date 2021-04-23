@@ -9,9 +9,7 @@ categories:
 - Politics
 - News
 tags:
-- flat tax
-- same-sex marriage
-- tax code
+
 type: "post"
 ---
 

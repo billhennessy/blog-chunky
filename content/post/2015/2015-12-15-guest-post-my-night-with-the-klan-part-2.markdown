@@ -8,8 +8,7 @@ url: /2015/12/15/guest-post-my-night-with-the-klan-part-2/
 categories:
 - Politics
 tags:
-- '1992'
-- KKK
+
 type: "post"
 ---
 

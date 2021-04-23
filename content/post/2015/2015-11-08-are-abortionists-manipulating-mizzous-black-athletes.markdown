@@ -9,12 +9,7 @@ categories:
 - Academics
 - Donald Trump
 tags:
-- black athletes
-- Donald J. Trump
-- eugenics
-- Mizzou
-- Planned Parenthood
-- race
+
 type: "post"
 ---
 

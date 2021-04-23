@@ -8,11 +8,7 @@ url: /2014/10/16/whatever-happened-party-ideas/
 categories:
 - Politics
 tags:
-- Ann Wagner
-- Heritage Action
-- heritage foundation
-- Jack Kemp
-- the party of ideas
+
 type: "post"
 ---
 

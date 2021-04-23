@@ -7,7 +7,6 @@ layout: blog
 url: /2016/02/09/evangelical-papists/
 categories:
 - Politics
-- Stoicism
 tags:
 - Eric Greitens
 type: "post"

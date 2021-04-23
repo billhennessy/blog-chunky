@@ -9,15 +9,7 @@ categories:
 - Politics
 - Politics
 tags:
-- 'endExIm'
-- Ann Wagner
-- corporate welfare
-- Politics
-- export-import
-- Heritage Action
-- heritage foundation
-- Jim DeMint
-- ronald-reagan
+
 type: "post"
 ---
 

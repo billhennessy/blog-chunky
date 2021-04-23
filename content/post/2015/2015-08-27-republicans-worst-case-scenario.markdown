@@ -9,10 +9,7 @@ categories:
 - Politics
 - Donald Trump
 tags:
-- Charles Krauthammer
-- Donald J. Trump
-- Elizabeth Warren
-- Joe Biden
+
 type: "post"
 ---
 

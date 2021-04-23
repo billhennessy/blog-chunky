@@ -8,11 +8,7 @@ url: /2015/05/28/breaking-white-house-shuffles-export-import-management-parody/
 categories:
 - Politics
 tags:
-- 'endExIm'
-- Art Vandelay
-- export-import
-- parody
-- seinfeld
+
 type: "post"
 ---
 

@@ -9,20 +9,7 @@ categories:
 - Politics
 - Donald Trump
 tags:
-- Bush
-- Carson
-- Christie
-- Cruz
-- Donald J. Trump
-- Fiorina
-- GOP Debate
-- Huckabee
-- Kasich
-- Paul
-- Republican Debate
-- Rubio
-- Donald Trump
-- Walker
+
 type: "post"
 ---
 

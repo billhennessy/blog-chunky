@@ -9,9 +9,7 @@ categories:
 - Politics
 - Donald Trump
 tags:
-- 'cnbcgopdebate'
-- Donald J. Trump
-- Post-journalism
+
 type: "post"
 ---
 

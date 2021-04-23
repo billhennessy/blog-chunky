@@ -9,13 +9,7 @@ categories:
 - Politics
 tags:
 - Ed Martin Jr
-- Henry Barbour
-- Mississippi Conservatives
-- Mississippi run-off
-- RedState Gathering
-- Reince Prie
-- RNC
-- Thad Cochran
+
 type: "post"
 ---
 

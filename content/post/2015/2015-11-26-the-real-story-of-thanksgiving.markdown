@@ -6,7 +6,6 @@ title: The Real Story of Thanksgiving
 layout: blog
 url: /2015/11/26/the-real-story-of-thanksgiving/
 categories:
-- Economy
 - Politics
 type: "post"
 ---

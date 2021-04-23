@@ -7,13 +7,11 @@ layout: blog
 url: /2016/02/27/im-trying-to-write-the-truth/
 categories:
 - Living
-- Donald Trump
+
 tags:
-- blogging
+
 - Donald J. Trump
-- Donald Trump
-- truth
-- writing
+
 type: "post"
 ---
 

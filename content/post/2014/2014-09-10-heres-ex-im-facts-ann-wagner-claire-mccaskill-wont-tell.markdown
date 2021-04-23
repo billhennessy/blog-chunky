@@ -9,11 +9,7 @@ url: /2014/09/10/heres-ex-im-facts-ann-wagner-claire-mccaskill-wont-tell/
 categories:
 - Politics
 tags:
-- 'endExIm'
-- Ann Wagner
-- Claire McCaskill
-- export-import bank
-- NPR
+
 type: "post"
 ---
 

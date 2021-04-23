@@ -8,7 +8,7 @@ url: /2014/08/24/jay-nixon-lost-liberal-press/
 categories:
 - 'Ferguson'
 tags:
-- Politics
+
 - Jay Nixon
 type: "post"
 ---

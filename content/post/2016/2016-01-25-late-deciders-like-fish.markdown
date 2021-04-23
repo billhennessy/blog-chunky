@@ -7,11 +7,10 @@ layout: blog
 url: /2016/01/25/late-deciders-like-fish/
 categories:
 - Politics
-- Donald Trump
+
 tags:
 - Donald J. Trump
-- iowa
-- late deciders
+
 type: "post"
 ---
 

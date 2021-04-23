@@ -8,11 +8,7 @@ url: /2015/11/07/learning-to-be-wrong/
 categories:
 - Living
 tags:
-- error
-- Kyle Cheney
-- Learning
-- politico
-- Richard Feynman
+
 type: "post"
 ---
 

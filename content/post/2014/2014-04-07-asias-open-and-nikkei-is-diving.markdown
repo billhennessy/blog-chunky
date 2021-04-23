@@ -8,9 +8,7 @@ url: /2014/04/06/asias-open-and-nikkei-is-diving/
 categories:
 - Economy
 tags:
-- abenomics
-- asia
-- sales tax
+
 type: "post"
 ---
 

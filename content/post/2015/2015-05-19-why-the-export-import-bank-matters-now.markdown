@@ -8,8 +8,7 @@ url: /2015/05/18/why-the-export-import-bank-matters-now/
 categories:
 - Politics
 tags:
-- 'endExIm'
-- export-import
+
 type: "post"
 ---
 

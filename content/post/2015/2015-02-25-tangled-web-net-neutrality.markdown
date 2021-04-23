@@ -8,7 +8,7 @@ url: /2015/02/24/tangled-web-net-neutrality/
 categories:
 - Politics
 tags:
-- net neutrality
+
 type: "post"
 ---
 

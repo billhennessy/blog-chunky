@@ -8,12 +8,7 @@ url: /2014/09/21/will-not-vote-for-wagner/
 categories:
 - Politics
 tags:
-- 'endExIm'
-- Ann Wagner
-- Bill Slantz
-- export-import bank
-- Heritage Action
-- libertarian
+
 type: "post"
 ---
 

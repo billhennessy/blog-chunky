@@ -9,8 +9,7 @@ categories:
 - Academics
 tags:
 - cronyism
-- quid pro quo
-- Rockwood School District
+
 type: "post"
 ---
 

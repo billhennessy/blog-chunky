@@ -8,11 +8,7 @@ url: /2015/03/19/will-the-left-fund-a-campaign-to-fix-missouri/
 categories:
 - Politics
 tags:
-- anti-Semitism
 - Eric Greitens
-- John Hancock
-- Politics
-- Politics
 - Tom Scheich
 type: "post"
 ---

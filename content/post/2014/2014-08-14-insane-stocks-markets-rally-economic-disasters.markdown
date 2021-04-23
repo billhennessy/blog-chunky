@@ -8,13 +8,7 @@ url: /2014/08/14/insane-stocks-markets-rally-economic-disasters/
 categories:
 - Economy
 tags:
-- Economy
-- Eurozone
-- jobless claims
-- recession
-- reserve currency
-- Stock-Market
-- walmart
+
 type: "post"
 ---
 

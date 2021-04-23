@@ -8,10 +8,7 @@ url: /2015/11/23/our-leaders-are-no-pattons/
 categories:
 - Politics
 tags:
-- ISIS
-- Patton
-- Politics
-- war
+
 type: "post"
 ---
 

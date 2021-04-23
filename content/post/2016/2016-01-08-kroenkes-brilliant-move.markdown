@@ -10,9 +10,7 @@ categories:
 - Sports
 - Politics
 tags:
-- Kroenke
-- Los Angeles Rams
-- Rams
+
 type: "post"
 ---
 

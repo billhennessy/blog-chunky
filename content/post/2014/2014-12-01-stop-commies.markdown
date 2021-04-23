@@ -8,10 +8,7 @@ url: /2014/11/30/stop-commies/
 categories:
 - 'Ferguson'
 tags:
-- 'teaparty'
-- communists
-- Darren Wilson
-- mike brown
+
 type: "post"
 ---
 

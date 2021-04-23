@@ -8,11 +8,7 @@ url: /2014/12/02/shame-house-republican-leadership-immigration/
 categories:
 - Activism
 tags:
-- 'AnnWagner'
-- 'defundimmigration'
-- 'HActionMO'
-- 'HeritageAction'
-- 'HouseGOP'
+
 type: "post"
 ---
 

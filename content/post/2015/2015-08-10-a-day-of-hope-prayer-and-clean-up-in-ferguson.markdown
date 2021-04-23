@@ -9,8 +9,7 @@ categories:
 - 'Ferguson'
 tags:
 - 911 Hair Salon
-- Billy Graham
-- Politics tea party
+
 type: "post"
 ---
 

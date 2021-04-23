@@ -8,10 +8,7 @@ url: /2014/07/09/obamas-katrina/
 categories:
 - News
 tags:
-- border
-- crisis
-- illegals
-- obama
+
 type: "post"
 ---
 

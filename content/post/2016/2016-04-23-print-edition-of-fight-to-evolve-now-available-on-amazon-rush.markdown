@@ -8,11 +8,7 @@ url: /2016/04/23/print-edition-of-fight-to-evolve-now-available-on-amazon-rush/
 categories:
 - Politics
 tags:
-- 'health'
-- amazon
-- books
 - Fight to Evolve
-- Kindle
 - NTX
 type: "post"
 ---

@@ -10,8 +10,8 @@ categories:
 - Donald Trump
 tags:
 - Donald J. Trump
-- Donald Trump
-- poll
+
+
 type: "post"
 ---
 

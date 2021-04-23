@@ -8,11 +8,6 @@ url: /2014/08/26/bureaucratizing-street-gangs/
 categories:
 - News
 tags:
-- bureaucrats
-- Politics
-- Lee Presser
-- own your life
-- Economy
 - rush limbaugh
 type: "post"
 ---

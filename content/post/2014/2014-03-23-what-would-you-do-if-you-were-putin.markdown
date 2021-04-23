@@ -8,10 +8,7 @@ url: /2014/03/23/what-would-you-do-if-you-were-putin/
 categories:
 - Politics
 tags:
-- featured
-- obama
-- putin
-- ukraine
+
 type: "post"
 ---
 

@@ -9,10 +9,7 @@ categories:
 - Politics
 - News
 tags:
-- 'municourts'
-- Eric Schmitt
-- featured
-- tom schweich
+
 type: "post"
 ---
 

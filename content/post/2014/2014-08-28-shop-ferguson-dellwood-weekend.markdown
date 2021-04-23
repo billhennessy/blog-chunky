@@ -8,17 +8,7 @@ url: /2014/08/27/shop-ferguson-dellwood-weekend/
 categories:
 - 'Ferguson'
 tags:
-- 'FergusonBuycott'
-- 'stlteaparty'
-- 'stltpc'
-- Politics
-- Economy
-- Politics
-- happiness
-- healing
-- own your life
-- Politics tea party
-- Tea Party Buycott
+
 type: "post"
 ---
 

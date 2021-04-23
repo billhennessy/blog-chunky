@@ -8,11 +8,7 @@ url: /2014/08/10/missouri-august-primary-results-fluke-beginning-trend/
 categories:
 - Politics
 tags:
-- Politics
-- Ann Wagner
-- August 5
-- Politics
-- Politics
+
 type: "post"
 ---
 

@@ -8,9 +8,7 @@ url: /2014/08/28/like-talk-talk-tuesday-september-2/
 categories:
 - Activism
 tags:
-- 'teaparty'
-- Bill Hennessy
-- Politics tea party
+
 type: "post"
 ---
 

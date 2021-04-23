@@ -11,8 +11,7 @@ categories:
 - Politics
 tags:
 - Eric Schmitt
-- Politics
-- SB-572
+
 type: "post"
 ---
 

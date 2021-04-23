@@ -7,13 +7,10 @@ layout: blog
 url: /2015/12/20/the-gop-establishment-is-a-cancer-on-america/
 categories:
 - Politics
-- News
-- Donald Trump
-- Donald Trump
+
 tags:
 - Donald J. Trump
-- Jeb Bush
-- Loyalty Oath
+
 type: "post"
 ---
 

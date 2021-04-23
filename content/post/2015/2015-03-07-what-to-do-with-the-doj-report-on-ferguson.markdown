@@ -9,11 +9,6 @@ categories:
 - 'Ferguson'
 - Donald Trump
 tags:
-- 'municourts'
-- DOJ Report
-- Donald J. Trump
-- Eric Scmitt
-- Politics
 - tom schweich
 type: "post"
 ---

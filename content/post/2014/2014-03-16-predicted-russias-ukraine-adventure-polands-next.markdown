@@ -8,8 +8,6 @@ url: /2014/03/16/predicted-russias-ukraine-adventure-polands-next/
 categories:
 - News
 tags:
-- featured
-- poland
 - russia
 - ukraine
 type: "post"

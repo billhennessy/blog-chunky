@@ -8,7 +8,7 @@ url: /2015/07/06/a-dangerous-misunderstanding-of-debt/
 categories:
 - Economy
 tags:
-- 'Greece Debt Greferendum'
+
 type: "post"
 ---
 

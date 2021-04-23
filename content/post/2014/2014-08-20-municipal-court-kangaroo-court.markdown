@@ -9,10 +9,7 @@ categories:
 - Politics
 tags:
 - Bel Ridge Court
-- Bel Ridge Missouri
-- featured
-- municipal court
-- North St. Louis County
+
 type: "post"
 ---
 

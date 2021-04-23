@@ -9,11 +9,8 @@ categories:
 - Politics
 tags:
 - Arthur C. Brooks
-- EITC
-- jobs
-- Meaningful Work
 - The Conservative Heart
-- unemployment
+
 type: "post"
 ---
 

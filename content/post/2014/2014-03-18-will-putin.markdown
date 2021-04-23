@@ -8,10 +8,6 @@ url: /2014/03/17/will-putin/
 categories:
 - Politics
 tags:
-- Banksters
-- featured
-- obama
-- putin
 - russia
 type: "post"
 ---

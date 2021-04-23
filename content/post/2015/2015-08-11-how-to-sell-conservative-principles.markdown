@@ -8,9 +8,6 @@ url: /2015/08/11/how-to-sell-conservative-principles/
 categories:
 - Politics
 tags:
-- Live Your Why
-- simon sinek
-- Start With Why
 type: "post"
 ---
 

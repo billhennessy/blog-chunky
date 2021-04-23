@@ -9,9 +9,7 @@ categories:
 - Politics
 - News
 tags:
-- demographics
-- Millennials
-- wealth-inequality
+
 type: "post"
 ---
 

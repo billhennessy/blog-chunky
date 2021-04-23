@@ -9,8 +9,7 @@ categories:
 - Politics
 tags:
 - Eric Greitens
-- Greitens For Missouri
-- Greitens Governor
+
 type: "post"
 ---
 

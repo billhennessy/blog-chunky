@@ -7,9 +7,7 @@ layout: blog
 url: /2016/02/07/when-does-accountability-begin/
 categories:
 - Politics
-- Donald Trump
 tags:
-- accountability
 - Donald J. Trump
 type: "post"
 ---

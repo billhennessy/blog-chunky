@@ -8,12 +8,7 @@ url: /2014/10/26/democrats-just-one-chance-october-surprise/
 categories:
 - Politics
 tags:
-- department of justice
-- eric holder
-- Politics
-- Michael Brown
-- new black panther party
-- obama
+
 type: "post"
 ---
 

@@ -8,11 +8,7 @@ url: /2014/11/27/gratitude-not-privilege/
 categories:
 - Living
 tags:
-- Politics
-- grief
-- Michael Brown
-- Thanksgiving
-- Twitter
+
 type: "post"
 ---
 

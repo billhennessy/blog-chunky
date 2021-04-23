@@ -9,12 +9,7 @@ categories:
 - Politics
 - Donald Trump
 tags:
-- Cruz
-- Donald J. Trump
-- Politics
-- jihad
-- travel
-- Donald Trump
+
 type: "post"
 ---
 

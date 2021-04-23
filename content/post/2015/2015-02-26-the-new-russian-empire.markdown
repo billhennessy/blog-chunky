@@ -8,10 +8,7 @@ url: /2015/02/25/the-new-russian-empire/
 categories:
 - Politics
 tags:
-- foreign policy
-- hyperinflation
-- russia
-- ukraine
+
 type: "post"
 ---
 

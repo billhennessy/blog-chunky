@@ -8,7 +8,7 @@ url: /2015/02/26/what-the-hell-got-me-involved-in-politics-to-begin-with/
 categories:
 - Activism
 tags:
-- Watergate
+
 type: "post"
 ---
 

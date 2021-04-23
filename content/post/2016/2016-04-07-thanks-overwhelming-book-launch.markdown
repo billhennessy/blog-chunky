@@ -9,9 +9,8 @@ categories:
 - Living
 - Politics
 tags:
-- Chigurupati Technologies
-- Fight to Evolve
-- NTX
+
+
 type: "post"
 ---
 

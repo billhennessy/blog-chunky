@@ -8,8 +8,7 @@ url: /2015/08/12/we-can-do-better/
 categories:
 - Economy
 tags:
-- Earned Income Tax Credit
-- Economy
+
 type: "post"
 ---
 

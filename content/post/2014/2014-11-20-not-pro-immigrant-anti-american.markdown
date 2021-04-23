@@ -8,8 +8,7 @@ url: /2014/11/20/not-pro-immigrant-anti-american/
 categories:
 - Politics
 tags:
-- executive order
-- Politics
+
 type: "post"
 ---
 

@@ -8,13 +8,8 @@ url: /2015/03/25/mike-flynn-for-congress/
 categories:
 - Politics
 tags:
-- Aaron Schock
-- IL-18
-- Illinois
 - Mike Flynn
-- Ray LaHood
-- Special Election
-- Politics
+
 type: "post"
 ---
 

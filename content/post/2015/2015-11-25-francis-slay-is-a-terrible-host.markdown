@@ -8,7 +8,7 @@ url: /2015/11/24/francis-slay-is-a-terrible-host/
 categories:
 - News
 tags:
-- 'syria slaypoverty'
+
 type: "post"
 ---
 

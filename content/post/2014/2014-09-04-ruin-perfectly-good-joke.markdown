@@ -8,9 +8,7 @@ url: /2014/09/03/ruin-perfectly-good-joke/
 categories:
 - Living
 tags:
-- Adam Sharp
-- Phil Hare
-- Sharp Elbows
+
 type: "post"
 ---
 

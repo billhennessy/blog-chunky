@@ -10,8 +10,7 @@ categories:
 post_format:
 
 tags:
-- Politics
-- Transportation Sales Tax
+
 type: "post"
 ---
 

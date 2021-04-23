@@ -8,10 +8,7 @@ url: /2014/07/30/libertarian-new-mainstream/
 categories:
 - News
 tags:
-- James Altucher
-- libertarian
-- Mainstream
-- The Fourth Turning
+
 type: "post"
 ---
 

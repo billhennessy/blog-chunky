@@ -9,11 +9,7 @@ categories:
 - News
 - Sports
 tags:
-- baseball
-- cardinals
-- cubs
-- heyward
-- lackey
+
 type: "post"
 ---
 

@@ -8,7 +8,7 @@ url: /2014/08/05/hell-missouris-2nd-congressional-district/
 categories:
 - Politics
 tags:
-- Politics
+
 type: "post"
 ---
 

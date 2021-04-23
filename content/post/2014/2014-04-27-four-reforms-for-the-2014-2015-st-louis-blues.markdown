@@ -8,7 +8,7 @@ url: /2014/04/27/four-reforms-for-the-2014-2015-st-louis-blues/
 categories:
 - Sports
 tags:
-- 'stlblues'
+
 type: "post"
 ---
 

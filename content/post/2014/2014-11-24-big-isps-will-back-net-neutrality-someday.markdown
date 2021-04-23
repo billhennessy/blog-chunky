@@ -8,14 +8,7 @@ url: /2014/11/24/big-isps-will-back-net-neutrality-someday/
 categories:
 - News
 tags:
-- AT&amp;T
-- Cato Institute
-- Charter
-- Comcast
-- General Electric
-- net neutrality
-- Phillips
-- Sylvania
+
 type: "post"
 ---
 

@@ -8,9 +8,7 @@ url: /2015/12/31/heres-why-new-york-drops-the-ball-at-midnight/
 categories:
 - Living
 tags:
-- Ball Drop
-- New Years
-- New York
+
 type: "post"
 ---
 

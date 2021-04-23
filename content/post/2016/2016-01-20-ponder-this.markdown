@@ -8,9 +8,7 @@ url: /2016/01/19/ponder-this/
 categories:
 - Crime
 tags:
-- David Petraeus
-- Email Server
-- Indict Hillary
+
 type: "post"
 ---
 

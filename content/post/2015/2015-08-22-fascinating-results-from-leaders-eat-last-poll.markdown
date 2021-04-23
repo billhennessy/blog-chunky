@@ -9,12 +9,8 @@ categories:
 - Political Psychology
 - Donald Trump
 tags:
-- Politics
-- Donald J. Trump
 - Eric Greitens
-- John Brunner
-- Peter Kinder
-- poll
+
 type: "post"
 ---
 

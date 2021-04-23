@@ -8,10 +8,7 @@ url: /2014/09/23/will-vote-libertarian-bill-slantz-congress/
 categories:
 - Politics
 tags:
-- Ann Wagner
-- Bill Slantz
-- MO-2
-- Rick Stream
+
 type: "post"
 ---
 

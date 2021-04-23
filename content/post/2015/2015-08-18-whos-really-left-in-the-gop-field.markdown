@@ -10,11 +10,7 @@ categories:
 - News
 - Donald Trump
 tags:
-- Ben Carson
-- Carly Fiorina
-- Donald J. Trump
-- Donald Trump
-- Ted Cruz
+
 type: "post"
 ---
 

@@ -9,10 +9,7 @@ categories:
 - Economy
 - News
 tags:
-- capitalism
-- Michael Lewis
-- Movie
-- The Big Short
+
 type: "post"
 ---
 

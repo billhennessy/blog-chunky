@@ -7,11 +7,10 @@ layout: blog
 url: /2016/02/15/proud-to-stand-with-veterans-supporting-eric-greitens/
 categories:
 - Politics
-- Politics
+
 tags:
 - Eric Greitens
-- Politics Governor
-- weasels
+
 type: "post"
 ---
 

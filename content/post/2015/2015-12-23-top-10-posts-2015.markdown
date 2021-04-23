@@ -8,10 +8,7 @@ url: /2015/12/23/top-10-posts-2015/
 categories:
 - News
 tags:
-- '2015'
-- blogging
-- popular
-- top posts
+
 type: "post"
 ---
 

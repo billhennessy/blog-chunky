@@ -7,12 +7,9 @@ layout: blog
 url: /2015/08/12/why-smart-phones-are-more-popular-than-the-tea-party/
 categories:
 - Politics
-- News
+
 tags:
-- conservative features
-- dignity
-- freedom
-- jobs
+
 type: "post"
 ---
 

@@ -8,7 +8,6 @@ url: /2015/03/12/how-to-recruit-better-political-candidates/
 categories:
 - News
 tags:
-- Leadership
 - Peter Drucker
 type: "post"
 ---

@@ -8,7 +8,6 @@ url: /2016/02/16/more-on-first-principles/
 categories:
 - Politics
 tags:
-- conservative
 - Eric Greitens
 type: "post"
 ---

@@ -8,9 +8,7 @@ url: /2015/03/11/the-ridiculous-thing-i-gave-up-for-lent/
 categories:
 - News
 tags:
-- Lent
-- pride
-- sacrifice
+
 type: "post"
 ---
 

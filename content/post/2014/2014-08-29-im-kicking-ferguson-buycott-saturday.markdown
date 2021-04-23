@@ -8,10 +8,7 @@ url: /2014/08/29/im-kicking-ferguson-buycott-saturday/
 categories:
 - 'Ferguson'
 tags:
-- 'FergusonBuycott'
-- buycott
-- Politics
-- shopping
+
 type: "post"
 ---
 

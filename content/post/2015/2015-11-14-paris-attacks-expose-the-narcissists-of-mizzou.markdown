@@ -8,9 +8,7 @@ url: /2015/11/14/paris-attacks-expose-the-narcissists-of-mizzou/
 categories:
 - Politics
 tags:
-- ConcernedStudent1950
-- Mizzou
-- Paris
+
 type: "post"
 ---
 

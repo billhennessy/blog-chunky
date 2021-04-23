@@ -8,9 +8,7 @@ url: /2015/10/15/conservatism-is-the-new-black/
 categories:
 - News
 tags:
-- AEI
-- Chetty
-- Economy
+
 type: "post"
 ---
 

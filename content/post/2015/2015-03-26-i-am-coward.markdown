@@ -9,7 +9,7 @@ categories:
 - Living
 tags:
 - Eric Greitens
-- Resilience
+
 type: "post"
 ---
 

@@ -8,13 +8,7 @@ url: /2014/03/28/king-abdullah-kicks-obama-saudia-arabia/
 categories:
 - Politics
 tags:
-- dinner cancelled
-- featured
-- foreign policy
-- king abdullah
-- obama
-- putin
-- saudi arabia
+
 type: "post"
 ---
 

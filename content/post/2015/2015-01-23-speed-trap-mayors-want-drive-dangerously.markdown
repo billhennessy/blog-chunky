@@ -8,11 +8,7 @@ url: /2015/01/22/speed-trap-mayors-want-drive-dangerously/
 categories:
 - Politics
 tags:
-- 'municourts'
-- 'TaxationByCitation'
-- Eric Schmitt
-- Politics
-- Politics
+
 type: "post"
 ---
 

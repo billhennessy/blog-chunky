@@ -9,8 +9,6 @@ categories:
 - Living
 tags:
 - Eric Greitens
-- National Service
-- The Franklin Project
 - William F. Buckley
 type: "post"
 ---
@@ -177,7 +175,7 @@ Before getting bogged down in motives, let’s move on to look at he constituent
 
 
 
-** **Education Corps**: to mobilize youth to serve in our lowest-performing schools, while working to  ensure that every young child receives the high-quality education they need to succeed in the 21st century;
+** **Education Corps**: to mobilize youth to serve in our lowest-performing schools, while working to ensure that every young child receives the high-quality education they need to succeed in the 21st century;
 
 ** If operated by the states or communities, this is probably a worthwhile goal. I do not see a role for the Department of Education, though, as the DoE has all but destroyed America’s schools, particularly poor schools
 ** If this is just a lobbying team to press for every-increasing taxes, we can do without an Education Corps
@@ -211,7 +209,7 @@ Before getting bogged down in motives, let’s move on to look at he constituent
 ** Being a veteran myself, I assure you volunteers in this program will have opportunities to develop patients and self-esteem J
 
 
-** **Professional Corps**: to enable young lawyers, health care professionals, financial experts, technology specialists, and other professionals to unleash their talents to help address public problems and help those in need; and
+** **Professional Corps**: to enable young lawyers, health care professionals, financial experts,technology specialists, and other professionals to unleash their talents to help address public problems and help those in need; and
 
 ** Um, no.
 ** Let the people with advanced degrees work in private industry and serve as mentors

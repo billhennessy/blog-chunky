@@ -9,12 +9,7 @@ categories:
 - Politics
 tags:
 - Cannabis
-- marijuana laws
-- rand paul
-- War on Drugs
-- war on pot
-- war on weed
-- weednesday post
+
 type: "post"
 ---
 

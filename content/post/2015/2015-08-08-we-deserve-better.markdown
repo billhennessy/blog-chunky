@@ -9,8 +9,7 @@ categories:
 - News
 - Donald Trump
 tags:
-- Donald J. Trump
-- Donald Trump
+
 type: "post"
 ---
 

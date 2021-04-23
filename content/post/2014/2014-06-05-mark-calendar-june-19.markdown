@@ -8,10 +8,7 @@ url: /2014/06/04/mark-calendar-june-19/
 categories:
 - Events
 tags:
-- Heritage Action
-- Social
-- Politics tea party
-- Politics
+
 type: "post"
 ---
 

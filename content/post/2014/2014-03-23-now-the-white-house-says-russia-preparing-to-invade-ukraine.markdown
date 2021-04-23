@@ -8,9 +8,6 @@ url: /2014/03/23/now-the-white-house-says-russia-preparing-to-invade-ukraine/
 categories:
 - Politics
 tags:
-- featured
-- russia
-- Russian Invasion
 - ukraine
 type: "post"
 ---

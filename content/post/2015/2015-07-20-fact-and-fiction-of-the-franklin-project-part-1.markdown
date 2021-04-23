@@ -8,8 +8,6 @@ url: /2015/07/20/fact-and-fiction-of-the-franklin-project-part-1/
 categories:
 - Living
 tags:
-- National Service
-- The Franklin Project
 - William F. Buckley
 type: "post"
 ---

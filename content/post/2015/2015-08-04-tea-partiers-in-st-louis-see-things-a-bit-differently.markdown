@@ -7,10 +7,10 @@ layout: blog
 url: /2015/08/04/tea-partiers-in-st-louis-see-things-a-bit-differently/
 categories:
 - Politics
-- Donald Trump
+
 tags:
 - Donald J. Trump
-- 'polls leadership'
+
 type: "post"
 ---
 

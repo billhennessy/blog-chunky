@@ -8,10 +8,7 @@ url: /2015/08/06/im-pissed-that-im-pissed/
 categories:
 - Politics
 tags:
-- happiness
-- 'hope attitudes'
-- Millennials
-- positive psychology
+
 type: "post"
 ---
 

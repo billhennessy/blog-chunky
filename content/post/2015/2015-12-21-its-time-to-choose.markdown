@@ -7,14 +7,10 @@ layout: blog
 url: /2015/12/20/its-time-to-choose/
 categories:
 - Politics
-- News
-- Donald Trump
-- Donald Trump
+
 tags:
 - Donald J. Trump
-- Donald Trump
-- Richard Nixon
-- ronald-reagan
+
 type: "post"
 ---
 

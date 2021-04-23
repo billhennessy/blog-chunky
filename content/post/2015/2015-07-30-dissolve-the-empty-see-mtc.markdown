@@ -8,8 +8,7 @@ url: /2015/07/29/dissolve-the-empty-see-mtc/
 categories:
 - Politics
 tags:
-- MTC
-- TaxiCabCommission
+
 type: "post"
 ---
 

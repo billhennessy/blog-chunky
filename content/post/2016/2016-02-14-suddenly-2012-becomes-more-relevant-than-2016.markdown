@@ -7,9 +7,9 @@ layout: blog
 url: /2016/02/13/suddenly-2012-becomes-more-relevant-than-2016/
 categories:
 - Politics
-- Politics
+
 tags:
-- Scalia
+
 type: "post"
 ---
 

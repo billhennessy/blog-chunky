@@ -8,16 +8,7 @@ url: /2014/08/06/10-curious-results-missouri-primary/
 categories:
 - Politics
 tags:
-- endExIm
-- 2nd Amendment
-- 4th Amendment
-- ACLU
-- ed martin
-- export-import bank
-- libertarian
-- Politics
-- Right to Farm
-- Politics
+
 type: "post"
 ---
 

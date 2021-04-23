@@ -8,17 +8,7 @@ url: /2014/08/19/end-game-ferguson/
 categories:
 - Living
 tags:
-- Antonio French
-- featured
-- Politics
-- Future
-- Jay Nixon
-- Maria Chappelle-Nadal
-- Mayor Slay
-- Politics
-- police
-- trust
-- Violence in Ferguson
+
 type: "post"
 ---
 

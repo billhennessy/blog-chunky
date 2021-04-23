@@ -9,16 +9,7 @@ categories:
 - News
 - Donald Trump
 tags:
-- birthright citizenship
-- Donald J. Trump
-- Donald Trump
-- Dred Scott
-- jus solis
-- Laura Ingraham
-- Mark Levin
-- rush limbaugh
-- Supreme-Court
-- Wong Kim Ark
+
 type: "post"
 ---
 

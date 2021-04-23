@@ -8,9 +8,7 @@ url: /2015/07/28/keep-missouri-money-in-missouri-with-tea/
 categories:
 - Politics
 tags:
-- featured
-- TEA
-- Politics
+
 type: "post"
 ---
 

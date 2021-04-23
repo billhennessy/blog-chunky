@@ -7,12 +7,11 @@ layout: blog
 url: /2016/05/11/heres-how-the-ryan-trump-meeting-ends/
 categories:
 - Politics
-- Donald Trump
+
 tags:
 - Donald Trump
-- negotiation
-- Paul Ryan
-- psychology
+
+
 type: "post"
 ---
 

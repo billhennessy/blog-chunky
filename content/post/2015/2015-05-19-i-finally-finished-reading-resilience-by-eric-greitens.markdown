@@ -9,8 +9,6 @@ categories:
 - Living
 tags:
 - Eric Greitens
-- Marcus Aurelius
-- Resilience
 - Seneca
 type: "post"
 ---

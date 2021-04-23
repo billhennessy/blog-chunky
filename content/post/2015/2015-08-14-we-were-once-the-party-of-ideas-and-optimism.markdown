@@ -8,9 +8,7 @@ url: /2015/08/13/we-were-once-the-party-of-ideas-and-optimism/
 categories:
 - Politics
 tags:
-- ideas
-- kemp
-- reagan
+
 type: "post"
 ---
 

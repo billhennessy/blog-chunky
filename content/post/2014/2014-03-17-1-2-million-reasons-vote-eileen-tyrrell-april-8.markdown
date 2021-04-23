@@ -8,17 +8,7 @@ url: /2014/03/17/1-2-million-reasons-vote-eileen-tyrrell-april-8/
 categories:
 - Academics
 tags:
-- Ballwin
-- Chesterfield
-- Ellisville
-- Eureka
-- Eureka High School
-- featured
-- Lafayette High School
-- Marquette High School
-- Rockwood School District
-- Rockwood Summit
-- Wildwood
+
 type: "post"
 ---
 

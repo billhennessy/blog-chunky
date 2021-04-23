@@ -9,10 +9,7 @@ categories:
 - News
 - Donald Trump
 tags:
-- Ben Carson
-- debate
-- Donald J. Trump
-- presidential debate
+
 type: "post"
 ---
 

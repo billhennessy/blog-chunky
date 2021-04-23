@@ -8,8 +8,7 @@ url: /2015/12/13/the-climate-agreement-from-game-theory/
 categories:
 - global-warming
 tags:
-- AGW
-- CAGW
+
 type: "post"
 ---
 

@@ -7,7 +7,7 @@ layout: blog
 url: /2014/09/29/john-diehl-doesnt-want-know-theres-big-press-conference-tuesday/
 categories:
 - Politics
-- Activism
+
 type: "post"
 ---
 

@@ -8,9 +8,7 @@ url: /2015/04/13/whats-in-your-medicine-cabinet/
 categories:
 - Politics
 tags:
-- Politics
-- PDMP
-- Prescription Database
+
 type: "post"
 ---
 

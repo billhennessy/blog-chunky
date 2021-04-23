@@ -7,12 +7,9 @@ layout: blog
 url: /2016/02/26/trump-knocked-rubio-out-of-the-news-cycle/
 categories:
 - Politics
-- Donald Trump
+
 tags:
-- chris christie
-- Donald Trump
-- GOP
-- Preference Falsification
+
 type: "post"
 ---
 

@@ -6,7 +6,6 @@ title: 2 Awesome Military Stories for Independence Day Weekend
 layout: blog
 url: /2014/07/05/awesome-video-us-army-sergeant-tells-iraqi-police-way/
 categories:
-- Military
 - Politics
 post_format:
 

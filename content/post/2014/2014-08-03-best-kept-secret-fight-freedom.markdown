@@ -8,13 +8,7 @@ url: /2014/08/02/best-kept-secret-fight-freedom/
 categories:
 - Activism
 tags:
-- Activism
-- center for self-governance
-- Mark Herr
-- MOPP
-- Mrs. Powell
-- own your own life
-- self-govern
+
 type: "post"
 ---
 

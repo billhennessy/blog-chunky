@@ -8,8 +8,7 @@ url: /2015/07/15/politics-is-war-by-other-means/
 categories:
 - Politics
 tags:
-- Greece
-- Grexit
+
 type: "post"
 ---
 

@@ -8,8 +8,7 @@ url: /2014/03/20/5-secrets-politicians-dont-want-know/
 categories:
 - Political Psychology
 tags:
-- featured
-- secrets
+
 type: "post"
 ---
 

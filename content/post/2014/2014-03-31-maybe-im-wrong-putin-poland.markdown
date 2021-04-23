@@ -9,8 +9,7 @@ categories:
 - Politics
 tags:
 - being wrong
-- Charles Hugh Smith
-- putin
+
 type: "post"
 ---
 

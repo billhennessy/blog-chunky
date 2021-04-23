@@ -9,10 +9,7 @@ categories:
 - Activism
 tags:
 - buycott
-- Politics
-- Economy
-- Politics
-- love
+
 type: "post"
 ---
 

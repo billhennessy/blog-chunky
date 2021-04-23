@@ -8,11 +8,7 @@ url: /2015/02/25/this-seems-like-a-really-big-win/
 categories:
 - Politics
 tags:
-- Anne Gassel
-- common core
-- common core standards
-- Fred Sauer
-- Gretchen Logue
+
 type: "post"
 ---
 

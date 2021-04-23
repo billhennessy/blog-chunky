@@ -8,12 +8,7 @@ url: /2014/07/24/can-reclaim-4th-amendment-5th-august/
 categories:
 - Politics
 tags:
-- Amendment 9
-- August Primary
-- Bob Dixon
-- Jim Lembke
-- Politics
-- Rob Schaaf
+
 type: "post"
 ---
 

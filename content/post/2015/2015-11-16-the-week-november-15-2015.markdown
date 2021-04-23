@@ -8,11 +8,7 @@ url: /2015/11/15/the-week-november-15-2015/
 categories:
 - News
 tags:
-- France
-- Mayor Slay
-- Mizzou
-- Navy
-- Syrian Refugees
+
 type: "post"
 ---
 

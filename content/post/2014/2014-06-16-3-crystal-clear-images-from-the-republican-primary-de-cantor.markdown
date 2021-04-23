@@ -8,15 +8,7 @@ url: /2014/06/15/3-crystal-clear-images-from-the-republican-primary-de-cantor/
 categories:
 - Politics
 tags:
-- endExIm
-- Politics
-- David Brat
-- Elizabeth Warren
-- eric cantor
-- Ex-Im
-- export-import bank
-- libertarianism
-- Millennial
+
 type: "post"
 ---
 

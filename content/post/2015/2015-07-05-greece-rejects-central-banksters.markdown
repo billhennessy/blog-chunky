@@ -8,7 +8,7 @@ url: /2015/07/05/greece-rejects-central-banksters/
 categories:
 - Economy
 tags:
-- Greece
+
 type: "post"
 ---
 

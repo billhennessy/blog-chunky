@@ -7,12 +7,10 @@ layout: blog
 url: /2016/01/26/nro-against-jefferson/
 categories:
 - Politics
-- News
-- Donald Trump
+
 tags:
 - Donald J. Trump
-- National Review
-- Donald Trump
+
 type: "post"
 ---
 

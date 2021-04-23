@@ -9,8 +9,6 @@ categories:
 - 'Ferguson'
 tags:
 - 911 Beauty Salon
-- BUYcott Ferguson
-- center for self-governance
 - Dellena Jones
 type: "post"
 ---

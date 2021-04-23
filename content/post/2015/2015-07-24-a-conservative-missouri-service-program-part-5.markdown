@@ -10,7 +10,6 @@ categories:
 tags:
 - Democracy in America
 - Eric Greitens
-- National Service
 - Wiliam F. Buckley
 type: "post"
 ---

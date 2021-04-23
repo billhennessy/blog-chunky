@@ -8,9 +8,8 @@ url: /2015/11/24/john-the-weasel-brunner/
 categories:
 - Politics
 tags:
-- EricGreitens
-- MoGov
-- Weasel
+- Eric Greitens
+
 type: "post"
 ---
 

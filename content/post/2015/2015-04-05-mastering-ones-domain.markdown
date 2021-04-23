@@ -8,10 +8,8 @@ url: /2015/04/04/mastering-ones-domain/
 categories:
 - Politics
 tags:
-- domain registry
 - Eric Greitens
-- internet domains
-- master of your domain
+
 type: "post"
 ---
 

@@ -10,19 +10,7 @@ categories:
 - Politics
 - Donald Trump
 tags:
-- 'CensureHenry'
-- 'RememberMS'
-- 'EdMartin4MO'
-- Donald J. Trump
-- ed martin
-- Erick Erickson
-- Henry Barbour
-- Mississippi
-- RedState Gathering
-- Reince Priebus
-- RNC
-- Politics
-- Thad Cochran
+
 type: "post"
 ---
 

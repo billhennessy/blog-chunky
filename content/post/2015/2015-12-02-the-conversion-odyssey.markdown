@@ -8,10 +8,8 @@ url: /2015/12/01/the-conversion-odyssey/
 categories:
 - Politics
 tags:
-- converts
-- David Horowitz
 - Eric Greitens
-- John dos Passos
+
 type: "post"
 ---
 

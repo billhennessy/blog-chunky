@@ -8,10 +8,7 @@ url: /2015/03/08/how-race-hurts-efforts-to-reform-municipal-courts/
 categories:
 - 'Ferguson'
 tags:
-- Politics
-- Leadership
-- Racial Politics
-- racism
+
 type: "post"
 ---
 

@@ -10,11 +10,7 @@ categories:
 - Living
 - Donald Trump
 tags:
-- Carly Fiorina
-- Donald J. Trump
-- Donald Trump
-- Leadership
-- simon sinek
+
 type: "post"
 ---
 

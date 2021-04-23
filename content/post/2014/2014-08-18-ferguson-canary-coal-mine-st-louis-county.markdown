@@ -9,11 +9,7 @@ categories:
 - Politics
 tags:
 - crime
-- Politics
-- Politics
-- police militarization
-- Economy
-- Politics
+
 type: "post"
 ---
 

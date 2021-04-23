@@ -8,9 +8,7 @@ url: /2016/02/19/im-with-apple/
 categories:
 - Politics
 tags:
-- apple
-- FBI
-- iphone
+
 type: "post"
 ---
 
