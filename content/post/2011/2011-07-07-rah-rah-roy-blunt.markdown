@@ -7,13 +7,11 @@ layout: blog
 url: /2011/07/07/rah-rah-roy-blunt/
 categories:
 - Politics
-- Politics
+
 - News
 tags:
 - Debt Ceiling
-- default
-- Fiscal Responsibility
-- roy blunt
+
 type: "post"
 ---
 

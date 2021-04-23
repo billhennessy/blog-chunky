@@ -7,7 +7,7 @@ layout: blog
 url: /2011/03/20/3-top-ways-to-clean-up-st-louis-county-government/
 categories:
 - Politics
-- Politics
+
 tags:
 - 'stl stlcounty assessor'
 - Assessor

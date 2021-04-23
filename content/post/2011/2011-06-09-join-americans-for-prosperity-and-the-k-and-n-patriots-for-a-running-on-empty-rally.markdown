@@ -10,9 +10,7 @@ categories:
 - Politics
 tags:
 - AFP
-- ed martin
-- K &amp; N Patriots
-- Running on Empty
+
 type: "post"
 ---
 

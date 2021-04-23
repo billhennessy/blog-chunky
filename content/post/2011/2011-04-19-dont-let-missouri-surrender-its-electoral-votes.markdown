@@ -7,8 +7,6 @@ layout: blog
 url: /2011/04/18/dont-let-missouri-surrender-its-electoral-votes/
 categories:
 - Activism
-- Constitution
-- Politics
 - Politics
 tags:
 - electoral college

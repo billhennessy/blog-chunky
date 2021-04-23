@@ -9,7 +9,6 @@ categories:
 - Politics
 tags:
 - broadside books
-- HarperColins
 - Weaving the Roots
 type: "post"
 ---

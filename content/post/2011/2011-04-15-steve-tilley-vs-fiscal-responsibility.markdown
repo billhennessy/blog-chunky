@@ -10,12 +10,7 @@ categories:
 - Politics
 tags:
 - brian nieves
-- debt
-- Jim Lembke
-- John McCain
-- roy blunt
-- spending
-- Steve Tilley
+
 type: "post"
 ---
 

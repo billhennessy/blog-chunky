@@ -6,13 +6,10 @@ title: Tucson
 layout: blog
 url: /2011/04/29/tucson/
 categories:
-- News
 - Politics
 tags:
-- jenn
-- larry schweikart
-- trent humphries
-- tucson tea party
+
+
 type: "post"
 ---
 

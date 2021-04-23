@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - Declaration of Independence
-- Harvard
-- Independence Day
-- liberty
+
 type: "post"
 ---
 

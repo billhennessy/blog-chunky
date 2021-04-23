@@ -9,17 +9,7 @@ categories:
 - News
 tags:
 - cairo
-- egypt
-- gibbs
-- iran
-- Jimmy Carter
-- mubarak
-- obama
-- oil prices
-- shah
-- turmoil
-- unrest
-- Politics
+
 type: "post"
 ---
 

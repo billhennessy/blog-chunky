@@ -10,14 +10,7 @@ categories:
 - Politics
 tags:
 - electoral college
-- Politics
-- leftist
-- Politics
-- Politics
-- Faith
-- statist
-- Steve Tilley
-- tilley
+
 type: "post"
 ---
 

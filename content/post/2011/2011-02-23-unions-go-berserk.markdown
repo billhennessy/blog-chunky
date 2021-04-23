@@ -9,8 +9,7 @@ categories:
 - Politics
 tags:
 - protests
-- unions
-- wisconsin
+
 type: "post"
 ---
 

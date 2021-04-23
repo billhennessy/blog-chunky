@@ -10,11 +10,7 @@ categories:
 tags:
 - collapse
 - deficit
-- democrats
-- federal deficit
-- gasoline
-- national debt
-- obama
+
 type: "post"
 ---
 

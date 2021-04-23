@@ -10,9 +10,7 @@ categories:
 tags:
 - Assessor
 - Chip Wood
-- Claire McCaskill
-- property taxes
-- Politics Assessor
+
 type: "post"
 ---
 

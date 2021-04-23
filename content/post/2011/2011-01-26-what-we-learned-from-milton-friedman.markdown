@@ -10,13 +10,7 @@ categories:
 - Politics
 tags:
 - Adam Smith
-- capitalism
-- Creating Shared Value
-- Economy
-- Politics
-- John Mackey
-- Milton Friedman
-- reason
+
 type: "post"
 ---
 

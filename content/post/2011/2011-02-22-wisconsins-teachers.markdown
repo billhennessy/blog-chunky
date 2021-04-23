@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - communism
-- NEA
-- Scott Walker
-- wisconsin
+
 type: "post"
 ---
 

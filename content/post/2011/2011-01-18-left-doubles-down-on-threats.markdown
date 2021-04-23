@@ -10,10 +10,7 @@ categories:
 tags:
 - dana loesch
 - gateway pundit
-- J. Eric Fuller
-- Politics tea party
-- trent humphries
-- tucson tea party
+
 type: "post"
 ---
 

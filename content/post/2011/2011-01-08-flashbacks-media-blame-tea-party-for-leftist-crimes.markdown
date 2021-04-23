@@ -9,11 +9,6 @@ categories:
 - Press
 tags:
 - carnahan fire bomb
-- denver democratic
-- discovery channel hostage
-- jarod laughner
-- jarod lee loughner
-- liberal press
 - media
 type: "post"
 ---

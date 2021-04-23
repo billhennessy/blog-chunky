@@ -7,7 +7,6 @@ layout: blog
 url: /2011/05/01/one-of-americas-finest-moments/
 categories:
 - Politics
-- Politics
 tags:
 - bin laden
 type: "post"

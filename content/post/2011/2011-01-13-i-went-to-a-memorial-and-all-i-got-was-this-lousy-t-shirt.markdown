@@ -10,10 +10,7 @@ categories:
 - Living
 tags:
 - 'arizonamemorialconcert'
-- crass
-- memorial
-- obama
-- Tucson
+
 type: "post"
 ---
 

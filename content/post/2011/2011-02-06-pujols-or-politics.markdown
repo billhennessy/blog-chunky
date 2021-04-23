@@ -10,8 +10,7 @@ categories:
 tags:
 - albert pujols
 - Claire McCaskill
-- free agent
-- Politics
+
 type: "post"
 ---
 

@@ -10,10 +10,7 @@ categories:
 - Politics
 tags:
 - Assessor
-- Chip Wood
-- conservative
-- MOGOP
-- republican
+
 type: "post"
 ---
 

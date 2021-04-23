@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - Libya
-- obama
-- united nations
-- war powers act
+
 type: "post"
 ---
 

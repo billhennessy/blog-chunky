@@ -7,11 +7,10 @@ layout: blog
 url: /2011/03/29/growing-the-pie/
 categories:
 - Politics
-- Politics
+
 tags:
 - Lobbyist
-- Politics tea party
-- Politics
+
 type: "post"
 ---
 

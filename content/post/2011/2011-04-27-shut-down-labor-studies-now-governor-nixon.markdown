@@ -7,16 +7,10 @@ layout: blog
 url: /2011/04/26/shut-down-labor-studies-now-governor-nixon/
 categories:
 - Politics
-- Politics
-- Politics
+
 tags:
 - communism
-- industrial sabotage
-- Jay Nixon
-- Mizzou
-- UMKC
-- UMSL
-- University of Missouri System
+
 type: "post"
 ---
 

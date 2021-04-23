@@ -11,12 +11,7 @@ categories:
 tags:
 - boomers
 - crisis
-- disasters
-- Generation X
-- generations
-- Millennials
-- The Fourth Turning
-- william strauss
+
 type: "post"
 ---
 

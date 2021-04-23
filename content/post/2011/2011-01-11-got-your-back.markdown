@@ -9,12 +9,7 @@ categories:
 - News
 tags:
 - got your back
-- NAACP
-- progressives
-- rhetoric
-- Politics
-- Tucson
-- vitriol
+
 type: "post"
 ---
 

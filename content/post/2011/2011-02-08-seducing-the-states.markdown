@@ -9,10 +9,7 @@ categories:
 - Academics
 tags:
 - bob mccarty
-- eduction
-- heritage foundation
-- race for the top
-- The Vision for Missouri Public Education
+
 type: "post"
 ---
 

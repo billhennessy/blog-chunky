@@ -7,15 +7,11 @@ layout: blog
 url: /2011/03/23/a-disgraceful-presidency/
 categories:
 - Politics
-- Politics
+
 tags:
 - Germany
 - Libya
-- NATO
-- obama
-- quagmire
-- stalemate
-- unravelling
+
 type: "post"
 ---
 

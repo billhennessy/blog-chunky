@@ -6,15 +6,9 @@ title: Who’s Lucky?
 layout: blog
 url: /2011/05/14/whos-lucky/
 categories:
-- Academics
 - Living
 tags:
-- conformity
-- Academics
-- Fern Ridge High School
-- Politics Options
-- School
-- socialism
+
 type: "post"
 ---
 

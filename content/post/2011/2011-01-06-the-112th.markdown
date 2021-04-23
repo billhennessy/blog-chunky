@@ -8,9 +8,8 @@ url: /2011/01/05/the-112th/
 categories:
 - Politics
 tags:
-- 112th Congress
-- deficit
-- Rebublicans
+
+
 type: "post"
 ---
 

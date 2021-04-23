@@ -9,10 +9,7 @@ categories:
 - Politics
 tags:
 - April 5
-- Chip Wood
-- Jesse Irwin
-- Politics elections
-- vote
+
 type: "post"
 ---
 

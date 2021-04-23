@@ -9,12 +9,7 @@ categories:
 - Politics
 tags:
 - future of the tea party
-- Politics news horizon
-- nancy etcoff
-- pursuit of happiness
-- rebecca townsend
-- Politics tea party
-- Politics
+
 type: "post"
 ---
 

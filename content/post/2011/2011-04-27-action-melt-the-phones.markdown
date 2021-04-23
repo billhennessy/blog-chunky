@@ -7,14 +7,10 @@ layout: blog
 url: /2011/04/27/action-melt-the-phones/
 categories:
 - Politics
-- Politics
-- Politics
+
 tags:
 - Activism
-- david giljam
-- Jay Nixon
-- Politics
-- University of Missouri System
+
 type: "post"
 ---
 

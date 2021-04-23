@@ -9,9 +9,7 @@ categories:
 - News
 tags:
 - KSDK
-- sotu
-- st.-louis
-- state of the union
+
 type: "post"
 ---
 

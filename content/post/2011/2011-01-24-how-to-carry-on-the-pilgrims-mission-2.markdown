@@ -9,10 +9,7 @@ categories:
 - Living
 tags:
 - approach avoidance
-- Barbara Fredrickson
-- pilgrims
-- positive emotions
-- William Bradford
+
 type: "post"
 ---
 

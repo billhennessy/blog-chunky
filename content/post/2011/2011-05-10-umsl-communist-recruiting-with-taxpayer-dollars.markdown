@@ -6,18 +6,10 @@ title: 'UMSL: Communist Recruiting With Taxpayer Dollars'
 layout: blog
 url: /2011/05/09/umsl-communist-recruiting-with-taxpayer-dollars/
 categories:
-- Academics
-- Politics
-- News
 - Politics
 tags:
 - Academic Freedom
-- communism
-- Labor Studies
-- marxism
-- Marxists in the Classroom
-- UMKC
-- UMSL
+
 type: "post"
 ---
 

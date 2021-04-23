@@ -10,9 +10,7 @@ categories:
 tags:
 - brian nieves
 - Jim Lembke
-- Props
-- State Senate
-- Washinton
+
 type: "post"
 ---
 

@@ -8,11 +8,7 @@ url: /2011/02/27/disappointing-missouri-house-leadership-blowing-it/
 categories:
 - Politics
 tags:
-- 'teaparty'
-- GOP
-- Politics Politics
-- Politics Republicans
-- Politics
+
 type: "post"
 ---
 

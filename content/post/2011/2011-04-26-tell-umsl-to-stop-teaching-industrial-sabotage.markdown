@@ -6,18 +6,9 @@ title: Tell UMSL to Stop Teaching Industrial Sabotage
 layout: blog
 url: /2011/04/25/tell-umsl-to-stop-teaching-industrial-sabotage/
 categories:
-- Activism
-- Politics
 - Politics
 tags:
-- Activism
-- communism
-- industrial sabotage
-- Judy Ancel
-- UMKC
-- UMSL
-- unions
-- Univerity of Missouri System
+
 type: "post"
 ---
 

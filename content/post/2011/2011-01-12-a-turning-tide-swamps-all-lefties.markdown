@@ -10,11 +10,7 @@ categories:
 tags:
 - George Soros
 - giffords
-- jarod lee loughner
-- jon stewart
-- politico
-- progressives
-- Tucson
+
 type: "post"
 ---
 

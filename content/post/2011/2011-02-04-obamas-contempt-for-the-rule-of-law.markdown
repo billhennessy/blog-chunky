@@ -9,11 +9,7 @@ categories:
 - Politics
 tags:
 - Constitution
-- Contempt of court
-- dictator
-- obama
-- Obmacare
-- Politics
+
 type: "post"
 ---
 

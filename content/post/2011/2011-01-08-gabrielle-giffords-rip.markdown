@@ -10,13 +10,7 @@ categories:
 - Crime
 tags:
 - breitbart
-- congress on your corner
-- congresswoman killed
-- Gabrielle Giffords
-- kos
-- shooting
-- Tucson
-- yglesias
+
 type: "post"
 ---
 

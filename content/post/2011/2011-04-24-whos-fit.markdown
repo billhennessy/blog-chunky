@@ -7,18 +7,10 @@ layout: blog
 url: /2011/04/23/whos-fit/
 categories:
 - Politics
-- News
-- Politics
-- Donald Trump
+
 tags:
 - chaos
 - chutzpah
-- default
-- Donald J. Trump
-- Economy
-- Palin
-- president
-- star power
 - Donald Trump
 type: "post"
 ---

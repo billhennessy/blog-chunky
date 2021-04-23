@@ -8,12 +8,6 @@ url: /2011/07/01/meditate-on-this-why-dont-you/
 categories:
 - Politics
 tags:
-- collective
-- independence
-- Independence Day
-- individual
-- liberty
-- tocqueville
 type: "post"
 ---
 

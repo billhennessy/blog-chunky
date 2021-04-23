@@ -9,12 +9,7 @@ categories:
 - Politics
 tags:
 - cairo
-- Claire Berlinski
-- egypt
-- Mark Levin
-- mubarak
-- Musllim Brotherhood
-- Salim Mansur
+
 type: "post"
 ---
 

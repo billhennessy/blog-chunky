@@ -7,13 +7,9 @@ layout: blog
 url: /2011/05/11/plan-a-happy-hour/
 categories:
 - Living
-- News
+
 tags:
-- commemorations
-- Happy Hour
-- Holidays
-- limericks
-- special events
+
 type: "post"
 ---
 

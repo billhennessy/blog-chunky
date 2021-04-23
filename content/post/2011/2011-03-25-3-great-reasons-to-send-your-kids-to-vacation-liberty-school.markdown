@@ -9,9 +9,7 @@ categories:
 - Academics
 tags:
 - as a mom
-- Academics
-- vacation liberty school
-type: "post"
+
 ---
 
 Register today for [Vacation Liberty School](https://stlvls.webs.com/).  Here's 3 reasons why you should:

@@ -9,16 +9,10 @@ layout: blog
 url: /2011/04/27/tea-party-leader-condones-political-violence-it-certainly-has-its-place-its-a-tactic-that-should-be-used-at-the-appropriate-time-i-believe-in-a-violent-overthrow-and-that-free/
 categories:
 - Politics
-- Politics
-- News
-- Politics
+
 tags:
 - Don Giljum
-- indimidation
-- Jay Nixon
-- sabotage
-- Politics
-- union violence
+
 type: "post"
 ---
 

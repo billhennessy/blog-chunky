@@ -7,11 +7,10 @@ layout: blog
 url: /2011/03/21/the-difference-between-cooperation-and-consensus/
 categories:
 - Living
-- Living
+
 tags:
 - consensus
-- cooperation
-- Leadership
+
 type: "post"
 ---
 

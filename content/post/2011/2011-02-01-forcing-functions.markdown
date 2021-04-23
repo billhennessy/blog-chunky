@@ -9,16 +9,7 @@ categories:
 - Politics
 tags:
 - 'jan25'
-- cairo
-- egypt
-- Hamas
-- hezbollah
-- Jordan
-- mubarak
-- obama
-- oil prices
-- Politics
-- Yemen
+
 type: "post"
 ---
 

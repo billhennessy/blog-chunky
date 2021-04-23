@@ -9,8 +9,7 @@ categories:
 - Politics
 tags:
 - ed martin
-- McCaskill
-- US Senate
+
 type: "post"
 ---
 

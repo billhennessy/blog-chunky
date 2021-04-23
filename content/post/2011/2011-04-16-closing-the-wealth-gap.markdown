@@ -11,9 +11,7 @@ categories:
 - Politics
 tags:
 - entitlements
-- income disparity
-- income gap
-- Politics
+
 type: "post"
 ---
 

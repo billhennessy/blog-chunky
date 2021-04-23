@@ -10,9 +10,7 @@ categories:
 - Politics
 tags:
 - cuba
-- Economy
-- Politics
-- freedom
+
 type: "post"
 ---
 

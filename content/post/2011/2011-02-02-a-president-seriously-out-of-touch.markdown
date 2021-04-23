@@ -9,14 +9,7 @@ categories:
 - Politics
 tags:
 - 50s
-- fonzie
-- happy days
-- howdy doody
-- obama
-- potsy
-- sotu
-- sputnik
-- state of the union
+
 type: "post"
 ---
 

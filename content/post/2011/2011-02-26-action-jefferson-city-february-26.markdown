@@ -9,11 +9,7 @@ categories:
 - Activism
 tags:
 - Activism
-- communism
-- Politics
-- rally
-- SEIU
-- Politics
+
 type: "post"
 ---
 

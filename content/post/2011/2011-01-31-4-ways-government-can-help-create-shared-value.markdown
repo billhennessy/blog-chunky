@@ -9,10 +9,7 @@ categories:
 - Economy
 tags:
 - Creating Shared Value
-- flat tax
-- harvard business review
-- michael porter
-- regulation
+
 type: "post"
 ---
 

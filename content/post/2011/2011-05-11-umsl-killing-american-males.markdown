@@ -6,15 +6,10 @@ title: UMSL Killing American Males
 layout: blog
 url: /2011/05/10/umsl-killing-american-males/
 categories:
-- Business
-- Economy
 - Politics
 tags:
 - idleness
-- Labor Studies
-- Men
-- UMKC
-- UMSL
+
 type: "post"
 ---
 

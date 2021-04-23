@@ -9,10 +9,7 @@ categories:
 - Politics
 tags:
 - bi-partisanship
-- eric cantor
-- kevin mccarthy
-- sotu
-- state of the union
+
 type: "post"
 ---
 

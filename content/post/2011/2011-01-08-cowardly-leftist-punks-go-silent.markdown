@@ -10,11 +10,7 @@ categories:
 tags:
 - chris matthews
 - eric boehlert
-- Gabrielle Giffords
-- jarod laughner
-- jarod lee loughner
-- markos moulitsas
-- matt yglesias
+
 type: "post"
 ---
 

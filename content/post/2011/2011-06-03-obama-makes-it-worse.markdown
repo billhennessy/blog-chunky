@@ -9,11 +9,7 @@ categories:
 - Economy
 tags:
 - borrowing
-- debt
-- Economy
-- obama
-- peggy noonan
-- unemployment
+
 type: "post"
 ---
 

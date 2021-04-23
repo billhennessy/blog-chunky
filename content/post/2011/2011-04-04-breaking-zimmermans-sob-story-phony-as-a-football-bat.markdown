@@ -8,8 +8,7 @@ url: /2011/04/03/breaking-zimmermans-sob-story-phony-as-a-football-bat/
 categories:
 - Politics
 tags:
-- Jake Zimmerman
-- Politics Assessor
+
 type: "post"
 ---
 

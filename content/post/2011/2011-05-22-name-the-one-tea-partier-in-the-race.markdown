@@ -9,8 +9,7 @@ categories:
 - Politics
 tags:
 - Ann Wagner
-- ed martin
-- Politics 2nd District
+
 type: "post"
 ---
 

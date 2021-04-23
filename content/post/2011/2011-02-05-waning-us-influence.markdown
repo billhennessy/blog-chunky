@@ -9,12 +9,7 @@ categories:
 - Politics
 tags:
 - egypt
-- Jimmy Carter
-- Jordan
-- lebanon
-- obama
-- turkey
-- Yemen
+
 type: "post"
 ---
 

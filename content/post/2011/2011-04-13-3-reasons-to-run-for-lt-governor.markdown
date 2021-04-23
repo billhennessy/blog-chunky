@@ -10,9 +10,7 @@ categories:
 - Politics
 tags:
 - Politics
-- Lieutenant Governor
-- LooeyG
-- Politics
+
 type: "post"
 ---
 

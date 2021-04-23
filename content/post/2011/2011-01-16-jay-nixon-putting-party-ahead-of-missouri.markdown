@@ -10,13 +10,7 @@ categories:
 tags:
 - chris christie
 - Illinois
-- income tax
-- Indiana
-- Jay Nixon
-- jobs
-- Politics
-- tax increase
-- wisconsin
+
 type: "post"
 ---
 

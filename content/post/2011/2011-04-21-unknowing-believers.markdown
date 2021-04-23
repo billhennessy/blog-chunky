@@ -10,8 +10,7 @@ categories:
 tags:
 - big tent
 - broaden and build
-- Politics
-- Unknowing Believers
+
 type: "post"
 ---
 

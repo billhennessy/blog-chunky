@@ -9,11 +9,7 @@ categories:
 - Politics
 tags:
 - Constitution
-- dead constitution
-- ezra klein
-- Jonah Goldberg
-- living constitution
-- living document
+
 type: "post"
 ---
 

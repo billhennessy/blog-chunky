@@ -9,10 +9,7 @@ categories:
 - Crime
 tags:
 - clarence dupnik
-- jerod loughner
-- loughner's mother
-- pima county board of supervisors
-- pima county sheriff
+
 type: "post"
 ---
 

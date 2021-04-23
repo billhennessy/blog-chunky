@@ -10,8 +10,7 @@ categories:
 tags:
 - disaster
 - japan
-- Katrina
-- The Fourth Turning
+
 type: "post"
 ---
 

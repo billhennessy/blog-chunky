@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - Chip Wood
-- Politics April 5
-- L.K. Wood
-- Politics Assessor
+
 type: "post"
 ---
 

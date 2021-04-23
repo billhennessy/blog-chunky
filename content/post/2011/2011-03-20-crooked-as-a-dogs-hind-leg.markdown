@@ -9,10 +9,7 @@ categories:
 - Politics
 tags:
 - charlie dooley
-- Chip Wood
-- Corruption
-- Politics Assessor
-- temporiti
+
 type: "post"
 ---
 

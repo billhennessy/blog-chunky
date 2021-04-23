@@ -9,10 +9,7 @@ categories:
 - Crime
 tags:
 - Gabrielle Giffords
-- jarod laughner
-- jerod loughner
-- laughner
-- youtube
+
 type: "post"
 ---
 

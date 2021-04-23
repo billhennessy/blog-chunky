@@ -7,8 +7,7 @@ layout: blog
 url: /2011/04/06/thank-a-senator/
 categories:
 - Politics
-- Politics
-- Politics
+
 - News
 type: "post"
 ---

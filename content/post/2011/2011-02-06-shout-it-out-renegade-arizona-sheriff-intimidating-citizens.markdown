@@ -9,10 +9,7 @@ categories:
 - Crime
 tags:
 - civil rights
-- dupnik
-- first amendment
-- intimidation
-- tucson tea party
+
 type: "post"
 ---
 

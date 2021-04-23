@@ -9,12 +9,7 @@ categories:
 - Crime
 tags:
 - death threat
-- J. Eric Fuller
-- loughner
-- paul krugman
-- trent humphries
-- Tucson
-- tucson tea party
+
 type: "post"
 ---
 

@@ -9,8 +9,7 @@ categories:
 - Politics
 tags:
 - dupnik
-- Politics
-- tucson tea party
+
 type: "post"
 ---
 

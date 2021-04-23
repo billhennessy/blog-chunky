@@ -7,16 +7,10 @@ layout: blog
 url: /2011/04/28/3-updates-on-university-of-missouri-story/
 categories:
 - Politics
-- Politics
-- Politics
+
 tags:
 - communism
-- Don Giljum
-- Jay Nixon
-- Peter Kinder
-- UMKC
-- UMSL
-- unions
+
 type: "post"
 ---
 

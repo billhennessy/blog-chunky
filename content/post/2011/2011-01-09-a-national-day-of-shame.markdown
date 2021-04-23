@@ -10,11 +10,7 @@ categories:
 tags:
 - arizona shooting
 - Claire McCaskill
-- fox-pivens
-- Gabrielle Giffords
-- jared laughner
-- jared lee loughner
-- Tucson
+
 type: "post"
 ---
 

@@ -9,11 +9,7 @@ categories:
 - Politics
 tags:
 - August 4
-- independence
-- Kiener Plaza
-- rally
-- Politics tea party
-- Politics
+
 type: "post"
 ---
 

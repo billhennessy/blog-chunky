@@ -10,10 +10,7 @@ categories:
 - Politics
 tags:
 - Gabrielle Giffords
-- jennifer humphries
-- media
-- trent humphries
-- Tucson
+
 type: "post"
 ---
 

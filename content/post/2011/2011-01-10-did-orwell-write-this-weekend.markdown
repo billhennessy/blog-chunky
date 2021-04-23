@@ -9,11 +9,7 @@ categories:
 - Politics
 tags:
 - Claire McCaskill
-- Gabrielle Giffords
-- Jane Fonda
-- jarod lee loughner
-- Joe Biden
-- violent rhetoric
+
 type: "post"
 ---
 

@@ -6,15 +6,10 @@ title: One Question for Gail Hackett of UMKC
 layout: blog
 url: /2011/04/29/one-question-for-gail-hackett-of-umkc/
 categories:
-- Academics
-- News
 - Politics
 tags:
 - Don Giljum
-- Gail Hackett
-- Judy Ancel
-- Marxists in the Classroom
-- UMKC
+
 type: "post"
 ---
 

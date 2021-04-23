@@ -10,8 +10,7 @@ categories:
 tags:
 - red light camera
 - roads fit for people
-- traffic lights
-- wrong on red
+
 type: "post"
 ---
 

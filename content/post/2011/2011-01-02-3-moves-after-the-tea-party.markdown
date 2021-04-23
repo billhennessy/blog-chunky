@@ -10,10 +10,7 @@ categories:
 tags:
 - '2011'
 - '2012'
-- changes
-- policy
-- Politics
-type: "post"
+
 ---
 
 It’s 2011. The Tea Party movement is [almost two years old](https://hennessysview.com/2009/02/22/st-louis-tea-party/).

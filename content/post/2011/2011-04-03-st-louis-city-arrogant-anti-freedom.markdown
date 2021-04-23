@@ -10,10 +10,7 @@ categories:
 - Politics
 tags:
 - eminent domain
-- first amendment
-- Francis Slay
-- george will
-- jim roos
+
 type: "post"
 ---
 

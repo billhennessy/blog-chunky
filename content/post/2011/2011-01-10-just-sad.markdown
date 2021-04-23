@@ -9,9 +9,7 @@ categories:
 - Living
 tags:
 - arizona shooting
-- grief
-- sadness
-- Tucson
+
 type: "post"
 ---
 

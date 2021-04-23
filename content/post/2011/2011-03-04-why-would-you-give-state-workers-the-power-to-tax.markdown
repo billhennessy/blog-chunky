@@ -9,8 +9,7 @@ categories:
 - Politics
 tags:
 - AFSCME
-- unions
-- wisconsin
+
 type: "post"
 ---
 

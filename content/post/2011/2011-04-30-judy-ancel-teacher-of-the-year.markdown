@@ -7,11 +7,9 @@ layout: blog
 url: /2011/04/30/judy-ancel-teacher-of-the-year/
 categories:
 - Politics
-- Politics
 tags:
 - Judy Ancel
-- UMKC
-- union violence
+
 type: "post"
 ---
 

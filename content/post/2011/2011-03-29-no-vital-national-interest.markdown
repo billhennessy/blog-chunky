@@ -10,10 +10,7 @@ categories:
 - Politics
 tags:
 - Gates
-- Libya
-- obama
-- Secretary of Defense
-- Vital National Interest
+
 type: "post"
 ---
 

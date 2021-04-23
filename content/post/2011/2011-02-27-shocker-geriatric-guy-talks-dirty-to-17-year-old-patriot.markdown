@@ -9,9 +9,7 @@ url: /2011/02/27/shocker-geriatric-guy-talks-dirty-to-17-year-old-patriot/
 categories:
 - Politics
 tags:
-- filth
-- Politics
-- union
+
 type: "post"
 ---
 

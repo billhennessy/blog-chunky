@@ -9,10 +9,7 @@ categories:
 - Living
 tags:
 - America
-- empires
-- imperialism
-- pilgrims
-- unions
+
 type: "post"
 ---
 

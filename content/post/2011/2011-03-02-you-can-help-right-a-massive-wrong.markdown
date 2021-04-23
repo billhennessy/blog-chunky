@@ -9,12 +9,7 @@ categories:
 - Politics
 tags:
 - Eric Schmitt
-- HB 466
-- Kevin Engler
-- Politics
-- union corruption
-- union politics
-- Workers Rights
+
 type: "post"
 ---
 
