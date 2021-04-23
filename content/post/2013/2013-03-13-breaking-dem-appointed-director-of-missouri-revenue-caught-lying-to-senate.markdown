@@ -7,14 +7,10 @@ layout: blog
 url:  /2013/03/13/breaking-dem-appointed-director-of-missouri-revenue-caught-lying-to-senate/
 categories:
 - Politics
-- Politics
+
 tags:
-- Governor Jay Nixon
-- Homeland Security
-- Politics Department of Revenue
-- Real ID Act
-- Senator Brian Nieves
-- Senator Kurt Schaefer
+
+
 type: "post"
 ---
 

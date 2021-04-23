@@ -9,10 +9,7 @@ categories:
 - Politics
 tags:
 - John McCain
-- libertarian
-- rand paul
-- Republican Party
-- young libertarians
+
 type: "post"
 ---
 

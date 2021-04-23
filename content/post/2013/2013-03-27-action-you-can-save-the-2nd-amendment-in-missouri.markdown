@@ -10,9 +10,7 @@ categories:
 - Activism
 tags:
 - 2nd Amendment
-- Politics Department of Revenue
-- Politics Driver's License
-- Politics Legislature
+
 type: "post"
 ---
 

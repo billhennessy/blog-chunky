@@ -9,13 +9,7 @@ categories:
 - Politics
 - Politics
 tags:
-- cost of war on marijuana
-- drug war
-- law enforcement costs
-- marijuana law enforcement
-- marijuana legalization
-- Politics budget
-- prohobition
+
 type: "post"
 ---
 

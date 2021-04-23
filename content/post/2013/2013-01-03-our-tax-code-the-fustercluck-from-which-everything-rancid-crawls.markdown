@@ -9,8 +9,6 @@ categories:
 - Politics
 tags:
 - Four Reforms
-- tax code history
-- taxes
 - William F. Buckley
 type: "post"
 ---

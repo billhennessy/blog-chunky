@@ -9,11 +9,7 @@ categories:
 - Politics
 tags:
 - conservative
-- definitions of words
-- how do you define libertarian
-- libertarian
-- meanings of words
-- what is a libertarian
+
 type: "post"
 ---
 

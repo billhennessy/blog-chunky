@@ -8,12 +8,7 @@ url: /2013/03/18/trust-is-a-bigger-problem-for-gop-than-marketing/
 categories:
 - Politics
 tags:
-- GOP
-- marketing
-- messaging
-- Repbulican
-- The Hill Budget Poll
-- trust
+
 type: "post"
 ---
 

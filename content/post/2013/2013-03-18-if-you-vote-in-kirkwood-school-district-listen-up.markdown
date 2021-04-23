@@ -9,11 +9,7 @@ categories:
 - Academics
 tags:
 - Amy Russell
-- April 2 Election
-- Eric Peterson
-- Kirkwood Pioneers For Edcuational Progress
-- Kirkwood School District
-- School Board
+
 type: "post"
 ---
 

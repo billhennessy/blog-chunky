@@ -11,7 +11,7 @@ categories:
 tags:
 - Brian K. Long
 - Jay Nixon
-- Politics Department of Revenue
+
 type: "post"
 ---
 

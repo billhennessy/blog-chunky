@@ -9,13 +9,7 @@ categories:
 - Politics
 tags:
 - acting
-- challenger disaster
-- conservative
-- libertarian
-- liberty
-- right-leaning libertarian
-- seeing through others eyes
-- third eye
+
 type: "post"
 ---
 

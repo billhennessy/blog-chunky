@@ -8,9 +8,6 @@ url: /2013/12/21/phil-robertson-duck-dynasty-ae-killed-gay-moment/
 categories:
 - News
 tags:
-- A&amp;E
-- Duck Dynasty
-- gay
 - Phil Robertson
 type: "post"
 ---

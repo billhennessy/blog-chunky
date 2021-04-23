@@ -8,13 +8,7 @@ url: /2013/09/25/expect-much-republicans-obamacare/
 categories:
 - Politics
 tags:
-- America
-- John Cornyn
-- Mike Lee
-- Mitch McConnell
-- Patton
-- roy blunt
-- Ted Cruz
+
 type: "post"
 ---
 

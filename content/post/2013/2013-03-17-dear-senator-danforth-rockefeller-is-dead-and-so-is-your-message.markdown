@@ -9,16 +9,7 @@ categories:
 - Politics
 tags:
 - Chairman Ed Martin
-- drones
-- ed martin
-- executive power
-- filibuster
-- Jack Danforth
-- libertarians
-- limits of executive power
-- rand paul
-- Republican Establishment
-- Senator John Danforth
+
 type: "post"
 ---
 

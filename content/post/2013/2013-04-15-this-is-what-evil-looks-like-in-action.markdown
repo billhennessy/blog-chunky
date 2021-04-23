@@ -8,10 +8,7 @@ url: /2013/04/15/this-is-what-evil-looks-like-in-action/
 categories:
 - Politics
 tags:
-- 'firewolf'
-- anti-tax
 - Boston Marathon
-- CNN
 - Wolf Blitzer
 type: "post"
 ---

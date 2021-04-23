@@ -8,10 +8,7 @@ url:  /2013/03/20/the-weednesday-post-you-want-the-un-deciding-your-states-laws/
 categories:
 - Politics
 tags:
-- Gallup Poll on Marijuana Legalization
-- UN Convention on Narcotics
-- UN International Narcotics Control Board
-- united nations
+
 type: "post"
 ---
 

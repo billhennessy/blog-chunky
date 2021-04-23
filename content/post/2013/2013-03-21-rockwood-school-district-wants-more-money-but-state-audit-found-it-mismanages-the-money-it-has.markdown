@@ -9,11 +9,6 @@ url: /2013/03/21/rockwood-school-district-wants-more-money-but-state-audit-found
 categories:
 - Politics
 tags:
-- April 2 Election
-- fiscal responsiblity
-- Politics state auditor
-- Rockwood School District
-- Rockwood Stakeholders
 - tom schweich
 type: "post"
 ---

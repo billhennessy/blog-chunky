@@ -9,11 +9,7 @@ categories:
 - Events
 tags:
 - art cashin
-- disturbing thoughts
-- History
-- the crash
-- the roman literacy rate
-- the visit
+
 type: "post"
 ---
 

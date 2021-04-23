@@ -8,15 +8,7 @@ url:  /2013/09/30/shutdown-week-republicans-winning/
 categories:
 - Politics
 tags:
-- 'democratshutdown'
-- conservative
-- elections
-- House of Representatives
-- libertarian
-- republican
-- shutdown
-- Politics
-- Politics
+
 type: "post"
 ---
 

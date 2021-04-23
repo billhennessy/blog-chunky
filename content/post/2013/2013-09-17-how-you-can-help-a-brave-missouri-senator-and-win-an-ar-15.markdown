@@ -10,8 +10,7 @@ categories:
 tags:
 - AR-15
 - brian nieves
-- Politics state senate
-- Sporting Clays
+
 type: "post"
 ---
 

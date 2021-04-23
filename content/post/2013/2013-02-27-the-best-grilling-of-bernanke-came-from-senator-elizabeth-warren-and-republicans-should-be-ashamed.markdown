@@ -9,12 +9,6 @@ url:  /2013/02/26/the-best-grilling-of-bernanke-came-from-senator-elizabeth-warr
 categories:
 - Politics
 tags:
-- Ben Bernanke
-- Big Banks
-- Elizabeth Warren
-- GOP
-- quantitative easing
-- republican
 - Too Big To Fail
 type: "post"
 ---

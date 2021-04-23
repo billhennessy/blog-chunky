@@ -9,11 +9,7 @@ categories:
 - Politics
 tags:
 - chained CPI
-- club for growth
-- Greg Walden
-- obama budget
-- social security
-- third rail of american politics
+
 type: "post"
 ---
 

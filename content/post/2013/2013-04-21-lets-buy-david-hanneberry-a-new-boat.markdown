@@ -8,11 +8,8 @@ url: /2013/04/20/lets-buy-david-hanneberry-a-new-boat/
 categories:
 - Politics
 tags:
-- boat
-- crowd funding
-- david hanneberry
-- generosity
-- love
+
+
 type: "post"
 ---
 

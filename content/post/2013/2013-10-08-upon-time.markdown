@@ -9,13 +9,6 @@ categories:
 - Politics
 tags:
 - Democracy in America
-- freedom
-- John Boehner
-- Khrushchev
-- Politics
-- shutdown
-- the Sharon Statement
-- tocqueville
 - William F. Buckley
 type: "post"
 ---

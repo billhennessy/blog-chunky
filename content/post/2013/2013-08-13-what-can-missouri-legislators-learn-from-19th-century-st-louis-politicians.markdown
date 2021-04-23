@@ -8,8 +8,6 @@ url: /2013/08/13/what-can-missouri-legislators-learn-from-19th-century-st-louis-
 categories:
 - Politics
 tags:
-- Living Insurance Exchanges
-- Livingcare
 - Politics
 type: "post"
 ---

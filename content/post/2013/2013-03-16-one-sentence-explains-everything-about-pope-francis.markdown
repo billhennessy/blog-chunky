@@ -9,10 +9,7 @@ categories:
 - Faith
 tags:
 - Canticle of Brother Sun
-- Francis of Assisi
-- Pope Francis
-- Prayer of St. Francis
-- Social Justice
+
 type: "post"
 ---
 

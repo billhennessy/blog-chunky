@@ -8,12 +8,8 @@ url: /2013/08/24/50-years-later-dr-kings-dream-becomes-a-night-terror/
 categories:
 - Politics
 tags:
-- equality
-- freedom
-- I have a dream
-- march on washington
 - martin luther king
-- MLK
+
 type: "post"
 ---
 

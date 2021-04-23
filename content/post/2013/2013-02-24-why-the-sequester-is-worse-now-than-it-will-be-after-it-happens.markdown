@@ -8,13 +8,7 @@ url: /2013/02/24/why-the-sequester-is-worse-now-than-it-will-be-after-it-happens
 categories:
 - Political Psychology
 tags:
-- affective forecasting
-- cognitive biases
-- Dan Gilbert
-- GOP
-- impact bias
-- sequester
-- sequestration
+
 type: "post"
 ---
 

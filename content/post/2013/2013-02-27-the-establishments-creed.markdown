@@ -8,10 +8,7 @@ url: /2013/02/27/the-establishments-creed/
 categories:
 - Politics
 tags:
-- Politics
-- political class
-- Politics
-- the establishment
+
 type: "post"
 ---
 

@@ -9,9 +9,7 @@ categories:
 - Political Psychology
 tags:
 - ambition
-- being good
-- getting-better
-- political ambition
+
 type: "post"
 ---
 

@@ -8,16 +8,7 @@ url: /2013/10/06/heres-encouraging-thing-john-boehner-ever-said/
 categories:
 - Political Psychology
 tags:
-- 'democratshutdown'
-- conservative
-- elections
-- House of Representatives
-- libertarian
-- republican
-- RINOs
-- shutdown
-- Politics
-- Politics
+
 type: "post"
 ---
 

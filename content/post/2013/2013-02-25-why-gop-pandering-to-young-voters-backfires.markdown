@@ -9,17 +9,6 @@ categories:
 - Living
 tags:
 - aging
-- anterior insula
-- fMRI
-- GOP
-- human behavioral science
-- libertarianism
-- Marco Rubio
-- neuroscience
-- pandering
-- political psychology
-- ronald-reagan
-- scams old people
 - young voters
 type: "post"
 ---

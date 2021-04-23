@@ -11,9 +11,7 @@ categories:
 tags:
 - budget compomise
 - chris voss
-- compromise
-- Donald J. Trump
-- fbi hostage negotiator
+
 type: "post"
 ---
 

@@ -9,14 +9,7 @@ categories:
 - Living
 tags:
 - AGW
-- antropogenic global warming
-- department of the interior
-- departnment of agriculture
-- desertification
-- global-warming
-- us government
-- write your congressman
-- write your senator
+
 type: "post"
 ---
 

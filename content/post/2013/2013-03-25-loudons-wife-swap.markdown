@@ -8,8 +8,6 @@ url:  /2013/03/25/loudons-wife-swap/
 categories:
 - Activism
 tags:
-- affinity bubbles
-- Celebrity Wife Swap
 - Dr. Gina Loudon
 - John Loudon
 - Wife Swap

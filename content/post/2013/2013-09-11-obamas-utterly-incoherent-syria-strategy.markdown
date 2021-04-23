@@ -9,8 +9,7 @@ categories:
 - Politics
 tags:
 - Obama speech
-- Politics speech
-- Politics speech
+
 type: "post"
 ---
 

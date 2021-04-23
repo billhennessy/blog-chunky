@@ -8,10 +8,6 @@ url: /2013/03/19/if-you-want-fewer-abortions-stop-talking-about-how-many-there-a
 categories:
 - Political Psychology
 tags:
-- abortion
-- communications
-- marketing
-- messaging
 - political psychology
 type: "post"
 ---

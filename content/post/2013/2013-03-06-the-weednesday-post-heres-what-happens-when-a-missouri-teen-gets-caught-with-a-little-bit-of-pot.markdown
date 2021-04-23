@@ -10,12 +10,7 @@ categories:
 - Politics
 - Politics
 tags:
-- draconian marijuana laws
-- marijuana
-- Politics marijuana laws
-- ruining young peoples lives
-- weednesday post
-- young people
+
 type: "post"
 ---
 

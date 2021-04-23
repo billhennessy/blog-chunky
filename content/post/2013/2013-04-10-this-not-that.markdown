@@ -8,9 +8,8 @@ url: /2013/04/10/this-not-that/
 categories:
 - Activism
 tags:
-- Share This
-- The Real Conservative National Committee
-- This Not That
+
+
 
 - youtube
 type: "post"

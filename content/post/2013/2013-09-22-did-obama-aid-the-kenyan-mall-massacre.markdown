@@ -9,10 +9,7 @@ categories:
 - Politics
 tags:
 - al-qaeda
-- Kenya
-- mall attack
-- Massacre
-- Nairobi
+
 type: "post"
 ---
 

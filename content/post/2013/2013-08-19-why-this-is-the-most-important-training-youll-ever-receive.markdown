@@ -11,7 +11,7 @@ categories:
 tags:
 - activist training
 - center for self-governance
-- Politics
+
 type: "post"
 ---
 

@@ -8,13 +8,10 @@ url:  /2013/02/24/the-republican-party-seems-bent-on-destruction/
 categories:
 - Politics
 tags:
-- Campaign for Liberty
 - Catherine Hanaway
 - Ed Martin Jr
 - Lance Beshore
-- libertarianism
-- Liberty Restoration Project
-- RNC Rules Committee
+
 type: "post"
 ---
 

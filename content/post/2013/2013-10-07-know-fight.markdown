@@ -8,11 +8,7 @@ url: /2013/10/07/know-fight/
 categories:
 - Politics
 tags:
-- conservative
-- elections
-- libertarian
-- Politics
-- Politics
+
 type: "post"
 ---
 

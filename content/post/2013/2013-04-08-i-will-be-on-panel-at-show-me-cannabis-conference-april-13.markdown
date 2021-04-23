@@ -9,11 +9,7 @@ categories:
 - Politics
 tags:
 - decriminalization
-- Legalization
-- marijuana reform
-- show-me cannabis
-- war on marijuana
-- war on pot
+t
 type: "post"
 ---
 

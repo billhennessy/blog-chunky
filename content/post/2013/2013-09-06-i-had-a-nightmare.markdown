@@ -9,13 +9,7 @@ categories:
 - Politics
 tags:
 - iran
-- Israel
-- nighmare
-- peace
-- russia
-- Politics
-- turkey
-- war
+
 type: "post"
 ---
 

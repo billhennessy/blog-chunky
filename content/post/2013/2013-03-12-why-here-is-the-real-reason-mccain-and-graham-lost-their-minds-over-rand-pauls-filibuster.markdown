@@ -9,14 +9,7 @@ categories:
 - Politics
 tags:
 - dorm rooms
-- establishment
-- John McCain
-- libertarian
-- libertarian kids
-- Lindsey Graham
-- rand paul
-- Republican Establishment
-- wacko birds
+
 type: "post"
 ---
 

@@ -9,10 +9,7 @@ categories:
 - Politics
 tags:
 - Barack Obama
-- John Kerry
-- One Week
-- Secretary of State
-- Unbelievably Small
+
 type: "post"
 ---
 

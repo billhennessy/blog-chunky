@@ -9,8 +9,7 @@ categories:
 - Politics
 tags:
 - continuing resolution
-- eric cantor
-- Politics
+
 type: "post"
 ---
 

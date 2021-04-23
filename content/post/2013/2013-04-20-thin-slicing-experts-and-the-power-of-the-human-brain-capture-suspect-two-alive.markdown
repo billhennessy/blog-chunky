@@ -10,12 +10,7 @@ categories:
 - Politics
 tags:
 - Blink
-- Boston
-- Politics
-- Boston Marathon
-- Dzhokhar Tsarnaev
-- malcolm gladwell
-- Massachusetts State Police
+
 type: "post"
 ---
 

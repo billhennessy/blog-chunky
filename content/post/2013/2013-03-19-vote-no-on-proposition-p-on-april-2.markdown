@@ -8,10 +8,7 @@ url:  /2013/03/19/vote-no-on-proposition-p-on-april-2/
 categories:
 - Politics
 tags:
-- April 2 Election
-- Proposition P
-- Politics
-- Politics
+
 type: "post"
 ---
 

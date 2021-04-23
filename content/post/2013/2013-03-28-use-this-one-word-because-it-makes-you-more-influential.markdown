@@ -9,16 +9,7 @@ categories:
 - Political Psychology
 tags:
 - Ellen Langer
-- Get Out the Vote
-- influence
-- neuroscience
-- Living
-- placebic information
-- political psychology
-- psychology
-- Robert Cialdini
-- The Xerox Study
-- Wizard of Oz
+
 type: "post"
 ---
 

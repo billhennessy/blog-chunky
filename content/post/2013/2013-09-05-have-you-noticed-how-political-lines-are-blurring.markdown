@@ -10,10 +10,7 @@ categories:
 - Politics
 tags:
 - elitism
-- Matt Drudge
-- plebes
-- political elite
-- Politics
+
 type: "post"
 ---
 

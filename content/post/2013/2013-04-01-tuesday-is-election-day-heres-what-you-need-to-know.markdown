@@ -8,13 +8,8 @@ url: /2013/04/01/tuesday-is-election-day-heres-what-you-need-to-know/
 categories:
 - Politics
 tags:
-- Politics Day
-- Kirkwood School District
-- Rockwood School District
-- Tax Increases
-- Vote No on Prop P
-- Voter Rolls
-- Voting and Influence
+
+
 type: "post"
 ---
 

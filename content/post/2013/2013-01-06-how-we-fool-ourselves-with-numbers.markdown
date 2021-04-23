@@ -9,13 +9,7 @@ categories:
 - Living
 tags:
 - cognitive bias
-- environment
-- fuel economy
-- fuel efficiency
-- gas guzzlers
-- hybrid cars
-- miles per gallon
-- SUV
+
 type: "post"
 ---
 

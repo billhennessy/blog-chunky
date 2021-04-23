@@ -9,10 +9,7 @@ categories:
 - Events
 tags:
 - After Party
-- Hacienda
-- Heritage Action for America
-- heritage foundation
-- Heritage Tavern
+
 type: "post"
 ---
 

@@ -8,17 +8,8 @@ url:  /2013/01/01/its-time-to-end-war-on-weed/
 categories:
 - Politics
 tags:
-- Angelina Jolie
 - Cannabis
-- Colorado
-- conservatives and marijuana
-- Legalization
-- marijuana laws
-- Rachel Maddow
-- United States
-- War on Drugs
-- Washington
-- William F. Buckley
+
 type: "post"
 ---
 

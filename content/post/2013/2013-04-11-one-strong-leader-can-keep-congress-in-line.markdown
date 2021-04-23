@@ -9,10 +9,6 @@ categories:
 - Political Psychology
 tags:
 - anti-social behavior
-- cheating
-- community strongman
-- community strongwoman
-- fear of punishment
 - political psychology
 type: "post"
 ---

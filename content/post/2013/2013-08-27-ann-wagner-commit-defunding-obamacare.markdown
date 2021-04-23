@@ -7,7 +7,7 @@ layout: blog
 url: /2013/08/27/ann-wagner-commit-defunding-obamacare/
 categories:
 - Politics
-- Politics
+
 type: "post"
 ---
 

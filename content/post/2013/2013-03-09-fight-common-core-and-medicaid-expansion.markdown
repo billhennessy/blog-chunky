@@ -9,14 +9,7 @@ categories:
 - Activism
 tags:
 - common core
-- common core state standards
-- Politics
-- john lamping
-- liberty
-- medicaid expansion
-- Politics state capitol
-- Politics state senate
-- Politics
+
 type: "post"
 ---
 

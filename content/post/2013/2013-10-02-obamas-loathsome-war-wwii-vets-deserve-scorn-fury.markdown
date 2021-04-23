@@ -8,15 +8,7 @@ url:  /2013/10/01/obamas-loathsome-war-wwii-vets-deserve-scorn-fury/
 categories:
 - Living
 tags:
-- 'democratshutdown'
-- conservative
-- elections
-- House of Representatives
-- libertarian
-- republican
-- shutdown
-- Politics
-- Politics
+
 type: "post"
 ---
 

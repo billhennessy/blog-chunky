@@ -9,11 +9,7 @@ url: /2013/01/01/congress-just-increased-deficits-by-4-trillion-and-all-i-got-wa
 categories:
 - Politics
 tags:
-- 3.9 trillion deficit
-- Boehner
-- CBO
-- fiscal cliff
-- House Republicans
+
 type: "post"
 ---
 

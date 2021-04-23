@@ -10,16 +10,7 @@ categories:
 tags:
 - amygdala
 - brain science
-- democrat brains
-- fMRI
-- insula
-- marketing
-- messaging
-- neuroscience
-- party affiliation
-- political marketing
-- psychology
-- repbulican brains
+
 type: "post"
 ---
 

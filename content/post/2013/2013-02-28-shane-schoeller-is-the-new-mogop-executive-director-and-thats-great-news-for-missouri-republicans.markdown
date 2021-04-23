@@ -9,10 +9,6 @@ url:  /2013/02/28/shane-schoeller-is-the-new-mogop-executive-director-and-thats-
 categories:
 - Politics
 tags:
-- ed martin
-- Executive Director
-- Politics Republicans
-- MOGOP
 - Shane Schoeller
 type: "post"
 ---

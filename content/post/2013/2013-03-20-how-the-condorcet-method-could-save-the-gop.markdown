@@ -9,12 +9,7 @@ categories:
 - Politics
 tags:
 - Condorcet Method
-- elections
-- grassroots
-- insurgent candidates
-- primaries and caucuses
-- republican autopsy
-- voting
+
 type: "post"
 ---
 

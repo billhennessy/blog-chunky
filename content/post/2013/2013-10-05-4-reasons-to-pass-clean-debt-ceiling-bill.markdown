@@ -8,17 +8,7 @@ url: /2013/10/05/4-reasons-to-pass-clean-debt-ceiling-bill/
 categories:
 - Politics
 tags:
-- 'democratshutdown'
-- conservative
-- elections
-- Erick Erickson
-- House of Representatives
-- libertarian
-- Redstate
-- republican
-- shutdown
-- Politics
-- Politics
+
 type: "post"
 ---
 

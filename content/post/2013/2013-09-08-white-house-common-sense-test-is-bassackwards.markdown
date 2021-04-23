@@ -9,8 +9,7 @@ categories:
 - Politics
 tags:
 - common sense
-- Denis McDonough
-- Politics
+
 type: "post"
 ---
 

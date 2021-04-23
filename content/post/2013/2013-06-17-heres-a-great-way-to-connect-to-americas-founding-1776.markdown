@@ -9,12 +9,7 @@ categories:
 - Events
 tags:
 - '1776'
-- American History
-- Declaration of Independence
-- History
-- musical theatre
-- theater
-- theatre
+
 type: "post"
 ---
 

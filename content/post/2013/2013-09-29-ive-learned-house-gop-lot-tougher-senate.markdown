@@ -8,16 +8,7 @@ url: /2013/09/28/ive-learned-house-gop-lot-tougher-senate/
 categories:
 - Politics
 tags:
-- 'democratshutdown'
-- conservative
-- elections
-- House of Representatives
-- libertarian
-- republican
-- RINOs
-- shutdown
-- Politics
-- Politics
+
 type: "post"
 ---
 

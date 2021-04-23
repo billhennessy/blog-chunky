@@ -9,10 +9,7 @@ categories:
 - Politics
 tags:
 - Battleground Poll
-- conservative identification
-- GOP
-- Politico/GW Battleground Poll
-- repbublican identificaton
+
 type: "post"
 ---
 

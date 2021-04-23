@@ -8,14 +8,7 @@ url:  /2013/10/08/obamas-julia-like-pristomyrmex-punctatus/
 categories:
 - Living
 tags:
-- ants
-- cheaters
-- disability
-- free riders
-- studies
-- taxes
-- The Life of Julia
-- welfare
+
 type: "post"
 ---
 

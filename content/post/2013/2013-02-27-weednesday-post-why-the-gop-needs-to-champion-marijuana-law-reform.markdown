@@ -9,12 +9,7 @@ categories:
 - Politics
 tags:
 - decriminalization
-- Legalization
-- marijuana reform
-- medicaid expansion
-- war on marijuana
-- war on pot
-- war on weed
+
 type: "post"
 ---
 

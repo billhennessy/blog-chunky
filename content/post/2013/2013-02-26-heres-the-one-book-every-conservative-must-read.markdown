@@ -8,15 +8,7 @@ url: /2013/02/26/heres-the-one-book-every-conservative-must-read/
 categories:
 - Business
 tags:
-- Business
-- Politics
-- Dodd-Frank
-- free enterprise capitalism
-- Economy
-- Politics
-- John Mackey
-- Milton Friedman
-- Politics
+
 type: "post"
 ---
 

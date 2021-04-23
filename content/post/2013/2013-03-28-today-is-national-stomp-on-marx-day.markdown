@@ -8,10 +8,6 @@ url:  /2013/03/27/today-is-national-stomp-on-marx-day/
 categories:
 - Activism
 tags:
-- Classroom Activity
-- Academics
-- Florida Atlantic University
-- Learning
 - Stomp on Jesus
 - Stomp on Marx
 type: "post"

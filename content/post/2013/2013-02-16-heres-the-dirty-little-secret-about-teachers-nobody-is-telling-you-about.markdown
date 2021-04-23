@@ -8,8 +8,6 @@ url: /2013/02/15/heres-the-dirty-little-secret-about-teachers-nobody-is-telling-
 categories:
 - Academics
 tags:
-- Academics
-- teachers
 - Teachers unions
 type: "post"
 ---

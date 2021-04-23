@@ -8,14 +8,8 @@ url:  /2013/01/05/ed-martins-grit-overwhelms-establishments-power/
 categories:
 - Politics
 tags:
-- Chairman
-- Chairman Ed
 - Ed Martin Jr
-- establishment
-- grassroots
-- Politics Republican State Committee
-- Republican Establishment
-- Politics Tea Party Coalition
+
 type: "post"
 ---
 
