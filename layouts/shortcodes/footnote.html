@@ -1,1 +1,5 @@
-[^ .Get "num"]
+<a href="#{{.Get "num"}}">
+<sup>{{.Get "num"}}
+    </sup></a>
+
+<PRE>{{ .Get "num" }}: {{ .Get "ref" }}<a href="#{{ .Get "num" }}">^</a></PRE>
