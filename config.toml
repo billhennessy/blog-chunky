@@ -42,7 +42,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 [taxonomies]
 category = "categories"
-# tag = "tags"
+tag = "tags"
 series = "series"
 author = "authors"
 
