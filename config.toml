@@ -41,8 +41,8 @@ ignoreErrors = ["error-remote-getjson"]
     weight = 6
     
     [[menu.main]]
-    identifier = "topics"
-    name = "Topics"
+    identifier = "tags"
+    name = "Tags"
     url = "/tags/"
     weight = 7
 
