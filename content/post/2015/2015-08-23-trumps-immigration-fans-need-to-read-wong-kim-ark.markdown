@@ -6,8 +6,7 @@ title: Trump's Immigration Fans Need to Read Wong Kim Ark
 layout: blog
 url: /2015/08/22/trumps-immigration-fans-need-to-read-wong-kim-ark/
 categories:
-- News
-- Donald Trump
+- Politics
 tags:
 
 type: "post"

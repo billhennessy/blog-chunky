@@ -6,14 +6,11 @@ title: When Democrats Loved 'em Some Ruskies
 layout: blog
 url: /2017/03/03/when-democrats-loved-em-some-ruskies/
 categories:
-- News
+- Politics
 post_format:
 
 tags:
-- Flexible
-- nuclear war
-- obama
-- russia
+
 type: "post"
 ---
 

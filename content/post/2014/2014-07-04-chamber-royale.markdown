@@ -6,7 +6,7 @@ title: Chamber Royale
 layout: blog
 url: /2014/07/04/chamber-royale/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

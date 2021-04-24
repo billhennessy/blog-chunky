@@ -7,7 +7,6 @@ layout: blog
 url: /2014/04/26/aclu-teaches-us-principles-people/
 categories:
 - Politics
-- News
 tags:
 - ACLU
 

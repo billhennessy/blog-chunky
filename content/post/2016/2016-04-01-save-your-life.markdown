@@ -6,7 +6,7 @@ title: Save Your Life?
 layout: blog
 url: /2016/03/31/save-your-life/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

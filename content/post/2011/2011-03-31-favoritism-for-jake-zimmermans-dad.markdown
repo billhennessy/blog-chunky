@@ -7,7 +7,6 @@ layout: blog
 url: /2011/03/31/favoritism-for-jake-zimmermans-dad/
 categories:
 - Politics
-- Politics
 type: "post"
 ---
 

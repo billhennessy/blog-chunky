@@ -6,7 +6,7 @@ title: Why Progressives and New Yorkers Should Fear Bill de Blasio
 layout: blog
 url:  /2013/12/26/progressives-new-yorkers-fear-bill-de-blasio/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

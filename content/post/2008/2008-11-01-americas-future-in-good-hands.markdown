@@ -6,7 +6,7 @@ title: America's Future In Good Hands
 layout: blog
 url: /2008/11/01/americas-future-in-good-hands/
 categories:
-- News
+- Politics
 - Satire
 ---
 

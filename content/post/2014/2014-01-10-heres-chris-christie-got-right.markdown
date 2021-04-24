@@ -7,7 +7,6 @@ layout: blog
 url: /2014/01/09/heres-chris-christie-got-right/
 categories:
 - Politics
-- News
 tags:
 - Barack Obama
 - chris christie

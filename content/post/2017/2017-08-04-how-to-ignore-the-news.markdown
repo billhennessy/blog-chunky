@@ -6,7 +6,7 @@ title: How to Ignore the News
 layout: blog
 url: /2017/08/04/how-to-ignore-the-news/
 categories:
-- News
+- Politics
 - Stoicism
 tags:
 - control

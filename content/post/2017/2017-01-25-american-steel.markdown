@@ -8,10 +8,7 @@ url: /2017/01/25/american-steel/
 categories:
 - Economy
 tags:
-- Granite City
-- Keystone Pipeline
-- steel
-- Donald Trump
+
 type: "post"
 ---
 

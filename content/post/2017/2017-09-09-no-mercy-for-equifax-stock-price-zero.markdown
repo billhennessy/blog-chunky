@@ -6,7 +6,7 @@ title: 'No Mercy for Equifax: Stock Price Zero'
 layout: blog
 url: /2017/09/09/no-mercy-for-equifax-stock-price-zero/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

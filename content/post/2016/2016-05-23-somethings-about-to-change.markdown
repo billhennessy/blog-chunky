@@ -6,7 +6,7 @@ title: Something's About to Change
 layout: blog
 url: /2016/05/23/somethings-about-to-change/
 categories:
-- Donald Trump
+- Politics
 tags:
 
 type: "post"

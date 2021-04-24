@@ -7,9 +7,8 @@ layout: blog
 url: /2017/12/26/2018-will-change-american-culture-at-its-core/
 categories:
 - Politics
-- News
 - The Fourth Turning
-- Donald Trump
+- Politics
 tags:
 - working class
 type: "post"

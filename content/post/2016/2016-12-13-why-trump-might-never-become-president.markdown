@@ -6,10 +6,9 @@ title: Why Trump Might Never Become President
 layout: blog
 url: /2016/12/12/why-trump-might-never-become-president/
 categories:
-- News
+- Politics
 tags:
-- CIA
-- Deep State
+
 type: "post"
 ---
 

@@ -6,7 +6,7 @@ title: Harvey vs. Trump
 layout: blog
 url: /2017/08/27/harvey-vs-trump/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

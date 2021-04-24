@@ -8,7 +8,6 @@ title: 'Quick Math Facts on Rockwood School District Tax History. UPDATE: RDS Se
 url:  /2018/07/23/quick-math-facts-on-rockwood-school-district-tax-history/
 categories:
 - Politics
-- Politics
 tags:
 - Dottie Bailey
 type: "post"

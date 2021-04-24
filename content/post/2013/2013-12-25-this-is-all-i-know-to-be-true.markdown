@@ -6,7 +6,7 @@ title: This I know to be true
 layout: blog
 url: /2013/12/25/this-is-all-i-know-to-be-true/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

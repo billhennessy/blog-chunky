@@ -6,7 +6,6 @@ title: Palin's Eldest Daughter Pregnant, To Marry Baby's Father
 layout: blog
 url: /2008/09/01/palins-eldest-daughter-pregnant-to-marry-babys-father/
 categories:
-- News
 - Politics
 tags:
 - Sarah Palin

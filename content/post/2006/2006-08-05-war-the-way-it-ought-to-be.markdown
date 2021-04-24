@@ -6,7 +6,7 @@ title: War, the way it ought to be
 layout: blog
 url: /2006/08/04/war-the-way-it-ought-to-be/
 categories:
-- News
+- Politics
 ---
 
 It’s hard to understand _why_ the United Nations in the late 1940s worked so hard to establish the Jewish state of Israel.  Sadism?  Since Israel’s declaration of independence, the UN has, more or less, condemned everything the country has done.  Were Israel to play by the United Nations’ rules, the world’s only Jewish state would have ceased to exist several decades ago.

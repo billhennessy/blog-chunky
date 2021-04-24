@@ -6,7 +6,6 @@ title: I was talking about defunding Obamacare before it was cool
 layout: blog
 url: /2014/02/17/talking-defunding-obamacare-cool/
 categories:
-- News
 - Politics
 type: "post"
 ---

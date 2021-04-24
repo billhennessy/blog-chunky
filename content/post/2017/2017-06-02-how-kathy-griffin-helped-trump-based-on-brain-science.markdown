@@ -6,9 +6,9 @@ title: How Kathy Griffin Helped Trump, Based on Brain Science
 layout: blog
 url: /2017/06/02/how-kathy-griffin-helped-trump-based-on-brain-science/
 categories:
-- News
+- Politics
 tags:
-- Kathy Griffin
+
 type: "post"
 ---
 

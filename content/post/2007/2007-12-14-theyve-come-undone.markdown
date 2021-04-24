@@ -7,7 +7,6 @@ layout: blog
 url: /2007/12/13/theyve-come-undone/
 categories:
 - Latest
-- News
 - Politics
 tags:
 - congress failing

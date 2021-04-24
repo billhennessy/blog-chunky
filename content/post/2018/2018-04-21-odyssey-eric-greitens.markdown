@@ -8,7 +8,7 @@ url:  /2018/04/21/odyssey-eric-greitens/
 categories:
 - Politics
 tags:
-- Donald Trump
+- Politics
 - Eric Greitens
 - Odyssey
 type: "post"

@@ -8,7 +8,7 @@ url: /2008/11/27/mumbai-thoughts/
 categories:
 - Foreign Relations
 - Latest
-- News
+- Politics
 ---
 
 Is [Mumbai](https://www.iht.com/articles/2008/11/28/asia/28mumbai.php) a test run for an attack on the United States?

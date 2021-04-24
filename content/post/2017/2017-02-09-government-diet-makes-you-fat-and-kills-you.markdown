@@ -8,10 +8,7 @@ url: /2017/02/08/government-diet-makes-you-fat-and-kills-you/
 categories:
 - Living
 tags:
-- dietary guidelines
-- Livingy eating
-- lose weight
-- Obesity
+- Fasting
 type: "post"
 ---
 

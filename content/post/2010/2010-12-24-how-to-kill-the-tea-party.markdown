@@ -7,7 +7,7 @@ layout: blog
 url: /2010/12/23/how-to-kill-the-tea-party/
 categories:
 - happiness
-- Donald Trump
+- Politics
 tags:
 - Donald J. Trump
 - negative emotions

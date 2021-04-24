@@ -6,7 +6,6 @@ title: Media Hit Rock Bottom Over Palin
 layout: blog
 url: /2008/09/02/media-hit-rock-bottom-over-palin/
 categories:
-- News
 - Politics
 - Religion
 ---

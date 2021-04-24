@@ -6,7 +6,7 @@ title: What Francis Slay Won't Tell You About Missouri Roads—VIDEO
 layout: blog
 url: /2014/07/26/francis-slay-wont-tell-missouri-roads/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

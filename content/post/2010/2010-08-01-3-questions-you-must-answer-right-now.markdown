@@ -6,7 +6,7 @@ title: 4 Questions You Must Answer Right Now
 layout: blog
 url: /2010/08/01/3-questions-you-must-answer-right-now/
 categories:
-- News
+- Politics
 tags:
 - Politics Day
 

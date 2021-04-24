@@ -8,9 +8,7 @@ url: /2017/03/26/jobs-trump-healthcare/
 categories:
 - Economy
 tags:
-- jobs
-- regulations
-- tax reform
+
 type: "post"
 ---
 

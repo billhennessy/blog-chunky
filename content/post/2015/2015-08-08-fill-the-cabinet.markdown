@@ -7,7 +7,6 @@ layout: blog
 url: /2015/08/08/fill-the-cabinet/
 categories:
 - Politics
-- Donald Trump
 tags:
 
 type: "post"

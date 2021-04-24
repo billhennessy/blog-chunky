@@ -6,7 +6,7 @@ title: Conservatism Is The New Black
 layout: blog
 url: /2015/10/15/conservatism-is-the-new-black/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

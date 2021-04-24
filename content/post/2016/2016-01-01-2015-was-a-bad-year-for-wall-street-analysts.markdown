@@ -6,7 +6,7 @@ title: 2015 was a bad year for Wall Street analysts
 layout: blog
 url: /2016/01/01/2015-was-a-bad-year-for-wall-street-analysts/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

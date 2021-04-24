@@ -6,7 +6,7 @@ title: Why Hope Beats Anger
 layout: blog
 url: /2015/03/07/why-hope-beats-anger/
 categories:
-- News
+- Politics
 tags:
 - Eric Greitens
 type: "post"

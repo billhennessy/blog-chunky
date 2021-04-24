@@ -8,9 +8,7 @@ url: /2017/03/27/trumps-next-move-infrastructure/
 categories:
 - Politics
 tags:
-- '@realDonaldTrump'
-- infrastructure
-- Donald Trump
+
 type: "post"
 ---
 

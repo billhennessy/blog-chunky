@@ -6,7 +6,7 @@ title: 'Franco Harris: All American'
 layout: blog
 url: /2017/09/23/franco-harris-all-american/
 categories:
-- News
+- Politics
 - Sports
 tags:
 - Franco Harris

@@ -6,7 +6,7 @@ title: Thank You, Heritage Foundation
 layout: blog
 url: /2014/10/30/thank-heritage-foundation/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

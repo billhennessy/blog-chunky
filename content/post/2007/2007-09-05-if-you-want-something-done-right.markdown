@@ -6,7 +6,7 @@ title: If You Want Something Done Right . . .
 layout: blog
 url: /2007/09/05/if-you-want-something-done-right/
 categories:
-- News
+- Politics
 tags:
 - Iraq
 - MSM

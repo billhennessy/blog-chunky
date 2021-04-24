@@ -6,7 +6,7 @@ title: Free Forever Through Stoicism
 layout: blog
 url: /2017/07/16/free-forever-through-stoicism/
 categories:
-- News
+- Politics
 - Stoicism
 tags:
 - control

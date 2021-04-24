@@ -6,8 +6,7 @@ title: I bet Donald Trump reads my blog
 layout: blog
 url: /2016/02/22/donald-trump-reads-my-blog/
 categories:
-- News
-- Donald Trump
+- Politics
 tags:
 
 type: "post"

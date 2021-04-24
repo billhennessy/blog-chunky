@@ -6,7 +6,7 @@ title: One thing the military teaches that business school doesn't
 layout: blog
 url: /2015/12/30/one-thing-the-military-teaches-that-business-school-doesnt/
 categories:
-- News
+- Politics
 - Living
 tags:
 - Adam Carolla

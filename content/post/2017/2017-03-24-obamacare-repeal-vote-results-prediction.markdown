@@ -8,8 +8,7 @@ url: /2017/03/23/obamacare-repeal-vote-results-prediction/
 categories:
 - Politics
 tags:
-- Donald Trump
-- Paul Ryan
+
 type: "post"
 ---
 

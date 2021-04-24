@@ -6,8 +6,9 @@ title: Greatest Presser Ever. Wow. Stunned Happy.
 layout: blog
 url: /2017/02/16/greatest-presser-ever-wow-stunned-happy/
 categories:
-- News
-- Donald Trump
+- Politics
+tags:
+- Donald J. Trump
 type: "post"
 ---
 

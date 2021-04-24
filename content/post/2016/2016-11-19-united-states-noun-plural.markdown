@@ -6,7 +6,7 @@ title: 'United States: noun (plural)'
 layout: blog
 url: /2016/11/19/united-states-noun-plural/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

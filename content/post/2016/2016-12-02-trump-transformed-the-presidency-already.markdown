@@ -6,9 +6,8 @@ title: Trump Transformed the Presidency Already
 layout: blog
 url: /2016/12/01/trump-transformed-the-presidency-already/
 categories:
-- Donald Trump
+- Politics
 tags:
-- speech
 type: "post"
 ---
 

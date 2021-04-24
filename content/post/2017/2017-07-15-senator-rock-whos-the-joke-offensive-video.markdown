@@ -7,7 +7,6 @@ layout: blog
 url: /2017/07/15/senator-rock-whos-the-joke-offensive-video/
 categories:
 - Politics
-- News
 tags:
 - Kid Rock
 type: "post"

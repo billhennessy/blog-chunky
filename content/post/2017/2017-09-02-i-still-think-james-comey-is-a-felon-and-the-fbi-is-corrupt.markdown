@@ -7,7 +7,7 @@ layout: blog
 url: /2017/09/01/i-still-think-james-comey-is-a-felon-and-the-fbi-is-corrupt/
 categories:
 - Crime
-- News
+- Politics
 tags:
 - Comey
 type: "post"

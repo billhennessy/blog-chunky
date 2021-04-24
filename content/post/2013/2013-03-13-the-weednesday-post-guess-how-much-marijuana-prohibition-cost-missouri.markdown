@@ -7,7 +7,6 @@ layout: blog
 url:  /2013/03/13/the-weednesday-post-guess-how-much-marijuana-prohibition-cost-missouri/
 categories:
 - Politics
-- Politics
 tags:
 
 type: "post"

@@ -6,7 +6,7 @@ title: We Interrupt This Blog To Gloat Over T.J. Oshie and Team USA
 layout: blog
 url: /2014/02/15/interrupt-blog-gloat-tj-oshie-team-usa/
 categories:
-- News
+- Politics
 
 type: "post"
 ---

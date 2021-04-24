@@ -6,7 +6,7 @@ title: How to Make a Happy Ending
 layout: blog
 url: /2010/03/23/how-to-make-a-happy-ending/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

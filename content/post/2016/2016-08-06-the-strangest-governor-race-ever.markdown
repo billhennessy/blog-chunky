@@ -7,7 +7,6 @@ layout: blog
 url: /2016/08/05/the-strangest-governor-race-ever/
 categories:
 - Politics
-- Politics
 tags:
 
 type: "post"

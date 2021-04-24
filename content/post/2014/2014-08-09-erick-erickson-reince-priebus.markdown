@@ -8,7 +8,6 @@ url: /2014/08/09/erick-erickson-reince-priebus/
 categories:
 - Politics
 - Politics
-- Donald Trump
 tags:
 
 type: "post"

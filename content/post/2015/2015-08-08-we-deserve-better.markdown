@@ -6,8 +6,7 @@ title: We Deserve Better
 layout: blog
 url: /2015/08/08/we-deserve-better/
 categories:
-- News
-- Donald Trump
+- Politics
 tags:
 
 type: "post"

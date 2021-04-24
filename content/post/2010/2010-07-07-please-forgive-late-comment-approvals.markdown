@@ -6,7 +6,7 @@ title: Please Forgive Late Comment Approvals
 layout: blog
 url: /2010/07/07/please-forgive-late-comment-approvals/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

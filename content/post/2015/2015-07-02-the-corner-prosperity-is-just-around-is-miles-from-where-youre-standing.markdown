@@ -6,7 +6,7 @@ title: The Corner Prosperity Is Just Around Is Miles From Where We’re Standing
 layout: blog
 url: /2015/07/02/the-corner-prosperity-is-just-around-is-miles-from-where-youre-standing/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

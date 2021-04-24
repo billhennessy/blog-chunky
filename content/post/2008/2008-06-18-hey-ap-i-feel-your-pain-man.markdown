@@ -6,7 +6,7 @@ title: 'Hey, AP:  I feel your pain, man'
 layout: blog
 url: /2008/06/17/hey-ap-i-feel-your-pain-man/
 categories:
-- News
+- Politics
 ---
 
 The [Associated Press](https://michellemalkin.com/2008/06/17/hey-associated-press-you-owe-me-at-least-132125/), long upset that people often quote and link to its stories on the internet, has imposed a $2.50 per word fee for bloggers who wish to quote one of its stories.

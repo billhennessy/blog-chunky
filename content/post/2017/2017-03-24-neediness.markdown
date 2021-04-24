@@ -6,11 +6,10 @@ title: Neediness
 layout: blog
 url: /2017/03/24/neediness/
 categories:
-- News
-- Donald Trump
+- Politics
+
 tags:
-- Livingcare
-- negotiation
+
 type: "post"
 ---
 

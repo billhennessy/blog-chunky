@@ -6,7 +6,7 @@ title: 'BREAKING: Watch The Kudlow Report at 6 Central Tonight **MARCH 14**'
 layout: blog
 url: /2012/03/14/breaking-watch-the-kudlow-report-at-6-central-tonight/
 categories:
-- News
+- Politics
 tags:
 - The Kudlow Report
 type: "post"

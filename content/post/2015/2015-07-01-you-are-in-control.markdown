@@ -6,7 +6,7 @@ title: You Are In Control
 layout: blog
 url: /2015/06/30/you-are-in-control/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

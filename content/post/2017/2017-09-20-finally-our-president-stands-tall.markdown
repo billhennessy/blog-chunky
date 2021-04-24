@@ -6,10 +6,10 @@ title: Finally! A President Stands Tall
 layout: blog
 url: /2017/09/19/finally-our-president-stands-tall/
 categories:
-- News
+- Politics
 tags:
 - rocket man
-- Donald Trump
+- Politics
 - united nations
 - usga
 type: "post"

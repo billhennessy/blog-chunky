@@ -6,7 +6,7 @@ title: This Is Why Turning People Off Is A Terrible Idea
 layout: blog
 url: /2012/11/20/this-is-why-turning-people-off-is-a-terrible-idea/
 categories:
-- News
+- Politics
 tags:
 - abortion
 

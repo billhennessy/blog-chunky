@@ -7,7 +7,7 @@ title: Here Is Exactly How The Special Election To Replace Jo Ann Emerson Will B
 layout: blog
 url: /2012/12/05/here-is-exactly-how-the-special-election-to-replace-jo-ann-emerson-will-be-conducted-we-think/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

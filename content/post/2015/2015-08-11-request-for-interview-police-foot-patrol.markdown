@@ -6,7 +6,7 @@ title: 'Request for Interview: Police Foot Patrol'
 layout: blog
 url: /2015/08/11/request-for-interview-police-foot-patrol/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

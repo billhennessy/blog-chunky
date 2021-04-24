@@ -6,7 +6,7 @@ title: “men of good will” and other changes
 layout: blog
 url: /2011/12/11/men-of-good-will-and-other-changes/
 categories:
-- News
+- Politics
 tags:
 - gloria
 

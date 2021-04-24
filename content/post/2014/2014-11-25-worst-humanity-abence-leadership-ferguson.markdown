@@ -6,7 +6,7 @@ title: The Worst of Humanity and the Absence of Leadership in Ferguson
 layout: blog
 url: /2014/11/25/worst-humanity-abence-leadership-ferguson/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

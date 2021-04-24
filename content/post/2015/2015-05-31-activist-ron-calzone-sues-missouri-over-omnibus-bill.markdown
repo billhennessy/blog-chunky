@@ -7,7 +7,7 @@ layout: blog
 url: /2015/05/31/activist-ron-calzone-sues-missouri-over-omnibus-bill/
 categories:
 - Activism
-- News
+- Politics
 type: "post"
 ---
 

@@ -7,9 +7,9 @@ layout: blog
 url: /2017/06/29/i-disavow-every-republican-who-disavowed-trumps-tweets/
 categories:
 - Press
-- Donald Trump
+- Politics
 tags:
-- Donald Trump
+- Politics
 - Face lift
 - Mika Brzezinski
 type: "post"

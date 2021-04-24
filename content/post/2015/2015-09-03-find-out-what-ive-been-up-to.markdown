@@ -6,7 +6,7 @@ title: Find Out What I've Been Up To
 layout: blog
 url: /2015/09/02/find-out-what-ive-been-up-to/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

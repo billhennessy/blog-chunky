@@ -7,7 +7,6 @@ layout: blog
 url: /2014/09/28/rick-stream-probably-didnt-know-knew-old-transition-counselor/
 categories:
 - Politics
-- Politics
 tags:
 
 type: "post"

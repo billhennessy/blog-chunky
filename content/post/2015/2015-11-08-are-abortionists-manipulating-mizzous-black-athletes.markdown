@@ -7,7 +7,7 @@ layout: blog
 url: /2015/11/08/are-abortionists-manipulating-mizzous-black-athletes/
 categories:
 - Academics
-- Donald Trump
+- Politics
 tags:
 
 type: "post"

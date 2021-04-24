@@ -5,10 +5,10 @@ draft: false
 images: ["trump-grin.png"]
 # featuredImage: /images/uploads/
 categories:
-- Donald Trump
+- Politics
 tags:
 - Scott Adams
-- Donald Trump Movie
+- Politics Movie
 authors: ["Bill Hennessy"]
 type: "post"
 ---

@@ -6,8 +6,7 @@ title: Take Your Bill and Shove It, Mr. President
 layout: blog
 url: /2010/08/04/take-your-bill-and-shove-it-mr-president/
 categories:
-- News
-- Donald Trump
+- Politics
 tags:
 - Donald J. Trump
 type: "post"

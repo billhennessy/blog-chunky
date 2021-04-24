@@ -8,7 +8,6 @@ url: /2010/05/14/geek-out-on-this/
 categories:
 - Living
 - Politics
-- Donald Trump
 tags:
 - Donald J. Trump
 - John F. Kennedy

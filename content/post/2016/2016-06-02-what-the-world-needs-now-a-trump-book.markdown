@@ -7,7 +7,6 @@ layout: blog
 url: /2016/06/01/what-the-world-needs-now-a-trump-book/
 categories:
 - Politics
-- Donald Trump
 tags:
 
 type: "post"

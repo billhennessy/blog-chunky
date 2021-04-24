@@ -6,7 +6,7 @@ title: 'The Resistance: Defined'
 layout: blog
 url: /2017/02/10/the-resistance-defined/
 categories:
-- News
+- Politics
 tags:
 - People Want You Dead
 type: "post"

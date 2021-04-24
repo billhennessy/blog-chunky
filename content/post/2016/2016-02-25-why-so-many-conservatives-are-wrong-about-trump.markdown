@@ -7,7 +7,6 @@ layout: blog
 url: /2016/02/24/why-so-many-conservatives-are-wrong-about-trump/
 categories:
 - Politics
-- Donald Trump
 tags:
 
 type: "post"

@@ -6,7 +6,6 @@ title: Obama Camp Can't Take The Heat
 layout: blog
 url: /2008/10/26/obama-camp-cant-take-the-heat/
 categories:
-- News
 - Politics
 ---
 

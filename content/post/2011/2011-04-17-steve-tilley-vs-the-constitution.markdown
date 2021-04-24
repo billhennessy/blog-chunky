@@ -7,7 +7,6 @@ layout: blog
 url: /2011/04/17/steve-tilley-vs-the-constitution/
 categories:
 - Politics
-- Politics
 tags:
 - electoral college
 

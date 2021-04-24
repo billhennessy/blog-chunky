@@ -6,7 +6,6 @@ title: 'Book on Palin:  $75 Best Price'
 layout: blog
 url: /2008/09/08/book-on-palin-75-best-price/
 categories:
-- News
 - Politics
 ---
 

@@ -7,7 +7,6 @@ layout: blog
 url: /2016/05/17/trump-and-the-tsa/
 categories:
 - Politics
-- Donald Trump
 tags:
 - Donald J. Trump
 

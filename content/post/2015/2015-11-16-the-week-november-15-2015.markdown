@@ -6,7 +6,7 @@ title: 'The Week: November 15, 2015'
 layout: blog
 url: /2015/11/15/the-week-november-15-2015/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

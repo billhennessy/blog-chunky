@@ -6,7 +6,6 @@ title: The GOP is to Public Relations What Evel Knievel Was to Motorcycle Safety
 layout: blog
 url: /2011/12/23/the-gop-is-to-public-relations-what-evel-knievel-was-to-motorcycle-safety/
 categories:
-- Donald Trump
 - Politics
 tags:
 - Donald J. Trump

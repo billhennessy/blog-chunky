@@ -6,11 +6,10 @@ title: Regarding Jeff Sessions
 layout: blog
 url: /2017/07/25/regarding-jeff-sessions/
 categories:
-- News
-- Donald Trump
+- Politics
 tags:
 - Sessions
-- Donald Trump
+- Politics
 type: "post"
 ---
 

@@ -6,7 +6,7 @@ title: Doc of the Decade Is Almost Here. Watch the Trailer
 
 url:  /2018/04/25/doc-of-the-decade-is-almost-here-watch-the-trailer/
 categories:
-- News
+- Politics
 tags:
 - Adam Carolla
 - Dennis Prager

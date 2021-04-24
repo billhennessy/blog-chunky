@@ -6,7 +6,7 @@ title: Another Al-Qaeda "Number Two" Assumes Room Temp
 layout: blog
 url: /2008/08/11/another-al-qaeda-number-two-assumes-room-temp/
 categories:
-- News
+- Politics
 ---
 
 [Breaking news from Fox](https://www.foxnews.com/):

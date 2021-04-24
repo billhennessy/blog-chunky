@@ -4,7 +4,7 @@ date: 2019-01-02T20:23:19-06:00
 draft: false
 authors: ["Bill Hennessy"]
 categories: 
-- Donald Trump
+- Politics
 type: "post"
 ---
 

@@ -7,7 +7,7 @@ layout: blog
 url: /2017/06/15/7-steps-to-safety-for-conservatives-think-like-a-spy/
 categories:
 - Activism
-- News
+- Politics
 tags:
 - spy tactics
 - survival

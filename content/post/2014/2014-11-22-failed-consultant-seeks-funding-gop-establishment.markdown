@@ -6,7 +6,7 @@ title: Failed Consultant Seeks Funding for GOP Establishment
 layout: blog
 url: /2014/11/22/failed-consultant-seeks-funding-gop-establishment/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

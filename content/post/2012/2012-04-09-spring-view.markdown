@@ -6,7 +6,7 @@ title: Spring view
 layout: blog
 url: /2012/04/09/spring-view/
 categories:
-- News
+- Politics
 post_format:
 - Image
 type: "post"

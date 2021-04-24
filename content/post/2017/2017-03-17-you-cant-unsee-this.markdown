@@ -8,8 +8,7 @@ url: /2017/03/17/you-cant-unsee-this/
 categories:
 - Living
 tags:
-- Kilt
-- St. Patrick's Day
+
 type: "post"
 ---
 

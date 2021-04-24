@@ -6,7 +6,7 @@ title: Priebus Over-Under (under)
 layout: blog
 url: /2017/07/27/priebus-over-under/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

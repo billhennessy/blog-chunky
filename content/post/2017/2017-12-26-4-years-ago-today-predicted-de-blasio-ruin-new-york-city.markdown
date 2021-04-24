@@ -6,7 +6,7 @@ title: 4 Years Ago Today, I Predicted de Blasio Would Ruin New York City
 layout: blog
 url: /2017/12/26/4-years-ago-today-predicted-de-blasio-ruin-new-york-city/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

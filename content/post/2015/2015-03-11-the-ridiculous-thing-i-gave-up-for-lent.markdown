@@ -6,7 +6,7 @@ title: The Ridiculous Thing I Gave Up for Lent
 layout: blog
 url: /2015/03/11/the-ridiculous-thing-i-gave-up-for-lent/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

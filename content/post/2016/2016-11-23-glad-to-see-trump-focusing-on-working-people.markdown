@@ -7,10 +7,9 @@ title: Glad to See Trump Focusing on Working People Instead of Worrying About Hi
 layout: blog
 url: /2016/11/23/glad-to-see-trump-focusing-on-working-people/
 categories:
-- Donald Trump
+- Politics
 tags:
-- Email scandal
-- Hillary-Clinton
+- Donald J. Trump
 type: "post"
 ---
 

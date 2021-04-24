@@ -7,7 +7,7 @@ layout: blog
 url: /2011/06/14/blame-machines/
 categories:
 - Economy
-- News
+- Politics
 type: "post"
 ---
 

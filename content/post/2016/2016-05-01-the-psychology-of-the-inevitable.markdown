@@ -7,7 +7,7 @@ layout: blog
 url: /2016/05/01/the-psychology-of-the-inevitable/
 categories:
 - Political Psychology
-- Donald Trump
+- Politics
 tags:
 - Donald J. Trump
 

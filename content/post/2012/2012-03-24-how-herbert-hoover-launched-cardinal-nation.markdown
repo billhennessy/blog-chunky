@@ -7,7 +7,6 @@ layout: blog
 url: /2012/03/24/how-herbert-hoover-launched-cardinal-nation/
 categories:
 - Politics
-- Politics
 tags:
 
 type: "post"

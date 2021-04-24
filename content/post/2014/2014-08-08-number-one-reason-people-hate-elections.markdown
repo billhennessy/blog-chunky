@@ -6,7 +6,7 @@ title: The Number One Reason People Hate Elections
 layout: blog
 url: /2014/08/08/number-one-reason-people-hate-elections/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

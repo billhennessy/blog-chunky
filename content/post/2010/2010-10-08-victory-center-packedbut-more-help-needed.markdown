@@ -6,7 +6,7 @@ title: Victory Center Packed—But More Help Needed
 layout: blog
 url: /2010/10/07/victory-center-packedbut-more-help-needed/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

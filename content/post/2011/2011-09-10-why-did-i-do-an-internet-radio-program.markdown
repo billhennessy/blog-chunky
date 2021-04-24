@@ -6,7 +6,7 @@ title: Why Did I Do an Internet Radio Program?
 layout: blog
 url: /2011/09/10/why-did-i-do-an-internet-radio-program/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

@@ -10,7 +10,6 @@ categories:
 - Business
 - Crime
 - Economy
-- News
 - Politics
 ---
 

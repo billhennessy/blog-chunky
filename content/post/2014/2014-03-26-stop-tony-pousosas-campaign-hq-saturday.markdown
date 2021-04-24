@@ -6,7 +6,7 @@ title: Stop By Tony Pousosa's Campaign HQ Saturday
 layout: blog
 url: /2014/03/26/stop-tony-pousosas-campaign-hq-saturday/
 categories:
-- News
+- Politics
 post_format:
 - Aside
 type: "post"

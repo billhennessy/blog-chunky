@@ -6,9 +6,8 @@ title: Chuck and Nancy and Donald and Mitch and Paul
 layout: blog
 url: /2017/09/17/chuck-and-nancy-and-donald-and-mitch-and-paul/
 categories:
-- News
 - Politics
-- Donald Trump
+- Politics
 tags:
 
 type: "post"

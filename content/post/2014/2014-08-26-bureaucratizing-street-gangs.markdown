@@ -6,7 +6,7 @@ title: Bureaucratizing Street Gangs
 layout: blog
 url: /2014/08/26/bureaucratizing-street-gangs/
 categories:
-- News
+- Politics
 tags:
 - rush limbaugh
 type: "post"

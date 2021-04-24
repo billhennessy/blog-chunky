@@ -8,10 +8,7 @@ url: /2017/01/19/welcome-to-the-america-of-our-dreams/
 categories:
 - Politics
 tags:
-- 'tcot'
-- Donald Trump
-- maga
-- Politics
+
 type: "post"
 ---
 

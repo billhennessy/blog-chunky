@@ -6,7 +6,7 @@ title: What we need in America is more Irish
 layout: blog
 url: /2015/11/10/what-we-need-in-america-is-more-irish/
 categories:
-- News
+- Politics
 tags:
 - political correctness
 type: "post"

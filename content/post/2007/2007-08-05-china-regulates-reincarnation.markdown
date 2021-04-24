@@ -6,7 +6,7 @@ title: China Regulates Reincarnation
 layout: blog
 url: /2007/08/05/china-regulates-reincarnation/
 categories:
-- News
+- Politics
 tags:
 - reincarnation
 ---

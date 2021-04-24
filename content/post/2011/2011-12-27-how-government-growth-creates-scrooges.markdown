@@ -7,7 +7,7 @@ layout: blog
 url: /2011/12/27/how-government-growth-creates-scrooges/
 categories:
 - Living
-- Donald Trump
+- Politics
 tags:
 - charity
 - Donald J. Trump

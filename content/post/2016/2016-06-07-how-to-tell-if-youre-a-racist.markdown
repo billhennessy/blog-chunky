@@ -7,7 +7,6 @@ layout: blog
 url: /2016/06/06/how-to-tell-if-youre-a-racist/
 categories:
 - Politics
-- Donald Trump
 tags:
 
 type: "post"

@@ -9,7 +9,7 @@ categories:
 - Politics
 
 tags:
-- Donald Trump
+- Politics
 - Eric Greitens
 
 type: "post"

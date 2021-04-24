@@ -7,7 +7,6 @@ layout: blog
 url: /2015/09/10/trump-the-final-nail-in-the-conservative-coffin/
 categories:
 - Politics
-- Donald Trump
 tags:
 
 type: "post"

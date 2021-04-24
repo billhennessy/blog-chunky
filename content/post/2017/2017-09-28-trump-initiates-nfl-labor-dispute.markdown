@@ -6,11 +6,11 @@ title: Trump Instigates NFL Labor Dispute
 layout: blog
 url: /2017/09/28/trump-initiates-nfl-labor-dispute/
 categories:
-- News
+- Politics
 tags:
 - anthem protest
 - NFL
-- Donald Trump
+- Politics
 type: "post"
 ---
 

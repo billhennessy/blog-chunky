@@ -7,7 +7,6 @@ layout: blog
 url: /2014/09/05/municipal-courts-matter-liberty/
 categories:
 - Politics
-- Donald Trump
 tags:
 
 type: "post"

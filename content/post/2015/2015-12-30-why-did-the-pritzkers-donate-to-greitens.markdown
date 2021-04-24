@@ -7,7 +7,6 @@ layout: blog
 url: /2015/12/29/why-did-the-pritzkers-donate-to-greitens/
 categories:
 - Politics
-- News
 tags:
 - Eric Greitens
 

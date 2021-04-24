@@ -8,7 +8,6 @@ url: /2017/07/09/we-can-make-missouri-more-like-illinois/
 categories:
 - Politics
 - Politics
-- Politics
 tags:
 - Better Together
 - Politics Merger

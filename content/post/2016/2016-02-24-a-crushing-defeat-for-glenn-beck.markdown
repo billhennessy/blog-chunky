@@ -6,8 +6,7 @@ title: A crushing defeat for Glenn Beck
 layout: blog
 url: /2016/02/24/a-crushing-defeat-for-glenn-beck/
 categories:
-- News
-- Donald Trump
+- Politics
 tags:
 - Donald J. Trump
 type: "post"

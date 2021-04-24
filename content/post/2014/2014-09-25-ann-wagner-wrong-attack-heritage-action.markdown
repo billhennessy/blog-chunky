@@ -7,7 +7,6 @@ layout: blog
 url: /2014/09/24/ann-wagner-wrong-attack-heritage-action/
 categories:
 - Politics
-- Politics
 tags:
 
 type: "post"

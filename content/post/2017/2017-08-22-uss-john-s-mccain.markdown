@@ -6,7 +6,7 @@ title: USS John S. McCain
 layout: blog
 url: /2017/08/22/uss-john-s-mccain/
 categories:
-- News
+- Politics
 tags:
 - USS John S. McCain
 type: "post"

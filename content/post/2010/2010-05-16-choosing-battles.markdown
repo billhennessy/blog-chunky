@@ -7,7 +7,6 @@ layout: blog
 url: /2010/05/15/choosing-battles/
 categories:
 - Politics
-- Donald Trump
 tags:
 - elections
 type: "post"

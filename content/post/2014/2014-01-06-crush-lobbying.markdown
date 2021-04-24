@@ -6,7 +6,7 @@ title: 'How To Crush Lobbying '
 layout: blog
 url: /2014/01/06/crush-lobbying/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

@@ -6,7 +6,7 @@ title: SCOTUS Reality Tour
 layout: blog
 url: /2012/03/28/scotus-reality-tour/
 categories:
-- News
+- Politics
 tags:
 - anthony Kennedy
 

@@ -8,7 +8,7 @@ url: /2017/01/21/rebuilding-st-louis/
 categories:
 - Politics
 tags:
-- Andrew Jones Mayor
+
 type: "post"
 ---
 

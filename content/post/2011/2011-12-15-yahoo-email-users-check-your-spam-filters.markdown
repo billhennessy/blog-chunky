@@ -6,7 +6,7 @@ title: 'Yahoo Email Users: Check Your Spam Filters'
 layout: blog
 url: /2011/12/15/yahoo-email-users-check-your-spam-filters/
 categories:
-- News
+- Politics
 tags:
 - email
 

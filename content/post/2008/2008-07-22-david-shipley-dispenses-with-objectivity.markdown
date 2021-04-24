@@ -7,7 +7,6 @@ layout: blog
 url: /2008/07/21/david-shipley-dispenses-with-objectivity/
 categories:
 - Foreign Relations
-- News
 - Politics
 ---
 

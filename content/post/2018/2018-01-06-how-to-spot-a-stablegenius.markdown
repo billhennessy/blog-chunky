@@ -6,7 +6,7 @@ title: 'How to spot a #StableGenius'
 
 url:  /2018/01/06/how-to-spot-a-stablegenius/
 categories:
-- Donald Trump
+- Politics
 tags:
 - Gorilla Channel
 type: "post"

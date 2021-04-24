@@ -8,10 +8,7 @@ url: /2017/01/04/stan-kroenkes-long-con-has-just-started/
 categories:
 - Business
 tags:
-- Kroenke
-- London
-- NFL
-- Rams
+
 type: "post"
 ---
 

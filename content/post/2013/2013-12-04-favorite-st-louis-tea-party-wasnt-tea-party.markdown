@@ -6,7 +6,7 @@ title: My Favorite St. Louis Tea Party Wasn't a Tea Party At All
 layout: blog
 url: /2013/12/04/favorite-st-louis-tea-party-wasnt-tea-party/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

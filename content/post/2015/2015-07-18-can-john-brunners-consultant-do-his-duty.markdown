@@ -6,7 +6,7 @@ title: Can John Brunner's Consultant Do His Duty?
 layout: blog
 url: /2015/07/18/can-john-brunners-consultant-do-his-duty/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

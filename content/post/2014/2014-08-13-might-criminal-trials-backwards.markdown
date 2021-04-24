@@ -6,7 +6,7 @@ title: We Might Be Doing Criminal Trials Backwards
 layout: blog
 url: /2014/08/13/might-criminal-trials-backwards/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

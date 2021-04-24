@@ -6,7 +6,7 @@ title: No one else will tell how big this news is
 layout: blog
 url: /2016/09/08/no-one-else-will-tell-how-big-this-news-is/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

@@ -7,7 +7,6 @@ title: Why Is Jay Barnes So Angry?
 url:  /2018/05/26/why-is-greasy-jay-barnes-so-angry/
 categories:
 - Politics
-- News
 tags:
 - Al Watkins
 - Jay Barnes

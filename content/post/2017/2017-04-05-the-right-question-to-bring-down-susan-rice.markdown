@@ -8,9 +8,7 @@ url: /2017/04/05/the-right-question-to-bring-down-susan-rice/
 categories:
 - Politics
 tags:
-- intelligence
-- susan rice
-- unmasking
+
 type: "post"
 ---
 

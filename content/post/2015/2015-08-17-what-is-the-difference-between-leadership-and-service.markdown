@@ -7,7 +7,7 @@ layout: blog
 url: /2015/08/16/what-is-the-difference-between-leadership-and-service/
 categories:
 - Living
-- Donald Trump
+- Politics
 tags:
 
 type: "post"

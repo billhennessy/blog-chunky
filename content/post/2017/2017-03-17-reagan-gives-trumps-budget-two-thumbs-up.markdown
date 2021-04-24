@@ -8,8 +8,7 @@ url: /2017/03/16/reagan-gives-trumps-budget-two-thumbs-up/
 categories:
 - Politics
 tags:
-- reagan
-- Donald Trump Budget
+
 type: "post"
 ---
 

@@ -7,7 +7,7 @@ layout: blog
 url: /2015/07/23/why-conservatives-should-get-involved-part-4/
 categories:
 - Living
-- News
+- Politics
 tags:
 
 type: "post"

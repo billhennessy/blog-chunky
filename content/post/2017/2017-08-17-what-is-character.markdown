@@ -6,7 +6,7 @@ title: What Is Character?
 layout: blog
 url: /2017/08/17/what-is-character/
 categories:
-- News
+- Politics
 - Stoicism
 tags:
 - Charles Bukowski

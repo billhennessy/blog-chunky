@@ -7,8 +7,7 @@ layout: blog
 url: /2015/08/18/whos-really-left-in-the-gop-field/
 categories:
 - Politics
-- News
-- Donald Trump
+- Politics
 tags:
 
 type: "post"

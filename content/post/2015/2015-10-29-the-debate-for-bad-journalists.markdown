@@ -7,7 +7,6 @@ layout: blog
 url: /2015/10/28/the-debate-for-bad-journalists/
 categories:
 - Politics
-- Donald Trump
 tags:
 
 type: "post"

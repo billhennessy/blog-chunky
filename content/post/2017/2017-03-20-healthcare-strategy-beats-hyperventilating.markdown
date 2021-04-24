@@ -6,7 +6,7 @@ title: Healthcare Strategy Beats  Hyperventilating
 layout: blog
 url: /2017/03/20/healthcare-strategy-beats-hyperventilating/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

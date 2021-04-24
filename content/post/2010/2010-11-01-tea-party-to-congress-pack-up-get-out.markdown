@@ -6,7 +6,7 @@ title: 'Tea Party to Congress: Pack Up, Get Out'
 layout: blog
 url: /2010/11/01/tea-party-to-congress-pack-up-get-out/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

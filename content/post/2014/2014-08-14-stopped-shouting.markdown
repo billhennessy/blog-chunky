@@ -6,7 +6,7 @@ title: What If We Stopped Shouting?
 layout: blog
 url: /2014/08/14/stopped-shouting/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

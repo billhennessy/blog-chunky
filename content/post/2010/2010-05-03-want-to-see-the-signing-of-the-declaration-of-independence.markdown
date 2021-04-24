@@ -7,7 +7,7 @@ layout: blog
 url: /2010/05/02/want-to-see-the-signing-of-the-declaration-of-independence/
 categories:
 - Living
-- News
+- Politics
 tags:
 - Declaration of Independence
 - Paul Curtman

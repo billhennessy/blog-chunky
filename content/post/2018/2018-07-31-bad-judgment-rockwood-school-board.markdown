@@ -8,7 +8,6 @@ url:  /2018/07/31/bad-judgment-rockwood-school-board/
 categories:
 - Politics
 - Politics
-- Politics
 tags:
 - Dottie Bailey
 - Rockwood School District

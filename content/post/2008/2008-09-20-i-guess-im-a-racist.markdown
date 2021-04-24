@@ -8,7 +8,6 @@ url: /2008/09/19/i-guess-im-a-racist/
 categories:
 - Crime
 - Economy
-- News
 - Politics
 ---
 

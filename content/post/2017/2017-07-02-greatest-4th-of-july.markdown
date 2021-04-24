@@ -6,9 +6,8 @@ title: Greatest 4th of July! WrestlemaniaCNNTakeDown! (Video)
 layout: blog
 url: /2017/07/02/greatest-4th-of-july/
 categories:
-- News
-- Donald Trump
-- Donald Trump
+- Politics
+- Politics
 tags:
 - FakeNews
 

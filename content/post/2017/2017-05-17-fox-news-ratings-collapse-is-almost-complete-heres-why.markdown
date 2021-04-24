@@ -6,12 +6,9 @@ title: Fox News' Ratings Collapse Is Almost Complete. Here's Why.
 layout: blog
 url: /2017/05/17/fox-news-ratings-collapse-is-almost-complete-heres-why/
 categories:
-- News
+- Politics
 tags:
-- FNC
-- Fox News
-- MSNBC
-- Ratings
+
 type: "post"
 ---
 

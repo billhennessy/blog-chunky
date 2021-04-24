@@ -9,7 +9,7 @@ categories:
 - Stoicism
 tags:
 - Chelsea Handler
-- Donald Trump
+- Politics
 - Fear and Loathing
 type: "post"
 ---

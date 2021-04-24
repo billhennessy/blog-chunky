@@ -7,7 +7,7 @@ layout: blog
 url: /2015/08/22/fascinating-results-from-leaders-eat-last-poll/
 categories:
 - Political Psychology
-- Donald Trump
+- Politics
 tags:
 - Eric Greitens
 

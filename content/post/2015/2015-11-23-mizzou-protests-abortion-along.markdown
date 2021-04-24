@@ -7,7 +7,7 @@ layout: blog
 url: /2015/11/23/mizzou-protests-abortion-along/
 categories:
 - Academics
-- News
+- Politics
 tags:
 
 type: "post"

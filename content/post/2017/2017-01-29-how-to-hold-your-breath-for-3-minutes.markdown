@@ -10,9 +10,7 @@ categories:
 tags:
 - cancer
 - fasting
-- glucose
-- ketosis
-- water fast
+
 type: "post"
 ---
 

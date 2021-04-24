@@ -7,7 +7,7 @@ layout: blog
 url: /2010/06/13/go-israel/
 categories:
 - Living
-- News
+- Politics
 
 type: "post"
 ---

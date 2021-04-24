@@ -6,7 +6,7 @@ title: The Return of Marcos
 layout: blog
 url: /2010/08/08/the-return-of-marcos/
 categories:
-- News
+- Politics
 tags:
 - ferdinand marcos
 - imelda marcos

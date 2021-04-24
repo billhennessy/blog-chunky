@@ -8,9 +8,7 @@ url: /2017/04/07/what-do-i-mean-by-narrative/
 categories:
 - Political Psychology
 tags:
-- narratives
-- Politics
-- Donald Trump
+
 type: "post"
 ---
 

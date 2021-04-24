@@ -6,8 +6,7 @@ title: I am honored to question the GOP candidates for you and Heritage
 layout: blog
 url: /2015/09/16/i-am-honored-to-question-the-gop-candidates-for-you-and-heritage/
 categories:
-- News
-- Donald Trump
+- Politics
 tags:
 - Donald J. Trump
 

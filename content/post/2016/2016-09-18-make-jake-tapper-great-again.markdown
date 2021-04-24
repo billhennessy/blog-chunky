@@ -6,7 +6,7 @@ title: Make Jake Tapper Great Again
 layout: blog
 url: /2016/09/18/make-jake-tapper-great-again/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

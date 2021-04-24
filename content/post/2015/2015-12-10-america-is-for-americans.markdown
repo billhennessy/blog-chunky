@@ -7,7 +7,6 @@ layout: blog
 url: /2015/12/09/america-is-for-americans/
 categories:
 - Politics
-- Donald Trump
 tags:
 
 type: "post"

@@ -6,7 +6,7 @@ title: Tom Schweich, RIP
 layout: blog
 url: /2015/02/26/tom-schweich-rip/
 categories:
-- News
+- Politics
 tags:
 - tom schweich
 type: "post"

@@ -7,7 +7,6 @@ layout: blog
 url: /2017/09/05/did-mark-and-andrew-madoff-profit-from-bernies-crimes/
 categories:
 - Politics
-- News
 tags:
 - Bernie Madoff
 - DACA

@@ -7,11 +7,9 @@ title: Gullible Evil Losers at CNN Criticize London Cops for Using Too Many Bull
 layout: blog
 url: /2017/06/04/gullible-evil-losers-at-cnn/
 categories:
-- News
+- Politics
 tags:
-- CNN
-- CNNIsISIS
-- ISIS
+
 type: "post"
 ---
 

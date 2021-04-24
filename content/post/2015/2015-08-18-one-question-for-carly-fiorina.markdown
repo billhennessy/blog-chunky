@@ -8,7 +8,7 @@ url: /2015/08/18/one-question-for-carly-fiorina/
 categories:
 - Politics
 - Living
-- Donald Trump
+- Politics
 tags:
 
 type: "post"

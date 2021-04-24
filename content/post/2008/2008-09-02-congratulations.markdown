@@ -6,7 +6,7 @@ title: Congratulations
 layout: blog
 url: /2008/09/01/congratulations/
 categories:
-- News
+- Politics
 - Weather
 ---
 

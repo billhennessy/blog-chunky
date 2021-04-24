@@ -6,7 +6,7 @@ title: Historic Winter Storm
 layout: blog
 url: /2008/12/13/historic-winter-storm/
 categories:
-- News
+- Politics
 - Science
 - Weather
 ---

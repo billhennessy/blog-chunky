@@ -7,7 +7,7 @@ layout: blog
 url: /2015/03/07/what-to-do-with-the-doj-report-on-ferguson/
 categories:
 - 'Ferguson'
-- Donald Trump
+- Politics
 tags:
 - tom schweich
 type: "post"

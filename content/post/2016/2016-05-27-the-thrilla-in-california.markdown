@@ -7,7 +7,6 @@ layout: blog
 url: /2016/05/27/the-thrilla-in-california/
 categories:
 - Politics
-- Donald Trump
 tags:
 
 type: "post"

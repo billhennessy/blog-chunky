@@ -7,7 +7,7 @@ title: What Happens When a Political Junky Unplugs?
 url:  /2018/04/01/what-happens-when-a-political-junky-unplugs/
 categories:
 - Living
-- News
+- Politics
 tags:
 - 12 Rules for Life
 - Jordan B. Peterson

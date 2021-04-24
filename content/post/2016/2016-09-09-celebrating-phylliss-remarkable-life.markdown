@@ -6,7 +6,7 @@ title: 'Celebrating Phyllis''s Remarkable Life **Update: Trump In Town**'
 layout: blog
 url: /2016/09/08/celebrating-phylliss-remarkable-life/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

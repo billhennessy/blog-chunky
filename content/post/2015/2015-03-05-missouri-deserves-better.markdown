@@ -6,7 +6,7 @@ title: Missouri Deserves Better
 layout: blog
 url: /2015/03/05/missouri-deserves-better/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

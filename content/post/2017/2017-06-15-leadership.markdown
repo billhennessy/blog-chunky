@@ -6,7 +6,7 @@ title: Leadership.
 layout: blog
 url: /2017/06/14/leadership/
 categories:
-- News
+- Politics
 post_format:
 
 tags:

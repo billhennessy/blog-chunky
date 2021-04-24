@@ -7,7 +7,7 @@ layout: blog
 url: /2017/07/24/feeling-exposed-and-protected/
 categories:
 - Living
-- News
+- Politics
 tags:
 - Mom
 type: "post"

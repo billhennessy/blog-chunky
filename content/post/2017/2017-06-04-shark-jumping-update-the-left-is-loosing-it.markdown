@@ -6,11 +6,9 @@ title: 'Shark-Jumping Update: the Left Is Losing It'
 layout: blog
 url: /2017/06/04/shark-jumping-update-the-left-is-loosing-it/
 categories:
-- News
+- Politics
 tags:
-- beheading
-- bill maher
-- Kathy Griffin
+
 type: "post"
 ---
 

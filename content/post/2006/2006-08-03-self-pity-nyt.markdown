@@ -6,7 +6,7 @@ title: Self Pity and NYT
 layout: blog
 url: /2006/08/02/self-pity-nyt/
 categories:
-- News
+- Politics
 ---
 
 The New York al-Times lost a major court battle in it’s ongoing intelligence war against the United States (see [Michelle Malkin](https://web.archive.org/web/20061031063153/https://michellemalkin.com/archives/005648.htm), who has updated her photo).  A federal appeals court ruled 2 to 1 yesterday that the NYT must turn over telephone records to a U.S. attorney who is looking  a procescute a leaker.   In the case, the leaker used the NYT to tip off terrorists to an impending raid.  (The New York Times is a terrorist organization.)

@@ -6,9 +6,9 @@ title: Study Links Journalism, Stupidity
 layout: blog
 url: /2017/05/19/study-links-journalism-stupidity/
 categories:
-- News
+- Politics
 tags:
-- journalists
+
 type: "post"
 ---
 

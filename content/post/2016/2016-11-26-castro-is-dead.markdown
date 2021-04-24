@@ -6,7 +6,7 @@ title: Castro Is Dead
 layout: blog
 url: /2016/11/26/castro-is-dead/
 categories:
-- News
+- Politics
 tags:
 - castro
 type: "post"

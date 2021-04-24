@@ -6,7 +6,7 @@ title: 3 Questions. And I want some damn answers
 layout: blog
 url: /2015/03/10/3-questions-and-i-want-some-damn-answers/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

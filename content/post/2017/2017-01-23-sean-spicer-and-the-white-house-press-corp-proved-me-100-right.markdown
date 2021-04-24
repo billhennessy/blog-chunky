@@ -8,8 +8,7 @@ url: /2017/01/23/sean-spicer-and-the-white-house-press-corp-proved-me-100-right/
 categories:
 - Press
 tags:
-- psychosis
-- Sean Spicer
+
 type: "post"
 ---
 

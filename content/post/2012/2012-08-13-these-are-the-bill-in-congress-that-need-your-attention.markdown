@@ -6,7 +6,7 @@ title: These Are the Bill in Congress That Need Your Attention
 layout: blog
 url: /2012/08/13/these-are-the-bill-in-congress-that-need-your-attention/
 categories:
-- News
+- Politics
 tags:
 - Ben Evans
 

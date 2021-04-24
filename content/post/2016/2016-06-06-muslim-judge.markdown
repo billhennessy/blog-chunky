@@ -6,7 +6,7 @@ title: Muslim Judge
 layout: blog
 url: /2016/06/06/muslim-judge/
 categories:
-- Donald Trump
+- Politics
 tags:
 
 type: "post"

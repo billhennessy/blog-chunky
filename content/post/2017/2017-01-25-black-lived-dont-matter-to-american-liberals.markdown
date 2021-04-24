@@ -6,11 +6,9 @@ title: Black Lives Don't Matter to American Liberals
 layout: blog
 url: /2017/01/24/black-lived-dont-matter-to-american-liberals/
 categories:
-- Crime
+- Politics
 tags:
-- Chicago
-- murder
-- shootings
+
 type: "post"
 ---
 

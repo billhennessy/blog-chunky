@@ -9,7 +9,6 @@ categories:
 - Living
 tags:
 - Diet
-- low carb high fat
 - Obesity
 type: "post"
 ---

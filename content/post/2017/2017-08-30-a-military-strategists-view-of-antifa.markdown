@@ -7,7 +7,6 @@ layout: blog
 url: /2017/08/30/a-military-strategists-view-of-antifa/
 categories:
 - Politics
-- News
 tags:
 
 type: "post"

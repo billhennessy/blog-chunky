@@ -6,7 +6,7 @@ title: President Trump Popped the NFL's Biggest Zit
 layout: blog
 url: /2017/09/25/president-trump-popped-the-nfls-biggest-zit/
 categories:
-- News
+- Politics
 tags:
 - anthem protest
 - NFL

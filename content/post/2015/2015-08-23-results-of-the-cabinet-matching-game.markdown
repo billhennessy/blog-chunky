@@ -7,7 +7,6 @@ layout: blog
 url: /2015/08/23/results-of-the-cabinet-matching-game/
 categories:
 - Politics
-- Donald Trump
 tags:
 - Donald J. Trump
 type: "post"

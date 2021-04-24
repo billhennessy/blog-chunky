@@ -6,7 +6,7 @@ title: How the Statue Wars Will End
 layout: blog
 url: /2017/08/26/how-the-statue-wars-will-end/
 categories:
-- News
+- Politics
 tags:
 - common knowledge
 - Statues

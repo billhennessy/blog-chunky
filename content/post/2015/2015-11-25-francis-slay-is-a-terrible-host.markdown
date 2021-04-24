@@ -6,7 +6,7 @@ title: Slay Poverty
 layout: blog
 url: /2015/11/24/francis-slay-is-a-terrible-host/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

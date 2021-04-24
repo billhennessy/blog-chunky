@@ -6,7 +6,7 @@ title: Ignorant Professor Wendy Doniger
 layout: blog
 url: /2008/09/11/ignorant-professor-wendy-doniger/
 categories:
-- News
+- Politics
 - Religion
 ---
 

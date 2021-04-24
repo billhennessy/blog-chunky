@@ -6,8 +6,7 @@ title: What Good Issued From the Candidate Debate?
 layout: blog
 url: /2015/08/08/what-good-issued-from-the-candidate-debate/
 categories:
-- News
-- Donald Trump
+- Politics
 tags:
 
 type: "post"

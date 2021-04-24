@@ -6,8 +6,7 @@ title: Laugh at them, not with them
 layout: blog
 url: /2017/09/03/laugh-at-them-not-with-them/
 categories:
-- News
-- Donald Trump
+- Politics
 post_format:
 - Image
 tags:

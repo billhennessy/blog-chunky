@@ -6,7 +6,7 @@ title: Here's How I'm Voting August 5 (with printable grid of ballot measures) *
 layout: blog
 url: /2014/07/31/im-voting-august-5-primary-printable-grid-ballot-initiatives/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

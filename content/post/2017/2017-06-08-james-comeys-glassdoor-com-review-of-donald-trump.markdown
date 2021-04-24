@@ -6,7 +6,7 @@ title: James Comey's GlassDoor.com Review of Donald Trump
 layout: blog
 url: /2017/06/08/james-comeys-glassdoor-com-review-of-donald-trump/
 categories:
-- News
+- Politics
 tags:
 - James Comes
 type: "post"

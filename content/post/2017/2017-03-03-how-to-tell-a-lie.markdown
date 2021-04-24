@@ -8,9 +8,7 @@ url: /2017/03/02/how-to-tell-a-lie/
 categories:
 - Politics
 tags:
-- '@clairecmc'
-- Claire McCaskill
-- Sessions
+
 type: "post"
 ---
 

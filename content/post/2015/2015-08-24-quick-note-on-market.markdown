@@ -6,7 +6,7 @@ title: Quick Note on Market
 layout: blog
 url: /2015/08/24/quick-note-on-market/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

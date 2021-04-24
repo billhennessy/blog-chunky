@@ -7,7 +7,6 @@ layout: blog
 url: /2015/09/08/why-poverty-is-a-conservative-issue/
 categories:
 - Politics
-- News
 tags:
 
 type: "post"

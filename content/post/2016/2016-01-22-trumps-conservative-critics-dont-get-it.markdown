@@ -10,7 +10,7 @@ categories:
 
 tags:
 - Dilbert
-- Donald Trump
+- Politics
 
 type: "post"
 ---

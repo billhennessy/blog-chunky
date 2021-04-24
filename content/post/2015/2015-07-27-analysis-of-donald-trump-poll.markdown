@@ -6,8 +6,7 @@ title: Analysis of Donald Trump Poll
 layout: blog
 url: /2015/07/27/analysis-of-donald-trump-poll/
 categories:
-- News
-- Donald Trump
+- Politics
 tags:
 - Donald J. Trump
 

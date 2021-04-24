@@ -6,7 +6,7 @@ title: Prayers for Ambushed Police Sergeant
 layout: blog
 url: /2016/11/20/prayers-for-ambushed-police-sergeant/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

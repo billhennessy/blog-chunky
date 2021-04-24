@@ -6,7 +6,7 @@ title: How Rush Limbaugh Revived Chivalry
 layout: blog
 url: /2012/03/03/how-rush-limbaugh-revived-chivalry/
 categories:
-- News
+- Politics
 tags:
 - contraceptives
 

@@ -6,7 +6,7 @@ title: What Else Can You Do?
 layout: blog
 url: /2017/09/24/what-else-can-you-do/
 categories:
-- News
+- Politics
 - Sports
 tags:
 - Aaron Hernandez

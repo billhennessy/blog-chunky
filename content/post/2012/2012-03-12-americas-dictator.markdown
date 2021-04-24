@@ -6,7 +6,7 @@ title: America’s Dictator
 layout: blog
 url: /2012/03/12/americas-dictator/
 categories:
-- News
+- Politics
 tags:
 - dictator
 

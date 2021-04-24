@@ -6,8 +6,7 @@ title: Donald Trump Poll
 layout: blog
 url: /2015/07/19/donald-trump-poll/
 categories:
-- News
-- Donald Trump
+- Politics
 tags:
 
 type: "post"

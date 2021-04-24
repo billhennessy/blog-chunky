@@ -7,7 +7,6 @@ layout: blog
 url: /2011/04/03/st-louis-city-arrogant-anti-freedom/
 categories:
 - Politics
-- Politics
 tags:
 - eminent domain
 

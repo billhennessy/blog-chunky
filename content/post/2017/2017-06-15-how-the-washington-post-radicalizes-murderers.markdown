@@ -6,7 +6,7 @@ title: How the Washington Post Radicalizes Murderers (video)
 layout: blog
 url: /2017/06/14/how-the-washington-post-radicalizes-murderers/
 categories:
-- News
+- Politics
 - Political Psychology
 tags:
 

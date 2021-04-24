@@ -7,7 +7,6 @@ layout: blog
 url: /2010/06/08/4-steps-to-launch-conservative-revolution/
 categories:
 - Politics
-- Politics
 tags:
 - conservative revolution
 

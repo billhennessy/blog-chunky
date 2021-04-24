@@ -6,7 +6,7 @@ title: Please Join Me in Tucson, Arizona
 layout: blog
 url: /2011/03/06/please-join-me-in-tucson-arizona/
 categories:
-- News
+- Politics
 tags:
 - pima county sheriff
 - tucson tea party

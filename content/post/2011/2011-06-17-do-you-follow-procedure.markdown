@@ -6,7 +6,7 @@ title: Do You Follow Procedure?
 layout: blog
 url: /2011/06/17/do-you-follow-procedure/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

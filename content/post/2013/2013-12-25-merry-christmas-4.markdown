@@ -6,7 +6,7 @@ title: Merry Christmas
 layout: blog
 url: /2013/12/25/merry-christmas-4/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

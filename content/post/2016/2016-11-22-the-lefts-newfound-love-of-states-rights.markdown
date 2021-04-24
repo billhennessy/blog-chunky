@@ -7,11 +7,8 @@ layout: blog
 url: /2016/11/21/the-lefts-newfound-love-of-states-rights/
 categories:
 - Politics
-- Politics
+
 tags:
-- Politics
-- sanctuary cities
-- States Rights
 type: "post"
 ---
 

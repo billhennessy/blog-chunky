@@ -7,7 +7,7 @@ layout: blog
 url: /2015/06/22/why-we-believe-not-just-what/
 categories:
 - Living
-- News
+- Politics
 type: "post"
 ---
 

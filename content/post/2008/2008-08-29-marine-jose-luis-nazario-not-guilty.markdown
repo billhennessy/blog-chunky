@@ -7,7 +7,6 @@ layout: blog
 url: /2008/08/28/marine-jose-luis-nazario-not-guilty/
 categories:
 - Crime
-- News
 - Politics
 ---
 

@@ -6,7 +6,7 @@ title: How Phil Robertson, Duck Dynasty, and A&E Killed the Gay Moment
 layout: blog
 url: /2013/12/21/phil-robertson-duck-dynasty-ae-killed-gay-moment/
 categories:
-- News
+- Politics
 tags:
 - Phil Robertson
 type: "post"

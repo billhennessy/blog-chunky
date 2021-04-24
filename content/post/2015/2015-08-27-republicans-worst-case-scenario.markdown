@@ -7,7 +7,6 @@ layout: blog
 url: /2015/08/26/republicans-worst-case-scenario/
 categories:
 - Politics
-- Donald Trump
 tags:
 
 type: "post"

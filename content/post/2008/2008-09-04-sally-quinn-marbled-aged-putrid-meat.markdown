@@ -6,7 +6,6 @@ title: 'Sally Quinn:  Marbled, Aged, Putrid Meat'
 layout: blog
 url: /2008/09/03/sally-quinn-marbled-aged-putrid-meat/
 categories:
-- News
 - Politics
 ---
 

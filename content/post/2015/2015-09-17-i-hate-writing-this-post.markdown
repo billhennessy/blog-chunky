@@ -7,7 +7,6 @@ layout: blog
 url: /2015/09/16/i-hate-writing-this-post/
 categories:
 - Politics
-- Donald Trump
 tags:
 
 type: "post"

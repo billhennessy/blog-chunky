@@ -6,7 +6,7 @@ title: Flush the Clapper. It Stinks!
 layout: blog
 url: /2017/09/19/flush-the-clapper-it-stinks/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

@@ -6,7 +6,7 @@ title: Why Did I Read the News Today?
 layout: blog
 url: /2006/08/02/read-news-today/
 categories:
-- News
+- Politics
 ---
 
 [Gateway Pundit](https://web.archive.org/web/20061031063153/https://gatewaypundit.blogspot.com/2006/08/murtha-is-caught-lying-about-his-cold.html), quickly becoming the best political blog on the net, reports some very bad news for the Jack Murtha defense squad:  Murtha is a liar, according to the United States Marine Corps.

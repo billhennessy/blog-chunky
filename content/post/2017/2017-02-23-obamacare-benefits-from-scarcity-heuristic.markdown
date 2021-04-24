@@ -8,9 +8,7 @@ url: /2017/02/23/obamacare-benefits-from-scarcity-heuristic/
 categories:
 - Political Psychology
 tags:
-- Politics
-- Robert Cialdini
-- scarcity heuristic
+
 type: "post"
 ---
 

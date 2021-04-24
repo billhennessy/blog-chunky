@@ -6,7 +6,7 @@ title: Obama Admin Wiretapped Trump *UPDATE 2*
 layout: blog
 url: /2017/03/31/obama-admin-wiretapped-trump/
 categories:
-- Donald Trump
+- Politics
 tags:
 
 type: "post"

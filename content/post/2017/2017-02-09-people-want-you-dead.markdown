@@ -7,12 +7,9 @@ layout: blog
 url: /2017/02/09/people-want-you-dead/
 categories:
 - Politics
-- Generation X
-- The Fourth Turning
+
 tags:
-- Berkeley Riot
-- Leftists
-- People Want You Dead
+- Generation X
 
 type: "post"
 ---

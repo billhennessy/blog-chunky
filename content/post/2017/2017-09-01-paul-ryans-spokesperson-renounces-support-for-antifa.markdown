@@ -7,7 +7,6 @@ layout: blog
 url: /2017/08/31/paul-ryans-spokesperson-renounces-support-for-antifa/
 categories:
 - Politics
-- News
 tags:
 - Paul Ryan
 type: "post"

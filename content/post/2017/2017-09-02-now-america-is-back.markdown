@@ -6,7 +6,7 @@ title: Now, America Is Back!
 layout: blog
 url: /2017/09/02/now-america-is-back/
 categories:
-- News
+- Politics
 tags:
 - Houston
 type: "post"

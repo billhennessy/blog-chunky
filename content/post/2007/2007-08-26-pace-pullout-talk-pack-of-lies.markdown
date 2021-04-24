@@ -7,7 +7,7 @@ layout: blog
 url: /2007/08/26/pace-pullout-talk-pack-of-lies/
 categories:
 - Foreign Relations
-- News
+- Politics
 tags:
 - Joint-Chiefs-of-Staff
 - MSM

@@ -7,7 +7,6 @@ layout: blog
 url:  /2013/12/18/heres-secret-gop-friends-told-share/
 categories:
 - Politics
-- News
 type: "post"
 ---
 

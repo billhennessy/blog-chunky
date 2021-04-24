@@ -7,7 +7,7 @@ layout: blog
 url: /2008/04/13/benedicts-benediction/
 categories:
 - Living
-- News
+- Politics
 - Religion
 ---
 

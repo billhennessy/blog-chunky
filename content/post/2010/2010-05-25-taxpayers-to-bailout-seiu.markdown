@@ -6,7 +6,7 @@ title: Taxpayers to Bailout SEIU?
 layout: blog
 url: /2010/05/24/taxpayers-to-bailout-seiu/
 categories:
-- News
+- Politics
 tags:
 - bailout
 - bob casey

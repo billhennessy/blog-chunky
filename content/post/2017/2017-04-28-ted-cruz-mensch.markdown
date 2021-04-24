@@ -6,11 +6,10 @@ title: 'Ted Cruz: Mensch!'
 layout: blog
 url: /2017/04/27/ted-cruz-mensch/
 categories:
-- Donald Trump
+- Politics
 tags:
-- El Chapo
 - Ted Cruz
-- The Wall
+
 type: "post"
 ---
 

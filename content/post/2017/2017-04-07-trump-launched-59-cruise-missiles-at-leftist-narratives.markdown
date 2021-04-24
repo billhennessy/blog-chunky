@@ -7,10 +7,9 @@ layout: blog
 url: /2017/04/06/trump-launched-59-cruise-missiles-at-leftist-narratives/
 categories:
 - Politics
-- Donald Trump
+
 tags:
-- Politics
-- Syrian missile strike
+
 type: "post"
 ---
 

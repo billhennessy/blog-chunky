@@ -6,9 +6,9 @@ title: NFL Hates Football Fans; Fire Them All
 layout: blog
 url: /2017/09/23/nfl-hates-football-fans-fire-them-all/
 categories:
-- News
+- Politics
 - Sports
-- Donald Trump
+- Politics
 tags:
 - Kaepernick
 - NFL

@@ -6,7 +6,7 @@ title: You Are Entitled to Nothing
 layout: blog
 url: /2015/03/22/you-are-entitled-to-nothing/
 categories:
-- News
+- Politics
 post_format:
 
 tags:

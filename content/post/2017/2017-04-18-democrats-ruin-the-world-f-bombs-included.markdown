@@ -8,9 +8,7 @@ url: /2017/04/17/democrats-ruin-the-world-f-bombs-included/
 categories:
 - Politics
 tags:
-- democrats
-- North Korea
-- nuclear war
+
 type: "post"
 ---
 

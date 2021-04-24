@@ -6,7 +6,7 @@ title: How Psychological Biases Make Good Government Unlikely
 layout: blog
 url: /2012/12/28/how-psychological-biases-make-good-government-unlikely/
 categories:
-- News
+- Politics
 tags:
 - Availability Bias
 - Confirmation Bias

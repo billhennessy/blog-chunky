@@ -6,7 +6,7 @@ title: How Missourians can access military bases after January 10
 layout: blog
 url: /2015/12/31/how-missourians-can-access-military-bases-after-january-10/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

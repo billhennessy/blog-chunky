@@ -42,7 +42,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 [taxonomies]
 category = "categories"
-tag = "tags"
+# tag = "tags"
 series = "series"
 author = "authors"
 
@@ -59,7 +59,7 @@ author = "authors"
 
   [params.social]
     rss = true
-    email = "bill@billhennessy/com"
+    email = "bill@billhennessy.com"
   
     # parler = "https://parler.com/profile/Billhennessy/posts"
     mewe = "https://mewe.com/i/billhennessy2"

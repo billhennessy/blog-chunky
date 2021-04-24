@@ -6,7 +6,7 @@ title: A Freaky Index Says 2014 Will See Economic Crash
 layout: blog
 url: /2014/01/17/freaky-index-says-2014-will-see-economic-crash/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

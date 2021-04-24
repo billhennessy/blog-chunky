@@ -7,7 +7,6 @@ layout: blog
 url: /2010/09/29/the-power-and-the-glory/
 categories:
 - Politics
-- Donald Trump
 tags:
 - disillusionment
 - Donald J. Trump

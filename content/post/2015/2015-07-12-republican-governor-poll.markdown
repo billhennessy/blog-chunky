@@ -6,7 +6,7 @@ title: Republican Governor Poll
 layout: blog
 url: /2015/07/12/republican-governor-poll/
 categories:
-- News
+- Politics
 tags:
 - Eric Greitens
 type: "post"

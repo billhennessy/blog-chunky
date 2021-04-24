@@ -6,7 +6,6 @@ title: 'Obama Seals His Fate: Update'
 layout: blog
 url: /2008/04/12/obama-seals-his-fate/
 categories:
-- News
 - Politics
 ---
 

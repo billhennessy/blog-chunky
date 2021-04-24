@@ -6,7 +6,7 @@ title: Black Friday (Infographic)
 layout: blog
 url: /2012/06/03/black-friday/
 categories:
-- News
+- Politics
 post_format:
 - Image
 tags:

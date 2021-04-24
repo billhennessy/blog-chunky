@@ -15,10 +15,9 @@ description: "Coronavirus is proving Trump right about open borders."
 # taxonomies
 categories: 
 - Politics
-- Donald Trump
 tags:
 - Coronavirus
-- Donald Trump
+- Politics
 
 # post type
 type: "post"

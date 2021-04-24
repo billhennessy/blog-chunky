@@ -7,7 +7,6 @@ layout: blog
 url: /2017/08/28/president-trumps-only-failure/
 categories:
 - Politics
-- News
 tags:
 - domestic terrorism
 type: "post"

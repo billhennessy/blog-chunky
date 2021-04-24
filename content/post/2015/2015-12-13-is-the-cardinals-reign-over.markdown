@@ -6,7 +6,7 @@ title: Is the Cardinals’ Reign Over?
 layout: blog
 url: /2015/12/13/is-the-cardinals-reign-over/
 categories:
-- News
+- Politics
 - Sports
 tags:
 

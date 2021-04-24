@@ -8,7 +8,6 @@ url: /2011/07/21/give-me-5-minutes-and-ill-give-you-a-new-friend/
 categories:
 - Politics
 - Politics
-- Politics
 tags:
 - Ann Wagner
 - Dan Riehl

@@ -7,7 +7,7 @@ layout: blog
 url: /2015/07/21/buckley-vs-friedman-on-service-part-2/
 categories:
 - Living
-- News
+- Politics
 tags:
 - Eric Greitens
 

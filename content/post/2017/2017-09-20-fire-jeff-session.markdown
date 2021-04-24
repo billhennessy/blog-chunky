@@ -6,7 +6,7 @@ title: Fire Jeff Session
 layout: blog
 url: /2017/09/19/fire-jeff-session/
 categories:
-- News
+- Politics
 tags:
 - Jeff Sessions
 type: "post"

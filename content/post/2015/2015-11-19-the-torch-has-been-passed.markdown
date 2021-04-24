@@ -6,7 +6,7 @@ title: The torch has been passed
 layout: blog
 url: /2015/11/18/the-torch-has-been-passed/
 categories:
-- News
+- Politics
 tags:
 - Navy
 type: "post"

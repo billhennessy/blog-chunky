@@ -7,7 +7,7 @@ layout: blog
 url: /2014/08/12/justify-death-penalty/
 categories:
 - Faith
-- Donald Trump
+- Politics
 tags:
 
 type: "post"

@@ -6,7 +6,7 @@ title: Lament and Reflection
 layout: blog
 url: /2006/08/03/lament-and-reflection/
 categories:
-- News
+- Politics
 ---
 
 We were all sitting in the living room, tonight, when my wife told me that my son had already chipped the veneer on his tooth. She’d taken him to the dentist just this afternoon.

@@ -8,8 +8,7 @@ url: /2017/04/16/you-might-be-thinking-about-passion-all-wrong/
 categories:
 - Living
 tags:
-- Easter
-- Passion
+
 type: "post"
 ---
 

@@ -6,7 +6,6 @@ title: I know it was you, Fredo
 layout: blog
 url: /2015/11/29/fredo/
 categories:
-- News
 - Politics
 tags:
 - Eric Greitens

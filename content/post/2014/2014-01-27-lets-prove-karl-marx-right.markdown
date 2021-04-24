@@ -6,7 +6,7 @@ title: Let's Not Prove Karl Marx Right
 layout: blog
 url: /2014/01/26/lets-prove-karl-marx-right/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

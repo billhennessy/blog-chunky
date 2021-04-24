@@ -6,7 +6,7 @@ title: There Is No Liberty Without Pursuit of Happiness
 layout: blog
 url: /2015/09/15/there-is-no-liberty-without-pursuit-of-happiness/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

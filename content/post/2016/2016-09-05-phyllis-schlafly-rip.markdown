@@ -6,7 +6,7 @@ title: Phyllis Schlafly, RIP
 layout: blog
 url: /2016/09/05/phyllis-schlafly-rip/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

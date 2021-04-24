@@ -6,7 +6,6 @@ title: Who Is Charley James?
 layout: blog
 url: /2008/09/07/who-is-charley-james/
 categories:
-- News
 - Politics
 ---
 

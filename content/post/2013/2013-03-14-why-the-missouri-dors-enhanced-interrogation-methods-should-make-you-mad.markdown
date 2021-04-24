@@ -7,7 +7,6 @@ layout: blog
 url: /2013/03/14/why-the-missouri-dors-enhanced-interrogation-methods-should-make-you-mad/
 categories:
 - Politics
-- Politics
 tags:
 - Brian K. Long
 - Jay Nixon

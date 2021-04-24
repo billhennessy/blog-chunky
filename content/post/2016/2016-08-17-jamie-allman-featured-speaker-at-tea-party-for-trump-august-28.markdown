@@ -6,7 +6,7 @@ title: Jamie Allman Featured Speaker at Tea Party for Trump August 28
 layout: blog
 url: /2016/08/17/jamie-allman-featured-speaker-at-tea-party-for-trump-august-28/
 categories:
-- News
+- Politics
 tags:
 - Tea Party for Trump
 type: "post"

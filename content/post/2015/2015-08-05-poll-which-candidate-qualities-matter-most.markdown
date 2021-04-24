@@ -6,7 +6,7 @@ title: 'Poll: Which Candidate Qualities Matter Most?'
 layout: blog
 url: /2015/08/05/poll-which-candidate-qualities-matter-most/
 categories:
-- News
+- Politics
 tags:
 - poll
 type: "post"

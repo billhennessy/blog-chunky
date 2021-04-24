@@ -6,7 +6,7 @@ title: Jefferson’s Greatest Idea
 layout: blog
 url: /2015/07/10/jeffersons-greatest-idea/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

@@ -6,7 +6,7 @@ title: So Far, Blues Playoff Run Is Carbon Copy of 2013
 layout: blog
 url: /2014/04/27/far-blues-playoff-run-carbon-copy-2013/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

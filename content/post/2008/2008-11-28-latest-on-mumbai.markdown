@@ -7,7 +7,6 @@ layout: blog
 url: /2008/11/28/latest-on-mumbai/
 categories:
 - Living
-- News
 - Politics
 ---
 

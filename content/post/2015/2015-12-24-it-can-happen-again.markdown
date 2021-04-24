@@ -7,7 +7,7 @@ layout: blog
 url: /2015/12/24/it-can-happen-again/
 categories:
 - Economy
-- News
+- Politics
 tags:
 
 type: "post"

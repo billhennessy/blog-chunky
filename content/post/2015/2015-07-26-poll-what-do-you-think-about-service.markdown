@@ -6,8 +6,7 @@ title: 'Poll: What Do You Think About Service?'
 layout: blog
 url: /2015/07/26/poll-what-do-you-think-about-service/
 categories:
-- News
-- Donald Trump
+- Politics
 tags:
 - Donald J. Trump
 

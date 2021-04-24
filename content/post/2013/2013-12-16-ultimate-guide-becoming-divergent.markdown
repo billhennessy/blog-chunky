@@ -6,7 +6,7 @@ title: The Ultimate Guide to Becoming Divergent
 layout: blog
 url: /2013/12/16/ultimate-guide-becoming-divergent/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

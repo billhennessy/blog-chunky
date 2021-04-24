@@ -6,7 +6,7 @@ title: The Day Reagan Was Shot
 layout: blog
 url: /2017/03/30/the-day-reagan-was-shot/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

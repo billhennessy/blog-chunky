@@ -7,7 +7,6 @@ layout: blog
 url: /2017/09/10/counselling-sessions/
 categories:
 - Politics
-- News
 tags:
 - Jeff Sessions
 type: "post"

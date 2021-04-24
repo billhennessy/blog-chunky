@@ -6,7 +6,7 @@ title: MSM Editorials on Rove
 layout: blog
 url: /2007/08/13/msm-editorials-on-rove/
 categories:
-- News
+- Politics
 tags:
 - Karl Rove
 - MSM

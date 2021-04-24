@@ -6,7 +6,7 @@ title: To My Commenters
 layout: blog
 url: /2011/03/01/to-my-commenters/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

@@ -6,7 +6,7 @@ title: Memorial Day 2014
 layout: blog
 url: /2014/05/26/memorial-day-2014/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

@@ -6,11 +6,10 @@ title: Many Times Trump's Crazy Statements Turned Out to Be Right
 layout: blog
 url: /2017/03/07/many-times-trumps-crazy-statements-turned-out-to-be-right/
 categories:
-- News
-- Donald Trump
+- Politics
+
 tags:
-- Donald Trump was right
-- wiretap
+
 type: "post"
 ---
 

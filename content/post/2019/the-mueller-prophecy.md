@@ -5,7 +5,6 @@ draft: false
 images: ["dazed-and-confused.jpg"]
 categories:
 - Politics
-- Donald Trump
 
 tags:
 - Robert Mueller

@@ -8,7 +8,6 @@ url: /2016/11/28/bastardizing-trump/
 categories:
 - Politics
 tags:
-- recount
 type: "post"
 ---
 

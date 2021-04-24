@@ -7,7 +7,6 @@ layout: blog
 url: /2011/04/13/3-reasons-to-run-for-lt-governor/
 categories:
 - Politics
-- Politics
 tags:
 - Politics
 

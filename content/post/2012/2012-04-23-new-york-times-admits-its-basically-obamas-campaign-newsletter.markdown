@@ -6,7 +6,7 @@ title: New York Times Admits It's Basically Obama's Campaign Newsletter
 layout: blog
 url: /2012/04/23/new-york-times-admits-its-basically-obamas-campaign-newsletter/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

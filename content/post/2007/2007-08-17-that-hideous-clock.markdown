@@ -7,7 +7,7 @@ layout: blog
 url: /2007/08/16/that-hideous-clock/
 categories:
 - Living
-- News
+- Politics
 tags:
 - Demi-Cuccia
 - earthquake

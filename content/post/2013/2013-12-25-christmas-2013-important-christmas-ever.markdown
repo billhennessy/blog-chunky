@@ -6,7 +6,7 @@ title: Why Christmas 2013 Is The Most Important Christmas Ever
 layout: blog
 url: /2013/12/25/christmas-2013-important-christmas-ever/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

@@ -6,7 +6,7 @@ title: Big ISPs Will Back Net Neutrality Someday
 layout: blog
 url: /2014/11/24/big-isps-will-back-net-neutrality-someday/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

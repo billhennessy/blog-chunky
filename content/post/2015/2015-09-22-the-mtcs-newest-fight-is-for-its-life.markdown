@@ -6,7 +6,7 @@ title: The MTC's Newest Fight Is For Its Life
 layout: blog
 url: /2015/09/22/the-mtcs-newest-fight-is-for-its-life/
 categories:
-- News
+- Politics
 tags:
 - Kim Tucci
 

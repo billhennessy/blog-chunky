@@ -6,7 +6,7 @@ title: Cowardly, Leftist Punks Go Silent
 layout: blog
 url: /2011/01/08/cowardly-leftist-punks-go-silent/
 categories:
-- News
+- Politics
 tags:
 - chris matthews
 - eric boehlert

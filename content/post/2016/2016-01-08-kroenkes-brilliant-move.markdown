@@ -6,7 +6,7 @@ title: Kroenke's Brilliant Move
 layout: blog
 url: /2016/01/07/kroenkes-brilliant-move/
 categories:
-- News
+- Politics
 - Sports
 - Politics
 tags:

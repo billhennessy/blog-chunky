@@ -8,7 +8,6 @@ images: ["faughn.jpg"]
 url:  /2018/04/30/missouri-crimes/
 categories:
 - Politics
-- News
 tags:
 - Eric Greitens
 - Politics Times

@@ -8,7 +8,7 @@ url: /2011/04/06/thank-a-senator/
 categories:
 - Politics
 
-- News
+- Politics
 type: "post"
 ---
 

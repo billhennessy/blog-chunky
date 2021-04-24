@@ -7,7 +7,6 @@ layout: blog
 url: /2015/07/19/analysis-of-2016-gop-governor-poll/
 categories:
 - Politics
-- Donald Trump
 tags:
 - Donald J. Trump
 type: "post"

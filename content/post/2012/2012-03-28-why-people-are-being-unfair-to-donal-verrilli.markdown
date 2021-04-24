@@ -6,7 +6,7 @@ title: Why People Are Being Unfair to Donald Verrilli
 layout: blog
 url: /2012/03/27/why-people-are-being-unfair-to-donal-verrilli/
 categories:
-- News
+- Politics
 tags:
 - Donald Verrilli
 

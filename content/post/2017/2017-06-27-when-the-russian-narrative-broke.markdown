@@ -6,8 +6,7 @@ title: When the Russian Narrative Broke
 layout: blog
 url: /2017/06/27/when-the-russian-narrative-broke/
 categories:
-- News
-- Donald Trump
+- Politics
 tags:
 - Russian Narrative
 type: "post"

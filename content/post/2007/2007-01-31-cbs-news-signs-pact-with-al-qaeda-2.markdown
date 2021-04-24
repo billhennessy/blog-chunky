@@ -6,7 +6,7 @@ title: CBS News Signs Pact With al-Qaeda
 layout: blog
 url: /2007/01/30/cbs-news-signs-pact-with-al-qaeda-2/
 categories:
-- News
+- Politics
 ---
 
 [Believe it](https://michellemalkin.com/archives/006793.htm).  The left is unAmerican. 

@@ -6,10 +6,10 @@ title: John McCain's Most Evil Sin
 layout: blog
 url: /2017/03/05/john-mccains-most-evil-sin/
 categories:
-- News
+- Politics
 tags:
 - John McCain
-- Ryan Owens
+
 type: "post"
 ---
 

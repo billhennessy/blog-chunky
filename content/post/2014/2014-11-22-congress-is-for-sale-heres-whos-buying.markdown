@@ -6,7 +6,7 @@ title: Government Is For Sale. Here's Who's Buying
 layout: blog
 url: /2014/11/21/congress-is-for-sale-heres-whos-buying/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

@@ -6,7 +6,7 @@ title: 2013 Will Go Down As A Very Weird Year
 layout: blog
 url: /2013/12/30/2013-will-go-weird-year/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

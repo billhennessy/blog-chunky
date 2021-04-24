@@ -6,7 +6,7 @@ title: 'Palin Disaster:  Priors'
 layout: blog
 url: /2008/09/01/palin-disaster-priors/
 categories:
-- News
+- Politics
 ---
 
 More bad news about John McCain's selection for Vice President emerged tonight. Sarah Palin was cited for [fishing without a license](https://www.washingtontimes.com/news/2008/sep/01/mccain-camps-detailed-review-of-palin-1/).

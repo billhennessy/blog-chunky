@@ -8,7 +8,7 @@ url: /2014/03/31/adam-weinstein-neo-nazi-propaganda-machine/
 categories:
 - Politics
 - Living
-- Donald Trump
+- Politics
 tags:
 - Adam Weinstein
 

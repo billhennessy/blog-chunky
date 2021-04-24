@@ -6,7 +6,7 @@ title: Holy Crap! Gov’t Shuts Down 73k Blogs
 layout: blog
 url: /2010/07/16/holy-crap-govt-shuts-down-73k-blogs/
 categories:
-- News
+- Politics
 tags:
 - censorship
 - first amendment

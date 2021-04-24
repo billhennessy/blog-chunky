@@ -6,7 +6,7 @@ title: The Way Things Ought To Be
 layout: blog
 url: /2016/11/05/the-way-things-ought-to-be/
 categories:
-- News
+- Politics
 post_format:
 
 type: "post"

@@ -7,7 +7,7 @@ layout: blog
 url: /2008/12/21/top-story-of-2008/
 categories:
 - Living
-- News
+- Politics
 ---
 
 [Gateway Pundit: MICE SUSPECTED in Fire That Kills 100 Cats](https://gatewaypundit.blogspot.com/2008/12/mice-suspected-in-fire-that-kills-100.html)  

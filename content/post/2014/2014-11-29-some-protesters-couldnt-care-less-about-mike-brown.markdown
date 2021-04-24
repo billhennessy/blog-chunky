@@ -6,7 +6,7 @@ title: Some Protesters Couldn't Care Less About Mike Brown
 layout: blog
 url: /2014/11/28/some-protesters-couldnt-care-less-about-mike-brown/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

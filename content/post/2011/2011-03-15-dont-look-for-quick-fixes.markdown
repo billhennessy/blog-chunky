@@ -6,7 +6,6 @@ title: Don’t Look for Quick Fixes
 layout: blog
 url: /2011/03/14/dont-look-for-quick-fixes/
 categories:
-- News
 - Politics
 tags:
 - boomers

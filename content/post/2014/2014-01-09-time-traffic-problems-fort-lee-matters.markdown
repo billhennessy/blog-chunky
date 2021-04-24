@@ -6,7 +6,7 @@ title: Why "Time for Some Traffic Problems in Fort Lee" Matters
 layout: blog
 url: /2014/01/08/time-traffic-problems-fort-lee-matters/
 categories:
-- News
+- Politics
 tags:
 - bullying
 - chris christie

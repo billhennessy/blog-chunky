@@ -6,7 +6,7 @@ title: Villanueva Was Wrong
 layout: blog
 url: /2017/09/25/what-villanueva-did-was-wrong/
 categories:
-- News
+- Politics
 - Sports
 tags:
 

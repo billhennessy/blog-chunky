@@ -6,7 +6,7 @@ title: Hysterical Yale student embarrasses herself on video
 layout: blog
 url: /2015/11/09/hysterical-yale-student-embarrasses-herself-on-video/
 categories:
-- News
+- Politics
 tags:
 - political correctness
 type: "post"

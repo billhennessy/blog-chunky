@@ -7,7 +7,7 @@ layout: blog
 url: /2012/07/26/in-search-of-loyalty/
 categories:
 - Living
-- Donald Trump
+- Politics
 tags:
 - Donald J. Trump
 type: "post"

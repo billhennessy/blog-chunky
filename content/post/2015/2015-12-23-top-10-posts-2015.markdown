@@ -6,7 +6,7 @@ title: Top 10 Posts of 2015
 layout: blog
 url: /2015/12/23/top-10-posts-2015/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

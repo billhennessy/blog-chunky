@@ -6,12 +6,9 @@ title: 'Confirmed: Coup Attempt Is Under Way In America'
 layout: blog
 url: /2016/12/14/confirmed-coup-attempt-is-under-way-in-america/
 categories:
-- News
+- Politics
 tags:
-- CIA
-- coup
-- Podesta
-- wall street journal
+
 type: "post"
 ---
 

@@ -7,7 +7,7 @@ layout: blog
 url: /2017/07/24/why-you-must-see-dunkirk/
 categories:
 - Military
-- News
+- Politics
 tags:
 - Dunkirk
 type: "post"

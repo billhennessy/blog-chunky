@@ -6,7 +6,7 @@ title: Why Does Leadership Response to Disaster Always Suck?
 layout: blog
 url: /2011/03/15/why-does-response-to-disaster-always-suck/
 categories:
-- News
+- Politics
 tags:
 - disaster
 - japan

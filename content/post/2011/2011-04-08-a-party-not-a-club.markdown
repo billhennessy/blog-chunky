@@ -7,7 +7,6 @@ layout: blog
 url: /2011/04/08/a-party-not-a-club/
 categories:
 - Politics
-- Politics
 tags:
 - Assessor
 

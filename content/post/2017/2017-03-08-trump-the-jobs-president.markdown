@@ -8,8 +8,7 @@ url: /2017/03/08/trump-the-jobs-president/
 categories:
 - Economy
 tags:
-- adp payroll
-- jobs
+
 type: "post"
 ---
 

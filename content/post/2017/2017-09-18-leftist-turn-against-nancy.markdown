@@ -8,7 +8,7 @@ url: /2017/09/18/leftist-turn-against-nancy/
 categories:
 - Politics
 tags:
-- Donald Trump
+- Politics
 - nancy-pelosi
 type: "post"
 ---

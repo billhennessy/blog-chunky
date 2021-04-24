@@ -6,7 +6,7 @@ title: If Jo Ann Emerson’s a Conservative . . .
 layout: blog
 url: /2010/06/02/if-jo-ann-emersons-a-conservative/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

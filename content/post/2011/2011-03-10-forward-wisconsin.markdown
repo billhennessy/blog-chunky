@@ -6,7 +6,7 @@ title: Forward, Wisconsin
 layout: blog
 url: /2011/03/09/forward-wisconsin/
 categories:
-- News
+- Politics
 tags:
 - patco
 - ronald-reagan

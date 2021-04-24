@@ -7,7 +7,6 @@ layout: blog
 url: /2016/06/07/forbidden-truths-of-republicans-and-race/
 categories:
 - Politics
-- Donald Trump
 tags:
 
 type: "post"

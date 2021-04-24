@@ -8,7 +8,6 @@ url: /2016/01/09/continue-your-support-of-good-local-government/
 categories:
 - Politics
 - Politics
-- Politics
 tags:
 - Eric Schmitt
 

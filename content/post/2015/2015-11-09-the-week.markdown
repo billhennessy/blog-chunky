@@ -6,8 +6,7 @@ title: The Week
 layout: blog
 url: /2015/11/09/the-week/
 categories:
-- News
-- Donald Trump
+- Politics
 tags:
 - Donald J. Trump
 type: "post"

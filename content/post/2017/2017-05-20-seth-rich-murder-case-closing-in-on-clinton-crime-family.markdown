@@ -8,9 +8,7 @@ url: /2017/05/20/seth-rich-murder-case-closing-in-on-clinton-crime-family/
 categories:
 - Crime
 tags:
-- John Podesta
-- Kim Dotcom
-- Seth Rich
+
 type: "post"
 ---
 

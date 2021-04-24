@@ -6,7 +6,7 @@ title: Graceless
 layout: blog
 url: /2017/09/14/graceless/
 categories:
-- News
+- Politics
 tags:
 - Hillary-Clinton
 - what happened

@@ -7,7 +7,7 @@ layout: blog
 url: /2007/08/26/democrats-combat-surge-with-propaganda-campaign/
 categories:
 - Foreign Relations
-- News
+- Politics
 tags:
 - Democrat-Lies
 - DNC

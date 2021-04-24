@@ -6,7 +6,7 @@ title: 'Peace Through Violence: CNN''s Radical Chic Moment'
 layout: blog
 url: /2017/08/20/peace-through-violence-cnns-radical-chic-moment/
 categories:
-- News
+- Politics
 tags:
 - Politics
 - CNN

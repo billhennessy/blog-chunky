@@ -6,7 +6,7 @@ title: 'Obama: Year of Action Figure'
 layout: blog
 url: /2014/01/28/obama-year-action-figure/
 categories:
-- News
+- Politics
 post_format:
 - Image
 tags:

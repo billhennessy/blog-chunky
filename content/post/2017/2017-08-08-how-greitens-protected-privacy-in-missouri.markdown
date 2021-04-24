@@ -7,7 +7,6 @@ layout: blog
 url: /2017/08/07/how-greitens-protected-privacy-in-missouri/
 categories:
 - Politics
-- News
 tags:
 - Politics
 - Prescription Database

@@ -8,7 +8,6 @@ layout: blog
 url:  /2013/03/06/the-weednesday-post-heres-what-happens-when-a-missouri-teen-gets-caught-with-a-little-bit-of-pot/
 categories:
 - Politics
-- Politics
 tags:
 
 type: "post"

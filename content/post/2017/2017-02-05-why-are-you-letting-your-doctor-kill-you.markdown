@@ -8,13 +8,7 @@ url: /2017/02/05/why-are-you-letting-your-doctor-kill-you/
 categories:
 - Living
 tags:
-- Alzheimers
-- diabetes
-- Diet
-- HFLC
-- Ketogenic Diet
-- Obesity
-- Parkinsons
+- Fasting
 type: "post"
 ---
 

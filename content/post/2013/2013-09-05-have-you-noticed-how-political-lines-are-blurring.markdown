@@ -7,7 +7,6 @@ layout: blog
 url:  /2013/09/05/have-you-noticed-how-political-lines-are-blurring/
 categories:
 - Politics
-- Politics
 tags:
 - elitism
 

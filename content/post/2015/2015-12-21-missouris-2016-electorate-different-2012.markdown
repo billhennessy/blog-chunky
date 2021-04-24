@@ -7,7 +7,6 @@ layout: blog
 url: /2015/12/21/missouris-2016-electorate-different-2012/
 categories:
 - Politics
-- News
 tags:
 
 type: "post"

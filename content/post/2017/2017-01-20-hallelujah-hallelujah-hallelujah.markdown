@@ -6,7 +6,7 @@ title: Hallelujah! Hallelujah! Hallelujah!
 layout: blog
 url: /2017/01/20/hallelujah-hallelujah-hallelujah/
 categories:
-- News
+- Politics
 post_format:
 
 tags:

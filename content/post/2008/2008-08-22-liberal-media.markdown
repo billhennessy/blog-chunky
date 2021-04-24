@@ -6,7 +6,7 @@ title: Liberal Media
 layout: blog
 url: /2008/08/21/liberal-media/
 categories:
-- News
+- Politics
 ---
 
 Isn't it strange that the same reporters who refuse to provide life-saving information to American troops under the banner of objectivity are willing to endorse and ordain a candidate for president?

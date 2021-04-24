@@ -8,7 +8,6 @@ layout: blog
 url: /2012/04/18/the-elections-over-and-america-gave-obama-his-eviction-notice-heres-what-went-down/
 categories:
 - Politics
-- News
 tags:
 
 type: "post"

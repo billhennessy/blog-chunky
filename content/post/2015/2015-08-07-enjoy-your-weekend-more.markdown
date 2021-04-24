@@ -6,7 +6,7 @@ title: Enjoy Your Weekend More
 layout: blog
 url: /2015/08/07/enjoy-your-weekend-more/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

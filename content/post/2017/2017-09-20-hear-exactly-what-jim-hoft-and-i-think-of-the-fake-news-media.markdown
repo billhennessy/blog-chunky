@@ -6,7 +6,7 @@ title: Hear Exactly What Jim Hoft and I Think of the Fake News Media
 layout: blog
 url: /2017/09/20/hear-exactly-what-jim-hoft-and-i-think-of-the-fake-news-media/
 categories:
-- News
+- Politics
 tags:
 - Fake news
 - phyllis schlafly

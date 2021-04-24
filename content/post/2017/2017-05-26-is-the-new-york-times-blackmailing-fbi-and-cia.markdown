@@ -8,12 +8,7 @@ url: /2017/05/25/is-the-new-york-times-blackmailing-fbi-and-cia/
 categories:
 - Crime
 tags:
-- blackmail
-- CIA
-- FBI
-- new york times
-- UK Intel
-- Washington Post
+
 type: "post"
 ---
 

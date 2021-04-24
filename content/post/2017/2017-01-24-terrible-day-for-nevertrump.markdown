@@ -6,10 +6,9 @@ title: Terrible Day for NeverTrump—Great Day for the Constitution
 layout: blog
 url: /2017/01/23/terrible-day-for-nevertrump/
 categories:
-- Constitution
-- Donald Trump
+- Politics
 tags:
-- executive orders
+
 type: "post"
 ---
 

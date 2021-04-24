@@ -6,7 +6,7 @@ title: The Russians Are Coming! The Russians Are Coming!
 layout: blog
 url: /2017/03/03/the-russians-are-coming-the-russians-are-coming/
 categories:
-- News
+- Politics
 post_format:
 
 tags:

@@ -6,7 +6,7 @@ title: Cards Win, and I'm as Shocked as Anybody
 layout: blog
 url: /2006/10/08/cards-win-im-shocked-anybody/
 categories:
-- News
+- Politics
 ---
 
 After the Cardinals’ collapse at the end of the regular season, I expected my ‘birds to go out in 3 or 4 to begin the long winter recovery from season of injuries and missed opportunities—on the field and in the front office.

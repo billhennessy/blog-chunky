@@ -6,7 +6,7 @@ title: Blank Slate
 layout: blog
 url: /2016/11/06/blank-slate/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

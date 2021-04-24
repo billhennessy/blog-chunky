@@ -7,7 +7,6 @@ layout: blog
 url: /2014/12/09/heres-whats-happening-muni-courts-front/
 categories:
 - Politics
-- News
 tags:
 
 type: "post"

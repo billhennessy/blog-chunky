@@ -6,7 +6,7 @@ title: This Sums Up Everything I Believe Better Than I Ever Could
 layout: blog
 url: /2012/09/14/this-sums-up-everything-i-believe-better-than-i-ever-could/
 categories:
-- News
+- Politics
 tags:
 - Barack Obama
 - William F. Buckley

@@ -7,7 +7,6 @@ layout: blog
 url: /2011/03/29/no-vital-national-interest/
 categories:
 - Politics
-- Politics
 tags:
 - Gates
 

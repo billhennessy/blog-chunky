@@ -6,7 +6,7 @@ title: Preparing for the Worst Case Scenario in North Korea
 layout: blog
 url: /2017/09/04/preparing-for-the-worst-case-scenario-in-north-korea/
 categories:
-- News
+- Politics
 tags:
 - EMP
 - Faraday Cage

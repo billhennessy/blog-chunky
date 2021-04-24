@@ -6,7 +6,7 @@ title: Congratulation To Me
 layout: blog
 url: /2006/10/03/congratulation-to-me/
 categories:
-- News
+- Politics
 ---
 
 The most beautiful, wonderful girl in the world said “I do” three years ago today.

@@ -6,7 +6,7 @@ title: Trump Rally Missouri
 layout: blog
 url: /2017/03/02/trump-rally-missouri/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

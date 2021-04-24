@@ -7,7 +7,6 @@ layout: blog
 url: /2014/08/08/check-missouri-torch/
 categories:
 - Politics
-- News
 type: "post"
 ---
 

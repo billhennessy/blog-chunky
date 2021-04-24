@@ -7,7 +7,6 @@ layout: blog
 url: /2015/09/07/same-sex-marriage-is-tax-problem/
 categories:
 - Politics
-- News
 tags:
 
 type: "post"

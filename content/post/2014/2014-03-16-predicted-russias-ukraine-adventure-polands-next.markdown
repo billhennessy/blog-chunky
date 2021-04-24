@@ -6,7 +6,7 @@ title: This Book Predicted Russia's Ukraine Adventure. Poland's Next.
 layout: blog
 url: /2014/03/16/predicted-russias-ukraine-adventure-polands-next/
 categories:
-- News
+- Politics
 tags:
 - russia
 - ukraine

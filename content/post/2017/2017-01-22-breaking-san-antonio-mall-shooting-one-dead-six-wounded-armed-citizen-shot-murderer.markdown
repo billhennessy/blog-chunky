@@ -9,8 +9,7 @@ url: /2017/01/22/breaking-san-antonio-mall-shooting-one-dead-six-wounded-armed-c
 categories:
 - Crime
 tags:
-- Rolling Oaks Mall
-- San Antonio
+
 type: "post"
 ---
 

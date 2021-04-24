@@ -6,7 +6,7 @@ title: Got Your Back
 layout: blog
 url: /2011/01/11/got-your-back/
 categories:
-- News
+- Politics
 tags:
 - got your back
 

@@ -8,9 +8,9 @@ url: /2016/11/19/civil-war-chapter-two/
 images: ["/images/civil.png"]
 categories:
 - Fiction
-- Fiction
+
 tags:
-- Fiction
+
 - Civil War
 type: "post"
 ---

@@ -7,7 +7,6 @@ layout: blog
 url: /2013/04/15/thoughts-on-boston-marathon-bombing/
 categories:
 - Politics
-- Donald Trump
 tags:
 - Boston Marathon
 - Donald J. Trump

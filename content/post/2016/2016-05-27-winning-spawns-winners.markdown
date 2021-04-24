@@ -6,7 +6,7 @@ title: Winning Spawns Winners
 layout: blog
 url: /2016/05/26/winning-spawns-winners/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

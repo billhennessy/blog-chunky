@@ -6,13 +6,10 @@ title: How to Spot Journalism's Psychosis
 layout: blog
 url: /2017/01/23/how-to-spot-journalisms-psychosis/
 categories:
-- Donald Trump
-- Press
+- Politics
+
 tags:
-- ADHD
-- crowd size
-- inauguration audience
-- journalism
+
 type: "post"
 ---
 

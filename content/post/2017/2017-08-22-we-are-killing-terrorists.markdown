@@ -7,10 +7,9 @@ layout: blog
 url: /2017/08/21/we-are-killing-terrorists/
 categories:
 - Politics
-- News
 tags:
 - afghanistan
-- Donald Trump
+- Politics
 type: "post"
 ---
 

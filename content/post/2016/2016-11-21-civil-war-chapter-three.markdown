@@ -9,7 +9,7 @@ images: ["/images/civil.png"]
 categories:
 - Fiction
 tags:
-- Fiction
+
 - Civil War
 type: "post"
 ---

@@ -6,7 +6,7 @@ title: I’m 100% with Governor Greitens
 
 url:  /2018/01/15/im-100-with-governor-greitens/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

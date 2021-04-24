@@ -6,7 +6,7 @@ title: Sorry If Governor Greitens Hurts Your Feelings
 layout: blog
 url: /2017/07/10/sorry-if-governor-greitens-hurts-your-feelings/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

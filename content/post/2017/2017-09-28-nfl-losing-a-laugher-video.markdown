@@ -6,9 +6,9 @@ title: NFL Losing a Laugher (Video)
 layout: blog
 url: /2017/09/27/nfl-losing-a-laugher-video/
 categories:
-- News
+- Politics
 - Sports
-- Donald Trump
+- Politics
 tags:
 type: "post"
 ---

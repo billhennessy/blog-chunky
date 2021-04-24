@@ -6,12 +6,12 @@ title: Foxconn's Hiring and Mooch Is Safe
 layout: blog
 url: /2017/07/28/foxconns-hiring-and-mooch-is-safe/
 categories:
-- News
+- Politics
 tags:
 - Benedict Arnold
 - Priebus
 - Scaramucci
-- Donald Trump
+- Politics
 type: "post"
 ---
 

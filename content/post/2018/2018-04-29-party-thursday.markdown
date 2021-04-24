@@ -6,7 +6,7 @@ title: Party Thursday!
 
 url:  /2018/04/29/party-thursday/
 categories:
-- News
+- Politics
 tags:
 - Dottie Bailey for Missouri
 - Tim Jones

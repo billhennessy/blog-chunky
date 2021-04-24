@@ -7,7 +7,6 @@ layout: blog
 url: /2016/06/01/it-must-be-a-diversion-right/
 categories:
 - Politics
-- Donald Trump
 tags:
 
 type: "post"

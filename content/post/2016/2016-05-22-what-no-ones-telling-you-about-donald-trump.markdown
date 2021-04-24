@@ -7,7 +7,6 @@ layout: blog
 url: /2016/05/22/what-no-ones-telling-you-about-donald-trump/
 categories:
 - Politics
-- Donald Trump
 tags:
 
 type: "post"

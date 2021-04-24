@@ -6,7 +6,7 @@ title: SOTUday Night Fever on KSDK 5
 layout: blog
 url: /2011/01/24/sotuday-night-fever-on-ksdk-5/
 categories:
-- News
+- Politics
 tags:
 - KSDK
 

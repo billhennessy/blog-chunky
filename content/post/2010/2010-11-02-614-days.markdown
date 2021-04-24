@@ -9,7 +9,6 @@ categories:
 - Politics
 tags:
 - Politics
-- Politics
 type: "post"
 ---
 

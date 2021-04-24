@@ -6,11 +6,10 @@ title: The Joy of Trump
 layout: blog
 url: /2017/02/17/the-joy-of-trump/
 categories:
-- Donald Trump
+- Politics
 tags:
-- Jake Tapper
-- reagan
-- Sam Donaldson
+- Donald J. Trump
+
 type: "post"
 ---
 

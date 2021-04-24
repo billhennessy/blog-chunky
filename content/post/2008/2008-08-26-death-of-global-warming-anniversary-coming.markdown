@@ -6,7 +6,7 @@ title: Death of Global Warming Anniversary Coming
 layout: blog
 url: /2008/08/25/death-of-global-warming-anniversary-coming/
 categories:
-- News
+- Politics
 - Science
 ---
 

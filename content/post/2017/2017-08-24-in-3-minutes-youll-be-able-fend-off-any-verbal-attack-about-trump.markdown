@@ -6,13 +6,11 @@ title: In 3 Minutes You'll Be Able Fend Off Any Verbal Attack About Trump
 layout: blog
 url: /2017/08/23/in-3-minutes-youll-be-able-fend-off-any-verbal-attack-about-trump/
 categories:
-- News
-- Donald Trump
+- Politics
 tags:
 - Commodore Hotel
 - Scott Adams
-- Donald Trump
-- Donald Trump Sandwich
+- Politics Sandwich
 type: "post"
 ---
 

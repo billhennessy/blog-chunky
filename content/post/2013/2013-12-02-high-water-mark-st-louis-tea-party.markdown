@@ -6,7 +6,7 @@ title: What Was The High Water Mark for St. Louis Tea Party?
 layout: blog
 url:  /2013/12/02/high-water-mark-st-louis-tea-party/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

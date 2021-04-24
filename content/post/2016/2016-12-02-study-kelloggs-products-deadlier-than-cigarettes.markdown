@@ -6,11 +6,11 @@ title: 'Study: Kellogg''s Products Deadlier Than Cigarettes?'
 layout: blog
 url: /2016/12/02/study-kelloggs-products-deadlier-than-cigarettes/
 categories:
-- News
+- Politics
 tags:
 - glycemic index
 - Kellogg
-- lung cancer
+
 type: "post"
 ---
 

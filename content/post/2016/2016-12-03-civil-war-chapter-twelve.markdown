@@ -10,10 +10,8 @@ categories:
 - Fiction
 
 tags:
-- Fiction
 - Civil War
-tags:
-- Fiction
+
 type: "post"
 ---
 

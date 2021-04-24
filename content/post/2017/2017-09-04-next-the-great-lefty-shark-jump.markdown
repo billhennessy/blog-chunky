@@ -6,7 +6,7 @@ title: 'Next: The Great Lefty Shark Jump'
 layout: blog
 url: /2017/09/04/next-the-great-lefty-shark-jump/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

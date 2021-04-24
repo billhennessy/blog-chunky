@@ -6,7 +6,7 @@ title: Some Thoughts on Tom Schweich
 layout: blog
 url: /2015/02/27/some-thoughts-on-tom-schweich/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

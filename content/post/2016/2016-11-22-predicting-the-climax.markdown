@@ -8,8 +8,6 @@ url: /2016/11/22/predicting-the-climax/
 categories:
 - Economy
 tags:
-- anti-globalization
-- Made In America
 - The Fourth Turning
 type: "post"
 ---

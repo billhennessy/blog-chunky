@@ -8,8 +8,7 @@ url: /2017/03/24/paul-ryans-battle-of-kasserine-pass/
 categories:
 - Politics
 tags:
-- Lloyd Fredendall
-- Paul Ryan
+
 type: "post"
 ---
 

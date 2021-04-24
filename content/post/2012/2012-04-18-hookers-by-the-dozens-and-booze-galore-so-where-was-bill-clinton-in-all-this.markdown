@@ -7,7 +7,7 @@ title: Hookers By The Dozens and Booze Galore--So Where Was BILL Clinton In All 
 layout: blog
 url: /2012/04/17/hookers-by-the-dozens-and-booze-galore-so-where-was-bill-clinton-in-all-this/
 categories:
-- News
+- Politics
 post_format:
 - Standard
 tags:

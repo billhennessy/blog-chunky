@@ -6,7 +6,7 @@ title: Important Updates on Ferguson BUYcott
 layout: blog
 url: /2014/08/19/important-updates-ferguson-buycott/
 categories:
-- News
+- Politics
 post_format:
 - Aside
 type: "post"

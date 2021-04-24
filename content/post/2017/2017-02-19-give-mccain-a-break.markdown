@@ -6,7 +6,7 @@ title: Give McCain a Break
 layout: blog
 url: /2017/02/19/give-mccain-a-break/
 categories:
-- News
+- Politics
 tags:
 - John McCain
 type: "post"

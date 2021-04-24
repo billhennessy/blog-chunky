@@ -6,11 +6,9 @@ title: Is the CIA Plotting a Coup? *UPDATE* FBI Disputes CIA Allegation - VIDEOS
 layout: blog
 url: /2016/12/11/is-the-cia-plotting-a-coup/
 categories:
-- News
+- Politics
 tags:
-- CIA
-- Colonel Flagg
-- False Flag
+
 type: "post"
 ---
 

@@ -6,7 +6,7 @@ title: 10 Missouri Candidates No One Told You About
 layout: blog
 url: /2014/06/29/7-missouri-candidates-one-told/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

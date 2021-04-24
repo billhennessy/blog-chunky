@@ -7,7 +7,7 @@ layout: blog
 url: /2017/09/19/equifax-update-more-breaches-more-lies/
 categories:
 - Crime
-- News
+- Politics
 tags:
 - Equifax
 type: "post"

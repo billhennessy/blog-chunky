@@ -6,7 +6,7 @@ title: Houston's Gift
 layout: blog
 url: /2017/09/03/houstons-gift/
 categories:
-- News
+- Politics
 tags:
 - Houston
 type: "post"

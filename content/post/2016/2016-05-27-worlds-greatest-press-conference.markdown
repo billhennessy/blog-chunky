@@ -6,7 +6,7 @@ title: World's Greatest Press Conference
 layout: blog
 url: /2016/05/27/worlds-greatest-press-conference/
 categories:
-- Donald Trump
+- Politics
 tags:
 
 type: "post"

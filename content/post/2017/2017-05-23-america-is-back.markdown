@@ -8,7 +8,7 @@ url: /2017/05/22/america-is-back/
 categories:
 - Politics
 tags:
-- Manchester
+
 type: "post"
 ---
 

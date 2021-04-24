@@ -6,8 +6,7 @@ title: 3 Ways President Trump Changes Everything
 layout: blog
 url: /2016/11/12/3-ways-president-trump-changes-everything/
 categories:
-- News
-- Donald Trump
+- Politics
 tags:
 
 type: "post"

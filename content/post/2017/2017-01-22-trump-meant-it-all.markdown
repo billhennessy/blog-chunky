@@ -7,10 +7,8 @@ layout: blog
 url: /2017/01/22/trump-meant-it-all/
 categories:
 - Politics
-- Donald Trump
 tags:
-- Politics
-- Donald Trump
+
 type: "post"
 ---
 

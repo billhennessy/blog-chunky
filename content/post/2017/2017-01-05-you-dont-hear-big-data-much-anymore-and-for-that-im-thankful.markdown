@@ -8,12 +8,7 @@ url: /2017/01/04/you-dont-hear-big-data-much-anymore-and-for-that-im-thankful/
 categories:
 - Business
 tags:
-- AI
-- big data
-- buzzwords
-- Iomega
-- machine learning
-- Y2K
+
 type: "post"
 ---
 

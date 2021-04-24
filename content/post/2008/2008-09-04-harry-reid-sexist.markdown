@@ -7,7 +7,6 @@ layout: blog
 url: /2008/09/03/harry-reid-sexist/
 categories:
 - Latest
-- News
 - Politics
 ---
 

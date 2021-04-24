@@ -6,7 +6,7 @@ title: Laugh at the Hag—Must See Video
 layout: blog
 url: /2016/10/22/must-see-video/
 categories:
-- News
+- Politics
 post_format:
 
 tags:

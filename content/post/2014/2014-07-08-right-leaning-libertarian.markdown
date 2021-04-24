@@ -6,7 +6,7 @@ title: I Am a Right-Leaning Libertarian
 layout: blog
 url: /2014/07/08/right-leaning-libertarian/
 categories:
-- News
+- Politics
 tags:
 - baby boomer
 - Generation X

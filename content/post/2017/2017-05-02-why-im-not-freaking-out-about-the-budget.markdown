@@ -7,9 +7,8 @@ layout: blog
 url: /2017/05/02/why-im-not-freaking-out-about-the-budget/
 categories:
 - Politics
-- News
+
 tags:
-- budget
 - Paul Ryan
 type: "post"
 ---

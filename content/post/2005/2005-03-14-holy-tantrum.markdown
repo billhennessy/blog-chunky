@@ -9,7 +9,7 @@ categories:
 - Latest
 ---
 
-[STLtoday.com - News](https://hosted.ap.org/dynamic/stories/H/HOTEL_SHOOTING?SITE=MOSTP&SECTION=US)
+[STLtoday.com - Politics](https://hosted.ap.org/dynamic/stories/H/HOTEL_SHOOTING?SITE=MOSTP&SECTION=US)
 
 
 

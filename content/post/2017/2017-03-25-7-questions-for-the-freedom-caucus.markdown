@@ -6,7 +6,7 @@ title: 7 Questions for the Freedom Caucus
 layout: blog
 url: /2017/03/25/7-questions-for-the-freedom-caucus/
 categories:
-- News
+- Politics
 tags:
 - Freedom Caucus
 type: "post"

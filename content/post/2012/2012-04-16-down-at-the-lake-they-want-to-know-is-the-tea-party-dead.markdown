@@ -6,7 +6,6 @@ title: Down at the Lake, They Want to Know "Is the Tea Party Dead?"
 layout: blog
 url: /2012/04/15/down-at-the-lake-they-want-to-know-is-the-tea-party-dead/
 categories:
-- News
 - Politics
 tags:
 - Camdenton

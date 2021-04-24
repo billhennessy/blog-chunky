@@ -6,10 +6,10 @@ title: Trump Was Right! Obama White House 'Wiretapped' Paul Manafort **UPDATE**
 layout: blog
 url: /2017/09/18/trump-was-right-obama-white-house-wiretapped-paul-manafort/
 categories:
-- News
+- Politics
 tags:
 - Manafort
-- Donald Trump is Right
+- Politics is Right
 type: "post"
 ---
 

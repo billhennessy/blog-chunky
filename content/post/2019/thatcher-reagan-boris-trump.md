@@ -9,7 +9,7 @@ categories:
 tags:
 - UK Elections
 - Boris Johnson
-- Donald Trump
+- Politics
 authors: ["Bill Hennessy"]
 type: "post"
 ---

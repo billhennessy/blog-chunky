@@ -6,7 +6,7 @@ title: What Rush Limbaugh Could Teach Rush Limbaugh **UPATE**
 layout: blog
 url: /2012/03/04/what-rush-limbaugh-could-teach-rush-limbaugh/
 categories:
-- News
+- Politics
 tags:
 - rush limbaugh
 type: "post"

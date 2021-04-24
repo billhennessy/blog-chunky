@@ -6,13 +6,9 @@ title: Slouching Towards the Climax
 layout: blog
 url: /2017/02/11/slouching-toward-the-climax/
 categories:
-- News
+- Politics
 tags:
-- Ben Hunt
-- Epsilon Theory
-- Fourth Turning
-- People Want You Dead
-- Steven Bannon
+
 type: "post"
 ---
 

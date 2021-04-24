@@ -6,8 +6,7 @@ title: The Strategy That Dare Not Speak Its Name
 layout: blog
 url: /2017/09/06/the-strategy-that-dare-not-speak-its-name/
 categories:
-- News
-- Donald Trump
+- Politics
 type: "post"
 ---
 

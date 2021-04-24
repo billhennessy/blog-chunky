@@ -6,7 +6,7 @@ title: Which Two Industries Suck Most at Customer Service?
 layout: blog
 url: /2015/03/10/which-two-industries-suck-most-at-customer-service/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

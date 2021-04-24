@@ -7,7 +7,6 @@ layout: blog
 url: /2016/06/09/forgive-paul-ryan/
 categories:
 - Politics
-- Donald Trump
 tags:
 
 type: "post"

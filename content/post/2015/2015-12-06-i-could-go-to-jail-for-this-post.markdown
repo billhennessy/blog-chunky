@@ -7,7 +7,6 @@ layout: blog
 url: /2015/12/06/i-could-go-to-jail-for-this-post/
 categories:
 - Politics
-- Politics
 tags:
 
 type: "post"

@@ -4,7 +4,6 @@ date: 2019-07-21T15:37:50-05:00
 images: ["president_trump.jpg"]
 draft: false
 categories:
-- Donald Trump
 - Politics
 ---
 For a few weeks in June and July, Nancy Pelosi was doing a good job of isolating the Hate Squad. Pelosi realizes that the Hate Squad is bad for Democrats. She saw the Hate Squad growing in media attention, and she worked hard to stop that trend. 

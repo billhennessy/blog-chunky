@@ -6,7 +6,6 @@ title: Liberals Are Not the Enemy
 layout: blog
 url: /2017/10/01/liberals-are-not-the-enemy/
 categories:
-- News
 - Politics
 tags:
 - Politics

@@ -6,7 +6,7 @@ title: What Was Good About Charlottesville
 layout: blog
 url: /2017/08/13/what-was-good-about-charlottesville/
 categories:
-- News
+- Politics
 - Stoicism
 tags:
 - Charlottesville

@@ -6,7 +6,7 @@ title: What Kind of Person Are You?
 layout: blog
 url: /2017/08/21/what-kind-of-person-are-you/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

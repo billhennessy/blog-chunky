@@ -6,8 +6,7 @@ title: Character and Leadership in Houston
 layout: blog
 url: /2017/09/02/character-and-leadership-in-houston/
 categories:
-- News
-- Donald Trump
+- Politics
 tags:
 
 type: "post"

@@ -6,7 +6,7 @@ title: Obama's Katrina
 layout: blog
 url: /2014/07/09/obamas-katrina/
 categories:
-- News
+- Politics
 tags:
 
 type: "post"

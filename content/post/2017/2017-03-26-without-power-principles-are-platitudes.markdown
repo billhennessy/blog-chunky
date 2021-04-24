@@ -9,8 +9,7 @@ categories:
 - Politics
 tags:
 - Freedom Caucus
-- Strategy
-- Donald Trump
+
 type: "post"
 ---
 

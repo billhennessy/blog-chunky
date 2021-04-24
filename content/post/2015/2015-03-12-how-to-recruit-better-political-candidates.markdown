@@ -6,7 +6,7 @@ title: How to Recruit Better Political Candidates
 layout: blog
 url: /2015/03/12/how-to-recruit-better-political-candidates/
 categories:
-- News
+- Politics
 tags:
 - Peter Drucker
 type: "post"

@@ -6,7 +6,7 @@ title: How to Destroy the US Navy
 layout: blog
 url: /2016/09/30/how-to-destroy-the-us-navy/
 categories:
-- News
+- Politics
 type: "post"
 ---
 

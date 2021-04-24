@@ -6,7 +6,7 @@ title: The Gateway Pundit Featured Speaker at St. Louis Area Tea Party for Trump
 layout: blog
 url: /2016/08/17/the-gateway-pundit-featured-speaker-at-st-louis-area-tea-party-for-trump/
 categories:
-- News
+- Politics
 tags:
 - Tea Party for Trump
 type: "post"

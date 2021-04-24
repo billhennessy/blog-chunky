@@ -7,7 +7,7 @@ layout: blog
 url: /2017/03/06/donald-trumps-crazy-ivan/
 categories:
 - Politics
-- Donald Trump
+
 type: "post"
 ---
 

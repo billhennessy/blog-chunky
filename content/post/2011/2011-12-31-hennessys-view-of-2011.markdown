@@ -6,7 +6,7 @@ title: Hennessy’s View of 2011
 layout: blog
 url: /2011/12/31/hennessys-view-of-2011/
 categories:
-- News
+- Politics
 tags:
 - '2011'
 - year in review

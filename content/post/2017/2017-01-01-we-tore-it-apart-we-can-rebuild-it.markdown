@@ -8,9 +8,7 @@ url: /2017/01/01/we-tore-it-apart-we-can-rebuild-it/
 categories:
 - Politics
 tags:
-- Samuel Adams
-- Tea Party movement
-- The Conservative Heart
+
 type: "post"
 ---
 

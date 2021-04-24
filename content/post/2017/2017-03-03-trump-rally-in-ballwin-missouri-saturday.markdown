@@ -6,11 +6,9 @@ title: Trump Rally in Ballwin, Missouri Saturday
 layout: blog
 url: /2017/03/03/trump-rally-in-ballwin-missouri-saturday/
 categories:
-- News
+- Politics
 tags:
-- BallwinMO
-- maga
-- Rally For Trump
+
 type: "post"
 ---
 

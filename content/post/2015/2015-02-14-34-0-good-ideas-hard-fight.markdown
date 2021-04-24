@@ -6,7 +6,7 @@ title: '34 to 0: Good Ideas Are Hard to Fight'
 layout: blog
 url: /2015/02/13/34-0-good-ideas-hard-fight/
 categories:
-- News
+- Politics
 tags:
 - tom schweich
 type: "post"

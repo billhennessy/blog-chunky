@@ -10,7 +10,6 @@ categories:
 tags:
 - ed martin
 - Politics
-- Politics
 - vote
 type: "post"
 ---

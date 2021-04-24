@@ -6,10 +6,8 @@ title: Who's a Racist?
 layout: blog
 url: /2017/08/17/whos-a-racist/
 categories:
-- News
 - Politics
 tags:
-- Politics
 - Politics
 - The Gateway Pundit
 - Vigilantism

@@ -8,7 +8,7 @@ url: /2011/07/07/rah-rah-roy-blunt/
 categories:
 - Politics
 
-- News
+- Politics
 tags:
 - Debt Ceiling
 

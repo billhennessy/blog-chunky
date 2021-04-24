@@ -6,7 +6,6 @@ title: Media Have Become The Monsters The Right Always Accused Them of Being
 layout: blog
 url: /2008/11/02/media-have-become-the-monsters-the-right-always-accused-them-of-being/
 categories:
-- News
 - Politics
 ---
 
