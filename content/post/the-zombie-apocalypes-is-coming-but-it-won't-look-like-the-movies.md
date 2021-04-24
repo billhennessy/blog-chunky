@@ -50,19 +50,19 @@ A recent Microbiology and Infection Disease report may explain how your life sud
 
 The abstract of the report explains what triggered your zombie apocalypse:
 
-> Development of new vaccine technology has been plagued with problems in the past. The current RNA based SARS- CoV-2 vaccines were approved in the US using an emergency order without extensive long term safety testing. In this paper the Pfizer COVID-19 vaccine was evaluated for the potential to induce prion-based disease in vaccine recipients.\[^1\]
+> Development of new vaccine technology has been plagued with problems in the past. The current RNA based SARS- CoV-2 vaccines were approved in the US using an emergency order without extensive long term safety testing. In this paper the Pfizer COVID-19 vaccine was evaluated for the potential to induce prion-based disease in vaccine recipients.[^1]
 
 The new vaccine is not like any vaccine today. It works by altering the human genome to trigger a more violent immune reaction to the presence of viruses like the Coronavirus. In medical terms, the report explains:
 
-> The RNA sequence of the vaccine as well as the spike protein target interaction were analyzed for the potential to convert intracellular RNA binding proteins TAR DNA binding protein (TDP-43) and Fused in Sarcoma (FUS) into their pathologic prion conformations. The results indicate that the vaccine RNA has specific sequences that may induce TDP-43 and FUS to fold into their pathologic prion confirmations.\[^2\]
+> The RNA sequence of the vaccine as well as the spike protein target interaction were analyzed for the potential to convert intracellular RNA binding proteins TAR DNA binding protein (TDP-43) and Fused in Sarcoma (FUS) into their pathologic prion conformations. The results indicate that the vaccine RNA has specific sequences that may induce TDP-43 and FUS to fold into their pathologic prion confirmations.[^2]
 
 In other words, the COVID vaccine can trigger the events that produce severe neurological illness, including Alzheimer's disease, even in the young.
 
-> In the current analysis a total of sixteen UG tandem repeats (ΨGΨG) were identified and additional UG (ΨG) rich sequences were identified. Two GGΨA sequences were found. Potential G Quadruplex sequences are possibly present but a more sophisticated computer program is needed to verify these. Furthermore, the spike protein, created by the translation of the vaccine RNA, binds angiotensin converting enzyme 2 (ACE2), a zinc containing enzyme. This interaction has the potential to increase intracellular zinc. Zinc ions have been shown to cause the transformation of TDP-43 to its pathologic prion configuration. **The folding of TDP-43 and FUS into their pathologic prion confirmations is known to cause ALS, front temporal lobar degeneration, Alzheimer’s disease and other neurological degenerative diseases**.\[^3\]
+> In the current analysis a total of sixteen UG tandem repeats (ΨGΨG) were identified and additional UG (ΨG) rich sequences were identified. Two GGΨA sequences were found. Potential G Quadruplex sequences are possibly present but a more sophisticated computer program is needed to verify these. Furthermore, the spike protein, created by the translation of the vaccine RNA, binds angiotensin converting enzyme 2 (ACE2), a zinc containing enzyme. This interaction has the potential to increase intracellular zinc. Zinc ions have been shown to cause the transformation of TDP-43 to its pathologic prion configuration. **The folding of TDP-43 and FUS into their pathologic prion confirmations is known to cause ALS, front temporal lobar degeneration, Alzheimer’s disease and other neurological degenerative diseases**.[^3]
 
 And the report delivers this conclusion:
 
-> The enclosed finding as well as additional potential risks leads the author to believe that regulatory approval of the RNA based vaccines for SARS-CoV-2 was premature and that **the vaccine may cause much more harm than benefit**.\[^4\]
+> The enclosed finding as well as additional potential risks leads the author to believe that regulatory approval of the RNA based vaccines for SARS-CoV-2 was premature and that **the vaccine may cause much more harm than benefit**.[^4]
 
 You can download the [entire report here](/images/covid19-rna-based-vaccines-and-the-risk-of-prion-disease-1503.pdf).
 
@@ -92,7 +92,7 @@ The next battle may not be political (and war, remember, is politics on a differ
 
 And it is was all predicted by a former Astronomer Royal nearly 20 years ago. We will look at Sir Martin Rees's warning in a future post. Stay tuned.
 
-\[^1\]: Classen JB. COVID-19 RNA Based Vaccines and the Risk of Prion Disease. Microbiol Infect Dis. 2021; 5(1): 1-3.
-\[^2\]: _ibid._
-\[^3\]: _ibid._
-\[^4\]: _ibid._
+[^1]: Classen JB. COVID-19 RNA Based Vaccines and the Risk of Prion Disease. Microbiol Infect Dis. 2021; 5(1): 1-3.
+[^2]: _ibid._
+[^3]: _ibid._
+[^4]: _ibid._
