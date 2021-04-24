@@ -6,7 +6,7 @@ draft = true
 featured_image = ""
 images = ["/images/img_0449.PNG", "/images/20180826t1030-19650-cns-vigano-testimony-mccarrick_0.jpg"]
 tags = ["Pope Francis", "Archbishop Viganó"]
-title = "Francis the Great Ape"
+title = "Francis, the Great Ape"
 url = "francis-the-great-ape"
 
 +++
