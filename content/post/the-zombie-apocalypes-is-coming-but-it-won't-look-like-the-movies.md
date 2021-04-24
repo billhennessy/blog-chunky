@@ -1,5 +1,5 @@
 ---
-title: The Zombie Apocalypes Is Coming but It Won't Look Like The Walking Dead
+title: The Zombie Apocalype Is Coming, but It Won't Look Like The Walking Dead
 date: 2021-04-24T10:18:00.000-05:00
 images:
 - "/images/zombie-apocalypse.jpg"
@@ -90,7 +90,7 @@ Are you ready for that reality?
 
 The next battle may not be political (and war, remember, is politics on a different plane). The next battle for humanity might be as simple and squalid as a few old and young people trying to care for a disabled majority who is stronger than they are.
 
-And it is was all predicted by a former Astronomer Royal nearly 20 years ago. We will look at Sir Martin Rees's warning in a future post. Stay tuned.
+And this situation was predicted by a former Astronomer Royal nearly 20 years ago. We will look at Sir Martin Rees's warning in a future post. Stay tuned.
 
 [^1]: Classen JB. COVID-19 RNA Based Vaccines and the Risk of Prion Disease. Microbiol Infect Dis. 2021; 5(1): 1-3.
 [^2]: _ibid._
