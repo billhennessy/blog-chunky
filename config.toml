@@ -35,10 +35,17 @@ ignoreErrors = ["error-remote-getjson"]
     weight = 5
 
     [[menu.main]]
-    identifier = "top-9"
-    name = "Top 9"
-    url = "/top-posts/"
-    weight = 5
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 6
+    
+    [[menu.main]]
+    identifier = "topics"
+    name = "Topics"
+    url = "/tags/"
+    weight = 7
+
 
 [taxonomies]
 category = "categories"
