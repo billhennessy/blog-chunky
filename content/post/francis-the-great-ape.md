@@ -40,7 +40,7 @@ The Vatican conference is a who's who of anti-Christian, anti-God luminaries. (I
 
 The Vatican is pumping this dangerous farce, not as a matter of faith or morals, but, as Bishop Sheen described, a brotherhood of man absent the fatherhood of God. 
 
-{{< tip >}} Note: Archbishop Viganò has been in hiding since exposing Bergoglio's complicity in the McCarrick scandal. Enemies of this pope tend to get "suicided."{{< /tip >}}
+{{< tip >}}Archbishop Viganò has been in hiding since exposing Bergoglio's complicity in the McCarrick scandal. Enemies of this pope tend to get "suicided."{{< /tip >}}
 
 Thanks be to God, we have Archbishop Viganó to property critique the Vatican's "antichristic" behavior. Here's what the great Archbishop has to say about the Bergoglio's latest apostacy. Let's begin with that rogue's gallery of speakers and reporters:
 
