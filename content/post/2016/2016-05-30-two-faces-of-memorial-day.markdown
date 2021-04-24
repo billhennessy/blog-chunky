@@ -7,9 +7,9 @@ layout: blog
 url: /2016/05/30/two-faces-of-memorial-day/
 categories:
 - Living
-- Military
+
 tags:
-- Memorial Day
+
 type: "post"
 ---
 

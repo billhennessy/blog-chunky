@@ -8,8 +8,7 @@ url: /2016/11/01/breaking-looks-like-i-was-right/
 categories:
 - Politics
 tags:
-- Hillary-Clinton
-- michelle obama
+
 type: "post"
 ---
 

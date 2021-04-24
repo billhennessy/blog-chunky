@@ -9,8 +9,7 @@ categories:
 - Politics
 - Donald Trump
 tags:
-- hispanic
-- muslim
+
 type: "post"
 ---
 

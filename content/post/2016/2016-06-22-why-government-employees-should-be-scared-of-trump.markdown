@@ -7,7 +7,7 @@ layout: blog
 url: /2016/06/21/why-government-employees-should-be-scared-of-trump/
 categories:
 - Politics
-- Donald Trump
+
 type: "post"
 ---
 

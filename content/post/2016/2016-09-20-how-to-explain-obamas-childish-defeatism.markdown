@@ -7,8 +7,7 @@ url: /2016-09-20-how-to-explain-obamas-childish-defeatism
 categories:
 - Politics
 tags:
-- Barack Obama
-- locus of control
+
 type: "post"
 ---
 

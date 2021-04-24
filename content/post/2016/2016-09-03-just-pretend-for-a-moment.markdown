@@ -7,10 +7,9 @@ layout: blog
 url: /2016/09/03/just-pretend-for-a-moment/
 categories:
 - Politics
-- News
+
 tags:
-- Clinton Press Conference
-- Pretend
+
 type: "post"
 ---
 

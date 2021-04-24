@@ -9,11 +9,7 @@ categories:
 - Politics
 - Political Psychology
 tags:
-- Bradley Effect
-- Polls
-- Preference Cascade
-- social proof
-- Donald Trump
+
 type: "post"
 ---
 

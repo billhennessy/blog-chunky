@@ -6,9 +6,9 @@ title: 'Breaking: Turning On Trump Is Out!'
 layout: blog
 url: /2016/07/04/breaking-turning-on-trump-is-out/
 categories:
-- News
+- Politics
 tags:
-- Turning On Trump
+
 type: "post"
 ---
 

@@ -9,8 +9,7 @@ categories:
 - Politics
 - Living
 tags:
-- magical thinking
-- NeverTrump
+
 type: "post"
 ---
 

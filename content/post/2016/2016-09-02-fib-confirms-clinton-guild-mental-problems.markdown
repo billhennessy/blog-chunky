@@ -8,8 +8,7 @@ url: /2016/09/02/fib-confirms-clinton-guild-mental-problems/
 categories:
 - Politics
 tags:
-- Crooked Hillary
-- FBI
+
 type: "post"
 ---
 

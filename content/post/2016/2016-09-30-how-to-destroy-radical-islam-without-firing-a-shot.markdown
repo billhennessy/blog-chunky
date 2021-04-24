@@ -8,9 +8,7 @@ url: /2016/09/29/how-to-destroy-radical-islam-without-firing-a-shot/
 categories:
 - Politics
 tags:
-- Living
-- radical Islam
-- Scott Adams
+
 type: "post"
 ---
 

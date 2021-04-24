@@ -8,7 +8,7 @@ url: /2016/10/17/despicable-hillary-exposed-by-fbi/
 categories:
 - Politics
 tags:
-- Wicked Hillary
+
 type: "post"
 ---
 

@@ -8,9 +8,7 @@ url: /2016/07/05/hillary-left-the-gate-open/
 categories:
 - Politics
 tags:
-- Email Server
-- FBI
-- Hillary-Clinton
+
 type: "post"
 ---
 

@@ -7,7 +7,6 @@ layout: blog
 url: /2016/08/12/tea-party-for-trump-special-offer-to-kid-rock/
 categories:
 - Politics
-- Donald Trump
 type: "post"
 ---
 

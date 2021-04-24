@@ -7,7 +7,7 @@ layout: blog
 url: /2016/07/15/why-im-voting-for-eric-greitens-governor/
 categories:
 - Politics
-- Politics
+
 tags:
 - Eric Greitens
 type: "post"

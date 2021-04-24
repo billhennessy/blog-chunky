@@ -7,11 +7,9 @@ layout: blog
 url: /2016/07/26/hillary-takes-while-donald-gives/
 categories:
 - Politics
-- Donald Trump
+
 tags:
-- Crooked Hillary
-- Donald Trump
-- Hillary-Clinton
+
 type: "post"
 ---
 

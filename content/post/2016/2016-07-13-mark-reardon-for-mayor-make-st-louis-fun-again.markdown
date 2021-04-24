@@ -6,10 +6,10 @@ title: 'Mark Reardon for Mayor: Make St. Louis Fun Again'
 layout: blog
 url: /2016/07/12/mark-reardon-for-mayor-make-st-louis-fun-again/
 categories:
-- News
+
 - Politics
 tags:
-- st.-louis
+
 type: "post"
 ---
 

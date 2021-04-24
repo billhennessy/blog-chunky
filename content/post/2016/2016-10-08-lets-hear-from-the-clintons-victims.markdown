@@ -8,9 +8,7 @@ url: /2016/10/08/lets-hear-from-the-clintons-victims/
 categories:
 - Politics
 tags:
-- Ann Wagner
-- Clinton
-- rape
+
 type: "post"
 ---
 

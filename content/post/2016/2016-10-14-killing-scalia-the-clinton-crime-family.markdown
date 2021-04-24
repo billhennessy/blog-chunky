@@ -8,11 +8,7 @@ url: /2016/10/13/killing-scalia-the-clinton-crime-family/
 categories:
 - Crime
 tags:
-- assassination
-- Clinton
-- Elmendorf
-- Scalia
-- wet works
+
 type: "post"
 ---
 

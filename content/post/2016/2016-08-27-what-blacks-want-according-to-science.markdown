@@ -8,7 +8,7 @@ url: /2016/08/26/what-blacks-want-according-to-science/
 categories:
 - Politics
 tags:
-- racism
+
 type: "post"
 ---
 

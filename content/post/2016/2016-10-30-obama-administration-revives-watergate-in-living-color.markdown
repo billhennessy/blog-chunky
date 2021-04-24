@@ -8,8 +8,7 @@ url: /2016/10/30/obama-administration-revives-watergate-in-living-color/
 categories:
 - Politics
 tags:
-- Crooked Hillary
-- Watergate
+
 type: "post"
 ---
 

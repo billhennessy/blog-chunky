@@ -8,9 +8,7 @@ url: /2016/05/27/worlds-greatest-press-conference/
 categories:
 - Donald Trump
 tags:
-- McDonalds
-- Pocahontas
-- Donald Trump
+
 type: "post"
 ---
 

@@ -7,7 +7,6 @@ layout: blog
 url: /2016/08/03/greitenss-win-was-just-a-moment-in-time-but-a-big-moment/
 categories:
 - Politics
-- Politics
 tags:
 - Eric Greitens
 type: "post"

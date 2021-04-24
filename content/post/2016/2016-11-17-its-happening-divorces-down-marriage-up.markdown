@@ -6,11 +6,10 @@ title: It's Happening! Divorces Down, Marriage Up
 layout: blog
 url: /2016/11/17/its-happening-divorces-down-marriage-up/
 categories:
-- Donald Trump
+- Politics
 tags:
 - divorce
-- fertility
-- marriage
+
 type: "post"
 ---
 

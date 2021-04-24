@@ -9,9 +9,7 @@ categories:
 - News
 - Donald Trump
 tags:
-- building
-- dressing up
-- sex
+
 type: "post"
 ---
 

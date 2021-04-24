@@ -7,10 +7,9 @@ layout: blog
 url: /2016/07/06/why-youre-mad-at-trump/
 categories:
 - Political Psychology
-- Donald Trump
+
 tags:
-- Saddam Hussein
-- Donald Trump
+
 type: "post"
 ---
 

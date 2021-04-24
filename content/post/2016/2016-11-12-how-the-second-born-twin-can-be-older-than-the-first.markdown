@@ -9,9 +9,7 @@ categories:
 - Politics
 tags:
 - brexit
-- reagan
-- Thatcher
-- Donald Trump
+
 type: "post"
 ---
 

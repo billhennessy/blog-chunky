@@ -9,9 +9,7 @@ categories:
 - Politics
 - Politics
 tags:
-- Ann Wagner
-- Politics Farm Bureau
-- roy blunt
+
 type: "post"
 ---
 

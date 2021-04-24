@@ -7,12 +7,10 @@ layout: blog
 url: /2016/07/27/paul-holzer-john-brunner-1/
 categories:
 - Politics
-- Politics
-- News
+
 tags:
 - Eric Greitens
-- John Brunner
-- Paul Holzer
+
 type: "post"
 ---
 

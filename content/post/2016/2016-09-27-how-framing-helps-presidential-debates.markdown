@@ -6,7 +6,6 @@ layout: blog
 categories:
 - Politics
 tags:
-- Debate Night
 type: "post"
 ---
 

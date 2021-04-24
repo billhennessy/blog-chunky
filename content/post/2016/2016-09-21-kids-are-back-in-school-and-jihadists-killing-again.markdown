@@ -7,12 +7,8 @@ layout: blog
 url: /2016/09/21/kids-are-back-in-school-and-jihadists-killing-again/
 categories:
 - Politics
-- Politics
 tags:
-- Clinton
-- FBI
-- Rahami
-- Politics
+
 type: "post"
 ---
 

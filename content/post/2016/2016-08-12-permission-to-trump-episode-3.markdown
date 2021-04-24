@@ -7,7 +7,6 @@ layout: blog
 url: /2016/08/12/permission-to-trump-episode-3/
 categories:
 - Politics
-- Donald Trump
 type: "post"
 ---
 

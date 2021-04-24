@@ -10,9 +10,7 @@ categories:
 post_format:
 
 tags:
-- Criminal Hillary
-- Donna Brazile
-- The Who
+
 type: "post"
 ---
 

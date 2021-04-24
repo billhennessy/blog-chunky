@@ -7,10 +7,10 @@ layout: blog
 url: /2016/06/25/permission-to-trump/
 categories:
 - Politics
-- Donald Trump
+
 tags:
 - Donald J. Trump
-- Permission to Trump
+
 type: "post"
 ---
 

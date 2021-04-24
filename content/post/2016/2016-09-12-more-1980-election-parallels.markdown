@@ -8,8 +8,7 @@ url: /2016/09/12/more-1980-election-parallels/
 categories:
 - Politics
 tags:
-- HillarysHealth
-- Jimmy Carter
+
 type: "post"
 ---
 

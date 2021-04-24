@@ -8,8 +8,7 @@ url: /2016/05/26/winning-spawns-winners/
 categories:
 - News
 tags:
-- hockey
-- Politics blues
+
 type: "post"
 ---
 

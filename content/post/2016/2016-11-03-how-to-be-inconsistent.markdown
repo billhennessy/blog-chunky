@@ -7,9 +7,8 @@ layout: blog
 url: /2016/11/03/how-to-be-inconsistent/
 categories:
 - Politics
-- News
+
 tags:
-- Donald Trump
 - Eric Greitens
 type: "post"
 ---

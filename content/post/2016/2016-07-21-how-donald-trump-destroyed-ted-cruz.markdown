@@ -7,10 +7,10 @@ layout: blog
 url: /2016/07/21/how-donald-trump-destroyed-ted-cruz/
 categories:
 - Politics
-- Donald Trump
+
 tags:
 - Ted Cruz
-- Ted Kennedy
+
 type: "post"
 ---
 

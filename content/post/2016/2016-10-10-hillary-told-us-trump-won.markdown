@@ -7,11 +7,8 @@ layout: blog
 url: /2016/10/10/hillary-told-us-trump-won/
 categories:
 - Politics
-- Donald Trump
 tags:
-- debate
-- Hillary
-- Donald Trump
+
 type: "post"
 ---
 

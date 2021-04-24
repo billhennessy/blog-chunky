@@ -7,11 +7,8 @@ draft: true
 url: /2016/who-said-press-releases-cant-be-fun
 categories:
 - Politics
-- Politics
-- Donald Trump
+
 tags:
-- Festus
-- rally
 - Tea Party for Trump
 type: "post"
 ---

@@ -7,11 +7,8 @@ layout: blog
 url: /2016/08/17/trumps-third-act-the-honey-badger/
 categories:
 - Politics
-- Politics
-- Donald Trump
+
 tags:
-- Kellyanne Conway
-- Stephen K. Bannon
 - Tea Party for Trump
 type: "post"
 ---

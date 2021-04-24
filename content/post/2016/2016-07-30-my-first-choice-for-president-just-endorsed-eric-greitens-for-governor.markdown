@@ -7,10 +7,10 @@ layout: blog
 url: /2016/07/30/my-first-choice-for-president-just-endorsed-eric-greitens-for-governor/
 categories:
 - Politics
-- Politics
+
 tags:
 - Eric Greitens
-- MoGov
+
 type: "post"
 ---
 

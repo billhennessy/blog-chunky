@@ -8,12 +8,10 @@ url: /2016/07/20/how-leaders-decide/
 categories:
 - Politics
 - Political Psychology
-- Donald Trump
+
 tags:
 - commitment
-- decisions
-- Leadership
-- psychology
+
 type: "post"
 ---
 

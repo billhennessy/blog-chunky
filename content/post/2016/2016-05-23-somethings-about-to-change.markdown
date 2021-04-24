@@ -8,10 +8,7 @@ url: /2016/05/23/somethings-about-to-change/
 categories:
 - Donald Trump
 tags:
-- apparel
-- attire
-- fashion
-- suits
+
 type: "post"
 ---
 

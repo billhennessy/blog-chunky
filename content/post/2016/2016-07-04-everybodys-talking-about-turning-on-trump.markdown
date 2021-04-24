@@ -6,9 +6,9 @@ title: Everybody's Talking About Turning On Trump
 layout: blog
 url: /2016/07/03/everybodys-talking-about-turning-on-trump/
 categories:
-- Donald Trump
+- Politics
 tags:
-- Turning On Trump
+
 type: "post"
 ---
 

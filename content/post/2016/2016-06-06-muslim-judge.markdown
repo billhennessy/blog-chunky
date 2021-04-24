@@ -8,8 +8,7 @@ url: /2016/06/06/muslim-judge/
 categories:
 - Donald Trump
 tags:
-- Muslim Judges
-- sharia law
+
 type: "post"
 ---
 

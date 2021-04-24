@@ -7,10 +7,9 @@ layout: blog
 url: /2016/07/15/you-wont-believe-how-many-islamic-terrorist-attacks-this-year/
 categories:
 - Politics
-- Politics
-- Donald Trump
+
 tags:
-- Nice
+
 type: "post"
 ---
 

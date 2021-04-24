@@ -8,10 +8,7 @@ url: /2016/09/18/make-jake-tapper-great-again/
 categories:
 - News
 tags:
-- Bomb
-- Hillary-Clinton
-- Jake Tapper
-- Politics
+
 type: "post"
 ---
 

@@ -7,10 +7,10 @@ layout: blog
 url: /2016/07/04/its-been-a-great-month-for-isis/
 categories:
 - Politics
-- Donald Trump
+
 tags:
 - Donald J. Trump
-- Politics
+
 type: "post"
 ---
 

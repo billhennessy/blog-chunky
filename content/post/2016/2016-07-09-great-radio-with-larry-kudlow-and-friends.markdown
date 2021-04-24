@@ -7,11 +7,9 @@ layout: blog
 url: /2016/07/09/great-radio-with-larry-kudlow-and-friends/
 categories:
 - Politics
-- Donald Trump
+
 tags:
-- Donald Trump
-- Larry Kudlow
-- Mark Reardon
+
 type: "post"
 ---
 

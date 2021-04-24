@@ -8,9 +8,7 @@ url: /2016/06/03/hot-dripping-gift-only-for-anti-trump/
 categories:
 - Donald Trump
 tags:
-- anti-Trump
-- NeverTrump
-- violence
+
 type: "post"
 ---
 

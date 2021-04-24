@@ -8,8 +8,7 @@ url: /2016/11/14/the-hubris-of-nation-builders/
 categories:
 - Politics
 tags:
-- George W. Bush
-- Iraq
+
 type: "post"
 ---
 

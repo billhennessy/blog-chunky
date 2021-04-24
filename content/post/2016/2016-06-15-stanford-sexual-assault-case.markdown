@@ -8,8 +8,7 @@ url: /2016/06/15/stanford-sexual-assault-case/
 categories:
 - Politics
 tags:
-- Orlando
-- Stanford
+
 type: "post"
 ---
 

@@ -9,10 +9,7 @@ categories:
 - Politics
 - Donald Trump
 tags:
-- debate
-- Sanders
-- Donald Trump
-- Donald Trump Sanders
+
 type: "post"
 ---
 

@@ -7,13 +7,10 @@ layout: blog
 url: /2016/07/17/cop-killer-hillary-has-lost-control/
 categories:
 - Politics
-- Crime
-- News
+
 tags:
 - Barack Obama
-- Black Lives Matter
-- Cop-Killers
-- Hillary-Clinton
+
 type: "post"
 ---
 

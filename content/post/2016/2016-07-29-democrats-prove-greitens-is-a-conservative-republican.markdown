@@ -7,7 +7,7 @@ layout: blog
 url: /2016/07/29/democrats-prove-greitens-is-a-conservative-republican/
 categories:
 - Politics
-- Politics
+
 tags:
 - Eric Greitens
 type: "post"

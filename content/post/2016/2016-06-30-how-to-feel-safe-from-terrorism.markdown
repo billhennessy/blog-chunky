@@ -7,10 +7,10 @@ layout: blog
 url: /2016/06/30/how-to-feel-safe-from-terrorism/
 categories:
 - Politics
-- Donald Trump
+
 tags:
 - Donald J. Trump
-- Politics
+
 type: "post"
 ---
 

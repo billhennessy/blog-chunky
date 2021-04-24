@@ -8,7 +8,7 @@ url: /2016/07/25/disillusioned-by-the-bern/
 categories:
 - Politics
 tags:
-- Bernie Sanders
+
 type: "post"
 ---
 

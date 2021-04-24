@@ -7,10 +7,9 @@ layout: blog
 url: /2016/06/21/lewandowski-firing/
 categories:
 - Politics
-- Donald Trump
+
 tags:
-- Lewandowski
-- Donald Trump
+
 type: "post"
 ---
 

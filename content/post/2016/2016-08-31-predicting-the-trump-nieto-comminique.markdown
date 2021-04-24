@@ -7,11 +7,9 @@ layout: blog
 url: /2016/08/31/predicting-the-trump-nieto-comminique/
 categories:
 - Politics
-- Donald Trump
+
 tags:
-- Mexico
-- Nieto-Trump Summit
-- Donald Trump
+
 type: "post"
 ---
 

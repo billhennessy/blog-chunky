@@ -9,10 +9,7 @@ categories:
 - Politics
 - Political Psychology
 tags:
-- Identity claims
-- neuroscience
-- NeverTrump
-- Living
+
 type: "post"
 ---
 

@@ -8,10 +8,7 @@ url: /2016/07/24/feelin-berned-special-offer-for-bernie-fans/
 categories:
 - Politics
 tags:
-- Bernie Sanders
-- DNCLeak
-- Donald Trump
-- Wikileaks
+
 type: "post"
 ---
 

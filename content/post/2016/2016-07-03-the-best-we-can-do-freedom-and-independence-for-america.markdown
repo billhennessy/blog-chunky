@@ -9,8 +9,7 @@ categories:
 - Politics
 - Living
 tags:
-- Independence Day
-- July 4th
+
 type: "post"
 ---
 

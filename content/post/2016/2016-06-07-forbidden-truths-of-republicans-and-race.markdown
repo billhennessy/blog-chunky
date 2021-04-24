@@ -9,9 +9,7 @@ categories:
 - Politics
 - Donald Trump
 tags:
-- race
-- republican
-- truth
+
 type: "post"
 ---
 

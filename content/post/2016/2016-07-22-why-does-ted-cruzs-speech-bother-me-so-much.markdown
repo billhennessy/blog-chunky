@@ -7,11 +7,9 @@ layout: blog
 url: /2016/07/22/why-does-ted-cruzs-speech-bother-me-so-much/
 categories:
 - Politics
-- Politics
-- Donald Trump
+
 tags:
 - political psychology
-- RNC Convention
 - Ted Cruz
 type: "post"
 ---

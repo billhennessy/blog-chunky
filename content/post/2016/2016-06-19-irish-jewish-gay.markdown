@@ -6,13 +6,9 @@ title: Irish, Jewish, Gay
 layout: blog
 url: /2016/06/19/irish-jewish-gay/
 categories:
-- Living
-- News
 - Politics
 tags:
-- gay
-- Orlando
-- Donald Trump
+
 type: "post"
 ---
 

@@ -7,8 +7,7 @@ layout: blog
 url: /2016/08/21/one-week-to-go-are-you-ready/
 categories:
 - Politics
-- Politics
-- Donald Trump
+
 type: "post"
 ---
 

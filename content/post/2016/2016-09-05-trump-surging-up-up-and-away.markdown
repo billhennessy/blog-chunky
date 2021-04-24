@@ -7,10 +7,8 @@ layout: blog
 url: /2016/09/04/trump-surging-up-up-and-away/
 categories:
 - Politics
-- Donald Trump
 tags:
-- Polls
-- Donald Trump
+
 type: "post"
 ---
 

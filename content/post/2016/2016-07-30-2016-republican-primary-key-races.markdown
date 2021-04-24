@@ -7,13 +7,9 @@ layout: blog
 url: /2016/07/30/2016-republican-primary-key-races/
 categories:
 - Politics
-- Politics
+
 tags:
-- Andrew Koenig
-- Bill Eigel
-- Eric Greitens
-- Eric Schmitt
-- Josh Hawley
+
 type: "post"
 ---
 

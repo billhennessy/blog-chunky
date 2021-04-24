@@ -7,7 +7,7 @@ layout: blog
 url: /2016/07/10/how-to-pretend-youre-not-lying/
 categories:
 - Politics
-- Donald Trump
+
 type: "post"
 ---
 

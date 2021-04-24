@@ -6,7 +6,7 @@ title: An Election Unlike Any Other
 layout: blog
 url: /2016/08/08/an-election-unlike-any-other/
 categories:
-- News
+- Politics
 - Political Psychology
 type: "post"
 ---

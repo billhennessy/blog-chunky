@@ -7,7 +7,7 @@ layout: blog
 url: /2016/06/13/no-one-else-is-talking-about-this/
 categories:
 - Politics
-- Politics
+
 type: "post"
 ---
 

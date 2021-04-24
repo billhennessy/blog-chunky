@@ -9,9 +9,7 @@ categories:
 - Politics
 - Donald Trump
 tags:
-- book
-- hennessy
-- Turning On Trump
+
 type: "post"
 ---
 

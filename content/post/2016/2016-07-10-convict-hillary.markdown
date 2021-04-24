@@ -7,13 +7,9 @@ layout: blog
 url: /2016/07/10/convict-hillary/
 categories:
 - Politics
-- Crime
+
 tags:
-- Crooked Hillary
-- Email Server
-- Hillary-Clinton
-- James Comey
-- Trey Gowdy
+
 type: "post"
 ---
 

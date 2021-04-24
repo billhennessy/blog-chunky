@@ -6,11 +6,9 @@ title: Finally Media Focus On America's Real Problem
 layout: blog
 url: /2016/07/19/finally-media-focus-on-americas-real-problem/
 categories:
-- News
+- Politics
 tags:
-- CNN
-- melania trump
-- Plagiarism
+
 type: "post"
 ---
 

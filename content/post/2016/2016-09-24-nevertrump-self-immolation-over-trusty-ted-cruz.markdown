@@ -7,10 +7,8 @@ layout: blog
 url: /2016/09/24/nevertrump-self-immolation-over-trusty-ted-cruz/
 categories:
 - Politics
-- Donald Trump
 tags:
 - john lamping
-- NeverTrump
 - Ted Cruz
 type: "post"
 ---

@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - Eric Greitens
-- SJR39
+
 type: "post"
 ---
 

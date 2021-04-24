@@ -6,12 +6,9 @@ title: You Can't Trump Forgiveness
 layout: blog
 url: /2016/07/20/you-cant-trump-forgiveness/
 categories:
-- Donald Trump
+- Politics
 tags:
-- IBM
-- McIver
-- Plagiarism
-- Donald Trump
+
 type: "post"
 ---
 

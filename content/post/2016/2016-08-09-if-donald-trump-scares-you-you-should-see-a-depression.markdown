@@ -7,10 +7,8 @@ layout: blog
 url: /2016/08/09/if-donald-trump-scares-you-you-should-see-a-depression/
 categories:
 - Politics
-- Economy
 tags:
-- debt
-- Economy
+
 type: "post"
 ---
 

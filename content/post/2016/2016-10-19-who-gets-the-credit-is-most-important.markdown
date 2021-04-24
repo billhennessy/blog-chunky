@@ -8,8 +8,8 @@ url: /2016/10/19/who-gets-the-credit-is-most-important/
 categories:
 - Politics
 tags:
-- NeverTrump
-- reagan
+
+
 type: "post"
 ---
 

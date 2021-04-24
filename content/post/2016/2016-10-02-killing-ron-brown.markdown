@@ -8,11 +8,8 @@ url: /2016/10/02/killing-ron-brown/
 images: ["Ron-Brown.png"]
 categories:
 - Politics
-- News
 tags:
-- Hillary-Clinton
-- Ron Brown
-- Zdenka Gast
+
 type: "post"
 ---
 

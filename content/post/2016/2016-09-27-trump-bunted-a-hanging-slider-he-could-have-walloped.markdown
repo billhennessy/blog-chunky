@@ -8,8 +8,7 @@ url: /2016/09/27/trump-bunted-a-hanging-slider-he-could-have-walloped/
 categories:
 - Politics
 tags:
-- 'debatenight'
-- Donald Trump
+
 type: "post"
 ---
 

@@ -7,7 +7,6 @@ layout: blog
 url: /2016/08/11/mark-calendars-tea-party-for-trump-august-28-400-p-m/
 categories:
 - Politics
-- Activism
 type: "post"
 ---
 

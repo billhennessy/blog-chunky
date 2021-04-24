@@ -7,13 +7,11 @@ layout: blog
 url: /2016/11/05/trump-makes-people-better/
 categories:
 - Politics
-- News
-- Donald Trump
+
 post_format:
 
 tags:
-- maga
-- Donald Trump
+
 type: "post"
 ---
 

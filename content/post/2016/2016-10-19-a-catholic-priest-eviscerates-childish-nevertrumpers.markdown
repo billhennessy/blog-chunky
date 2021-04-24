@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - abortion
-- NeverTrump
+
 type: "post"
 ---
 

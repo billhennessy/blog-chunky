@@ -6,10 +6,9 @@ title: George Will's Passive Aggressive Slacktivism
 layout: blog
 url: /2016/06/28/george-wills-passive-aggressive-emptiness/
 categories:
-- News
+- Politics
 tags:
-- george will
-- Pat Buchanan
+
 type: "post"
 ---
 

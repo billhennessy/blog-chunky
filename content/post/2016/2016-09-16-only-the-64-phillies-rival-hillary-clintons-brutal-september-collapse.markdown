@@ -8,8 +8,7 @@ url: /2016/09/16/only-the-64-phillies-rival-hillary-clintons-brutal-september-co
 categories:
 - Politics
 tags:
-- bigot
-- Hillary-Clinton
+
 type: "post"
 ---
 

@@ -7,12 +7,10 @@ layout: blog
 url: /2016/06/26/dethroning-the-pointy-haired-bosses-of-the-universe/
 categories:
 - Politics
-- Donald Trump
+
 tags:
 - brexit
-- Dilbert
-- Scott Adams
-- Donald Trump
+
 type: "post"
 ---
 

@@ -8,7 +8,7 @@ url: /2016/09/11/suddenly-you-feel-sorry-for-hillary/
 categories:
 - Politics
 tags:
-- Hillary Health
+
 type: "post"
 ---
 

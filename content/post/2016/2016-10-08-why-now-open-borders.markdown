@@ -8,8 +8,7 @@ url: /2016/10/08/why-now-open-borders/
 categories:
 - Politics
 tags:
-- open borders
-- Wikileaks
+
 type: "post"
 ---
 

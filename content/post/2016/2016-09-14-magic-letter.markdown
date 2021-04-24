@@ -8,7 +8,7 @@ url: /2016/09/13/magic-letter/
 categories:
 - Living
 tags:
-- magic letter
+
 type: "post"
 ---
 

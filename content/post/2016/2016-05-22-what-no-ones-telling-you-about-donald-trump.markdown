@@ -9,7 +9,7 @@ categories:
 - Politics
 - Donald Trump
 tags:
-- '@realDonaldTrump'
+
 type: "post"
 ---
 

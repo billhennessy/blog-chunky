@@ -8,8 +8,7 @@ url: /2016/11/06/its-going-to-be-okay/
 categories:
 - Politics
 tags:
-- Hillary Emails
-- James Comey
+
 type: "post"
 ---
 

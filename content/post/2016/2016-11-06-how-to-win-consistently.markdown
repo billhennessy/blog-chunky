@@ -7,12 +7,11 @@ layout: blog
 url: /2016/11/06/how-to-win-consistently/
 categories:
 - Politics
-- Politics
+
 tags:
 - Donald Trump
 - Eric Greitens
-- Politics
-- roy blunt
+
 type: "post"
 ---
 

@@ -7,11 +7,9 @@ layout: blog
 url: /2016/10/31/donna-braziles-corrupt-silent-partner/
 categories:
 - Politics
-- News
-- Politics
+
 tags:
-- Crooked Hillary
-- Donna Brazile
+
 type: "post"
 ---
 

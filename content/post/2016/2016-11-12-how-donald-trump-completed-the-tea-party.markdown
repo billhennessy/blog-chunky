@@ -7,10 +7,10 @@ layout: blog
 url: /2016/11/11/how-donald-trump-completed-the-tea-party/
 categories:
 - Donald Trump
-- Politics
+
 tags:
 - Donald Trump
-- Politics
+
 type: "post"
 ---
 

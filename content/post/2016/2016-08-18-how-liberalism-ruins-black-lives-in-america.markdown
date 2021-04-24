@@ -7,12 +7,9 @@ layout: blog
 url: /2016/08/17/how-liberalism-ruins-black-lives-in-america/
 categories:
 - Politics
-- News
-- Donald Trump
+
 tags:
-- African-American
-- black unemployment
-- The Conservative Heart
+
 type: "post"
 ---
 

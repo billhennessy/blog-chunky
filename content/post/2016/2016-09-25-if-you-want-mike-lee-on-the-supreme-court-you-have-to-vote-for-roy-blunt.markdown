@@ -8,8 +8,7 @@ url: /2016/09/25/if-you-want-mike-lee-on-the-supreme-court-you-have-to-vote-for-
 categories:
 - Politics
 tags:
-- MoSen
-- roy blunt
+
 type: "post"
 ---
 

@@ -8,9 +8,7 @@ url: /2016/10/17/cnn-liars-slither-to-new-all-time-low-as-politico-hits-rock-bot
 categories:
 - Politics
 tags:
-- CNN Lies
-- GlennThrush
-- politico
+
 type: "post"
 ---
 

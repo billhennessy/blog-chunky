@@ -6,10 +6,10 @@ title: God Bless the Brits! Freedom Rings!
 layout: blog
 url: /2016/06/23/god-bless-the-brits-freedom-rings/
 categories:
-- News
+- Politics
 tags:
 - brexit
-- Donald Trump
+
 type: "post"
 ---
 

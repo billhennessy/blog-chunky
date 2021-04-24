@@ -8,7 +8,7 @@ url: /2016/09/11/how-the-press-has-let-us-down/
 categories:
 - Politics
 tags:
-- HillarysHealth
+
 type: "post"
 ---
 

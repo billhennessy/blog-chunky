@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - Arkansas Tea Party
-- Road Trip
+
 type: "post"
 ---
 

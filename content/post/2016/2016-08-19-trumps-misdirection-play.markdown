@@ -7,13 +7,9 @@ layout: blog
 url: /2016/08/19/trumps-misdirection-play/
 categories:
 - Politics
-- News
-- Donald Trump
+
 tags:
-- 3rd Act
-- Jack Kemp
-- Kellyanne Conway
-- Louisiana flood
+
 type: "post"
 ---
 

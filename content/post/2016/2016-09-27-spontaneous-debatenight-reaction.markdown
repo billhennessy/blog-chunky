@@ -8,7 +8,6 @@ url: /2016/09/26/spontaneous-debatenight-reaction/
 categories:
 - Politics
 tags:
-- 'debatenight'
 type: "post"
 ---
 

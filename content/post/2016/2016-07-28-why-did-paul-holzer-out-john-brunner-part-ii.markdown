@@ -7,11 +7,10 @@ layout: blog
 url: /2016/07/28/why-did-paul-holzer-out-john-brunner-part-ii/
 categories:
 - Politics
-- Politics
+
 tags:
 - Eric Greitens
-- John Brunner
-- Paul Holzer
+
 type: "post"
 ---
 

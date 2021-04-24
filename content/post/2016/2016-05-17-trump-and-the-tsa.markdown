@@ -10,7 +10,7 @@ categories:
 - Donald Trump
 tags:
 - Donald J. Trump
-- TSA
+
 type: "post"
 ---
 

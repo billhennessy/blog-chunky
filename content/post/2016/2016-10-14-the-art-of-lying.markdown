@@ -8,8 +8,7 @@ url: /2016/10/13/the-art-of-lying/
 categories:
 - Politics
 tags:
-- Jessica Leed
-- Mindy McGillivrary
+
 type: "post"
 ---
 

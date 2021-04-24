@@ -9,9 +9,7 @@ categories:
 - Politics
 - Donald Trump
 tags:
-- David French
-- Donald Trump
-- James Stockdale
+
 type: "post"
 ---
 

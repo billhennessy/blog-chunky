@@ -9,8 +9,7 @@ categories:
 - Politics
 - Donald Trump
 tags:
-- La Raza
-- Paul Ryan
+
 type: "post"
 ---
 

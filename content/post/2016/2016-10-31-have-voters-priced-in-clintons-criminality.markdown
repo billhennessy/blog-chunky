@@ -8,7 +8,7 @@ url: /2016/10/31/have-voters-priced-in-clintons-criminality/
 categories:
 - Politics
 tags:
-- Crooked Hillary
+
 type: "post"
 ---
 

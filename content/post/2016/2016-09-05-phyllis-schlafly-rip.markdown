@@ -8,7 +8,7 @@ url: /2016/09/05/phyllis-schlafly-rip/
 categories:
 - News
 tags:
-- phyllis schlafly
+
 type: "post"
 ---
 

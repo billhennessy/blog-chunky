@@ -7,7 +7,7 @@ layout: blog
 url: /2016/07/24/trump-had-but-one-speech-to-give-for-his-country-and-it-was-perfect/
 categories:
 - Politics
-- Donald Trump
+
 type: "post"
 ---
 

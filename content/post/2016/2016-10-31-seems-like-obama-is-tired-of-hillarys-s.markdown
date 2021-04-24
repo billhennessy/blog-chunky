@@ -8,9 +8,7 @@ url: /2016/10/31/seems-like-obama-is-tired-of-hillarys-s/
 categories:
 - Politics
 tags:
-- Barack Obama
-- Email Server
-- Hillary for Prison
+
 type: "post"
 ---
 

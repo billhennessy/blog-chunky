@@ -7,11 +7,9 @@ layout: blog
 url: /2016/07/12/how-nevertrump-promotes-race-violence/
 categories:
 - Politics
-- Donald Trump
+
 tags:
-- Hillary
-- NeverTrump
-- race war
+
 type: "post"
 ---
 

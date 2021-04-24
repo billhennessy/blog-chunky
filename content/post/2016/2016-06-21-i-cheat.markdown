@@ -8,9 +8,7 @@ url: /2016/06/20/i-cheat/
 categories:
 - Writing
 tags:
-- grammarly
-- hemingway
-- writing
+
 type: "post"
 ---
 

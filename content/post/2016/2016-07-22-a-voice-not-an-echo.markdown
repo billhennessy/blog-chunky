@@ -7,7 +7,7 @@ layout: blog
 url: /2016/07/22/a-voice-not-an-echo/
 categories:
 - Politics
-- Donald Trump
+
 type: "post"
 ---
 
