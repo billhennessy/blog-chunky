@@ -32,6 +32,8 @@ Just a few of Bergoglio's self-incriminating actions and statements:
 
 While no one could indict Bergoglio as viciously as Bergoglio himself, the great Archbishop Carlo Maria Viganó recently released a statement that gives Francis a run for his money. 
 
+{{< figure src="/images/20180826t1030-19650-cns-vigano-testimony-mccarrick_0.jpg" caption="Archbishop Carlo Maria Viganó" title="America's Archbishop" >}}
+
 Viganó's letter comes in response to the recently announced summit: "Exploring the Mind, Body, and Soul: Unite to Prevent & Unite to Cure." 
 
 The Vatican conference is a who's who of anti-Christian, anti-God luminaries. (I will let Archbishop Viganó explain below.) The purpose of the summit is to help Big Pharma hawk more COVID genetically modifying injections around the world. 
