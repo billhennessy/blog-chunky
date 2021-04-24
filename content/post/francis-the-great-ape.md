@@ -40,6 +40,8 @@ The Vatican conference is a who's who of anti-Christian, anti-God luminaries. (I
 
 The Vatican is pumping this dangerous farce, not as a matter of faith or morals, but, as Bishop Sheen described, a brotherhood of man absent the fatherhood of God. 
 
+{{< tip >}} Note: Archbishop Viganò has been in hiding since exposing Bergoglio's complicity in the McCarrick scandal. Enemies of this pope tend to get "suicided."{{< /tip >}}
+
 Thanks be to God, we have Archbishop Viganó to property critique the Vatican's "antichristic" behavior. Here's what the great Archbishop has to say about the Bergoglio's latest apostacy. Let's begin with that rogue's gallery of speakers and reporters:
 
 > Michael Haynes of LifeSiteNews has reported ([here](https://www.lifesitenews.com/news/vatican-to-host-conference-featuring-covid-jab-developers-big-tech-leaders-fauci-and-chelsea-clinton)) on the topics to be addressed and the participants, including the infamous **Anthony Fauci**, whose scandalous conflicts of interest did not prevent him from taking over the management of the pandemic in the United States; **Chelsea Clinton, a follower of the Church of Satan** and a staunch abortion advocate; the New Age guru **Deepak Chopra**; Dame Jane Goodall, environmentalist and chimpanzee expert; the **CEOs of Pfizer and Moderna**; representatives of **Big Tech**; and a whole slew of **abortionists**, **Malthusians**, and **globalists** known to the general public. The conference has recruited five prominent journalists to be moderators, who are exclusively from left-wing media outlets such as **CNN**, **MSNBC**, **CBS** and **Forbes**.
@@ -61,5 +63,3 @@ There it is, folks. The perfect description of Bergoglio's "pontifacte." An anti
 If Bergoglio's "magisterium" is, in fact, antichristic, faithful Catholics are prohibited from obeying it. It doesn't matter if the pope was licitly installed. Once he strays into heresy, he is no longer the pope. As we learn from St. John Bellarmine:
 
 > the Holy Fathers teach unanimously **not only that heretics are outside of the Church, but also that they are “ipso facto” deprived of all ecclesiastical jurisdiction and dignity**. St. Cyprian (lib. 2, epist. 6) says: “We affirm that absolutely no heretic or schismatic has any power or right”; and he also teaches (lib. 2, epist. 1) that the **heretics who return to the Church must be received as laymen, even though they have been formerly priests or bishops in the Church**. St. Optatus (lib. 1 cont. Parmen.) teaches that **heretics and schismatics cannot have the keys of the kingdom of heaven, nor bind nor loose**. St. Ambrose (lib. 1 de poenit., ca. 2), St. Augustine (in Enchir., cap 65), St. Jerome (lib. cont. Lucifer.) teach the same.
-
-{{< tip >}} Note: Archbishop Viganò has been in hiding since exposing Bergoglio's complicity in the McCarrick scandal. Enemies of this pope tend to get "suicided."{{< /tip >}}
