@@ -32,6 +32,7 @@ fields:
     maxSize: 64
   label: Featured image
 pages:
+- content/post/francis-the-great-ape.md
 - content/post/high-carb-diets-pushed-by-government-and-medicine-are-making-you-sick-and-fat.md
 - content/post/i-don-t-know-how-i-know-this-things.md
 - content/post/panic-fda-halts-j-j-covid-vacccine-due-to-deadly-blood-clots.md
