@@ -5,7 +5,7 @@ url: we-have-nowhere-else-to-turn
 authors: ["Bill Hennessy"]
 images: ["/images/moses-parting-the-red-sea.jpg"]
 categories: ["Faith", "Politics"]
-tags: ["red sea"]
+tags: []
 draft: false
 keyConcept: ""
 ---
@@ -59,3 +59,6 @@ When Moses turned to God instead of trusting himself, the Red Sea parted, the He
 And don't forget to [forgive your enemies](https://hennessysview.com/my-secret-plan-for-america/), pray for them, thank them for bringing us closer to God. (If you need [more justification for forgiving our enemies, read this](https://hennessysview.com/why-should-we-forgive/).)
 
 Peace.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MzQzNDU3NDZdfQ==
+-->
