@@ -7,10 +7,10 @@ layout: blog
 url: /2017/02/09/people-want-you-dead/
 categories:
 - Politics
-
+- The Fourth Turning
 tags:
 - Generation X
-
+- The Fourth Turning
 type: "post"
 ---
 

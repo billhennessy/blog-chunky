@@ -6,11 +6,11 @@ title: Tax Day Tea Party and other news
 layout: blog
 url: /2009/03/01/tax-day-tea-party-and-other-news/
 categories:
-- American Tea Party
+- Tea Party
 tags:
 - Independence Day
 - Tax Day
-- Tea Party News
+- Tea Party
 ---
 
 **UPDATE:  NOTHING TENTATIVE ABOUT IT**

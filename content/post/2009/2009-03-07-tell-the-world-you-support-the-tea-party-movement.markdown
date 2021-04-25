@@ -6,7 +6,7 @@ title: Tell the World You Support the Tea Party Movement
 layout: blog
 url: /2009/03/07/tell-the-world-you-support-the-tea-party-movement/
 categories:
-- American Tea Party
+- Tea Party
 ---
 
 Cafe Press has dozens of shirts, stickers, and mugs that let you tell the world you belong to the [Tea Party Movement](https://sites.google.com/a/stlouisteaparty.com/tax-day/).

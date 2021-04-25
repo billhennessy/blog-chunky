@@ -6,12 +6,12 @@ title: KTVI's Hard News Guy . . . Sgt. Bilko
 layout: blog
 url: /2009/04/15/ktvis-hard-news-guy-sgt-bilko/
 categories:
-- Tea Party News
+- Tea Party
 tags:
 - charles jaco
 - Fraud
 - gulf war
-- Tea Party News
+- Tea Party
 ---
 
 Just watch.  And laugh.  Then call KTVI's General Manager, Spencer Koch at 314-213-2222, and demand an apology for Sgt. Bilko's latest travesty reported on [Gateway Pundit](https://gatewaypundit.blogspot.com/2009/04/breaking-st-louis-news-accuses-tea.html).

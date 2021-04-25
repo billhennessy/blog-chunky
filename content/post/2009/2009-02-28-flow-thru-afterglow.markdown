@@ -6,12 +6,12 @@ title: Flow-Thru Afterglow
 layout: blog
 url: /2009/02/28/flow-thru-afterglow/
 categories:
-- American Tea Party
+- Tea Party
 - Politics
 tags:
 - 'tcot'
-- American Tea Party
-- Tea Party News
+- Tea Party
+- Tea Party
 ---
 
 **Dangerous Thoughts Standing in the Wings**

@@ -6,7 +6,7 @@ title: Libertarian Is The New Mainstream
 layout: blog
 url: /2014/07/30/libertarian-new-mainstream/
 categories:
-- Politics
+- The Fourth Turning
 tags:
 
 type: "post"

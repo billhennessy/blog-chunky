@@ -6,13 +6,13 @@ title: Uncle Barry’s Adding Machine Stimulator Regulation Gimmick
 layout: blog
 url: /2009/02/23/uncle-barrys-adding-machine-stimulator-regulation-gimmick/
 categories:
-- American Tea Party
+- Tea Party
 - Economy
 - Limited Government
 tags:
 - 'tcot'
-- American Tea Party
-- Tea Party News
+- Tea Party
+- Tea Party
 ---
 
 A few weeks ago, shortly after his inauguration, Barry “The President” Obama panicked: the Republicans might talk the people out of the stimulus bill.

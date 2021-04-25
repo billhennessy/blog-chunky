@@ -6,7 +6,7 @@ title: Cincinnati Tea Party HUGE
 layout: blog
 url: /2009/03/15/cincinnati-tea-party-huge/
 categories:
-- American Tea Party
+- Tea Party
 - Economy
 ---
 

@@ -6,13 +6,13 @@ title: St. Louis Tea Party Turnout Rocks!
 layout: blog
 url: /2009/02/27/st-louis-tea-party-turnout-rocks/
 categories:
-- American Tea Party
+- Tea Party
 - Limited Government
 tags:
 - 'tcot'
 - 'teaparty'
-- American Tea Party
-- Tea Party News
+- Tea Party
+- Tea Party
 ---
 
 Thanks to the 1,000+ patriots who stood in the snow at the Arch, [Dana "The Energizer" Loesch](https://thedanashow.wordpress.com/), Doug Saur, the speakers, [Michelle Moore](https://because-ihaveto.blogspot.com/) and Jeff who managed the fairgrounds, Desiree' the Poster Party Lady, and the true leaders at #[TCOT ](https://tcotreport.com/)who held my hand after I stumbled into this event.  

@@ -6,7 +6,7 @@ title: Why Conservatives Should Get Involved—Part 4
 layout: blog
 url: /2015/07/23/why-conservatives-should-get-involved-part-4/
 categories:
-- Living
+- The Fourth Turning
 - Politics
 tags:
 

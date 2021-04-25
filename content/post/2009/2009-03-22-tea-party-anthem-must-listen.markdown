@@ -6,9 +6,9 @@ title: 'Tea Party Anthem:  MUST LISTEN!'
 layout: blog
 url: /2009/03/22/tea-party-anthem-must-listen/
 categories:
-- Tea Party News
+- Tea Party
 tags:
-- Tea Party News
+- Tea Party
 ---
 
 [youtube=https://www.youtube.com/watch?v=z2H8xHFXC8U&w;=425&h;=344]

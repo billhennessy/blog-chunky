@@ -7,6 +7,7 @@ layout: blog
 url: /2011/08/07/did-you-see-the-crisis-coming/
 categories:
 - Politics
+- The Fourth Turning
 tags:
 - The Fourth Turning
 

@@ -6,10 +6,10 @@ title: It Can Happen Again—The Big Short Movie
 layout: blog
 url: /2015/12/24/it-can-happen-again/
 categories:
-- Economy
+- The Fourth Turning
 - Politics
 tags:
-
+- The Fourth Turning
 type: "post"
 ---
 

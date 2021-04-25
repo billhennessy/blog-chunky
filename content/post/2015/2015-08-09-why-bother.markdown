@@ -7,6 +7,9 @@ layout: blog
 url: /2015/08/09/why-bother/
 categories:
 - Politics
+- The Fourth Turning
+tags:
+- The Fourth Turning
 type: "post"
 ---
 

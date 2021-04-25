@@ -8,7 +8,7 @@ url: /2009/03/18/precarious-imbalance/
 categories:
 - Economy
 - Politics
-- Tea Party News
+- Tea Party
 ---
 
 There’s some sort of kid’s trick in which a spoon balances improbably—seemingly impossibly—on someone’s nose. [Or something](https://bindinestor.wordpress.com/2007/03/31/the-spoon-trick/). You’ve seen it, haven’t you? Of course, it only works while you hold your head up straight.

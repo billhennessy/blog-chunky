@@ -6,7 +6,7 @@ title: Obama's Budget Threatens American Sovereignty *update*
 layout: blog
 url: /2009/03/01/obamas-budget-threatens-american-sovereignty/
 categories:
-- American Tea Party
+- Tea Party
 - Limited Government
 ---
 

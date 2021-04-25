@@ -6,8 +6,7 @@ title: In Search of Loyalty
 layout: blog
 url: /2012/07/26/in-search-of-loyalty/
 categories:
-- Living
-- Politics
+- The Fourth Turning
 tags:
 - Donald J. Trump
 type: "post"

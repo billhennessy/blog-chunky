@@ -6,12 +6,12 @@ title: Live Blogging Barry's Crappy Reagan Imitation
 layout: blog
 url: /2009/02/24/live-blogging-barrys-crappy-reagan-imitation/
 categories:
-- American Tea Party
+- Tea Party
 - Latest
 tags:
 - State of the Union
 - speech
-- Tea Party News
+- Tea Party
 ---
 
 The future is ours.  Your disgust with the borrowing and spending, your noble desire to restore the republic the founders wrought, those are the real protests.  The tea party is in our hearts and souls--the events are just the physical manifestations.  But now, the President:

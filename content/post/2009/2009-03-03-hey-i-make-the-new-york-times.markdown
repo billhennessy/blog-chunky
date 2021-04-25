@@ -6,10 +6,10 @@ title: Hey, I Make the New York Times
 layout: blog
 url: /2009/03/02/hey-i-make-the-new-york-times/
 categories:
-- American Tea Party
+- Tea Party
 tags:
 - new york times
-- Tea Party News
+- Tea Party
 ---
 
 And I didn't even have to shoot anybody.

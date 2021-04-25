@@ -8,7 +8,7 @@ url: /2009/04/18/another-one-bites-the-dust/
 categories:
 - Latest
 tags:
-- Tea Party News
+- Tea Party
 ---
 
 This is my last post on Hennessy's View, at least for some time.  

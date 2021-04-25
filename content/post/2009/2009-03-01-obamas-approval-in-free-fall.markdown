@@ -6,12 +6,12 @@ title: Obama's Approval in Free Fall
 layout: blog
 url: /2009/03/01/obamas-approval-in-free-fall/
 categories:
-- American Tea Party
+- Tea Party
 tags:
 - obama popularity
 - presidential approval
 - tax cuts
-- Tea Party News
+- Tea Party
 ---
 
 [caption id="" align="alignleft" width="405" caption="Obama's Approval Free Fall"][![Obama's Free Fall](https://spreadsheets.google.com/pub?key=phYB9CAhk8DF8IDjsgE3DFA&oid=1&output=image)

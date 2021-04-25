@@ -6,12 +6,12 @@ title: See Dana's Channel 5 Interview
 layout: blog
 url: /2009/02/24/see-danas-channel-5-interview/
 categories:
-- American Tea Party
+- Tea Party
 - Latest
 tags:
-- American Tea Party
+- Tea Party
 - dana loesch
-- Tea Party News
+- Tea Party
 ---
 
 Go Dana.  How 'bout a little equal time?  Why does the WU prof get 80 percent of the time?

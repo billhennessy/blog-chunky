@@ -6,8 +6,10 @@ images: ["altar-empty.JPG"]
 authors: [Bill Hennessy]
 categories: 
 - Faith
+- The Fourth Turning
 tags:
-  - Coronavirus
+- Coronavirus
+- The Fourth Turning
 ---
 *And in the streets, the children screamed*\
 *The lovers cried, and the poets dreamed*\

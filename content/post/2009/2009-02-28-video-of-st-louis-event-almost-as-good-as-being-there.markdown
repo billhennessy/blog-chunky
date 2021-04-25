@@ -6,11 +6,11 @@ title: Video of St. Louis Event--Almost as Good as Being There *update*
 layout: blog
 url: /2009/02/28/video-of-st-louis-event-almost-as-good-as-being-there/
 categories:
-- American Tea Party
+- Tea Party
 tags:
 - 'tcot'
 - St. Louis
-- Tea Party News
+- Tea Party
 ---
 
 My hat's off to Bob Anders and the crew from [Creative Video Services](https://www.creativevideostl.com/) for this 3-part series of the St. Louis Nationwide Chicago Tea Party protest held February 27, 2009.  If you need videography, you can't go wrong with Creative Video.

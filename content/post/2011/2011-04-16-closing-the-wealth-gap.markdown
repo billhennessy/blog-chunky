@@ -8,7 +8,7 @@ url: /2011/04/16/closing-the-wealth-gap/
 categories:
 - Politics
 - Living
-- Politics
+- The Fourth Turning
 tags:
 - entitlements
 

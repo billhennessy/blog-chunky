@@ -6,12 +6,12 @@ title: Fox 2 News St. Louis Lies About Tea Parties **UPDATE**
 layout: blog
 url: /2009/04/14/fox-2-news-st-louis-lies-about-tea-parties/
 categories:
-- Tea Party News
+- Tea Party
 tags:
 - charles jaco
 - fox 2 news
 - ktvi
-- Tea Party News
+- Tea Party
 ---
 
 [Charles Jaco of Fox 2 News ](https://gatewaypundit.blogspot.com/2009/04/breaking-st-louis-news-accuses-tea.html)in St. Louis filed a fabricated story claiming that a) the St. Louis Tea Party is organized by something called The Constitution Party, and b) the Constitution Party is an extremist, white supremacist group.

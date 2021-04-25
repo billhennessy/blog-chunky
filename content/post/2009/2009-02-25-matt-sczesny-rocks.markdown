@@ -6,12 +6,12 @@ title: Matt Sczesny Rocks, and other Tea Party News
 layout: blog
 url: /2009/02/24/matt-sczesny-rocks/
 categories:
-- American Tea Party
+- Tea Party
 - Limited Government
 tags:
-- American Tea Party
+- Tea Party
 - KMOV
-- Tea Party News
+- Tea Party
 ---
 
 Great coverage of the St. Louis Tea Party on KMOV Channel 4 by reporter [Matt Sczesny](https://www.beloblog.com/KMOV_Blogs/reportersblog/2009/02/the-st-louis-tea-party.html).  

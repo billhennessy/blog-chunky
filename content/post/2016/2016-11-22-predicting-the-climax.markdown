@@ -6,7 +6,7 @@ title: Predicting the Climax
 layout: blog
 url: /2016/11/22/predicting-the-climax/
 categories:
-- Economy
+- The Fourth Turning
 tags:
 - The Fourth Turning
 type: "post"

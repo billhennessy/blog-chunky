@@ -4,8 +4,8 @@ date: 2020-07-06T14:29:25-05:00
 url: why-bother-repeat
 authors: ["Bill Hennessy"]
 images: ["/images/otter.jpg"]
-categories: ["Living", "Faith", "Politics"]
-tags: ["Donald J. Trump"]
+categories: ["The Fourth Turning"]
+tags: ["Donald J. Trump", "The Fourth Turning"]
 draft: false
 ---
 

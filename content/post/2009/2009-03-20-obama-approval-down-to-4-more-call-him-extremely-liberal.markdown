@@ -7,7 +7,7 @@ layout: blog
 url: /2009/03/20/obama-approval-down-to-4-more-call-him-extremely-liberal/
 categories:
 - Economy
-- Tea Party News
+- Tea Party
 ---
 
 The latest Rasmussen poll has bad news for Obama, good news for those of us who’ve been warning America how dangerous he is.

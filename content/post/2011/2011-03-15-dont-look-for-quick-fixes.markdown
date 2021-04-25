@@ -7,6 +7,7 @@ layout: blog
 url: /2011/03/14/dont-look-for-quick-fixes/
 categories:
 - Politics
+- The Fourth Turning
 tags:
 - boomers
 - crisis

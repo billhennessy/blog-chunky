@@ -7,8 +7,9 @@ layout: blog
 url: /2017/02/10/the-resistance-defined/
 categories:
 - Politics
+- The Fourth Turning
 tags:
-- People Want You Dead
+- The Fourth Turning
 type: "post"
 ---
 

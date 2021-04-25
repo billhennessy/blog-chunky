@@ -6,12 +6,12 @@ title: How to Change the World with Twitter
 layout: blog
 url: /2009/02/25/how-to-change-the-world-with-twitter/
 categories:
-- American Tea Party
+- Tea Party
 - Limited Government
 tags:
 - 'tcot'
-- American Tea Party
-- Tea Party News
+- Tea Party
+- Tea Party
 ---
 
 My light blogging owes to our efforts to change the world in a week. My role is, appropriately, miniscule.

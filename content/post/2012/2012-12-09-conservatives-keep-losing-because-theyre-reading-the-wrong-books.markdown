@@ -6,7 +6,7 @@ title: Conservatives Keep Losing Because They’re Reading The Wrong Books
 layout: blog
 url: /2012/12/09/conservatives-keep-losing-because-theyre-reading-the-wrong-books/
 categories:
-- Politics
+- The Fourth Turning
 tags:
 - winning
 type: "post"

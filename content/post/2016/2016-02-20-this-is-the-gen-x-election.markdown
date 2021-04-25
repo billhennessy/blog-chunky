@@ -7,10 +7,10 @@ layout: blog
 url: /2016/02/20/this-is-the-gen-x-election/
 categories:
 - Politics
-
+- The Fourth Turning
 tags:
 - Donald J. Trump
-
+- The Fourth Turning
 type: "post"
 ---
 

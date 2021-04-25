@@ -6,7 +6,7 @@ title: 'Kansas City: 200+ Marching in the Snow'
 layout: blog
 url: /2009/02/28/kansas-city-200-marching-in-the-snow/
 categories:
-- American Tea Party
+- Tea Party
 ---
 
 More than 200 hearty patriots marched through driving snow and 20 degree temps in Kansas City today as part of the ongoing Tea Party Protest.

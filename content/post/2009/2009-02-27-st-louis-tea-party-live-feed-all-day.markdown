@@ -6,13 +6,13 @@ title: St. Louis Tea Party Live Feed All Day
 layout: blog
 url: /2009/02/27/st-louis-tea-party-live-feed-all-day/
 categories:
-- American Tea Party
+- Tea Party
 - Limited Government
 tags:
 - 'tcot'
-- American Tea Party
+- Tea Party
 - Chicago Tea Party
-- Tea Party News
+- Tea Party
 ---
 
 Stay on Hennessy's View for continous live coverage of the St. Louis Tea Party

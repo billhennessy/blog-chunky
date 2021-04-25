@@ -6,7 +6,7 @@ title: Post-Dispatch Out of Touch (no matter what Eric Mink says)
 layout: blog
 url: /2009/03/07/st-louis-post-dispatch-does-not-like-criticism/
 categories:
-- American Tea Party
+- Tea Party
 ---
 
 The St. Louis Post-Dispatch was once a powerful, respected cornerstone of the Pulitzer publishing company. Today, it's little more than a community newspaper. Some near-tomorrow, it will go the way of Rocky Mountain News. Its demise can be traced in large measure to the arrogance of its editorial board.

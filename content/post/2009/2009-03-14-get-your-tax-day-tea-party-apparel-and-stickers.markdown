@@ -6,7 +6,7 @@ title: Get Your Tax Day Tea Party Apparel and Stickers
 layout: blog
 url: /2009/03/14/get-your-tax-day-tea-party-apparel-and-stickers/
 categories:
-- American Tea Party
+- Tea Party
 ---
 
 [![366529887v0_350x350_Front_Color-BlackWhite](https://hennessysview.com/wp-content/uploads/2009/03/366529887v0-350x350-front-color-blackwhite1.jpg)

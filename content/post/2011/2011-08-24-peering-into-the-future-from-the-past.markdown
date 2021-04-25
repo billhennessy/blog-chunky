@@ -6,7 +6,7 @@ title: Peering Into the Future from the Past
 layout: blog
 url: /2011/08/23/peering-into-the-future-from-the-past/
 categories:
-- Living
+- The Fourth Turning
 tags:
 - crisis
 - Generation X
