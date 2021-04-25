@@ -3,6 +3,7 @@ title = "Hennessy's View"
 copyright = "Copyright © 2000-2020, Bill Hennessy; all rights reserved."
 paginate = 4  
 languageCode = "en"
+toc = true
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
@@ -11,6 +12,7 @@ DisqusShortname = ""
 theme = "chunky"
 rssLimit = 5
 ignoreErrors = ["error-remote-getjson"]
+custom_css="/css/custom.css"
 
 [menu]
   [[menu.main]]

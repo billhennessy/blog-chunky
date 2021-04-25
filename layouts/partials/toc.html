@@ -1,0 +1,9 @@
+{{ if or .Params.toc (and .Site.Params.toc (ne .Params.toc false)) -}}
+<div id="toc_container">
+  <h2 class="toc_title">{{ T "toc" }}</h2>
+  {{- $globalAutoCollapseToc := .Site.Params.autoCollapseToc | default false }}
+  <ul class="toc_list{{ if not (or .Params.autoCollapseToc (and $globalAutoCollapseToc (ne .Params.autoCollapseToc false))) }} always-active{{ end }}">
+    {{.TableOfContents}}
+  </ul>
+</div>
+{{- end }}

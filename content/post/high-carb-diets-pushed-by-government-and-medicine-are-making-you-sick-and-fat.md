@@ -1,17 +1,13 @@
----
-authors:
-- Bill Hennessy
-categories = 
-
++++
+authors = ["Bill Hennessy"]
 date = 2021-04-19T15:53:49Z
 draft = true
-featured_image = ""
 images = ["/images/obesity.jpg"]
 tags = []
 title = "High Carb Diets Pushed by Government and Medicine Are Making You Sick and Fat"
 url = "high-carb-diets-are-making-you-fat"
 
----
++++
 Trouble losing weight?
 
 Obesity is the number cause of poor health and miserable life quality in the United States. Just read this description of the lives of many middle-age Americans. It is from _The Barbell Prescription_ by Dr. Jonathon Sullivan and Andy Baker:

@@ -10,13 +10,18 @@ categories:
 - Living
 tags:
 - Coronavirus
+toc: 'In This Post'
 
 ---
-A new report published by _Microbiology and Infections Disease_ is raising alarms. The Pfizer and Moderna COVID-19 vaccines could trigger an avalanche of early-onset Alzheimer's and other degenerative neurological diseases.
+A new report published by _Microbiology and Infectious Disease_ is raising alarms. The Pfizer and Moderna COVID-19 vaccines could trigger an avalanche of early-onset Alzheimer's and other degenerative neurological diseases.
 
 The zombie apocalypse you've read about is coming, and it will resemble _No Exit_ more than _The Walking Dead_. Assuming this report in _Microbiology and Infectious Disease_ is accurate, the world could soon face a zombie apocalypse far more psychologically terrifying than any portrayed in movies, books, and television. In those media, the zombies are already dead. They are a clear and present danger to the living. They can and must be killed for the survival of individuals and the species.
 
 {{< figure src="/images/zombie-apocalypse-3.jpg" caption="Zombie apocalypse battleground in fiction." title="Zombies Attack" >}}
+
+Killing something that is trying to kill you is psychologically satisfying and morally acceptable. Self-defense is permitted in the strictest of pro-life theologies, and lethal force to protect the innocent is mandatory.
+
+But the zombie apocalypse headed our way offers no such opportunity for paramilitary heroism. And "satisfying" will be the last word anyone could think of to describe it.
 
 ### Late Middle Age
 
@@ -74,13 +79,11 @@ Three of your children have entered a rapid cognitive decline into helplessness.
 
 If you've noticed, Millennials are the most eager, even desperate, to get the shot. They won't go out to meet friends. "I haven't gotten my second shot yet, so I can't go," they say. Or, "I'm going to be out next Tuesday. The only place I could the shot is over two hours away. I had to use my grandmother's address." (I don't even know what that means, but I assume some geographical rationing schemes are going on with the vaccine's distribution.)
 
-Killing something that is trying to kill you is psychologically satisfying and morally acceptable. Self-defense is permitted in the strictest of pro-life theologies, and lethal force to protect the innocent is mandatory.
-
-In the vaccine-induced apocalypse, though, the zombies are not brain-eating post-mortem enemies but our children whom we love. They are not trying to kill us but merely to make sense of, to their deteriorating brains, an increasingly chaotic and confusing world.
+In the vaccine-induced apocalypse the zombies are not brain-eating post-mortem enemies but our children whom we love. They are not trying to kill us but merely to make sense of, to their deteriorating brains, an increasingly chaotic and confusing world.
 
 {{< figure src="/images/dementia-ward.jpg" caption="The battleground of the coming zombie apocalypse." title="Dementia Ward" >}}
 
-Those who have watched parent's descent into Alzheimer's oblivion or ALS's paralysis shudder at the thought of seeing the same happen to their children in the prime of life.
+Those who have watched a parent's descent into Alzheimer's oblivion or ALS's paralysis shudder at the thought of seeing the same happen to their children in the prime of life.
 
 But Alzheimer's and ALS remain rare despite efforts by governments and big medicine to increase their frequency. What if billions of young adults turned into Alzheimer's zombies or ALS cripples in a few short years? Who would care for them? Who would do the work of keeping civilization going, the strongest, most resilient generations having been reduced to homebound or institutionalized patients?
 
