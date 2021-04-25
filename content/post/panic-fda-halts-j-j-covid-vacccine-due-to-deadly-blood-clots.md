@@ -4,7 +4,7 @@ categories = ["Coronavirus"]
 date = 2021-04-13T14:43:30Z
 featured_image = ""
 images = ["/images/screen-shot-2021-04-13-at-9-20-00-am.png"]
-tags = ["J&J"]
+tags = ["Coronavirus"]
 title = "PANIC: FDA Halts J&J COVID Vacccine Due to Deadly Blood Clots"
 url = "panic-fda-halts-jandj-vaccine"
 
@@ -18,3 +18,6 @@ The COVID "vaccines" are actually gene therapy. The injections trigger genetic m
 The injections were rushed to market with little human testing. Long-term effects will not be known for years.
 
 If you avoid eating genetically modified organisms (GMOs), don't become one.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzE0ODY3OTMyXX0=
+-->
