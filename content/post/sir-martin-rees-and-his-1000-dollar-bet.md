@@ -63,7 +63,9 @@ We now know that the COVID vaccines are less than 50 percent effective in preven
 Math may not be science, but the math says stay far away from the COVID vaccines until the experiments are complete. That will be about 2041. 
 
 [^1]: Rees, Martin, 2003, *Our Final Hour: A Scientist's Warning: How terror, error, and environmental disaster threaten humankind's future in this century—on earth and beyond*. Cambridge, MA, Basic Books.
-[^
+[^2]: *ibid.*
+[^3]: *ibid.*
+[^4]: *ibid.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDU2MDY5MjRdfQ==
+eyJoaXN0b3J5IjpbMTU5MDA1NTc2Nl19
 -->
