@@ -5,7 +5,7 @@ date = 2021-04-18T12:06:33Z
 draft = true
 featured_image = ""
 images = ["/images/anemia-of-chronic-disease.jpg"]
-tags = []
+tags = ["Coronavirus"]
 title = "Are COVID \"Vaccines\" Designed to Trigger Systemic Inflammation?"
 url = "covid-vaccines-trigger-inflammation"
 
@@ -117,3 +117,6 @@ Carbohydrates, in fact, cause more chronic illness than smoking ever did. Yet, t
 ### The Inflammatory Food Pyramid
 
 Most our lives, we'v
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTM5OTYwNjMwXX0=
+-->
