@@ -3,7 +3,7 @@ title: "Forbidden Secrets of Coronavirus Data Manipulation"
 date: 2020-05-08T17:21:54-05:00
 images: ["secrets.jpg"]
 categories: ["Living"]
-tags: ["Coronavirus", "Critical Thinking", "Nate Silver"]
+tags: ["Coronavirus", "Critical Thinking"]
 url: forbidden-secrets-of-coronavirus-data-manipulation/
 authors: ["Bill Hennessy"]
 ---
@@ -141,3 +141,6 @@ Critical thinking is skepticism. Wear it like a badge of honor and you'll live l
 * [Experts Are Usually Wrong ...](https://hennessysview.com/2009/01/26/experts-are-usually-wrong-so-have-the-experts-rule-everything/) - January 2009
 * [Why Are Experts Leading Us Into Despair](https://hennessysview.com/post/2020/why-are-media-leading-us-into-despair/) - April 2020
 * [Shock Therapy: Scott Adams Scooped Me](https://hennessysview.com/shock-therapy-scott-adams-scooped-me/) - May 2020
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NjIwMDc5MTZdfQ==
+-->
