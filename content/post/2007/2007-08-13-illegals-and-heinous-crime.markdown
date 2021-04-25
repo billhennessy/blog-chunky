@@ -10,7 +10,7 @@ categories:
 tags:
 - dani-countryman
 - Illegal Aliens
-- neosho-missouri
+
 ---
 
 Everyone who pays attention knows that the most spectacular and sickening murders of late were perpetrated by illegal aliens--the kind of people to whom Ted Kennedy wishes to give unfettered access to our schools and hospitals.

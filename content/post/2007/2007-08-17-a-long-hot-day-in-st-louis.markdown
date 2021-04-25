@@ -11,7 +11,7 @@ categories:
 tags:
 - norvelle-brown
 - rock-church
-- st.-alphonsus-church
+
 - St. Louis
 ---
 

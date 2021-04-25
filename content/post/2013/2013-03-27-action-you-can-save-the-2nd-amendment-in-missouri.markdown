@@ -9,7 +9,7 @@ url: /2013/03/26/action-you-can-save-the-2nd-amendment-in-missouri/
 categories:
 - Activism
 tags:
-- 2nd Amendment
+- Second Amendment
 
 type: "post"
 ---

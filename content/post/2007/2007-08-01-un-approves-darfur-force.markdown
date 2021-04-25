@@ -8,7 +8,7 @@ url: /2007/08/01/un-approves-darfur-force/
 categories:
 - Foreign Relations
 tags:
-- barack_obama
+- Barack Obama
 - darfur_genocide
 - un_peacekeeping
 ---

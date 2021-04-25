@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - chesterton
-- christian_virtues
+- Virtue
 - jack_ass
 - kos
 - moral_virtues

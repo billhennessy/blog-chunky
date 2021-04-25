@@ -9,7 +9,7 @@ categories:
 - Latest
 tags:
 - crooks
-- democrats-depose-constitution
+
 - illegal_aliens
 - nancy_pelosi
 - republicans-walk-out

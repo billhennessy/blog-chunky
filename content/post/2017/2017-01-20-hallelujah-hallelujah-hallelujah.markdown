@@ -10,7 +10,7 @@ categories:
 post_format:
 
 tags:
-- maga
+- MAGA
 type: "post"
 ---
 

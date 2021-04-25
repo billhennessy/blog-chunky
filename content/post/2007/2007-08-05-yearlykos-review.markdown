@@ -10,7 +10,7 @@ categories:
 tags:
 - dailykos
 - democratic_underground
-- hillary_clinton
+- Hillary Clinton
 - impeach_president_bush
 - yearly_kos
 ---

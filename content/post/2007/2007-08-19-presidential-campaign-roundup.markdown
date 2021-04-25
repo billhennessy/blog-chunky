@@ -8,11 +8,11 @@ url: /2007/08/19/presidential-campaign-roundup/
 categories:
 - Latest
 tags:
-- barrack_obama
+
 - charles_horton_cooley
 - fred_thompson
-- hillary_clinton
-- magic_negro
+- Hillary Clinton
+
 ---
 
 We're still 15 months away from the next general election.  Remember that.  Getting groceries and taking the kids to hockey practice are more important.  Two World Series separate us from the election, not to mention a season and a half of football, more than a year of  school.  A child born today will be talking and walking before the election.

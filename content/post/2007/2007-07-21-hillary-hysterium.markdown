@@ -10,7 +10,7 @@ categories:
 tags:
 - democrats
 - eric_edelman
-- hillary_clinton
+- Hillary Clinton
 - Iraq
 - paranoid_schizophrenics
 ---

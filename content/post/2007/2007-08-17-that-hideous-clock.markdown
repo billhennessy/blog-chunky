@@ -13,7 +13,7 @@ tags:
 - earthquake
 - Peru
 - Stock-Market
-- Utah-Mine
+
 ---
 
 I just blogged about the bad, sad events in St. Louis, Missouri, today.  A 22-year-old police officer shot to death on duty; a famous, majestic church burned.

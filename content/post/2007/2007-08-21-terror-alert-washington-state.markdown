@@ -10,8 +10,8 @@ categories:
 tags:
 - charleston_south_carolina
 - naval_weapons_station
-- terror-alert
-- washington_state_ferries
+
+
 ---
 
 I got [this link](https://www.nationalterroralert.com/updates/2007/08/20/seattle-washington-fbi-searching-for-suspicious-ferry-passengers/) on [GatewayPundit](https://gatewaypundit.blogspot.com/2007/08/fbi-searching-for-suspicious-ferry.html):

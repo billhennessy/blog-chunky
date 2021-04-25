@@ -9,7 +9,7 @@ categories:
 - Economy
 tags:
 - budget-deficit
-- liberals-love-taxes
+
 - taxes
 ---
 

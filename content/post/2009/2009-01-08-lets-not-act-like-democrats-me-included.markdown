@@ -9,7 +9,7 @@ categories:
 - Living
 - Politics
 tags:
-- barack_obama
+- Barack Obama
 - conservatism
 - stay classy
 ---

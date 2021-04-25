@@ -9,7 +9,7 @@ categories:
 - Foreign Relations
 tags:
 - opinion_journal
-- peggy_noonan
+- Peggy Noonan
 - president_bush
 - ronald_reagan
 ---

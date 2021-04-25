@@ -67,7 +67,7 @@ Still, [this recent New York Times story](https://www.nytimes.com/2011/04/22/us/
 
 
 
-> Americans are more pessimistic about the nation’s economic outlook and overall direction than they have been at any time since [President Obama](https://topics.nytimes.com/top/reference/timestopics/people/o/barack_obama/index.html?inline=nyt-per)’s first two months in office, when the country was still officially ensnared in the Great Recession, according to the latest New York Times/CBS News poll. 
+> Americans are more pessimistic about the nation’s economic outlook and overall direction than they have been at any time since [President Obama](https://topics.nytimes.com/top/reference/timestopics/people/o/Barack Obama/index.html?inline=nyt-per)’s first two months in office, when the country was still officially ensnared in the Great Recession, according to the latest New York Times/CBS News poll. 
 
 Amid rising gas prices, stubborn unemployment and a cacophonous debate in Washington over the federal government’s ability to meet its future obligations, the poll presents stark evidence that the slow, if unsteady, gains in public confidence earlier this year that a recovery was under way are now all but gone.
 

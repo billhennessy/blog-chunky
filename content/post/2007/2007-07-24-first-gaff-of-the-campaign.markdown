@@ -8,7 +8,7 @@ url: /2007/07/23/first-gaff-of-the-campaign/
 categories:
 - Latest
 tags:
-- barack_obama
+- Barack Obama
 - gaff
 - hugh_hewitt
 ---

@@ -8,9 +8,9 @@ url: /2007/08/02/obamas-weird-chess-game/
 categories:
 - Foreign Relations
 tags:
-- barack_obama
+- Barack Obama
 - foreign_policy
-- hillary_clinton
+- Hillary Clinton
 - nuclear_weapons
 ---
 

@@ -8,8 +8,8 @@ url: /2007/08/19/iranians-in-iraq/
 categories:
 - Foreign Relations
 tags:
-- bush_administration
-- iranian_army
+
+
 - the-surge
 ---
 

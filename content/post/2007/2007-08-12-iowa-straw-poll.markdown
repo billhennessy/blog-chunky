@@ -11,7 +11,7 @@ tags:
 - fred_thompson
 - iowa_straw_poll
 - mike_huckabee
-- sam_brownback
+- Sam Brownback
 - senator_john_mccain
 ---
 

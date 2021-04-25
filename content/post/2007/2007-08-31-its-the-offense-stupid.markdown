@@ -8,7 +8,7 @@ url: /2007/08/30/its-the-offense-stupid/
 categories:
 - Latest
 tags:
-- iraq_confirms
+
 - petraeus
 ---
 

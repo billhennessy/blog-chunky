@@ -8,7 +8,7 @@ url: /2007/07/30/brookings-institute-says-us-gaining-in-iraq/
 categories:
 - Foreign Relations
 tags:
-- brookings_institute
+- Brookings Institute
 - hugh_hewitt
 - kenneth_pollack
 - liberals

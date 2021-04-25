@@ -8,7 +8,7 @@ url: /2007/08/08/see-no-terrorists-hear-no-terrorists/
 categories:
 - Latest
 tags:
-- charleston-terror-suspects
+
 - War on Terror
 ---
 

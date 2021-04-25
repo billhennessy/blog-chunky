@@ -9,9 +9,9 @@ categories:
 - Latest
 tags:
 - fred_thompson
-- gop_race
-- newt_gingrich
-- president_of_the_united_states
+
+- Newt Gingrich
+
 ---
 
 [{{< figure src="https://socialnet.imwithfred.com/widget_houseparty.gif" >}}

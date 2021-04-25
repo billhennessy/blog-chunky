@@ -8,9 +8,9 @@ url: /2007/08/21/clinton-on-iraq-victory-is-not-an-option/
 categories:
 - Foreign Relations
 tags:
-- brookings_institute
-- hillary_clinton
-- senator_durbin
+- Brookings Institute
+- Hillary Clinton
+- Senator Durbin
 ---
 
 St. Louis, MO--Campaiging in Mooseknuckles, MO, today, Democrat Hillary Clinton gave supporters her strongest argument to date for an immediate, unconditional pull-out from Iraq.

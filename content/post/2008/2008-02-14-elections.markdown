@@ -8,7 +8,7 @@ url: /2008/02/13/elections/
 categories:
 - Latest
 tags:
-- barack_obama
+- Barack Obama
 - Gus_Hall
 ---
 

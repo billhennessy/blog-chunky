@@ -15,7 +15,7 @@ Here's the first paragraph of a [New York Times article](https://www.nytimes.com
 
 >   
 > 
-> Lacking a clear route to the selection of a Democratic presidential nominee, the party's uncommitted superdelegates say they are growing increasingly concerned about the risks of a prolonged fight between Senators [Hillary Rodham Clinton](https://topics.nytimes.com/top/reference/timestopics/people/c/hillary_rodham_clinton/index.html?inline=nyt-per) and [Barack Obama](https://topics.nytimes.com/top/reference/timestopics/people/o/barack_obama/index.html?inline=nyt-per), and perplexed about how to resolve the conflict.
+> Lacking a clear route to the selection of a Democratic presidential nominee, the party's uncommitted superdelegates say they are growing increasingly concerned about the risks of a prolonged fight between Senators [Hillary Rodham Clinton](https://topics.nytimes.com/top/reference/timestopics/people/c/hillary_rodham_clinton/index.html?inline=nyt-per) and [Barack Obama](https://topics.nytimes.com/top/reference/timestopics/people/o/Barack Obama/index.html?inline=nyt-per), and perplexed about how to resolve the conflict.
 > 
 > 
 

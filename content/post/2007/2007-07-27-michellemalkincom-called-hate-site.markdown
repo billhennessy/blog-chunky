@@ -8,9 +8,9 @@ url: /2007/07/26/michellemalkincom-called-hate-site/
 categories:
 - Latest
 tags:
-- barack_obama
+- Barack Obama
 - bloggers
-- hillary_clinton
+- Hillary Clinton
 - liberals
 - michelle_malkin
 ---

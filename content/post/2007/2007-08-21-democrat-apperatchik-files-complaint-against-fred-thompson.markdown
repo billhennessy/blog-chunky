@@ -8,7 +8,7 @@ url: /2007/08/20/democrat-apperatchik-files-complaint-against-fred-thompson/
 categories:
 - Latest
 tags:
-- federal_election_commission
+- Federal Election Commission
 - fred_thompson
 ---
 
