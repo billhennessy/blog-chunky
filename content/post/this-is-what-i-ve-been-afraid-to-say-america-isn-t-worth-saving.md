@@ -4,7 +4,7 @@ categories = ["Living", "Faith", "Politics"]
 date = 2021-04-21T23:59:37Z
 featured_image = "/images/upside-down-american-flag.jpeg"
 images = ["/images/upside-down-american-flag.jpeg", "/images/6d851d8c-77f1-4ae0-b1ee-5ae6e9463ea0_1_201_a.jpeg"]
-tags = ["prophecy", "denial", "nostalgia", "sentimentality"]
+tags = ["prophecy"]
 title = "This Is What I've Been Afraid to Say: America Is Not Worth Saving"
 url = "america-is-not-worth-saving"
 
@@ -112,3 +112,6 @@ We come back to the beginning in this series of posts and to a reflection of the
 The America we love and wish to restore remains in our hearts. If we persevere, something like it may emerge from this trial by fire. But only if we take up our cross every day and follow Him.
 
 Our help is in the name of the Lord who made heaven and earth, not in an "America" that no longer deserves our toil, sweat, blood, and tears. Build up a surplus of God's graces to see you and your family through. Let man's creation go.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDM5NTc5MDYyXX0=
+-->
