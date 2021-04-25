@@ -27,7 +27,7 @@ Rees lists a few of the fantastical and mundane predictions elicited from lumina
 
 Had I been on the other side of Martin Rees's bet, I would Venmo a $1,000 to him today. Rees nailed it. 
 
-Though the crooked medical industry will never admit it, all available evidence, scientific, economic, political, and legal, indicate that Coronavirus was a man-made concoction that escaped its laboratory in Wuhan and killed well over 1,000,000 people. The deadly virus escaped in 2019 and wrought most of its devastation in 2020, meeting the criteria of Rees's bet. 
+Though the crooked medical industry will never admit it, all available evidence, scientific, economic, political, and legal, [indicate that Coronavirus was a man-made](https://www.dailymail.co.uk/femail/article-8722519/Virologist-claims-publish-evidence-PROVING-coronavirus-manmade.html)  concoction that escaped its laboratory in Wuhan and killed well over 1,000,000 people. The deadly virus escaped in 2019 and wrought most of its devastation in 2020, meeting the criteria of Rees's bet. 
 
 But the rest of chapter six of *Our Final Hour* is more sobering than that bet. 
 
