@@ -12,7 +12,7 @@ tags:
 - norvelle-brown
 - rock-church
 - st.-alphonsus-church
-- st.-louis
+- St. Louis
 ---
 
 **This morning**, I heard the news of the murder of a young police officer.

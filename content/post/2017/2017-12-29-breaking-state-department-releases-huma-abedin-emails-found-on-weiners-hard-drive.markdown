@@ -10,7 +10,7 @@ categories:
 - Crime
 tags:
 - Anthony Weiner
-- Hillary-Clinton
+- Hillary Clinton
 - Huma Abedin
 - Judicial Watch
 type: "post"

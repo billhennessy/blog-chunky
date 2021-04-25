@@ -9,7 +9,7 @@ categories:
 - American Tea Party
 tags:
 - 'tcot'
-- st.-louis
+- St. Louis
 - Tea Party News
 ---
 

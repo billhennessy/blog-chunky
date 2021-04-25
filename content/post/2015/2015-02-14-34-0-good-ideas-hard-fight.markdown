@@ -8,7 +8,7 @@ url: /2015/02/13/34-0-good-ideas-hard-fight/
 categories:
 - Politics
 tags:
-- tom schweich
+- Tom Scheich
 type: "post"
 ---
 

@@ -10,7 +10,7 @@ categories:
 tags:
 - 9-12 Tea Party
 - social proof
-- st.-louis
+- St. Louis
 type: "post"
 ---
 

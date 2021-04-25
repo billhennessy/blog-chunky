@@ -9,7 +9,7 @@ url: /2013/03/21/rockwood-school-district-wants-more-money-but-state-audit-found
 categories:
 - Politics
 tags:
-- tom schweich
+- Tom Scheich
 type: "post"
 ---
 

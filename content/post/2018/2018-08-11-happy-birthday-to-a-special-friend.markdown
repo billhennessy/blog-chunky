@@ -8,7 +8,7 @@ url:  /2018/08/11/happy-birthday-to-a-special-friend/
 categories:
 - Faith
 tags:
-- freedom
+- Freedom
 type: "post"
 ---
 

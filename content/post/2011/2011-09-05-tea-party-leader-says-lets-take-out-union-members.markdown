@@ -8,7 +8,7 @@ url: /2011/09/05/tea-party-leader-says-lets-take-out-union-members/
 categories:
 - Politics
 tags:
-- crime
+- Crime
 - jimmy hoffa
 
 type: "post"

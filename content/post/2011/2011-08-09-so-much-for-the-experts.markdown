@@ -8,7 +8,7 @@ url: /2011/08/08/so-much-for-the-experts/
 categories:
 - Politics
 tags:
-- experts
+- Experts
 - History
 type: "post"
 ---

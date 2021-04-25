@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 
-- tom schweich
+- Tom Scheich
 type: "post"
 ---
 

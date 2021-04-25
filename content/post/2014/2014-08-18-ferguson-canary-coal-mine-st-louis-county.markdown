@@ -8,7 +8,7 @@ url: /2014/08/18/ferguson-canary-coal-mine-st-louis-county/
 categories:
 - Politics
 tags:
-- crime
+- Crime
 
 type: "post"
 ---

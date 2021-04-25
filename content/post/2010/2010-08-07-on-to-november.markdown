@@ -13,7 +13,7 @@ tags:
 - gary fuhr
 - Paul Curtman
 - roy blunt
-- tom schweich
+- Tom Scheich
 type: "post"
 ---
 

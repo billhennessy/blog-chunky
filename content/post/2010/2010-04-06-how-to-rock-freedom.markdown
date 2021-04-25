@@ -10,7 +10,7 @@ categories:
 tags:
 - gimme back my freedom
 - rock
-- tom schweich
+- Tom Scheich
 
 type: "post"
 ---

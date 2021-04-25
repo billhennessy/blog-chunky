@@ -11,7 +11,7 @@ categories:
 tags:
 - control
 - epictetus
-- stoicism
+- Stoicism
 type: "post"
 ---
 

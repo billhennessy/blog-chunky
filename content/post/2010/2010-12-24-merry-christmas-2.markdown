@@ -10,7 +10,7 @@ categories:
 tags:
 - Christ
 - Christmas
-- humility
+- Humility
 type: "post"
 ---
 

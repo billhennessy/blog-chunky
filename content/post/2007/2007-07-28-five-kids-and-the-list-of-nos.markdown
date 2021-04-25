@@ -10,7 +10,7 @@ categories:
 tags:
 - election
 - Election 2008
-- freedom
+- Freedom
 - Korea
 - seat-belts
 - World War II

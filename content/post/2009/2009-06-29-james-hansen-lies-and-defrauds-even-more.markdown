@@ -9,7 +9,7 @@ categories:
 - Latest
 tags:
 - AGW
-- fraud
+- Fraud
 - james hansen
 ---
 

@@ -5,7 +5,7 @@ url: deliverance-prayers-for-president-trump-and-the-election
 authors: ["Bill Hennessy"]
 images: ["/images/st-patrick-window.jpg"]
 categories: ["Politics","Faith"]
-tags: ["Election 20202", "Deliverance Prayers", "Vigano"]
+tags: ["Election 20202", "Deliverance Prayers", "Viganó"]
 draft: false
 keyConcept: ""
 ---

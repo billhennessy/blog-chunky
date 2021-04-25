@@ -8,7 +8,7 @@ url: /2014/08/17/create-hate-discontent-america/
 categories:
 - Crime
 tags:
-- crime
+- Crime
 
 type: "post"
 ---

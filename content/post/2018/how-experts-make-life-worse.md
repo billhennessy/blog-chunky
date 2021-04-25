@@ -6,7 +6,7 @@ authors: ["Bill Hennessy"]
 catetories: 
 - Life
 tags:
-- experts
+- Experts
 - mediocracy
 - The Fourth Turning
 - Victor Davis Hanson

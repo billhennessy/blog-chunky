@@ -10,7 +10,7 @@ categories:
 tags:
 - Denver
 - Douglas County Colorado
-- shooting
+
 type: "post"
 ---
 

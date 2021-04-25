@@ -8,7 +8,7 @@ url: /2011/02/21/wisconsins-teachers/
 categories:
 - Politics
 tags:
-- communism
+- Communism
 
 type: "post"
 ---

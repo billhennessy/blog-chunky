@@ -10,7 +10,7 @@ categories:
 - Politics
 tags:
 - Cesar Sayoc
-- humility
+- Humility
 - Prayer
 type: "post"
 ---

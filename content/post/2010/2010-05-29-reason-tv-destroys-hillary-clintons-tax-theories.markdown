@@ -8,7 +8,7 @@ url: /2010/05/29/reason-tv-destroys-hillary-clintons-tax-theories/
 categories:
 - Politics
 tags:
-- Hillary-Clinton
+- Hillary Clinton
 - tax the rich
 - taxes
 type: "post"

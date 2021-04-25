@@ -5,7 +5,7 @@ url: cancel-culture
 authors: ["Bill Hennessy"]
 images: ["/images/img554.jpg"]
 categories: ["Politics"]
-tags: ["Election 2020", "cancel culture"]
+tags: ["Election 2020", "Cancel Culture"]
 draft: false
 keyConcept: ""
 ---

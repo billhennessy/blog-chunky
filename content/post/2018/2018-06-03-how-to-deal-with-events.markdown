@@ -9,7 +9,7 @@ categories:
 - Stoicism
 tags:
 - Eric Greitens
-- stoicism
+- Stoicism
 type: "post"
 ---
 

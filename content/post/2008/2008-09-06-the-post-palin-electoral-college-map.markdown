@@ -10,7 +10,7 @@ categories:
 tags:
 - Barack Obama
 - Election 2008
-- Hillary-Clinton
+- Hillary Clinton
 - Joe Biden
 - John McCain
 - Sarah Palin

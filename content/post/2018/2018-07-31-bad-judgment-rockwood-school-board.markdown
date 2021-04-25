@@ -11,7 +11,7 @@ categories:
 tags:
 - Dottie Bailey
 - Rockwood School District
-- tom schweich
+- Tom Scheich
 type: "post"
 ---
 

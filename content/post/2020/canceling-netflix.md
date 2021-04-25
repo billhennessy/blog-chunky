@@ -5,7 +5,7 @@ url: cancelling-netflix
 authors: ["Bill Hennessy"]
 images: ["/images/benedict-medal-2.jpg"]
 categories: ["Faith", "Living"]
-tags: ["cancel culture"]
+tags: ["Cancel Culture"]
 draft: false
 ---
 God does not override our free will. But He sometimes gives us black-or-white choices. And these sharp choices seem to be lining up like train cars, forcing Christians to choose between this world and His Kingdom.

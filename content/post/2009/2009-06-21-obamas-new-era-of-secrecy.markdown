@@ -9,7 +9,7 @@ categories:
 - Limited Government
 tags:
 - foia
-- freedom of information act
+- Freedom of information act
 - isikoff
 ---
 

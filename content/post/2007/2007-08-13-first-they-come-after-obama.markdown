@@ -10,7 +10,7 @@ categories:
 tags:
 - Barack Obama
 - Demcrats
-- Hillary-Clinton
+- Hillary Clinton
 - John-Edwards
 ---
 

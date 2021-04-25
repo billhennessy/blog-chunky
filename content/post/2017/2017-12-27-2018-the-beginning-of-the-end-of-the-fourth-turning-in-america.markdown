@@ -9,9 +9,9 @@ categories:
 - Generation X
 - Politics
 tags:
-- globalism
+
 - nationalism
-- populism
+- Populism
 - The Fourth Turning
 type: "post"
 ---

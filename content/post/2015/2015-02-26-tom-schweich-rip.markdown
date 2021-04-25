@@ -8,7 +8,7 @@ url: /2015/02/26/tom-schweich-rip/
 categories:
 - Politics
 tags:
-- tom schweich
+- Tom Scheich
 type: "post"
 ---
 

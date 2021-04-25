@@ -8,7 +8,7 @@ url: /2008/12/28/israel-continues-assault-on-terrorists/
 categories:
 - Foreign Relations
 tags:
-- freedom
+- Freedom
 - Gaza
 - Israel
 ---

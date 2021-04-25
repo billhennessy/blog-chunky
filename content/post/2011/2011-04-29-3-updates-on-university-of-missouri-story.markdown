@@ -9,7 +9,7 @@ categories:
 - Politics
 
 tags:
-- communism
+- Communism
 
 type: "post"
 ---

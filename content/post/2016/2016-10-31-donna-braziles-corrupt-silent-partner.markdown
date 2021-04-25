@@ -13,7 +13,7 @@ tags:
 type: "post"
 ---
 
-![donna brazile and hillary clinton](https://static.conservativetribune.com/wp-content/uploads/2016/10/Donna-Brazile-v-Hillary-Clinton.jpg)
+![donna brazile and hillary clinton](https://static.conservativetribune.com/wp-content/uploads/2016/10/Donna-Brazile-v-Hillary Clinton.jpg)
 
 
 Since its revelation in WikiLeaks two weeks ago, Donna Brazile has been justly excoriated for cheating on behalf of Hillary Clinton by passing along a debate question.

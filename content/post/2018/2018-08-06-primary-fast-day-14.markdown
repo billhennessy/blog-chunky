@@ -10,7 +10,7 @@ categories:
 - Faith
 tags:
 - Dottie Bailey
-- fasting
+- Fasting
 
 type: "post"
 ---

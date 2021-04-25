@@ -3,9 +3,9 @@ title: "Catholic Prayer for America"
 date: 2020-07-24T18:38:43-05:00
 url: catholic-prayer-for-america
 authors: ["Bill Hennessy"]
-images: ["/images/Archbishop-Vigano.jpg"]
+images: ["/images/Archbishop-Viganó.jpg"]
 categories: ["Faith"]
-tags: ["Vigano"]
+tags: ["Viganó"]
 draft: false
 ---
 

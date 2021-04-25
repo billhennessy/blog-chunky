@@ -16,7 +16,7 @@ Carolla's first reaction to the election results was this. Hillary Clinton built
 
 Put another way, here's what the winner's auditorium:
 
-[caption id="attachment_21054" align="aligncenter" width="1000"]![Image clipped from UPI](https://hennessysview.com/wp-content/uploads/2016/11/Buckling-up-for-a-long-night-at-Hillary-Clintons-election-night-party_6_1.jpg)
+[caption id="attachment_21054" align="aligncenter" width="1000"]![Image clipped from UPI](https://hennessysview.com/wp-content/uploads/2016/11/Buckling-up-for-a-long-night-at-Hillary Clintons-election-night-party_6_1.jpg)
 Image clipped from UPI[/caption]
 
 And here's the winner's ballroom:

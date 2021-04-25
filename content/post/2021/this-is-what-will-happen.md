@@ -4,7 +4,7 @@ date: 2021-04-04T08:16:34-05:00
 url: this-is-what-will-happen
 authors: ["Bill Hennessy"]
 images: ["/images/Iu.jpeg"]
-categories: ["Life"]
+categories: ["Living"]
 tags: ["Vaccine Passport", "Prophecy", "the great reset"]
 draft: false
 keyConcept: ""

@@ -68,8 +68,8 @@ Accepting whatever happens as a gift from God requires God's abundant graces and
 
 On the first point, though, here's what I'm thinking. Here's how to bring God into the 2020 US election:
 
-1. Pray every day. For this prayer, at a minimum, pray [Archbishop Vigano's Prayer for the United States](https://hennessysview.com/catholic-prayer-for-america/).  And, if that's too long, try his prayer for the novena for the US election below. 
-2. Join the [54-Day Rosary for the Election](https://www.lifesitenews.com/blogs/day-1-54-day-u.s-election-novena) sponsored by LifeSiteNews.com and approved by Archbishop Vigano. 
+1. Pray every day. For this prayer, at a minimum, pray [Archbishop Viganó's Prayer for the United States](https://hennessysview.com/catholic-prayer-for-america/).  And, if that's too long, try his prayer for the novena for the US election below. 
+2. Join the [54-Day Rosary for the Election](https://www.lifesitenews.com/blogs/day-1-54-day-u.s-election-novena) sponsored by LifeSiteNews.com and approved by Archbishop Viganó. 
 3. Read 2 Maccabees. It's not in Protestant bibles, but [it is available online here](https://www.kingjamesbibleonline.org/2-Maccabees-Chapter-1/).
 4. Pray a simple deliverance prayer that asks the heavenly hosts to dispel demons. (Do not attempt to order demons around. You don't have legal authority to do so unless the demons are affecting yourself, your spouse, your children, or your home and possessions. It's best to leave this to priests who know demononology.) If you don't know such a prayer, I've added one at the end of this post.
 
@@ -103,7 +103,7 @@ Use these dates and feasts to pray specifically for the intercessions of the ang
 
 ------
 
-### Archbishop Vigano's Prayer for US Election
+### Archbishop Viganó's Prayer for US Election
 
 > Let us pray for the United States of America; let us pray for our President; let us pray for his victory, that the Lord God of Hosts – Dominus Deus Sabaoth –will grant that he may know how to place himself under God’s protection and may desire to make himself the knight who fights for the just and the defender of the oppressed. Let us pray that the snares that the invisible Enemy plots in the shadows may come into the light, and that those who want to promote vice and sin, and rebellion against the Commandments of God and the very laws of nature, may be defeated. Let us pray with the faith of children who run gementes et flentes to their Queen, so that she may intercede for us with her Divine Son and obtain for us the grace to see the beloved American nation protected as well as the whole world, our families defended, and our adversaries defeated. Then we too will be able to write: Not valor, not the power of the media, not economic resources, but Our Lady of the Holy Rosary made us victors. So may it be.
 
@@ -111,7 +111,7 @@ Use these dates and feasts to pray specifically for the intercessions of the ang
 
 ----
 
-### Archbishop Vigano's Introduction to the 54-Day Novena
+### Archbishop Viganó's Introduction to the 54-Day Novena
 
 > Anyone who believes he can merit the glory of Paradise by living a mediocre life knows he is on the wrong track: Regnum caelorum vim patitur et violenti rapiunt illud [The kingdom of heaven suffers violence, and the violent take it by force](Mt 11:12). In these strong words of the Gospel we understand that only the violent can in some way conquer the Justice of God and obtain its reward thanks to His infinite Mercy. A violence, a force, that is certainly not that of the world but that consists above all in recognizing our own unworthiness – as mortal creatures before the Uncreated and Eternal Being, and as sinners before the Holy of Holies – and also the Omnipotence of God, who deigned to redeem us by the Passion and Death of His Divine Son. I would also say that the first act of this sublime violence to conquer the Kingdom of God was accomplished by Our Lord, who in the eternity of time wanted to restore the Fall of Adam by offering himself to the Father to redeem us from sin and death: Tunc dixi: Ecce venio. In capite libri scriptum est de me, ut faciam Deusvoluntatem tuam [Then I said: Behold, I come. In the scroll of the book it is written of me, that I should do your will, O God](Ps 39:8-10). Similarly, Our Lady also responds to the Archangel Gabriel: Ecce ancilla Domini: fiat mihi secundum verbum tuum [Behold the handmaid of the Lord: be it done to me according to your word](Lk 1: 38). 
 >

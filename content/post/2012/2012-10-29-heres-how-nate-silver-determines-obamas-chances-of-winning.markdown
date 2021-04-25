@@ -10,7 +10,7 @@ categories:
 tags:
 - Henry Blodget
 - Nate Silver
-- satire
+- Satire
 type: "post"
 ---
 

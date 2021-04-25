@@ -10,7 +10,7 @@ categories:
 tags:
 - Eric Greitens
 - John Hancock
-- tom schweich
+- Tom Scheich
 type: "post"
 ---
 

@@ -10,7 +10,7 @@ categories:
 - Living
 tags:
 - Catechism
-- death penalty
+- Death Penalty
 - Bergoglio
 type: "post"
 ---

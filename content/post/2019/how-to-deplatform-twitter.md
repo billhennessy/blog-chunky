@@ -7,7 +7,7 @@ draft: false
 categories:
 - Politics
 tags:
-- social media
+- Social Media
 authors: ["Bill Hennessy"]
 type: "post"
 ---

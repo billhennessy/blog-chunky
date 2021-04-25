@@ -9,7 +9,7 @@ categories:
 - Living
 tags:
 - cancer
-- fasting
+- Fasting
 
 type: "post"
 ---

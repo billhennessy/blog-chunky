@@ -11,7 +11,7 @@ categories:
 - Living
 tags:
 - Cardinal McCarrick
-- Vigano
+- Viganó
 - Bergoglio
 type: "post"
 ---
@@ -67,7 +67,7 @@ By their nefarious actions and cowardly behavior, the church hierarchy has broug
 
 I know too [many good priests](https://www.hennessysview.com/2018/08/23/now-lets-thank-god-for-priests/), innocent of any involvement in these sordid crimes, priests who've sent their fellow priests to prison for such disgusting behavior. These innocent men don't deserve the suspicion that all Catholics are currently under. The only way to clear the innocent is to expose, prosecute, and permanently isolate the guilty. I write this with no fear of error or scandal.
 
-Therefore, I call on Pope Francis to vigorously deny Archbishop Vigano's accusations, offering evidence of his innocence, or resign immediately. And I call on Pope Emeritus Benedict XVI to confirm or deny the portions of Archbishop Vigano's testimony that Benedict alone knows to be true or false. Finally, I ask that every Christian, Catholic or not, pray for the good innocent priests who are unfairly under suspicion because of this sordid affair and the cowardice of their bosses going all the way to Popes Francis and Benedict. May the Holy Spirit lavish them all with wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord.
+Therefore, I call on Pope Francis to vigorously deny Archbishop Viganó's accusations, offering evidence of his innocence, or resign immediately. And I call on Pope Emeritus Benedict XVI to confirm or deny the portions of Archbishop Viganó's testimony that Benedict alone knows to be true or false. Finally, I ask that every Christian, Catholic or not, pray for the good innocent priests who are unfairly under suspicion because of this sordid affair and the cowardice of their bosses going all the way to Popes Francis and Benedict. May the Holy Spirit lavish them all with wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord.
 
 It's time for the Church to clean house, to bleach its many stains, and to send the perpetrators and their protectors to permanent exile in a monastery for penance where their only potential victims are each other.
 

@@ -8,7 +8,7 @@ url: /2017/09/14/graceless/
 categories:
 - Politics
 tags:
-- Hillary-Clinton
+- Hillary Clinton
 - what happened
 type: "post"
 ---
