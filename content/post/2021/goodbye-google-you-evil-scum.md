@@ -5,7 +5,7 @@ url: goodbye-google-you-evil-scum
 authors: ["Bill Hennessy"]
 images: ["/images/google-logo.jpg"]
 categories: ["Politics"]
-tags: ["google", "firebase"]
+tags: ["social media"]
 draft: false
 keyConcept: ""
 ---
@@ -23,3 +23,6 @@ Previously, I had removed all Google search from all my browsers and devices. I 
 I use [Gab's Dissenter browser](https://dissenter.com/download), too. 
 
 Google's original mantra was "don't be evil." Google is evil. Don't support evil. 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTUxNDgzNDkxMl19
+-->
