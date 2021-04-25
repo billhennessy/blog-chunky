@@ -5,7 +5,7 @@ url: care-less
 authors: ["Bill Hennessy"]
 images: ["/images/heaven.jpg"]
 categories: ["Faith"]
-tags: ["caring", "awareness"]
+tags: []
 draft: false
 
 ---
@@ -63,3 +63,6 @@ And we all have the exact same mission, the same purpose in life: to get home ag
 
 Care less. 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTMyMTM1ODEwXX0=
+-->
