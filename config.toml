@@ -16,11 +16,6 @@ custom_css="/css/custom.css"
 
 [menu]
   [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 10
-  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
