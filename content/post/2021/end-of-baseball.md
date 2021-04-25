@@ -5,7 +5,7 @@ url: end-of-baseball
 authors: ["Bill Hennessy"]
 images: ["/images/mlb-unamerican.png"]
 categories: ["Politics"]
-tags: ["MLB", "election fraud", "Georgia"]
+tags: ["MLB", "election fraud"]
 draft: false
 keyConcept: ""
 ---
@@ -27,3 +27,6 @@ By caving to a demand by Joe Biden, MLB entered the political fray with both fee
 For myself, I hope never to attend a Major League Baseball game again. I'm done with the boring, expensive pastime. I hope the people who read this blog will end any attachments to the sport, as well. 
 
 Make Major League Baseball an unAmerican has-been. Boycott baseball.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTYyNDczNTc0OF19
+-->
