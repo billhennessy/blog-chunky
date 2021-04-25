@@ -19,11 +19,11 @@ Sir Martin Rees is the former Astronomer Royal of Britain. We probably need to e
 
 In 2002, Sir Martin wrote in chapter six of his book, *Our Final Hour: How terror, error, and environmental disaster threaten humankind's future in this century—on earth and beyond*:
 
-> In 2002 the magazine *WIRED*, a glossy monthly with a focus on computers and electronic gadgetry, inaugurated a series of "long bets." The idea was to gather some predictions about future developments in society, science, and technology, and thereby stimulate debate.
+> In 2002 the magazine *WIRED*, a glossy monthly with a focus on computers and electronic gadgetry, inaugurated a series of "long bets." The idea was to gather some predictions about future developments in society, science, and technology, and thereby stimulate debate.[^1]
 
 Rees lists a few of the fantastical and mundane predictions elicited from luminaries of the day. He then describes his submission to the list.
 
-> I staked one thousand dollars on a bet: "That by the year 2020 an instance of bioerror or bioterror will have killed a million people." 
+> I staked one thousand dollars on a bet: "That by the year 2020 an instance of bioerror or bioterror will have killed a million people."[^2] 
 
 Had I been on the other side of Martin Rees's bet, I would Venmo a $1,000 to him today. Rees nailed it. 
 
@@ -33,7 +33,7 @@ But the rest of chapter six of *Our Final Hour* is more sobering than that bet.
 
 In chapter one, Rees hints at what these GNR technologies could bring about:
 
-> Populations could be wiped out by lethal "engineered" airbourne viruses; human character may be changed by new techniques far more targeted and effective than the nostrums and drugs familiar today; we may even one day be threatened by rogue nanomachines that replicate catastrophically, or by superintelligent computers.
+> Populations could be wiped out by lethal "engineered" airbourne viruses; human character may be changed by new techniques far more targeted and effective than the nostrums and drugs familiar today; we may even one day be threatened by rogue nanomachines that replicate catastrophically, or by superintelligent computers.[^3]
 
 Which brings us to the COVID vaccine and the zombie apocalypse. 
 
@@ -43,7 +43,7 @@ Scientists believe that Coronaviruses of the SARS variety are particularly troub
 
 But tinkering with DNA undoubtedly has side effects we do not yet know. And these COVID vaccine were tested only superficially. There is no long-term study to quantify the risks, but there are adjacent studies that give grim glimpses into the future of people who get the jab. [As we reported yesterday](/post/the-zombie-apocalypes-is-coming-but-it-wont-look-like-the-movies/), the way these vaccines alter DNA opens the door to massive increases in Alzheimers, ALS, and other neurological diseases. Sir Martin descdribes the problem in *Our Final Hour*. He recounts that most new kinds of surgery tend to have depressingly high mortality or failure rates, but that people facing certain death often choose to take their chances anyway. The upside, in these cases, is worth the risk to the terminal patient. 
 
-> But **there is a difference when those exposed to the risk are given no choice, and don't stand to gain any compensating benefit**, when the "worst case" could be disasterous, or when the risk can't be quantified. Some scientists seem fatalistic about the risks; or else optimistic, even complacent, that the more scarifying "downsides" can be averted. This optimisim may be misplaced, and **we should therefore ask, can the more intractable risks be staved off by "going slow" in some areas**, or by sacrificing some of science's traditional openness?
+> But **there is a difference when those exposed to the risk are given no choice, and don't stand to gain any compensating benefit**, when the "worst case" could be disasterous, or when the risk can't be quantified. Some scientists seem fatalistic about the risks; or else optimistic, even complacent, that the more scarifying "downsides" can be averted. This optimisim may be misplaced, and **we should therefore ask, can the more intractable risks be staved off by "going slow" in some areas**, or by sacrificing some of science's traditional openness?[^4]
 
 Science moved anything but slowly with these COVID vaccines. I know President Trump seemed very proud at the speed with which Pfizer and Moderna brought these vaccines to market. But President Trump is neither a scientist nor a philopher, and the people he relied on for scientific advice have deep vested financial interest in selling these therapies. 
 
@@ -61,3 +61,8 @@ The media and irresponsible doctors have made COVID-19 terrifying. More terrifyi
 We now know that the COVID vaccines are less than 50 percent effective in preventing the disease. We also know the disease is lethal in less than one percent of cases. We have no idea how many people will die from Alzheimer's or ALS because of the vaccines. 
 
 Math may not be science, but the math says stay far away from the COVID vaccines until the experiments are complete. That will be about 2041. 
+
+[^1]: Rees, Martin, 2003, *Our Final
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIyMTQ2NzAyNV19
+-->
