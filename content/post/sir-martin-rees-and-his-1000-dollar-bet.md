@@ -25,9 +25,9 @@ Rees lists a few of the fantastical and mundane predictions elicited from lumina
 
 > I staked one thousand dollars on a bet: "That by the year 2020 an instance of bioerror or bioterror will have killed a million people."[^2] 
 
-Had I been on the other side of Martin Rees's bet, I would Venmo a $1,000 to him today. Rees nailed it. 
+Had I been on the other side of Martin Rees's bet, I would send him one thousand dollars today. Rees nailed the bet. 
 
-Though the crooked medical industry will never admit it, all available evidence, scientific, economic, political, and legal, [indicate that Coronavirus was a man-made](https://www.dailymail.co.uk/femail/article-8722519/Virologist-claims-publish-evidence-PROVING-coronavirus-manmade.html)  concoction that escaped its laboratory in Wuhan and killed well over 1,000,000 people. The deadly virus escaped in 2019 and wrought most of its devastation in 2020, meeting the criteria of Rees's bet. 
+The crooked medical industry may never admit it, but most available evidence—scientific, economic, political, and legal—[indicate that Coronavirus was a man-made](https://www.dailymail.co.uk/femail/article-8722519/Virologist-claims-publish-evidence-PROVING-coronavirus-manmade.html)  concoction that escaped its laboratory in Wuhan and killed well over 1,000,000 people. The deadly virus escaped in 2019 and wrought most of its devastation in 2020, meeting the criteria of Rees's bet. 
 
 But the rest of chapter six of *Our Final Hour* is more sobering than that bet. 
 
@@ -67,5 +67,5 @@ Math may not be science, but the math says stay far away from the COVID vaccines
 [^3]: *ibid.*
 [^4]: *ibid.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDA1NTc2Nl19
+eyJoaXN0b3J5IjpbMTIzNTU2ODgwMywxNTkwMDU1NzY2XX0=
 -->
