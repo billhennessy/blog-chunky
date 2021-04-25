@@ -19,7 +19,7 @@ categories:
 - Politics
 tags:
 - Social Media
-- AYTU Biotech
+
   
 # post type
 type: "post"
@@ -48,3 +48,6 @@ This is why I encourage everyone to begin moving their social media activity awa
 ![gab.jpg](/images/gab.jpg)
 
 Deplatform the platforms of hate.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAwNTQ1ODg0M119
+-->
