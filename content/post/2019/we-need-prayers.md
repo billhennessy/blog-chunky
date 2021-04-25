@@ -7,7 +7,7 @@ featuredImage: /images/uploads/Rosary-Coast-to-Coast-Flyer-2019-2.png
 categories:
 - Faith
 tags:
-- Rosary Coast-to-Coast
+- Rosary
 authors: ["Bill Hennessy"]
 type: "post"
 ---

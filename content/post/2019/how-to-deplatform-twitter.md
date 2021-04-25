@@ -7,7 +7,7 @@ draft: false
 categories:
 - Politics
 tags:
-- deplatform twitter
+- social media
 authors: ["Bill Hennessy"]
 type: "post"
 ---

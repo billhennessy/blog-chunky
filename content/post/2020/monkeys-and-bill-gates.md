@@ -17,7 +17,7 @@ categories:
 - Living
 tags:
 - Coronavirus
-- IHME
+
 
 # post type
 type: "post"

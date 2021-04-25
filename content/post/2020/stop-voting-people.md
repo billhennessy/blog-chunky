@@ -5,7 +5,7 @@ url: stop-voting
 authors: ["Bill Hennessy"]
 images: ["/images/dont-vote.jpeg"]
 categories: ["Politics"]
-tags: ["election 2020", "voting", "GOP"]
+tags: ["election 2020", "GOP"]
 draft: false
 keyConcept: ""
 ---

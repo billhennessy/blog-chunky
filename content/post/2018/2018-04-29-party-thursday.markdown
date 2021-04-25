@@ -8,7 +8,7 @@ url:  /2018/04/29/party-thursday/
 categories:
 - Politics
 tags:
-- Dottie Bailey for Missouri
+- Dottie Bailey
 - Tim Jones
 type: "post"
 ---

@@ -8,9 +8,7 @@ url:  /2018/09/02/why-would-i-do-this-now/
 categories:
 - Faith
 tags:
-- Leap of Faith
-- liberty evangelism
-- Street Evangelism
+- Evangelism
 type: "post"
 ---
 

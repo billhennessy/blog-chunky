@@ -9,9 +9,10 @@ categories:
 - Faith
 tags:
 - behavioral science
+- Psychology
 - happiness
 - Ten Commandments
-- The Plan
+
 type: "post"
 ---
 

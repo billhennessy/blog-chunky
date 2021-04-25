@@ -6,11 +6,8 @@ authors: ["Bill Hennessy"]
 categories: 
 - Faith
 tags:
-- Venezuela
-- Maduro
-- Guaido
-- Liberation Theology
-- Rosary Crusade
+- Rosary 
+- Prayer
 type: "post"
 ---
 

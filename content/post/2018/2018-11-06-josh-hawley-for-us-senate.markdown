@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - Josh Hawley
-- MoSen
+
 type: "post"
 ---
 

@@ -8,7 +8,7 @@ categories:
 tags:
 - Dottie Bailey
 - Tea Party
-- Living
+
 type: "post"
 ---
 

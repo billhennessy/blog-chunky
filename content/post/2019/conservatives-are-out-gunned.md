@@ -7,7 +7,7 @@ draft: true
 categories:
 - Faith
 tags:
-- Ephesians 6
+- Ephesians 6:10
 authors: ["Bill Hennessy"]
 type: "post"
 ---

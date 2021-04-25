@@ -8,7 +8,7 @@ catetories:
 tags:
 - experts
 - mediocracy
-- Fourth Turning
+- The Fourth Turning
 - Victor Davis Hanson
 ---
 Millennials seem to believe anything that comes from the mouth of an "expert." Even the older Millennials are probably too green to realize that listening to experts will produce worse results than going with your gut. 

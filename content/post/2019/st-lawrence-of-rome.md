@@ -8,6 +8,7 @@ categories:
 - Faith
 tags:
 - St. Lawrence of Rome
+- Prayer
 ---
 St. Lawrence of Rome is the patron saint of comedians. I had no idea there was one. But there is, and it's St. Lawrence. He earned that designation for his obstinate and comedic refusal to  deny Christ, even to his death. 
 

@@ -10,7 +10,7 @@ categories:
   - Faith
   
 tags:
-  - Truth
+  - Prayer
 
 authors: ["Bill Hennessy"]
 

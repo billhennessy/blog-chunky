@@ -9,6 +9,7 @@ categories:
 tags:
 - Our Lady
 - Demons
+- Spirtual Warfare
 authors: ["Bill Hennessy"]
 type: "post"
 ---

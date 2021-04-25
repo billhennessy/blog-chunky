@@ -8,7 +8,7 @@ featuredImage: /images/uploads/latin-mass-elevation.jpg
 categories: 
 - Faith
 tags:
-- Latin Mass
+- Traditional Latin Mass
 - Ss. Gregory and Augustine
 
 type: "post"

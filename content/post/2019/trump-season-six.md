@@ -8,7 +8,7 @@ categories:
 - Politics
 tags:
 - Scott Adams
-- Politics Movie
+- Politics 
 authors: ["Bill Hennessy"]
 type: "post"
 ---

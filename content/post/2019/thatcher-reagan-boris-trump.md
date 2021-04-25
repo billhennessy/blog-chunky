@@ -7,9 +7,8 @@ images: ["boris.jpg"]
 categories:
 - Politics
 tags:
-- UK Elections
 - Boris Johnson
-- Politics
+
 authors: ["Bill Hennessy"]
 type: "post"
 ---

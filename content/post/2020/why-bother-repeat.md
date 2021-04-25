@@ -5,7 +5,7 @@ url: why-bother-repeat
 authors: ["Bill Hennessy"]
 images: ["/images/otter.jpg"]
 categories: ["Living", "Faith", "Politics"]
-tags: []
+tags: ["Donald J. Trump"]
 draft: false
 ---
 

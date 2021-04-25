@@ -3,10 +3,12 @@ type: post
 title: 'UPDATED: Watch Traditional Latin Mass at Home Tomorrow '
 date: 2020-03-21T22:00:00.938Z
 images: ["confiteor.jpg"]
+draft: false
 categories: 
 - Faith
 tags:
   - Coronavirus
+  - Traditional Ltin Mass
 
 
 authors: [Bill Hennessy]

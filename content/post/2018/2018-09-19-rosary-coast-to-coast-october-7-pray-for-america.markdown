@@ -10,7 +10,7 @@ categories:
 - Faith
 tags:
 - Prayer
-- Rosary Coast-to-Coast
+- Rosary
 - Spiritual Warfare
 type: "post"
 ---

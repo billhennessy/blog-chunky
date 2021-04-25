@@ -5,7 +5,7 @@ url: love-of-country-first
 authors: ["Bill Hennessy"]
 images: ["/images/kennedy-nixon.jpg"]
 categories: ["Politics"]
-tags: ["Trump", "Election 2020"]
+tags: ["Donald J. Trump", "Election 2020"]
 draft: false
 keyConcept: ""
 ---

@@ -9,10 +9,10 @@ categories:
 - Faith
 - Politics
 tags:
-- faith
+- Faith
 - Impeachment
 - Brett Kavanaugh
-- progressives
+
 type: "post"
 ---
 

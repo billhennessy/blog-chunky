@@ -5,7 +5,7 @@ url: please-dont-share-this-post-on-social-media
 authors: ["Bill Hennessy"]
 images: ["/images/loneliness.jpg","/images/digital-minimalism.jpg"]
 categories: ["Living"]
-tags: ["Social Media","Loneliness","Jealousy","Facebook","Twitter"]
+tags: ["Social Media"]
 draft: false
 ---
 It's time to pare back our addiction to social media, and I will propose an alternative later in this post. 

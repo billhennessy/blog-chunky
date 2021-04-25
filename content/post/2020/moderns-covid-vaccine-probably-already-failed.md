@@ -5,7 +5,7 @@ url: moderns-covid-vaccine-probably-already-failed
 authors: ["Bill Hennessy"]
 images: ["/images/moderna-fauci.jpg"]
 categories: ["Living"]
-tags: ["Coronavirus", "Moderna", "Vaccines", "NIAID"]
+tags: ["Coronavirus", "Vaccines"]
 draft: false
 ---
 

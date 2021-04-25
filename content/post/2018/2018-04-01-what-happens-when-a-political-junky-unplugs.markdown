@@ -9,7 +9,6 @@ categories:
 - Living
 - Politics
 tags:
-- 12 Rules for Life
 - Jordan B. Peterson
 type: "post"
 ---

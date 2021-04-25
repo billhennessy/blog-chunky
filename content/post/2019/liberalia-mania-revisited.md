@@ -8,7 +8,7 @@ authors: ["Bill Hennessy"]
 categories: 
 - Faith
 tags:
-- Blog
+- Blogging
 type: "post"
 ---
 

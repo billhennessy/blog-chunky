@@ -5,7 +5,7 @@ url: trump-has-three-ways-to-win
 authors: ["Bill Hennessy"]
 images: ["/images/stopwatch.jpg"]
 categories: ["Politics", "Faith"]
-tags: ["Election 2020"]
+tags: ["Election 2020", "Donald J. Trump"]
 draft: false
 
 ---

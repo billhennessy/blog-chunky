@@ -5,7 +5,7 @@ url: water-gun-baptism
 authors: ["Bill Hennessy"]
 images: ["/images/priest-gun-0.jpeg"]
 categories: ["Faith"]
-tags: ["Squirt-gun Baptism"]
+tags: ["Novus Ordo"]
 draft: false
 ---
 

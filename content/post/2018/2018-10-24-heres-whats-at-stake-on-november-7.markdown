@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - Fast
-- Pray
+- Prayer
 - vote
 type: "post"
 ---

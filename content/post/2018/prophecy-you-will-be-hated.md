@@ -7,7 +7,6 @@ categories:
 - Faith
 tags:
 - faith
-- Politics
 type: "post"
 ---
 

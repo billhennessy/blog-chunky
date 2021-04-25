@@ -7,9 +7,8 @@ categories:
 - Faith
 - Living
 tags:
-- popularity
 - Timothy Gordon
-- David Gordon
+
 authors: ["Bill Hennessy"]
 type: "post"
 ---

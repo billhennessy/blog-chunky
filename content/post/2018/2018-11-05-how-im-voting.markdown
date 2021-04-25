@@ -8,6 +8,8 @@ url:  /2018/11/05/how-im-voting/
 categories:
 - Politics
 - Living
+tags:
+- vote
 type: "post"
 ---
 

@@ -9,8 +9,7 @@ categories:
 - Stoicism
 tags:
 - Chelsea Handler
-- Politics
-- Fear and Loathing
+
 type: "post"
 ---
 

@@ -9,8 +9,7 @@ categories:
 - Politics
 tags:
 - Eric Greitens
-- Kim Gardner
-- Mission Continues
+
 type: "post"
 ---
 

@@ -9,8 +9,7 @@ categories:
 - Politics
 tags:
 - Dottie Bailey
-- Politics 110
-- Politics House
+
 type: "post"
 ---
 

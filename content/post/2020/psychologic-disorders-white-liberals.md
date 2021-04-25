@@ -5,7 +5,7 @@ url: psychologic-disorders-white-liberals
 authors: ["Bill Hennessy"]
 images: ["/images/mental-illness.jpg"]
 categories: ["Politics", "Living"]
-tags: ["Mental Illness", "Psychological Disorders"]
+tags: ["Psychology"]
 draft: false
 ---
 

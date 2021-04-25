@@ -8,7 +8,7 @@ url:  /2018/04/30/hard-advice-for-many-friends/
 categories:
 - Politics
 tags:
-- eric Greiten
+- Eric Greitens
 type: "post"
 ---
 

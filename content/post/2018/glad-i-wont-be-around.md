@@ -6,7 +6,6 @@ authors: ["Bill Hennessy"]
 catetories: 
 - Faith
 tags:
-- Blog
 - Monasticism
 - The Benedict Option
 type: "post"

@@ -8,7 +8,7 @@ url:  /2018/08/12/how-to-get-to-heaven-i-think/
 categories:
 - Faith
 tags:
-- Evangelism
+- Prayer
 type: "post"
 ---
 

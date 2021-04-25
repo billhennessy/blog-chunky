@@ -7,6 +7,8 @@ title: Looks Like a False Flag Event
 url:  /2018/10/25/looks-like-a-false-flag-event/
 categories:
 - Living
+tags:
+- False Flag
 type: "post"
 ---
 

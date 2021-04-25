@@ -5,7 +5,7 @@ url: winner-take-all-election
 authors: ["Bill Hennessy"]
 images: ["/images/dystopia-2020.png"]
 categories: ["Politics"]
-tags: ["dystopia", "Election 2020"]
+tags: ["Election 2020"]
 draft: false
 ---
 You might be wondering why Democrats are so brazen. Why would they knowingly impeach Trump on senseless and unimpeachable charges? Why would they wiretap and entrap the incoming Trump administration? Why would they commit so many felonies? Why would they nominate a corrupt and senile old influence peddler for president? 

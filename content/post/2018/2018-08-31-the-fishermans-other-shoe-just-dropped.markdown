@@ -11,8 +11,8 @@ categories:
 - Living
 tags:
 - Cardinal McCarrick
-- Carlo Maria Vigano
-- Pope Francis
+- Vigano
+- Bergoglio
 type: "post"
 ---
 

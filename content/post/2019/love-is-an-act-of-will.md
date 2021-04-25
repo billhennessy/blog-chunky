@@ -8,7 +8,7 @@ categories:
 tags:
 - Love
 - Thomas Aquinas
-- Bishop Robert Barron
+- Bishop Barron
 type: "post"
 ---
 

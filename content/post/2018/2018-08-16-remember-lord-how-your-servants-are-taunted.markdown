@@ -9,9 +9,8 @@ categories:
 - Faith
 tags:
 - Armor of Christ
-- Faith Scandal
-- Pedophile Priests
-- Sex abuse scandal
+- Ephesians 6:10
+
 type: "post"
 ---
 

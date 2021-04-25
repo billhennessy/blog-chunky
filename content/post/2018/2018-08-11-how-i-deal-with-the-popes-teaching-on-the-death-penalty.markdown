@@ -11,8 +11,7 @@ categories:
 tags:
 - Catechism
 - death penalty
-- Magisterium of the Church
-- Pope Francis
+- Bergoglio
 type: "post"
 ---
 

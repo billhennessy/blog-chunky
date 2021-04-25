@@ -6,7 +6,8 @@ authors: ["Bill Hennessy"]
 categories: 
 - Faith
 tags:
--
+- Prayer
+- Fasting
 
 type: "post"
 ---

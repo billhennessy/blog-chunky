@@ -8,6 +8,7 @@ url:  /2018/10/28/this-could-make-missouri-a-blue-state-fast/
 categories:
 - Politics
 tags:
+- Clean Missouri
 
 type: "post"
 ---

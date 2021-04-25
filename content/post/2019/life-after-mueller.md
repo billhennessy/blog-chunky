@@ -8,8 +8,8 @@ authors: ["Bill Hennessy"]
 categories: 
 - Politics
 tags:
-- Politics
 - Mueller
+- Donald J. Trump
 type: "post"
 ---
 

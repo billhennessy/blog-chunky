@@ -3,7 +3,7 @@ title: "Trump Triumphant"
 date: 2020-05-08T04:56:39-05:00
 images: ["trump-triumphant.jpg"]
 categories: [Politics]
-tags: [Trump, Impeachment]
+tags: [Donald J. Trump]
 draft: false
 authors: [Bill Hennessy]
 ---

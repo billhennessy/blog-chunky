@@ -9,11 +9,9 @@ categories:
 - Faith
 tags:
 - Roman Empire
-- Yellow Vest Riots
 - Brexit
-- American Civilzation
 - Fall of Rome
-- Rise of Monasticism
+- Monasticism
 ---
 They were warned. They didn’t listen. 
 

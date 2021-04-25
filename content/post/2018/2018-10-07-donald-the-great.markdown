@@ -7,6 +7,8 @@ title: Donald the Great
 url:  /2018/10/06/donald-the-great/
 categories:
 - Politics
+tags:
+- Donald J. Trump
 type: "post"
 ---
 

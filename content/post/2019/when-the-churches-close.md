@@ -6,7 +6,8 @@ images: ["/uploads/"]
 categories:
 - Faith
 tags:
-- End Game
+- Novus Ordo
+- Traditional Latin Mass
 authors: ["Bill Hennessy"]
 type: "post"
 ---

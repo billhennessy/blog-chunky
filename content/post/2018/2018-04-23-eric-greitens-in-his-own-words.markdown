@@ -10,8 +10,7 @@ categories:
 - Eric Greitens
 tags:
 - Eric Greitens
-- Peter Drucker
-- strength
+
 type: "post"
 ---
 

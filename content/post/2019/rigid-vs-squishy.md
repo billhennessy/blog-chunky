@@ -7,7 +7,7 @@ featuredImage: /images/uploads/francis-witch-stang.jpg
 categories:
 - Faith
 tags:
-- Pope Francis
+- Bergoglio
 - Evil
 authors: ["Bill Hennessy"]
 type: "post"

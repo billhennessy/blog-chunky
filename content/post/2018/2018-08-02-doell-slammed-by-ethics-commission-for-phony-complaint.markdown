@@ -8,8 +8,7 @@ url:  /2018/08/02/doell-slammed-by-ethics-commission-for-phony-complaint/
 categories:
 - Politics
 tags:
-- Matt Doell
-- Politics Ethics Commission
+
 type: "post"
 ---
 

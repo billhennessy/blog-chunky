@@ -10,7 +10,7 @@ categories:
 - Living
 tags:
 - Politics
-- Rosary Coast-to-Coast
+- Rosary
 type: "post"
 ---
 

@@ -8,9 +8,7 @@ url:  /2018/08/02/droopy-matt-doell-gets-dirty/
 categories:
 - Politics
 tags:
-- Matt Doell
-- Rockwood
-- Rockwood School District
+
 type: "post"
 ---
 

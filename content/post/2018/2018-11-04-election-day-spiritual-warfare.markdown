@@ -8,6 +8,8 @@ url:  /2018/11/04/election-day-spiritual-warfare/
 categories:
 - Politics
 - Faith
+tags:
+- Spiritual Warfare
 type: "post"
 ---
 

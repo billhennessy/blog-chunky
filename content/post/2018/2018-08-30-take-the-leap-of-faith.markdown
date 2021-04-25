@@ -7,6 +7,8 @@ title: Take the Leap of Faith
 url:  /2018/08/29/take-the-leap-of-faith/
 categories:
 - Faith
+tags:
+- Faith
 type: "post"
 ---
 

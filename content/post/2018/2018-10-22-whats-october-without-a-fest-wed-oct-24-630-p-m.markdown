@@ -7,6 +7,8 @@ title: What's October Without a Fest? Wed. Oct. 24 @ 6:30 p.m.
 url:  /2018/10/22/whats-october-without-a-fest-wed-oct-24-630-p-m/
 categories:
 - Living
+tags:
+- Dottie Bailey
 type: "post"
 ---
 

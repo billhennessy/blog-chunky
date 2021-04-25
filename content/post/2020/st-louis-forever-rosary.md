@@ -5,7 +5,7 @@ url: st-louis-forever-rosary
 authors: ["Bill Hennessy"]
 images: ["/images/st-louis-statue.png"]
 categories: ["Faith"]
-tags: ["St. Louis Forever","Rosary","St. Louis Statue"]
+tags: ["St. Louis Forever","Rosary", "Prayer"]
 draft: false
 ---
 I kept crying. And the t-shirt I wore was utterly inappropriate.

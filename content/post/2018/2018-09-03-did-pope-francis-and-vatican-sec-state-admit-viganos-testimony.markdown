@@ -11,7 +11,7 @@ categories:
 tags:
 - Bishop Barros
 - Cardinal O'Malley
-- Pope Francis
+- Bergoglio
 type: "post"
 ---
 

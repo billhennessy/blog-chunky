@@ -7,7 +7,7 @@ authors: [Bill Hennessy]
 categories: 
 - Living
 tags:
-  - Coronavirus
+- Coronavirus
 ---
 We've all been seeing the woeful headlines from the media that hates Trump and hates America: CNN, NYTimes, Washington Post, Drudge Report, etc. The headlines combine and conspire to send a single, unmistakable message: DESPAIR. 
 

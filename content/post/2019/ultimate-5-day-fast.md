@@ -7,7 +7,6 @@ categories:
 - Faith
 - Living
 tags:
-- Living
 - Fasting
 type: "post"
 ---

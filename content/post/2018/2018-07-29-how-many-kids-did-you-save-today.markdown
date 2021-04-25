@@ -10,7 +10,7 @@ categories:
 tags:
 - Defenders of the Unborn
 - Knights of Columbus
-- Saving Children
+
 type: "post"
 ---
 

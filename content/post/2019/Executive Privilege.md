@@ -1,13 +1,14 @@
 ---
 title: "A Brief History of Executive Privilege"
 date: 2019-12-14T09:47:43-06:00
-draft: true
+draft: false
 images: ["obama-nixon.jpg"]
 # featuredImage: /images/uploads/
 categories:
 - Politics
 tags:
 - Executive Privilege
+- Donald J. Trump
 authors: ["Bill Hennessy"]
 type: "post"
 ---

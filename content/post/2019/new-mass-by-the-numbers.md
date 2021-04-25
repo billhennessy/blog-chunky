@@ -8,7 +8,7 @@ featuredImage: /images/uploads/church-almost-empty.jpg
 categories: 
 - Faith
 tags:
-- Latin Mass
+- Traditional Latin Mass
 - New Mass
 type: "post"
 ---

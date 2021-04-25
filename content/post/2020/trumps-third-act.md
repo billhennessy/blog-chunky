@@ -5,7 +5,7 @@ url: trumps-third-act
 authors: ["Bill Hennessy"]
 images: ["/images/trump-triumphant.jpg"]
 categories: ["Politics"]
-tags: ["Donald Trump", "Access Hollywood", "Scott Adams", "China Virus"]
+tags: ["Donald J. Trump"]
 draft: false
 ---
 

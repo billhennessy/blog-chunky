@@ -5,7 +5,7 @@ url: "the-end-of-america"
 authors: ["Bill Hennessy"]
 images: ["/images/new-america-sankey.png"]
 categories: ["Politics"]
-tags: ["Nuevo Amerigo","New New York", "Reunited States of America"]
+tags: ["The Great Reset"]
 draft: false
 ---
 

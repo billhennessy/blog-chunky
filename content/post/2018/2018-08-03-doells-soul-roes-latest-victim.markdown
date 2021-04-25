@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - Dottie Bailey
-- Matt Doell
+
 type: "post"
 ---
 

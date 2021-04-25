@@ -9,9 +9,9 @@ categories:
 - Politics
 - Faith
 tags:
-- Dottie Bailey for Missouri
-- fasting
-- ketosis
+- Dottie Bailey
+- Fasting
+
 type: "post"
 ---
 

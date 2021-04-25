@@ -6,7 +6,6 @@ authors: ["Bill Hennessy"]
 categories: 
 - Faith
 tags:
-- Blog
 - Lent
 ---
 I have never looked forward to the start of Lent. 

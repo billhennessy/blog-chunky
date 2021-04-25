@@ -7,9 +7,7 @@ catetories:
 - Faith
 - Fasting
 tags:
-- Blog
 - Fasting
-- Living
 - Diet
 - Politics: "post"
 ---

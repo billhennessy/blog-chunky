@@ -8,7 +8,7 @@ url:  /2018/08/05/urgent-we-need-poll-sitters/
 categories:
 - Politics
 tags:
-- Dottie Bailey for Missouri
+- Dottie Bailey
 type: "post"
 ---
 

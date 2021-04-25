@@ -10,7 +10,7 @@ categories:
 
 tags:
 - Lent
-- Spring
+
 type: "post"
 ---
 

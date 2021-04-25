@@ -8,6 +8,8 @@ url:  /2018/09/23/this-day-comes-only-once-a-year/
 categories:
 - Activism
 - Faith
+tags:
+- Rosary
 type: "post"
 ---
 

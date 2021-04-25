@@ -10,7 +10,7 @@ categories:
 - Faith
 tags:
 - Church Sex Scandal
-- Pope Francis
+- Bergoglio
 type: "post"
 ---
 

@@ -9,8 +9,6 @@ categories:
 - Politics
 tags:
 - Dottie Bailey for Missouri
-- MOHouse110
-- Rockwood School District
 type: "post"
 ---
 

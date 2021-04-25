@@ -8,11 +8,8 @@ featuredImage: /images/uploads/i-44-standstill.PNG
 categories: 
 - Politics
 tags:
-- I-44 Traffic Jam
-- Rex Sinquefield
-- Better Together
-- Politics Merger
-- DontMergeUs
+- City-County Merger
+
 type: "post"
 ---
 

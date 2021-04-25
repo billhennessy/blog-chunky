@@ -17,6 +17,7 @@ categories:
 - Living
 tags:
 - USS THEODORE ROOSEVELT
+- Coronavirus
 
 # post type
 type: "post"

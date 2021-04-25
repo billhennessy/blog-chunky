@@ -8,7 +8,6 @@ authors: ["Bill Hennessy"]
 categories: 
 - Politics
 tags:
-- Better Together
 - City-County Merger
 - Rex Sinquefield
 ---

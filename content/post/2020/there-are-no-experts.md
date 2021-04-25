@@ -5,7 +5,7 @@ url: there-are-no-experts
 authors: ["Bill Hennessy"]
 images: ["/images/Minneapolis-Riots-Aftermath.jpg"]
 categories: ["Living"]
-tags: ["Riots", "Coronavirus","Efficiency","Militia"]
+tags: ["Riots", "Coronavirus"]
 draft: false
 ---
 

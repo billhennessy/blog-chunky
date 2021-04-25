@@ -8,8 +8,7 @@ categories:
 - Politics
 tags:
 - Impeachment
-- Nancy Pelosi
-- Zorr
+- Donald J. Trump
 authors: ["Bill Hennessy"]
 type: "post"
 ---

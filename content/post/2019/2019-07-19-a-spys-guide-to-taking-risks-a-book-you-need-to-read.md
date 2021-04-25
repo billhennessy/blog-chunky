@@ -7,7 +7,7 @@ authors: [Bill Hennessy]
 categories:
   - Books
 tags:
-  - Risk
+  - Reading
 
 type: "post"
 ---

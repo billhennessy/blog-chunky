@@ -10,7 +10,6 @@ categories:
 - Politics
 tags:
 - Eric Greitens
-- Politics Times
 - Scott Faughn
 type: "post"
 ---

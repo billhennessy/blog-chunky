@@ -8,7 +8,6 @@ url:  /2018/05/17/descend-on-jefferson-city/
 categories:
 - Activism
 tags:
-- Activism
 - Eric Greitens
 type: "post"
 ---

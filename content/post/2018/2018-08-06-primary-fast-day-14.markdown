@@ -11,7 +11,7 @@ categories:
 tags:
 - Dottie Bailey
 - fasting
-- God
+
 type: "post"
 ---
 

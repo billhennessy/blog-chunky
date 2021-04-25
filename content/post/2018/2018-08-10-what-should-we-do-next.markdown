@@ -10,7 +10,7 @@ categories:
 tags:
 - happiness
 - St. Lawrence of Rome
-- The Plan
+
 type: "post"
 ---
 

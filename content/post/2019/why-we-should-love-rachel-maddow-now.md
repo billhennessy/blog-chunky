@@ -9,8 +9,6 @@ categories:
 - Faith
 tags:
 - Mueller
-- Maddow
-- Love
 - Russia Hoax
 type: "post"
 ---

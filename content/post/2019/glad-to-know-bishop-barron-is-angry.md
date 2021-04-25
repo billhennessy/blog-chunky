@@ -2,15 +2,14 @@
 title: "At Whom Is Bishop Barron Angry?"
 date: 2019-08-12T20:19:34-05:00
 draft: false
-# images: ["bishop_barron.jpg"]
+images: ["bishop_barron.jpg"]
 # featuredImage: /images/uploads/bishop_barron.jpg
 categories:
 - Faith
 
 tags:
 - Bishop Barron
-- Pew Survey
-- Latin Mass
+- Traditional Latin Mass
 - Novus Ordo
 authors: ["Bill Hennessy"]
 type: "post"

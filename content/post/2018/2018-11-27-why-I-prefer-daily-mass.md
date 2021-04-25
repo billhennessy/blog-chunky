@@ -6,7 +6,6 @@ authors: ["Bill Hennessy"]
 categories:
 - Faith
 tags:
-- Faith
 - Liturgy
 type: "post"
 ---

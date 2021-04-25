@@ -16,7 +16,7 @@ description: "Democrat lies are getting too easy to spot."
 categories: 
 - Politics
 tags:
-- Russian Hoax II
+- Russia Hoax
 
 # post type
 type: "post"

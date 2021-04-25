@@ -8,9 +8,8 @@ url:  /2018/04/21/odyssey-eric-greitens/
 categories:
 - Politics
 tags:
-- Politics
 - Eric Greitens
-- Odyssey
+
 type: "post"
 ---
 

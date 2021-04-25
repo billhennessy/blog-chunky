@@ -7,7 +7,7 @@ categories:
 - Politics
 
 tags:
-- Robert Mueller
+- Mueller
 ---
 Friends,
 

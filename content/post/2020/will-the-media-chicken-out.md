@@ -5,7 +5,7 @@ url: will-the-media-chicken-out
 authors: ["Bill Hennessy"]
 images: ["/images/anchorman-02.jpg"]
 categories: ["Politics"]
-tags: ["media","press","election night"]
+tags: ["MSM"]
 draft: false
 keyConcept: ""
 ---

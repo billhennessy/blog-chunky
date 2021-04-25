@@ -5,7 +5,7 @@ url: why-we-prayed-at-statue-of-st-louis
 authors: ["Bill Hennessy"]
 images: ["/images/priest-rosary-stl.jpeg","/images/fr-miloscia.png","/images/priests-rosary-stl.jpeg"]
 categories: ["Faith"]
-tags: ["Statue of St. Louis", "Rosary", "Statue", "St. Louis", "Prayer"]
+tags: ["Statue of St. Louis", "Rosary","St. Louis", "Prayer"]
 draft: false
 ---
 

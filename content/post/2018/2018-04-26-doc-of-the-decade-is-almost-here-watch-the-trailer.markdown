@@ -11,7 +11,7 @@ tags:
 - Adam Carolla
 - Dennis Prager
 - Dottie Bailey
-- No Safe Spaces
+
 type: "post"
 ---
 

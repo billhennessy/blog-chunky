@@ -7,7 +7,7 @@ featuredImage: /images/uploads/jakub.png
 categories:
 - Faith
 tags:
-- Rosary Coast-to-Coast
+- Rosary
 authors: ["Bill Hennessy"]
 type: "post"
 ---

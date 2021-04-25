@@ -8,12 +8,11 @@ categories:
 - Crime
 - Faith
 tags:
-- Faith Supply
-- Thomas Bruce
+- Spiritual Warfare
 type: "post"
 ---
 
-There is was. The Gadsden flag. "Don't Tread on Me!" The brilliant yellow symbol of the Tea Party movement flying proudly above the mobile home in which Thomas Bruce lives. 
+There it was. The Gadsden flag. "Don't Tread on Me!" The brilliant yellow symbol of the Tea Party movement flying proudly above the mobile home in which Thomas Bruce lives. 
 
 Lived. Lived in that mobile home until the police came and took him away the day before Thanksgiving.
 

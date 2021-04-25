@@ -6,7 +6,7 @@ images: ["trump-grin.png"]
 categories:
   - Politics
 tags:
-  - Politics
+  - Donald J. Trump
 
 type: "post"
 ---

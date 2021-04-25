@@ -5,7 +5,7 @@ url: mask-me-in-st-louis
 authors: ["Bill Hennessy"]
 images: ["/images/bison-herd.jpg"]
 categories: ["Living"]
-tags: ["Coronavirus","Masks", "Herd Immunity", "Compassion"]
+tags: ["Coronavirus","Masks", "Herd Immunity"]
 draft: false
 ---
 

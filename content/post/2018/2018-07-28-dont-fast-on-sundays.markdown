@@ -10,7 +10,7 @@ categories:
 - Faith
 - Living
 tags:
-- Politics
+
 type: "post"
 ---
 

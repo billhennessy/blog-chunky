@@ -7,8 +7,7 @@ categories:
 - Blogging
 
 tags:
-- twitter
-- facebook
+- social media
 
 type: "post"
 ---
