@@ -13,14 +13,13 @@ images:
 # meta description
 description: "Coronavirus is China's attempt at leverage in trade negotiations."
 
-# taxonomiescategories: 
+# taxonomies
+categories: 
 #- Faith
 #- Living
 - Politics
 tags:
 - Coronavirus
-draft: 
-false
 # post type
 type: "post"
 ---
