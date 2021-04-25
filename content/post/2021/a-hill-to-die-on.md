@@ -5,7 +5,7 @@ url: a-hill-to-die-on
 authors: ["Bill Hennessy"]
 images: ["/images/GordonsCalvary.jpeg"]
 categories: ["Faith"]
-tags: ["COVID vaccine","vaccine passport","mark of the beast", "the great reset"]
+tags: ["Coronavirus", "Vaccine Passport"]
 draft: false
 keyConcept: ""
 ---
@@ -75,3 +75,6 @@ Pray, friends, that I receive the wisdom to discern this challenge and the stren
 
 And I will pray, likewise, for you who read this and pray for me. 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIzNjYwODY5XX0=
+-->
