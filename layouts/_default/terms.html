@@ -1,0 +1,10 @@
+<div class="container">
+<table class="table">
+    <tr>
+        <td>Tag</td><td>Count</td>
+    </tr>
+    {{ range .Data.Terms.Alphabetical  }}
+    <tr><td><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></td><td> {{ .Count }}</td></tr>
+{{ end }}
+</table>
+</div>

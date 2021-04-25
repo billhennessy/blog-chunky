@@ -9,7 +9,7 @@ categories:
 - Faith
 - Living
 tags:
-- compliments
+
 - public speaking
 type: "post"
 ---
