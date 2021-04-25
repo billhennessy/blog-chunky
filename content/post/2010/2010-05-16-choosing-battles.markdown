@@ -39,7 +39,7 @@ More recently, at the newspaper’s invitation, I wrote [something of a vision s
 
 **States Have Limited Power Against Congress**
 
-Maybe you think that we _should _focus more on Missouri legislation and less on electoral politics. Fine.  But [federal law usually trumps state laws](https://www.columbiatribune.com/news/2010/may/04/senate-oks-health-care-referendum/),and this White House will fight this Missouri law at every turn.  The feds might do so unconstitutionally, but Nancy Pelosi, Harry Reid, and Barack Obama couldn’t care less about our Constitution.  Nor could [Elena Kagan](https://www.examiner.com/x-37620-Conservative-Examiner~y2010m5d10-Is-Supreme-Court-nominee-Elena-Kagan-a-selfavowed-socialist?cid=channel-rss-Politics&utm_campaign=oneriot), for that matter.
+Maybe you think that we _should _focus more on Missouri legislation and less on electoral politics. Fine.  But [federal law usually trumps state laws](https://www.columbiatribune.com/news/2010/may/04/senate-oks-health-care-referendum/),and this White House will fight this Missouri law at every turn.  The feds might do so unconstitutionally, but Nancy Pelosi, Harry Reid, and Barack Obama couldn’t care less about our Constitution.  Nor could [Elena Kagan](https://www.examiner.com/x-37620-Conservative-Examiner~y2010m5d10-Is-Supreme Court-nominee-Elena-Kagan-a-selfavowed-socialist?cid=channel-rss-Politics&utm_campaign=oneriot), for that matter.
 
 I am focused on changing the government in Washington because that government has become destructive of and abusive toward the people and the state of Missouri.  Missouri laws cannot stop Washington until we change the people in Washington. It’s as simple as that.
 
@@ -63,7 +63,7 @@ But we won’t see any of these wonderful goals if we split ranks and fight 57 e
 
 **Focus on Washington**
 
-[Elena Kagan might be a socialist](https://www.examiner.com/x-37620-Conservative-Examiner~y2010m5d10-Is-Supreme-Court-nominee-Elena-Kagan-a-selfavowed-socialist?cid=channel-rss-Politics&utm_campaign=oneriot).  She might also be an all-out Commie with a picture of Chairman Mao tattooed on her left rump.  Unless ten Democrat Senators turn against her, she will be voting on whether Missouri’s Healthcare Free Choice act can be enforced.  And there’s nothing we can do about that.
+[Elena Kagan might be a socialist](https://www.examiner.com/x-37620-Conservative-Examiner~y2010m5d10-Is-Supreme Court-nominee-Elena-Kagan-a-selfavowed-socialist?cid=channel-rss-Politics&utm_campaign=oneriot).  She might also be an all-out Commie with a picture of Chairman Mao tattooed on her left rump.  Unless ten Democrat Senators turn against her, she will be voting on whether Missouri’s Healthcare Free Choice act can be enforced.  And there’s nothing we can do about that.
 
 The reason there’s nothing we can do is because a leftist President is calling the shots, and his party controls both houses of Congress.  Nothing that happens in Jefferson City, Missouri, will change that.
 

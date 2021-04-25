@@ -10,7 +10,7 @@ categories:
 tags:
 - Constitution
 - Fred Thompson
-- Supreme-Court
+- Supreme Court
 - Tenth-Amendment
 - US Congress
 ---

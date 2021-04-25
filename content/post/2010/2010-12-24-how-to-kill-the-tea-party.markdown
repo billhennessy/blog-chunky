@@ -6,7 +6,7 @@ title: How to Kill the Tea Party
 layout: blog
 url: /2010/12/23/how-to-kill-the-tea-party/
 categories:
-- happiness
+- Happiness
 - Politics
 tags:
 - Donald J. Trump

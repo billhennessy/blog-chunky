@@ -10,7 +10,7 @@ categories:
 tags:
 - behavioral science
 - Psychology
-- happiness
+- Happiness
 - Ten Commandments
 
 type: "post"

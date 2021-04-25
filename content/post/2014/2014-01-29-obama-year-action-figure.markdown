@@ -10,8 +10,8 @@ categories:
 post_format:
 - Image
 tags:
-- sotu
-- state of the union
+- State of the Union
+- State of the Union
 type: "post"
 ---
 

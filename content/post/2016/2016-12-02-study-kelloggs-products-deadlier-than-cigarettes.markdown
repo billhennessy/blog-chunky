@@ -10,6 +10,7 @@ categories:
 tags:
 - glycemic index
 - Kellogg
+- Black Lives Matter
 
 type: "post"
 ---

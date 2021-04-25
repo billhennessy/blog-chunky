@@ -5,7 +5,9 @@ url: ask-not-for-money
 authors: ["Bill Hennessy"]
 images: ["/images/brooks-brothers-riot.jpg"]
 categories: ["Politics"]
-tags: ["Election 2020"]
+tags: 
+- Election 2020
+- Black Lives Matter
 draft: false
 keyConcept: ""
 ---

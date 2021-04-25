@@ -8,7 +8,7 @@ url:  /2018/08/10/what-should-we-do-next/
 categories:
 - Faith
 tags:
-- happiness
+- Happiness
 - St. Lawrence of Rome
 
 type: "post"

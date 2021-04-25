@@ -8,7 +8,7 @@ url: /2010/05/10/how-to-be-happier/
 categories:
 - Living
 tags:
-- happiness
+- Happiness
 - martin seligman
 - positive psychology
 type: "post"

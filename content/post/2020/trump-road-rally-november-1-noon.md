@@ -5,7 +5,7 @@ url: trump-road-rally-november-1-noon
 authors: ["Bill Hennessy"]
 images: ["/images/cancelled.png"]
 categories: ["Politics"]
-tags: ["Road Rally","Trump","St. Louis"]
+tags: ["Trump","St. Louis"]
 draft: false
 keyConcept: "Action"
 ---

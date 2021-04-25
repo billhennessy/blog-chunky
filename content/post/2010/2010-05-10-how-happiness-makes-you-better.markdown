@@ -8,7 +8,7 @@ url: /2010/05/10/how-happiness-makes-you-better/
 categories:
 - Living
 tags:
-- happiness
+- Happiness
 type: "post"
 ---
 

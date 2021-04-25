@@ -33,7 +33,7 @@ She might not be the infanticidal maniac some claim. Instead, she seems to be de
 
  
 
-The few opinions she does have are horrible. She believes [it’s okay for the government to ban books](https://www.wnd.com/?pageId=155645). She believes it’s okay to [submit false documents](https://www.foxnews.com/politics/2010/06/30/kagan-defends-revising-medical-groups-statement-partial-birth-abortion/) to official inquiries. She believed judicial nominees (like her) could be compelled to [answer questions about prior court opinions](https://politics.usnews.com/opinion/blogs/peter-roff/2010/05/11/Elena-Kagan-Reverses-Course-on-Supreme-Court-Nominee-Testimony.html) . . . before she decided nominees should be required to say nothing. 
+The few opinions she does have are horrible. She believes [it’s okay for the government to ban books](https://www.wnd.com/?pageId=155645). She believes it’s okay to [submit false documents](https://www.foxnews.com/politics/2010/06/30/kagan-defends-revising-medical-groups-statement-partial-birth-abortion/) to official inquiries. She believed judicial nominees (like her) could be compelled to [answer questions about prior court opinions](https://politics.usnews.com/opinion/blogs/peter-roff/2010/05/11/Elena-Kagan-Reverses-Course-on-Supreme Court-Nominee-Testimony.html) . . . before she decided nominees should be required to say nothing. 
 
  
 

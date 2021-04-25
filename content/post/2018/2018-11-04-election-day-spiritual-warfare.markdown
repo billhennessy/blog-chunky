@@ -10,6 +10,8 @@ categories:
 - Faith
 tags:
 - Spiritual Warfare
+- Ephesians 6:10
+
 type: "post"
 ---
 

@@ -9,7 +9,7 @@ categories:
 - Living
 tags:
 - bliss
-- happiness
+- Happiness
 - productivity
 - Zen to Done
 ---

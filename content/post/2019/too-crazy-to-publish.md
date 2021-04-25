@@ -9,6 +9,7 @@ categories:
 tags:
 - Persecution
 - Martyrs
+- Ephesians 6:10
 ---
 ![Satan Watches the World](/images/uploads/satan-public-domain.jpg "Satan")
 

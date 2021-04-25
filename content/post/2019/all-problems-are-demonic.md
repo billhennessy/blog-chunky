@@ -9,6 +9,7 @@ categories:
 - Faith
 tags:
 - Demonic
+- Ephesians 6:10
 authors: ["Bill Hennessy"]
 type: "post"
 ---

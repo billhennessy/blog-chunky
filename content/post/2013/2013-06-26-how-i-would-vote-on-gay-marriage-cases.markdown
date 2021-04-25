@@ -9,7 +9,7 @@ categories:
 - Politics
 tags:
 - gay marriage
-- Supreme-Court
+- Supreme Court
 type: "post"
 ---
 

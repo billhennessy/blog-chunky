@@ -5,7 +5,8 @@ url: we-have-nowhere-else-to-turn
 authors: ["Bill Hennessy"]
 images: ["/images/moses-parting-the-red-sea.jpg"]
 categories: ["Faith", "Politics"]
-tags: []
+tags: 
+- Ephesians 6:10
 draft: false
 keyConcept: ""
 ---

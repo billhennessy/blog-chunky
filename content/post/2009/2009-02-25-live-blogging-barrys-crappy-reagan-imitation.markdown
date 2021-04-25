@@ -9,7 +9,7 @@ categories:
 - American Tea Party
 - Latest
 tags:
-- sotu
+- State of the Union
 - speech
 - Tea Party News
 ---

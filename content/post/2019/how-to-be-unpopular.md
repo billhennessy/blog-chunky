@@ -8,6 +8,7 @@ categories:
 - Living
 tags:
 - Timothy Gordon
+- Ephesians 6:10
 
 authors: ["Bill Hennessy"]
 type: "post"

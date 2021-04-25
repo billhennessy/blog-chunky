@@ -9,7 +9,7 @@ categories:
 - Living
 tags:
 - Christmas
-- happiness
+- Happiness
 - positive psychology
 type: "post"
 ---

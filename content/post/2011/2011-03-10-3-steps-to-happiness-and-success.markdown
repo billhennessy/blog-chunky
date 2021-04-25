@@ -8,7 +8,7 @@ url: /2011/03/09/3-steps-to-happiness-and-success/
 categories:
 - Living
 tags:
-- happiness
+- Happiness
 - list
 type: "post"
 ---

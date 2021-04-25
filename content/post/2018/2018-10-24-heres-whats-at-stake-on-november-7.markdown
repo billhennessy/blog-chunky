@@ -8,7 +8,7 @@ url:  /2018/10/24/heres-whats-at-stake-on-november-7/
 categories:
 - Politics
 tags:
-- Fast
+- Fasting
 - Prayer
 - vote
 type: "post"
