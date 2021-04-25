@@ -5,7 +5,7 @@ url: how-to-report-netflix-child-porn
 authors: ["Bill Hennessy"]
 images: ["/images/doj-logo.jpeg"]
 categories: ["Politics"]
-tags: ["Netflix", "Cuties", "Child Pornography"]
+tags: ["Netflix", "Child Pornography"]
 draft: false
 ---
 

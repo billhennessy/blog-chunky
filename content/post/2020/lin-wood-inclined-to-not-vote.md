@@ -5,7 +5,7 @@ url: lin-wood-inclined-to-not-vote
 authors: ["Bill Hennessy"]
 images: ["/images/lin-wood-djt.jpg"]
 categories: ["Politics"]
-tags: ["Election 2020", "Georgia Senate Runoff"]
+tags: ["Election 2020"]
 draft: false
 keyConcept: ""
 ---

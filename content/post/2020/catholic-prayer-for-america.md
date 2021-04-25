@@ -5,7 +5,7 @@ url: catholic-prayer-for-america
 authors: ["Bill Hennessy"]
 images: ["/images/Archbishop-Vigano.jpg"]
 categories: ["Faith"]
-tags: ["Prayer", "Vigano"]
+tags: ["Vigano"]
 draft: false
 ---
 

@@ -17,8 +17,7 @@ categories:
 - Living
 tags:
 - Coronavirus
-- Naked Lunch
-- Dr. Fauci
+- Fauci
 
 # post type
 type: "post"

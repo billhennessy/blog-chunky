@@ -7,7 +7,7 @@ url: its-election-and-heres-whats-going-to-happen
 authors: ["Bill Hennessy"]
 images: ["/images/lafayette_park.jpg"]
 categories: ["Politics"]
-tags: ["election 2020","coup","chaos","rioting"]
+tags: ["election 2020"]
 draft: false
 
 ---

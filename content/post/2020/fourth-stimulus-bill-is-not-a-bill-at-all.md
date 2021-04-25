@@ -5,7 +5,7 @@ url: fourth-stimulus-bill-is-not-a-bill-at-all
 authors: ["Bill Hennessy"]
 images: ["sunrise.jpg"]
 categories: ["Living","Politics"]
-tags: ["Stimulus","Coronavirus"]
+tags: ["Coronavirus"]
 draft: false
 ---
 

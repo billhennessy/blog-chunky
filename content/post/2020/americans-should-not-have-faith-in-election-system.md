@@ -5,7 +5,7 @@ url: americans-should-not-have-faith-in-election-system
 authors: ["Bill Hennessy"]
 images: ["/images/rigged-election.png"]
 categories: ["Politics"]
-tags: ["rigged election"]
+tags: ["election 2020"]
 draft: true
 keyConcept: ""
 ---

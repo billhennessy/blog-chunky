@@ -5,7 +5,7 @@ url: how-to-make-a-bologna-quesadilla
 authors: ["Bill Hennessy"]
 images: ["/images/bologna-quesadilla.png"]
 categories: ["Living"]
-tags: ["Thanksgiving", "food"]
+tags: []
 draft: false
 keyConcept: ""
 ---

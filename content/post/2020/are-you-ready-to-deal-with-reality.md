@@ -4,9 +4,9 @@ date: 2020-11-22T07:54:09-06:00
 url: are-you-ready-to-deal-with-reality
 authors: ["Bill Hennessy"]
 images: []
-categories: []
-tags: []
-draft: true
+categories: ["Faith", "Politics"]
+tags: ["Election 2020"]
+draft: false
 keyConcept: ""
 ---
 
@@ -202,11 +202,17 @@ God's will is known, but His ways are mysterious.
 
 ### The New Maccabees
 
-Assuming Joe Biden is sworn into office in January, and assume the Democrats steal both of the Georgia Senate runoffs, it's logical to assume that America's conservative Christians will face a test beyond our imaginations. Only those who fled communism will have anything close to a point of reference. 
+Assuming Joe Biden is sworn into office in January, and assuming the Democrats steal both of the Georgia Senate runoffs, it's logical to assume that America's conservative Christians will face a test beyond our imaginations. Only those who fled communism will have anything close to a point of reference. 
 
 We will be able to communicate only in person and away from electronics. (All electronics spy on us, recording every word.) Our churches will close. We will become truly second-class citizens. Assaults and murder on Christian conservatives will go unpunished; self-defense will be treated as a felony. 
 
-The Maccabees 
+To prepare, read 2 Maccabees. [Here's a link where you can read it online](https://www.biblegateway.com/passage/?search=2+Maccabees+2&version=RSV). Learn how God rescues those who resist in His name.
+
+### Pray for Me
+
+I will pray for you. I ask that you pray for me. The good guys win in the end, but they go through hell getting there. 
+
+Maybe we don't have what it takes to persevere to the end. But God does, and He's eager to share with us. Our help is in the name of the Lord who made heaven and earth. 
 
 
 

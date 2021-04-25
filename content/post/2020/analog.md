@@ -16,7 +16,7 @@ description: "Sometimes technology is a step backward."
 categories: 
 - Politics
 tags:
-- Nevada Caucases
+- Election 2020
 
 # post type
 type: "post"

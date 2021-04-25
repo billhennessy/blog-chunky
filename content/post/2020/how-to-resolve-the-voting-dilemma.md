@@ -5,7 +5,7 @@ url: how-to-resolve-the-voting-dilemma
 authors: ["Bill Hennessy"]
 images: ["/images/st-augustine.jpg"]
 categories: ["Politics", "Faith"]
-tags: ["election 2020", "fraud", "dilemma"]
+tags: ["election 2020", "fraud"]
 draft: false
 keyConcept: ""
 ---

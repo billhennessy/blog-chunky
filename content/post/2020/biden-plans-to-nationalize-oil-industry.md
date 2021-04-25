@@ -5,7 +5,7 @@ url: biden-plans-to-nationalize-oil-industry
 authors: ["Bill Hennessy"]
 images: ["/images/Venezuela/famine.jpg","/images/Venezuela/housing.jpg","/images/Venezuela/poverty.jpg","/images/Venezuela/socialism.jpg","/images/Venezuela/squalor.jpg"]
 categories: ["Politics"]
-tags: ["oil","nationalize","socialize","Joe Biden", "Venezuela","Chavez"]
+tags: ["communism"]
 draft: false
 ---
 Let's take Joe Biden at his word. (I know it's crazy, but just play along.)

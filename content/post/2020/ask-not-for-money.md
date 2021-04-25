@@ -5,7 +5,7 @@ url: ask-not-for-money
 authors: ["Bill Hennessy"]
 images: ["/images/brooks-brothers-riot.jpg"]
 categories: ["Politics"]
-tags: ["Brooks Brothers Riot", "Georgia Runoffs"]
+tags: ["Election 2020"]
 draft: false
 keyConcept: ""
 ---

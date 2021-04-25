@@ -5,7 +5,7 @@ url: how-to-defeat-antifa
 authors: ["Bill Hennessy"]
 images: ["/images/armor-of-god.jpg"]
 categories: ["Faith", "Politics"]
-tags: ["Antifa", "Rosary", "Social Kingship of Chirst"]
+tags: ["Antifa", "Rosary"]
 draft: false
 ---
 

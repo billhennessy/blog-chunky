@@ -5,7 +5,7 @@ url: let-us-pray-at-the-statue-of-st-louis-in-forest-park-saturday
 authors: ["Bill Hennessy"]
 images: ["/images/st-louis.jpg"]
 categories: ["Faith"]
-tags: ["St. Louis", "Statue", "Prayer"]
+tags: ["St. Louis", "Prayer"]
 draft: false
 ---
 

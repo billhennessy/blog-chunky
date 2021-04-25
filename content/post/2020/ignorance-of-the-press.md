@@ -5,7 +5,7 @@ url: ignorance-of-the-press
 authors: ["Bill Hennessy"]
 images: ["/images/ignorance.png"]
 categories: ["Politics"]
-tags: ["Don Lemon","Lawrence O'Donnell"]
+tags: ["MSM"]
 draft: false
 ---
 The usual suspects on the CNN and MSNBC claim no president has ever called on the National Guard or the Army to put down riots and revolts. 

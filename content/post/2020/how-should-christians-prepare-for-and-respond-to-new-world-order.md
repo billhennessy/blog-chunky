@@ -5,7 +5,7 @@ url: how-should-christians-prepare-for-and-respond-to-new-world-order
 authors: ["Bill Hennessy"]
 images: ["/images/new-world-dis-order.jpg"]
 categories: ["Faith"]
-tags: ["New World Order", "2020 Survey"]
+tags: ["New World Order"]
 draft: false
 ---
 

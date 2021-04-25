@@ -5,7 +5,7 @@ url: follow-me-on-parler
 authors: ["Bill Hennessy"]
 images: ["/images/parler-logo.jpg"]
 categories: ["Politics"]
-tags: ["parler", "twitter"]
+tags: ["parler", "Social Media"]
 draft: false
 keyConcept: "parler"
 ---

@@ -5,7 +5,7 @@ url: democrats-turn-nursing-homes-into-death-camps
 authors: ["Bill Hennessy"]
 images: ["/images/death-camp.png"]
 categories: ["Politics"]
-tags: ["Coronavirus","New York","Illinois", "Michigan"]
+tags: ["Coronavirus"]
 draft: false
 ---
 

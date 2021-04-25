@@ -5,7 +5,7 @@ url: it-begins-isolation-fear-and-masks-make-us-mean
 authors: ["Bill Hennessy"]
 images: ["mean-people.jpg"]
 categories: ["Living"]
-tags: ["Coronavirus", "Rudeness", "Psychology"]
+tags: ["Coronavirus", "Psychology"]
 draft: false
 ---
 

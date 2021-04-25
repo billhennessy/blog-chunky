@@ -5,7 +5,7 @@ url: biden-voter-fraud
 authors: ["Bill Hennessy"]
 images: ["/images/biden-voter-fraud.png"]
 categories: ["Politics"]
-tags: ["voter fraud","Joe Biden"]
+tags: ["Election 2020"]
 draft: false
 ---
 You can't make this up. 

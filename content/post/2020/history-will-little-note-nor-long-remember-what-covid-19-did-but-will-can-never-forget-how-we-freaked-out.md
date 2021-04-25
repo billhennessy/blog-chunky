@@ -7,6 +7,7 @@ images: ["screen-shot-2020-04-11-at-7.14.57-am.png"]
 categories: Living
 tags:
   - Coronavirus
+draft: false
 ---
 If a picture can paint 1,000 words, this infographic would fill a library.
 

@@ -5,7 +5,7 @@ url: i-have-left-twitter-and-facebook-follow-me-to-parler-and-mewe
 authors: ["Bill Hennessy"]
 images: ["/images/twitter-facebook-cancel.png"]
 categories: ["Living","Politics"]
-tags: ["Twitter", "Facebook", "Parler", "MeWe"]
+tags: ["Social Media"]
 draft: false
 keyConcept: ""
 --- 

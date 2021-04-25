@@ -17,7 +17,7 @@ categories:
 - Politics
 tags:
 - Coronavirus
-- Politics
+
 
 # post type
 type: "post"

@@ -5,7 +5,7 @@ url: gratitude
 authors: ["Bill Hennessy"]
 images: ["/images/elevation.jpg"]
 categories: ["Faith"]
-tags: ["Gratitude","Stoicism","Eucharist"]
+tags: ["Gratitude","Stoicism"]
 draft: false
 ---
 

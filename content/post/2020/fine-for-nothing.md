@@ -17,8 +17,7 @@ categories:
   - "Politics"
 tags:
   - "Eric Greitens"
-  - "MEC"
-  - "The Syndicate"
+
 
 # post type
 type: "post"

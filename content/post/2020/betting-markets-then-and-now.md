@@ -5,7 +5,7 @@ URL: polls-project-big-win-for-trump
 authors: ["Bill Hennessy"]
 images: ["/images/trump-triumphant.jpg"]
 categories: ["Politics"]
-tags: ["Expectation Polls", "Polls", "Election", "Trump"]
+tags: ["Election 2020", "Donald J. Trump"]
 draft: false
 ---
 

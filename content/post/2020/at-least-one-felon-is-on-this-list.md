@@ -5,7 +5,7 @@ url: watergate-now-second-worst-abuse-of-power
 authors: ["Bill Hennessy"]
 images: ["biden.jpeg"]
 categories: ["Politics"]
-tags: ["Unmasking", "General Flynn", "Joe Biden", "ObamaGate"]
+tags: ["Mike Flynn"]
 draft: false
 ---
 

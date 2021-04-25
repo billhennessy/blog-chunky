@@ -5,7 +5,7 @@ url: hairdressers-vs-hooligans
 authors: ["Bill Hennessy"]
 images: ["/images/revolutionary-war.jpg"]
 categories: ["Politics"]
-tags: ["Coronavirus","Riots","War"]
+tags: ["Coronavirus"]
 draft: false
 ---
 

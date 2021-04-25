@@ -5,7 +5,7 @@ url: expensify-could-drain-your-bank-account-november-4
 authors: ["Bill Hennessy"]
 images: ["/images/icon-rounded.png","/images/expensify-email.png"]
 categories: ["Politics"]
-tags: ["Expensify","Civil War"]
+tags: ["Civil War"]
 draft: false
 ---
 We have to ask: **are your data and money safe with Expensify**? 

@@ -17,8 +17,6 @@ categories:
 - Living
 tags:
 - Coronavirus
-- Hydroxychloroquine
-- TrumpPills
 
 # post type
 type: "post"

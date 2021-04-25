@@ -5,7 +5,7 @@ url: king-david-constantine-saint-augustine-donald-trump
 authors: ["Bill Hennessy"]
 images: ["/images/david-const-aug-trump.png"]
 categories: ["Faith", "Politics"]
-tags: ["David", "Constantine","Augustine","Trump"]
+tags: ["Donald J. Trump"]
 draft: false
 ---
 

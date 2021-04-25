@@ -5,7 +5,7 @@ url: cdc-office-guidelines-ignore-science
 authors: ["Bill Hennessy"]
 images: ["/images/mask-off.jpg"]
 categories: ["Living"]
-tags: ["Coronavirus","CDC", "Masks"]
+tags: ["Coronavirus"]
 draft: false
 ---
 

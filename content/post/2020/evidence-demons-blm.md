@@ -5,7 +5,7 @@ url: evidence-demons-blm
 authors: ["Bill Hennessy"]
 images: ["/images/praying.jpg"]
 categories: ["Faith"]
-tags: ["Antifa", "Black Lives Matter", "Demonology"]
+tags: ["Antifa", "Black Lives Matter", "Spiritual Warfare"]
 draft: false
 ---
 

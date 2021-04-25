@@ -5,7 +5,7 @@ url: how-dems-play-wile-e-coyote-to-trumps-roadrunner
 authors: ["Bill Hennessy"]
 images: ["/images/Road_runner_and_wile_coyote.jpg"]
 categories: ["Politics"]
-tags: ["Presidential Debates", "Trump", "Biden"]
+tags: ["Donald J. Trump"]
 draft: false
 ---
 The Commission on Presidential Debates, a partisan, anti-Trump cabal, may have just boosted Trump's victory margin by trying to cheat.

@@ -5,7 +5,7 @@ url: facebook-bans-women-for-trump
 authors: ["Bill Hennessy"]
 images: ["/images/zuck-jack-woman.png"]
 categories: ["Politics"]
-tags: ["Facebook","Twitter","Women", "Blacks"]
+tags: ["Social Media"]
 draft: false
 keyConcept: ""
 ---

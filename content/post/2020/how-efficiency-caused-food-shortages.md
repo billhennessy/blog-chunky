@@ -5,7 +5,7 @@ url: how-efficiency-caused-food-shortages
 authors: ["Bill Hennessy"]
 images: ["empty-meat-case.jpg"]
 categories: ["Business"]
-tags: ["Coronavirus","Efficiency","Business", "Consolidation"]
+tags: ["Coronavirus"]
 draft: false
 ---
 

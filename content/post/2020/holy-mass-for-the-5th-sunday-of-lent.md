@@ -5,7 +5,9 @@ date: 2020-03-28T18:08:24.731Z
 images: ["screen-shot-2020-03-22-at-09.02.13.png"]
 categories: Faith
 tags:
-  - Coronavirus
+- Coronavirus
+- Traditional Latin Mass
+draft: false
 ---
 Bishops have banned public Masses, but that hasn't stopped the Mass, especially the Traditional Latin Mass.
 
