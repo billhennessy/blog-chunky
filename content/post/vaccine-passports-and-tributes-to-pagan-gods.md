@@ -4,7 +4,7 @@ categories = ["Coronavirus", "Politics"]
 date = 2021-04-18T17:49:47Z
 featured_image = "/images/jupiter-870x489.jpg"
 images = ["/images/jupiter-870x489.jpg"]
-tags = ["roman gods", "vaccine passport"]
+tags = ["c "vaccine passport"]
 title = "Vaccine Passports and Tributes to Pagan Gods"
 url = "vaccine-passports-and-tributes-to-pagan-gods"
 
@@ -60,3 +60,6 @@ What does the future hold for Christians who refuse to sacrifice to the American
 Pray for strength and discernment. Know that forgiveness is possible. But do not rush to the death of your own free will. And pray that I do not become weak and fall before the fight. History is there as a warning. Unlike the early Christians, we cannot say we didn't see it coming.
 
 \[^1\]: Aquilina, Mark, 2019, [_The Church and the Roman Empire_](https://www.avemariapress.com/products/the-church-and-the-roman-empire-301-490), Ave Maria Press
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAxNDYwMDE2Nl19
+-->
