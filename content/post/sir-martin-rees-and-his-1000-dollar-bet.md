@@ -1,5 +1,5 @@
 ---
-title: "Sir Martin Rees and His 1000 Dollar Bet"
+title: "Sir Martin Rees and His Thousand-Dollar Bet"
 date: 2021-04-24T20:32:22-05:00
 url: sir-martin-rees-and-his-1000-dollar-bet
 authors: 
