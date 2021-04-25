@@ -19,7 +19,7 @@ categories:
 - Politics
 tags:
 - Coronavirus
-- Rebellion
+
 
 # post type
 type: "post"
@@ -66,3 +66,6 @@ Leftist politicians have used the Coronavirus as an excuse to impose totalitaria
 When you take away hope and comfort, you leave people a stark choice: fight or die.
 
 Expect a fight. 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUzMzYyNzUyM119
+-->
