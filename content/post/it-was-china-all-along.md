@@ -13,8 +13,7 @@ images:
 # meta description
 description: "Coronavirus is China's attempt at leverage in trade negotiations."
 
-# taxonomies
-categories: 
+# taxonomiescategories: 
 #- Faith
 #- Living
 - Politics
@@ -45,3 +44,6 @@ The leaked [Five Eyes dossier on China's nefarious Coronavirus pandemic](https:/
 14. Soon, China will announce it is rejecting the trade deal just signed with US and demand new negotiations. 
 
 And that it is why we're locked down. Because China wants a weak US economy and a different US president, preferably a president with dementia and strong ties to China. 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc4MDA5MTUyNV19
+-->
