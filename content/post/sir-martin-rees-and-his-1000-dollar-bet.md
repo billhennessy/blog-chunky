@@ -11,7 +11,7 @@ categories:
 tags: 
 - Coronavirus
 - Vaccines
-draft: true
+draft: false
 
 ---
 
@@ -67,5 +67,6 @@ Math may not be science, but the math says stay far away from the COVID vaccines
 [^3]: *ibid.*
 [^4]: *ibid.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTU2ODgwMywxNTkwMDU1NzY2XX0=
+eyJoaXN0b3J5IjpbMjUwMjQzNDQyLDEyMzU1Njg4MDMsMTU5MD
+A1NTc2Nl19
 -->
