@@ -10,10 +10,9 @@ categories:
 - Faith
 - Politics
 tags:
-- mark of the beast
 - the great reset
 keyConcept: ''
-
+draft: false
 ---
 Early Christians in the Roman Empire
 
@@ -95,3 +94,6 @@ God bless. Our hope is in the name of the Lord who made heaven and earth.
 [^1]: Chesterton, G.K., *The History of Half-Truth*, in *Where All Roads Lead*
 [^2]: Chesterton, G.K., *Heretics*
 [^3]: Aquilina, Mike, 2019, *The Church and the Roman Empire (310-490)*. Ave Maria Press, Notre Dame, IN.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwMDE0OTU4NjldfQ==
+-->
