@@ -11,6 +11,7 @@ categories:
 tags:
 - Prayer
 - Rosary
+- Padre Pio
 - Spiritual Warfare
 type: "post"
 ---

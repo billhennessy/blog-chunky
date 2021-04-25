@@ -9,7 +9,7 @@ categories:
 - Politics
 
 tags:
-- Pope Francis
+- Bergoglio
 
 type: "post"
 ---

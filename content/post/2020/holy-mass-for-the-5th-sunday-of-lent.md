@@ -7,6 +7,7 @@ categories: Faith
 tags:
 - Coronavirus
 - Traditional Latin Mass
+- Padre Pio
 draft: false
 ---
 Bishops have banned public Masses, but that hasn't stopped the Mass, especially the Traditional Latin Mass.

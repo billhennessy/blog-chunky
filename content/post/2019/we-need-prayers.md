@@ -8,6 +8,7 @@ categories:
 - Faith
 tags:
 - Rosary
+- Padre Pio
 authors: ["Bill Hennessy"]
 type: "post"
 ---

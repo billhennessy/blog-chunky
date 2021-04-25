@@ -8,6 +8,7 @@ categories:
 - Faith
 tags:
 - Enemies
+- Padre Pio
 type: "post"
 ---
 

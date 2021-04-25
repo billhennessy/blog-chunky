@@ -10,6 +10,7 @@ categories:
 - Faith
 tags:
 - Rosary
+- Padre Pio
 type: "post"
 ---
 

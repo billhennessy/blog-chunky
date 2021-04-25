@@ -5,7 +5,7 @@ url: will-catholic-modernists-attack-amy-coney-barrett
 authors: ["Bill Hennessy"]
 images: ["/images/amy-coney-barrett.jpg"]
 categories: ["Politics", "Faith"]
-tags: ["Amy Coney Barrett", "Supreme Court", "Vigano", "Modernism"]
+tags: ["Amy Coney Barrett", "Supreme Court", "Vigano", "Modernism", "Padre Pio"]
 draft: false
 ---
 

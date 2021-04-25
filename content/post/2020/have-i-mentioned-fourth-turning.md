@@ -7,7 +7,7 @@ categories: Living
 tags:
   - Coronavirus
   - The Fourth Turning
-  draft: false
+draft: false
 ---
 About three days ago, as the news spread of our world rapidly grinding to a halt, I sent a text to some friends:
 

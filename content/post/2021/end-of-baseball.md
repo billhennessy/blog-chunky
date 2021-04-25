@@ -5,7 +5,7 @@ url: end-of-baseball
 authors: ["Bill Hennessy"]
 images: ["/images/mlb-unamerican.png"]
 categories: ["Politics"]
-tags: ["MLB", "election fraud"]
+tags: ["MLB","Election 2020"]
 draft: false
 keyConcept: ""
 ---

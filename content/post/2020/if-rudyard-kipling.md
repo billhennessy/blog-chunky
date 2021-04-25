@@ -5,7 +5,7 @@ url: if-rudyard-kipling
 authors: ["Bill Hennessy"]
 images: ["/images/rudyard-kipling-25.jpg"]
 categories: ["Living"]
-tags: ["jobs"]
+tags: ["Rudyard Kipling"]
 draft: false 
 ---
 
