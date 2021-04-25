@@ -4,7 +4,7 @@ categories = []
 date = 2021-04-17T21:00:24Z
 featured_image = ""
 images = ["/images/crowd-management-1-1.jpg"]
-tags = ["prophecy", "zealots", "Adapters"]
+tags = ["prophecy"]
 title = "The 4 Archetypes of Totalitarian Eras"
 url = "archetypes-of-totalitarian-eras"
 
@@ -69,3 +69,6 @@ God bless.
 Franz, a simple farmer who lost his own father in World War I, struggles with the decision to be true to his faith at the risk of losing his life.
 
 The movie portrays how a community, even a community of dissidents, turns on those who live their faith to the end.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExMDU2NDk1NjldfQ==
+-->
