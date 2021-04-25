@@ -18,7 +18,7 @@ categories:
 - Living
 #- Politics
 tags:
-- Open Office
+- Coronavirus
 
 # post type
 type: "post"
@@ -76,3 +76,6 @@ Open offices increase sickness. Does any company want its people to get sick mor
 
 In researching this article, I could find not a single scientific study that found open offices superior to walled, individual workplaces. Not one. Even without the forcing function of Coronavirus, businesses have a strong financial incentive to return to individual offices. Coronavirus just made the incentive obvious to all.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTc1ODY3MTI0XX0=
+-->
