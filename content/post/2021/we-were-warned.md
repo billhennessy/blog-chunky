@@ -4,8 +4,8 @@ date: 2021-03-27T07:37:24-05:00
 url: nike-conjures-satan
 authors: ["Bill Hennessy"]
 images: ["/images/nike-satan-shoes-lil-nas.jpg"]
-categories: []
-tags: []
+categories: ["Faith","Politics"]
+tags: ["Spritual Warfare"]
 draft: false
 keyConcept: ""
 ---
@@ -70,3 +70,6 @@ Deus in adjutorium meum intende.
 Domine ad adjuvandem me fastina.
 
 (God, come to my assistance. Lord, make haste to help me.)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE2NzYzMjE2MV19
+-->
