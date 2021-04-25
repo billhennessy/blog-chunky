@@ -5,7 +5,7 @@ url: this-is-what-will-happen
 authors: ["Bill Hennessy"]
 images: ["/images/Iu.jpeg"]
 categories: ["Life"]
-tags: ["COVID Vaccine", "Future", "prophesy", "the great reset"]
+tags: ["Vaccine Passport", "prophesy", "the great reset"]
 draft: false
 keyConcept: ""
 ---
@@ -209,3 +209,6 @@ Choose wisely.
 [^1]: Cialdini, Robert. *Pre-Suasion: A Revolutionary Way to Influence and Persuade* . Simon & Schuster. Kindle Edition. 
 [^2]: Strack F, Martin LL, Stepper S. *Inhibiting and facilitating conditions of the human smile: a nonobtrusive test of the facial feedback hypothesis*. J Pers Soc Psychol. 1988 May;54(5):768-77. doi: 10.1037//0022-3514.54.5.768. PMID: 3379579.
 [^3]: Lewis, C.S. *The Magician's Nephew*. The Bodley Head, 1955.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTc0MTY4NzgyMF19
+-->
