@@ -21,7 +21,13 @@ Well, not exactly. "Caught myself" implies that I recognized what I was about to
 
 The damage wasn't bad, really. In another age, why I did would not be bad at all. It may have even been helpful. But we're in *this* age, not some other age. And in *this* age, "not so bad" isn't good enough. When civilization itself is on the line, every action, every moment, must be directed toward a noble purpose. Everything we do must move the plot forward. Because the plot moves forward one way or the other. We can't stop the plot anymore than we can stop time. And if we're not guiding the plot, the plot will sweep us along like a leaf on a river. Until the water weighs us down and we sink to the bottom, scraping along the rocks and mud and detritis. 
 
+What was my crime? 
 
+In less than 5 minutes, I posted 7 stories to Gab. Stories on 7 different topics. 
+
+What's so bad about that?
+
+It
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQ0NDM3NTZdfQ==
+eyJoaXN0b3J5IjpbNDc5OTk3NDc1LC0xOTA0NDQzNzU2XX0=
 -->
