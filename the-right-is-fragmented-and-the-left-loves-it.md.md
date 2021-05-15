@@ -33,7 +33,10 @@ In 2008, I started working on a book, *Zen Conservatism*. The premise of the boo
 
 This fragmentation meant our forces were divided. Or our individual efforts were divided. No matter how much we did, no matter how hard we worked, nothing got done. 
 
-Sure, we made *progress* every day. Tiny, increment
+Sure, we made *progress* every day. Tiny, incremental progress. You'd need precision measurement devices only NASA and CERN have access to to measure the amount of progress we made on any one issue. 
+
+What d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTA2Nzc1LC0xOTA0NDQzNzU2XX0=
+eyJoaXN0b3J5IjpbLTE5NDM5MDk2MDIsLTE5MDQ0NDM3NTZdfQ
+==
 -->
