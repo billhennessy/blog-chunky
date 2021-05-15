@@ -10,11 +10,14 @@ categories:
 - Politics
 tags: 
 - tag1
-- 
+type: post
 draft: true
 
 ---
 
+I caught myself. 
+
+Well, not exactly. "Caught myself" implies that I recognized what I was about to do before I did it. But that's wrong. Instead, I recognized what I'd done *after* I'd don
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTM0NTUxM119
+eyJoaXN0b3J5IjpbLTEwMzM2NDk2MjldfQ==
 -->
