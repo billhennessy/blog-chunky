@@ -27,7 +27,10 @@ In less than 5 minutes, I posted 7 stories to Gab. Stories on 7 different topics
 
 What's so bad about that?
 
-It
+It's exactly what the enemy wants us to do. Let me explain.
+
+In 2008, I started working on a book, *Zen Conservatism*. The premise of the book was that the right was far too fragmented. We had too many organizations, too many publications, and far too many "number one issues." (If
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5OTk3NDc1LC0xOTA0NDQzNzU2XX0=
+eyJoaXN0b3J5IjpbLTE4Njk0MjQ4MjksLTE5MDQ0NDM3NTZdfQ
+==
 -->
