@@ -27,11 +27,13 @@ Now, we've learned that Schatz also demanded "carve-outs" in three pieces of leg
 
 ### Updates on Gas Tax Increase
 
-The Gateway Pundit article said Schatz's Gas Tax increase was 40 percent, but according to one Missouri State Senator, the right way to compute the gas tax increase is to take the increase divided by the original tax which comes to a 71 percent increase in gasoline taxes, not the 40 percent we reported earlier.
+The Gateway Pundit article said Schatz's Gas Tax increase was 40 percent, but according to one Missouri State Senator, the right way to compute the gas tax increase is to take the increase divided by the original tax which comes to **a 71 percent increase in gasoline taxes**. How will that affect your summer vacation?
 
-Also, we learned that the tax increase is expected to raise $513 million by 2025, far more than we estimated based on 2019 gasoline sales in Missouri. Our formula failed to consider increases in gasoline sales over six years. 
+Also, we learned that the tax increase is expected to raise $513 million by 2025, making Schatz's Gas Tax the biggest tax increase in Missouri history, period. 
 
 And a lot of that $513 million will go straight into Dave Schatz's back pocket.
+
+Schatz, of course, will funnel some of that money back to 
 
 ### Demand a Vote of the People
 
@@ -53,6 +55,6 @@ VnaXNsYXRpb25cbmF1dGhvcjogQmlsbCBIZW5uZXNzeVxudGFn
 czogJ0RhdmUgU2NoYXR6LCAjTW9MZWcnXG5jYXRlZ29yaWVzOi
 BQb2xpdGljc1xuZmVhdHVyZWRJbWFnZTogL2ltYWdlcy9TY2hh
 dHouanBnXG5zdGF0dXM6IGRyYWZ0XG5kYXRlOiAnMjAyMS0wNS
-0yMydcbiIsImhpc3RvcnkiOlsxNTkyODA4MzEsMTkyODY4ODEx
-MCw3MzA5OTgxMTZdfQ==
+0yMydcbiIsImhpc3RvcnkiOlsxMDAzODUzMzA4LDE5Mjg2ODgx
+MTAsNzMwOTk4MTE2XX0=
 -->
