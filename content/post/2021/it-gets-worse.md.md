@@ -33,9 +33,10 @@ Also, we learned that the tax increase is expected to raise $513 million by 2025
 
 And a lot of that $513 million will go straight into Dave Schatz's back pocket.
 
-Schatz, of course, will funnel some of that money back to his political cronies. Lieutenant Govern Kehoe, who's been quietly lobbying for the tax increase for years, wants to be governor someday. Schatz will likely reward him. And House Majority Leader Dean Ploecher, who wants to be Speaker, will also have his hand out. Ploecher quietly supported the gas tax increase in the House. 
+Schatz, of course, will funnel some of that money back to his political cronies. Lieutenant Govern Kehoe, who's been quietly lobbying for the tax increase for years, wants to be governor someday. Schatz will likely reward him. And House Majority Leader Dean Plocher, who wants to be Speaker, will also have his hand out. Ploecher quietly supported the gas tax increase in the House. 
 
-{{< figure src="/images/kehoe.jpg" title="
+{{< figure src="/images/kehoe.jpg" title="Lt. Gov. Mike Kehoe" >}}
+{{< figure src="/images/plocher" title="Rep. Dean Plocher" >}}
 
 But we can stop this gravy train. 
 
@@ -59,6 +60,6 @@ VnaXNsYXRpb25cbmF1dGhvcjogQmlsbCBIZW5uZXNzeVxudGFn
 czogJ0RhdmUgU2NoYXR6LCAjTW9MZWcnXG5jYXRlZ29yaWVzOi
 BQb2xpdGljc1xuZmVhdHVyZWRJbWFnZTogL2ltYWdlcy9TY2hh
 dHouanBnXG5zdGF0dXM6IGRyYWZ0XG5kYXRlOiAnMjAyMS0wNS
-0yMydcbiIsImhpc3RvcnkiOls0OTU0Nzc1MjgsMTkyODY4ODEx
-MCw3MzA5OTgxMTZdfQ==
+0yMydcbiIsImhpc3RvcnkiOlstMTU1ODE1OTAwLDE5Mjg2ODgx
+MTAsNzMwOTk4MTE2XX0=
 -->
