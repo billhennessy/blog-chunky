@@ -42,11 +42,11 @@ But we can stop this gravy train.
 
 ### Demand a Vote of the People
 
-Missourians have filed a [referendum petition](https://www.sos.mo.gov/CMSImages/Elections/Petitions/2022-R001.pdf) with the Missouri Secretary of State's office to put the gas tax to a vote of the people. According to The Missouri Times:
+Missourians have filed a [referendum petition](https://www.sos.mo.gov/CMSImages/Elections/Petitions/2022-R001.pdf) with the Missouri Secretary of State's office to put the gas tax to a vote of the people. 
 
-You can speak your mind about this referendum on the largest gas tax increase in state history during the public comment period:
+You can speak your mind about this referendum on the largest ~~gas~~ tax increase in state history during the public comment period:
 
-The public comment period, pursuant to Section 116.334, RSMo, allows Missourians to offer their observations on the submitted proposal online, by mail or phone. **Missourians can provide comment at [http://www.sos.mo.gov/referendumcomment](http://www.sos.mo.gov/referendumcomment).** 
+> The public comment period, pursuant to Section 116.334, RSMo, allows Missourians to offer their observations on the submitted proposal online, by mail or phone. **Missourians can provide comment at [http://www.sos.mo.gov/referendumcomment](http://www.sos.mo.gov/referendumcomment).** 
 
 Let them know you believe Schatz's bill circumvented the intent of the Hancock Amendment, and you want to have your say about this crippling tax increase for Missouri. 
 
@@ -60,6 +60,6 @@ VnaXNsYXRpb25cbmF1dGhvcjogQmlsbCBIZW5uZXNzeVxudGFn
 czogJ0RhdmUgU2NoYXR6LCAjTW9MZWcnXG5jYXRlZ29yaWVzOi
 BQb2xpdGljc1xuZmVhdHVyZWRJbWFnZTogL2ltYWdlcy9TY2hh
 dHouanBnXG5zdGF0dXM6IGRyYWZ0XG5kYXRlOiAnMjAyMS0wNS
-0yMydcbiIsImhpc3RvcnkiOlstMTU1ODE1OTAwLDE5Mjg2ODgx
-MTAsNzMwOTk4MTE2XX0=
+0yMydcbiIsImhpc3RvcnkiOlstMTgzMzI5MDI2NSwxOTI4Njg4
+MTEwLDczMDk5ODExNl19
 -->
