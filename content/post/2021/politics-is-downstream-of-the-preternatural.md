@@ -88,7 +88,9 @@ The only battle is Satan's against God.
 
 God does not really fight back because God has already won. When Christ died on the cross and rose from the dead on the third day, Satan and death were overcome. But Satan wants to inflict as much pain on God's people as he can before he's finally tossed into the abyss. 
 
-I have absolutely no fear of error in writing this, and everyday gives us fresh evidence of this preternatural battle 
+I have absolutely no fear of error in writing this, and everyday gives us fresh evidence of this preternatural battle for humanity. Just look at this headline on The Gateway Pundit today:
+
+### Teen Vogue Explains How to Use Menstrual Blood in Witchcraft to Their 12-17 Year Old Readers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTM3NjQ3MiwxMjgxMjQ4MTE1XX0=
+eyJoaXN0b3J5IjpbNDgyNDM4ODIyLDEyODEyNDgxMTVdfQ==
 -->
