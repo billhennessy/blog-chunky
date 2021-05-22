@@ -28,7 +28,11 @@ Tell me if this sound like your motivation for staying informed and taking actio
 * I want to run my own life.
 * I want to save America.
 * I want my kids and grandkids to grow up in a free country.
-* I want to make government do its job and no 
+* I want to make government do its job and no more.
+
+Maybe those are not the words you'd use, but you probably agree with the notion. This is why we fight, right?
+
+What I am about to tell you will transform your grassroots efforts like nothing you can imagine. This little trick makes everything succe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg3ODQ0MTBdfQ==
+eyJoaXN0b3J5IjpbLTQ2MDY2Mzg5MV19
 -->
