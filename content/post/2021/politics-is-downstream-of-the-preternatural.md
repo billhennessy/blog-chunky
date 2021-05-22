@@ -92,7 +92,9 @@ I have absolutely no fear of error in writing this, and everyday gives us fresh 
 
 #### [Teen Vogue Explains How to Use Menstrual Blood in Witchcraft to Their 12-17 Year Old Readers](https://www.thegatewaypundit.com/2021/05/teen-vogue-explains-use-menstrual-blood-witchcraft-12-17-year-old-readers/)
 
-You read that right: Teen Vogue teaches teenage girls how to perform witchcraft using mentrual blood. It's dou
+You read that right: Teen Vogue teaches teenage girls how to perform witchcraft using mentrual blood. It's doubtful Satan has held such sway over humanity since the time Christ walked the earth. 
+
+Politics is beneath the preternatural. That does not mean we must ignore politics. It does mean we must engage for only one intention: the greater glory of God. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjI5Nzc1NiwxMjgxMjQ4MTE1XX0=
+eyJoaXN0b3J5IjpbLTgwNDE2MDEwNCwxMjgxMjQ4MTE1XX0=
 -->
