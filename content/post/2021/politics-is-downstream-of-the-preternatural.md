@@ -68,9 +68,9 @@ We write letters, sign petitions, and attend rallies for the greater glory of Go
 
 We love our neighbors as ourselves for the greater glory of God.
 
-Even the most noble action will be a source of hindrence and disturbance if done for any other intention. If we nurse the sick, heal the wounded, feed the hungry, clothe the naked, it must be done for the greater glory of God. 
+Even the most noble action will be a source of hindrence and disturbance if done for any other intention. If we nurse the sick, heal the wounded, feed the hungry, clothe the naked, it must be done for the greater glory of God it will lead to frustration. 
 
-
+But anything we do for the greater glory of God will most assuredly achieve its aim and hit its target. If our intention in everything we do is to glorify God, we have already succe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU5NDExNDMsMTI4MTI0ODExNV19
+eyJoaXN0b3J5IjpbLTE4OTA1MzQ4NDIsMTI4MTI0ODExNV19
 -->
