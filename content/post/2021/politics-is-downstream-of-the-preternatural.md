@@ -94,7 +94,9 @@ I have absolutely no fear of error in writing this, and everyday gives us fresh 
 
 You read that right: Teen Vogue teaches teenage girls how to perform witchcraft using mentrual blood. It's doubtful Satan has held such sway over humanity since the time Christ walked the earth. 
 
-Politics is beneath the preternatural. That does not mean we must ignore politics. It does mean we must engage for only one intention: the greater glory of God. 
+Politics is beneath the preternatural. That does not mean we must ignore politics. It does mean we must engage for only one intention: the greater glory of God. And if we do all things solely for that intention, we cannot fail. 
+
+If you need inspir
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDE2MDEwNCwxMjgxMjQ4MTE1XX0=
+eyJoaXN0b3J5IjpbMTYwNzI0NDc4MywxMjgxMjQ4MTE1XX0=
 -->
