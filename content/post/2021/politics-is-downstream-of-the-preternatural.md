@@ -86,7 +86,9 @@ There is only one conflict in the entire universe, and that is the conflict caus
 
 The only battle is Satan's against God. 
 
-God does not really fight back because God has already won. When Christ died on the cross and rose from the dead on the third day, Satan was d
+God does not really fight back because God has already won. When Christ died on the cross and rose from the dead on the third day, Satan and death were overcome. But Satan wants to inflict as much pain on God's people as he can before he's finally tossed into the abyss. 
+
+I have absolutely no fear of error in writing this, and everyday gives us fresh evidence of this preternatural battle 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQ2OTAyMTUsMTI4MTI0ODExNV19
+eyJoaXN0b3J5IjpbMTc0MTM3NjQ3MiwxMjgxMjQ4MTE1XX0=
 -->
