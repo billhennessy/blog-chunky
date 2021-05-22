@@ -92,7 +92,7 @@ I have absolutely no fear of error in writing this, and everyday gives us fresh 
 
 #### [Teen Vogue Explains How to Use Menstrual Blood in Witchcraft to Their 12-17 Year Old Readers](https://www.thegatewaypundit.com/2021/05/teen-vogue-explains-use-menstrual-blood-witchcraft-12-17-year-old-readers/)
 
-
+You read that right: Teen Vogue teaches teenage girls how to perform witchcraft using mentrual blood. It's dou
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTEzOTMyMywxMjgxMjQ4MTE1XX0=
+eyJoaXN0b3J5IjpbMTU2MjI5Nzc1NiwxMjgxMjQ4MTE1XX0=
 -->
