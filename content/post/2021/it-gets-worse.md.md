@@ -7,7 +7,7 @@ images: ["/images/schatz.jpg"]
 categories: ["Politics"]
 tags: ["Dave Schatz", "#NoMoGasTax", "Missouri", "#MoLeg"]
 draft: true
-keyConcept: ""
+
 ---
 
 On Tuesday, The Gateway Pundit reported that Missouri State Senator Dave Schatz (R-Villa Ridge) was the chief proponent of the largest gasoline tax increase in Missouri history. Schatz's private company, Schatz Underground LLC of Villa Ridge, Missouri, stands to make millions from road construction resulting from that tax hike.
@@ -72,7 +72,7 @@ VnaXNsYXRpb25cbmF1dGhvcjogQmlsbCBIZW5uZXNzeVxudGFn
 czogJ0RhdmUgU2NoYXR6LCAjTW9MZWcnXG5jYXRlZ29yaWVzOi
 BQb2xpdGljc1xuZmVhdHVyZWRJbWFnZTogL2ltYWdlcy9TY2hh
 dHouanBnXG5zdGF0dXM6IGRyYWZ0XG5kYXRlOiAnMjAyMS0wNS
-0yMidcbiIsImhpc3RvcnkiOls0ODQ5MTI5NDMsMTQwOTkzMjc1
-MCwtMTkwMzM3OTQ0MiwtMTgzMzI5MDI2NSwxOTI4Njg4MTEwLD
-czMDk5ODExNl19
+0yMidcbiIsImhpc3RvcnkiOls0MjE4NzczNDYsNDg0OTEyOTQz
+LDE0MDk5MzI3NTAsLTE5MDMzNzk0NDIsLTE4MzMyOTAyNjUsMT
+kyODY4ODExMCw3MzA5OTgxMTZdfQ==
 -->
