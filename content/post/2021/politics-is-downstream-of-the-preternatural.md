@@ -50,7 +50,9 @@ There is only one perfect intention that guarantees success in everything we do.
 
 If our intention is to make America or Missouri a better place, we have the wrong intention.
 
-If our intention
+If our intention is to ensure a free country for our children, we have the wrong intention.
+
+If anything on the list above is your intention, it is misguided and will be 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTYxNzk2Nl19
+eyJoaXN0b3J5IjpbMTI4MTI0ODExNV19
 -->
