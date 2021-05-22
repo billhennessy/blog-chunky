@@ -25,9 +25,9 @@ Now, we've learned that Schatz also demanded "carve-outs" in three pieces of leg
 **Schatz forced carve-outs for Schatz Underground LLC** in three bills affecting Missouri's utility laws. In other words, Schatz directly legislated business for himself, unfairly freezing out competition and preventing bids. This is a rip-off for all Missouri taxpayers, but the crooked move specifically harms companies competitors of Schatz Underground. 
 
 
-### Correction: Gas Tax Increase Is 70%, Not 40%
+### Updates on Gas Tax Increase
 
-We also learned that our math was wrong in our original article. The right way to compute the gas tax increase is to take the increase divided by the original tax which is a 71 percent increase in gasoline taxes, not the 40 percent we reported earlier.
+The Gateway Pundit article said Schatz's Gas Tax increase was 40 percent, but according to one Missouri State Senator, the right way to compute the gas tax increase is to take the increase divided by the original tax which comes to a 71 percent increase in gasoline taxes, not the 40 percent we reported earlier.
 
 Also, we learned that the tax increase is expected to raise $513 million by 2025, far more than we estimated based on 2019 gasoline sales in Missouri. Our formula failed to consider increases in gasoline sales over six years. 
 
@@ -53,6 +53,6 @@ VnaXNsYXRpb25cbmF1dGhvcjogQmlsbCBIZW5uZXNzeVxudGFn
 czogJ0RhdmUgU2NoYXR6LCAjTW9MZWcnXG5jYXRlZ29yaWVzOi
 BQb2xpdGljc1xuZmVhdHVyZWRJbWFnZTogL2ltYWdlcy9TY2hh
 dHouanBnXG5zdGF0dXM6IGRyYWZ0XG5kYXRlOiAnMjAyMS0wNS
-0yMydcbiIsImhpc3RvcnkiOlstNTAyMjc3Mjk0LDE5Mjg2ODgx
-MTAsNzMwOTk4MTE2XX0=
+0yMydcbiIsImhpc3RvcnkiOlsxNTkyODA4MzEsMTkyODY4ODEx
+MCw3MzA5OTgxMTZdfQ==
 -->
