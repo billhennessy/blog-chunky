@@ -5,14 +5,14 @@ url: politics-is-downstream-of-the-preternatural
 authors: 
 - Bill Hennessy
 images: 
-- /images/
+- /images/amdg.jpg
 categories: 
 - Politics
 - Faith
 - Living
 tags: 
-- tag1
-draft: true
+- Ephesians 6:10
+draft: false
 
 ---
 Does it ever feel to you as if all our grassroots work may be wasted? Like we're on a political and cultural treadmill that's turning just a little faster than we can run? That the universe is laughing our efforts and mocking our dreams?
@@ -100,5 +100,5 @@ If you need inspiration, read Ephesians 6:10-19 or [read this blog post](https:/
 
 P.S. Sometimes I forget to make my intention toward God's glory. All other intentions, however nice they may be, are ultimately self-serving. Please pray for me that all my actions are done for perfect intention of God's greater glory, and I will do the same for you. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTYxODU1OSwxMjgxMjQ4MTE1XX0=
+eyJoaXN0b3J5IjpbNTEyMjc4MjE4LDEyODEyNDgxMTVdfQ==
 -->
