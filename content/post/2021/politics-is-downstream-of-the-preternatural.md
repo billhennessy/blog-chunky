@@ -23,7 +23,12 @@ So, before you fire off that next tweet about the Arizona audit or post a rant a
 
 ### Check Your intention
 
+Tell me if this sound like your motivation for staying informed and taking action:
 
+* I want to run my own life.
+* I want to save America.
+* I want my kids and grandkids to grow up in a free country.
+* I want to make government do its job and no 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2OTAzNjM4XX0=
+eyJoaXN0b3J5IjpbLTIwNTg3ODQ0MTBdfQ==
 -->
