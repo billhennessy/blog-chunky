@@ -9,7 +9,6 @@ images:
 categories: 
 - Politics
 - Faith
-- Living
 tags: 
 - Ephesians 6:10
 draft: false
@@ -100,5 +99,5 @@ If you need inspiration, read Ephesians 6:10-19 or [read this blog post](https:/
 
 P.S. Sometimes I forget to make my intention toward God's glory. All other intentions, however nice they may be, are ultimately self-serving. Please pray for me that all my actions are done for perfect intention of God's greater glory, and I will do the same for you. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyMjc4MjE4LDEyODEyNDgxMTVdfQ==
+eyJoaXN0b3J5IjpbLTQ3MDQwNzM5NiwxMjgxMjQ4MTE1XX0=
 -->
