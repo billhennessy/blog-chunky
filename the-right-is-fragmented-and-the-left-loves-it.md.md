@@ -35,8 +35,13 @@ This fragmentation meant our forces were divided. Or our individual efforts were
 
 Sure, we made *progress* every day. Tiny, incremental progress. You'd need precision measurement devices only NASA and CERN have access to to measure the amount of progress we made on any one issue. 
 
-What d
+What did I do about it? 
+
+I went out and started another organization, another movement. A movement with a whole set of issues to pursue.
+
+In other words, I fragmented the fragments. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM5MDk2MDIsLTE5MDQ0NDM3NTZdfQ
-==
+eyJoaXN0b3J5IjpbMTA4NDc3OTkwMSwtMTkwNDQ0Mzc1Nl19
 -->
