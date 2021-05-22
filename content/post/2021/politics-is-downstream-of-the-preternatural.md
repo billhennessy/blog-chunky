@@ -98,7 +98,7 @@ Politics is beneath the preternatural. That does not mean we must ignore politic
 
 If you need inspiration, read Ephesians 6:10-19 or [read this blog post](https://www.hennessysview.com/put-on-the-armor-of-god/).
 
-P.S. Sometimes I forget to make my intention toward God's glory. All other intentions, however nice they may be, are ultimately self-serving. Please pray 
+P.S. Sometimes I forget to make my intention toward God's glory. All other intentions, however nice they may be, are ultimately self-serving. Please pray for me that all my actions are done for perfect intention of God's greater glory, and I will do the same for you. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTI3MzE1NiwxMjgxMjQ4MTE1XX0=
+eyJoaXN0b3J5IjpbMzgzNTQyNDcyLDEyODEyNDgxMTVdfQ==
 -->
