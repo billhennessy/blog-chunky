@@ -76,7 +76,11 @@ But anything we do for the greater glory of God will most assuredly achieve its 
 
 When we make the greater glory of God our first and primary intention, every action we take will be more effective. The intention of honoring God will change how we take action. It will change the words we use and the feeling we attach to our efforts. 
 
-When all of you work is ordered toward God's glory—even the work of admonishing sinners and defeating enemies—you will feel yourself choosing words that will please God and tactics that will 
+When all of you work is ordered toward God's glory—even the work of admonishing sinners and defeating enemies—you will feel yourself choosing words that will please God and tactics that will align to His will. No, your words and actions won't be perfect yet. Your fallen nature will get in the way. You will make mistakes.
+
+But if you practice ordering all your actions toward His greater glory, He will guide you, train you, and inspire you. 
+
+WE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzY4MjcyMTMsMTI4MTI0ODExNV19
+eyJoaXN0b3J5IjpbNzg3NzYwOTEyLDEyODEyNDgxMTVdfQ==
 -->
