@@ -32,7 +32,11 @@ Tell me if this sound like your motivation for staying informed and taking actio
 
 Maybe those are not the words you'd use, but you probably agree with the notion. This is why we fight, right?
 
-What I am about to tell you will transform your grassroots efforts like nothing you can imagine. This little trick makes everything succe
+What I am about to tell you will transform your grassroots efforts like nothing you can imagine. This little trick makes everything successful and good. This is the truth you've been looking for and may have already found. 
+
+### Your Intention Determines Your Outcome
+
+Now, I know that sub-headline sounds like it's from a cheezy self-help manual advertised in a late-night informercial tha
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDY2Mzg5MV19
+eyJoaXN0b3J5IjpbMTU0Nzg4MzU1M119
 -->
