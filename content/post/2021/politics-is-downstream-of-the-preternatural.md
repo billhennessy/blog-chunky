@@ -58,7 +58,15 @@ There is is only one right intention that makes all human efforts successful in 
 
 ### All Human Efforts Must Be Undertaken for the Greater Glory of God
 
-There
+There it is. The perfect intention: the greater glory of God. 
+
+We protest at the state capitol for the greater glory of God.
+
+We oppose forced experimental vaccinations for the greater glory of God. 
+
+We write letters, sign petitions, and attend rallies for the greater glory of God. 
+
+Everything
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjQwNjUxNSwxMjgxMjQ4MTE1XX0=
+eyJoaXN0b3J5IjpbLTYwNTk4MzkyNiwxMjgxMjQ4MTE1XX0=
 -->
