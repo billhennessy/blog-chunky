@@ -1,5 +1,5 @@
 ---
 name: "Bill Hennessy"
-images: []
+images: [Hennessys-View-Photo.png]
 gab: "whennessy"
 ---

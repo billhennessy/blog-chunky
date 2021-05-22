@@ -1,7 +1,7 @@
 ---
-title: "It Gets Worse: Senator Dave Schatz Included "Carve-Outs" for His Company in Three Separate Utility Bills 
-date: 2021-04-05T07:28:53-05:00
-url: to-set-aside
+title: "It Gets Worse: Senator Dave Schatz Included 'Carve-Outs' for His Company in Three Separate Utility Bills"
+date: 2021-05-22T00:28:53-05:00
+url: it-gets-worse
 authors: ["Bill Hennessy"]
 images: ["/images/schatz.jpg"]
 categories: ["Politics"]
@@ -22,7 +22,10 @@ The gas tax increase will disproportionately affect the poor who will pay a high
 
 In the closing days of the session, Rep. Jered Taylor took to the House Floor to expose Schatz's dictatorial plot.
 
-Video: {{< video "https://www.facebook.com/OnTheRecordMissouri/videos/4049171175141824/" >}}
+
+[<img src="https://hennessysview.com/images/jered.png">](https://www.facebook.com/OnTheRecordMissouri/videos/4049171175141824/)
+
+
 
 Rep. Taylor courageously offered his amendment, anyway, as seen in the clip. 
 
@@ -42,10 +45,10 @@ Also, we learned that the tax increase is expected to raise $513 million by 2025
 
 And a lot of that $513 million will go straight into Dave Schatz's back pocket.
 
-Schatz, of course, will funnel some of that money back to his political cronies. Lieutenant Govern Kehoe, who's been quietly lobbying for the tax increase for years, wants to be governor someday. Schatz will likely reward him. And House Majority Leader Dean Plocher, who wants to be Speaker, will also have his hand out. Ploecher quietly supported the gas tax increase in the House. 
+Schatz, of course, will **funnel some of that money back to his political cronies**. Lieutenant Govern Kehoe, who's been quietly lobbying for the tax increase for years, wants to be governor someday. Schatz will likely reward him. And House Majority Leader Dean Plocher, who wants to be Speaker, will also have his hand out. Ploecher quietly supported the gas tax increase in the House. 
 
-{{< figure src="/images/kehoe.jpg" title="Lt. Gov. Mike Kehoe" >}}
-{{< figure src="/images/plocher" title="Rep. Dean Plocher" >}}
+{{< figure src="/images/kehoe.jpg" title="Lt. Gov. Mike Kehoe" width="180" >}}
+{{< figure src="/images/plocher.png" title="Rep. Dean Plocher" width="150" >}}
 
 But we can stop this gravy train. 
 
