@@ -19,7 +19,7 @@ Does it ever feel to you as if all our grassroots work may be wasted? Like we're
 
 You may be right. We could be crazy.
 
-So, before you fire off that next tweet about the Arizona audit or post a rant about Dave Schatz's 70% gasoline tax increase in Missouri, I want you know to be sure your work is not in vain. 
+So, before you fire off that next tweet about the Arizona audit or post a rant about [Dave Schatz's 70% gasoline tax increase in Missouri](https://www.thegatewaypundit.com/2021/05/gas-prices-soar-one-missouri-senator-stands-make-millions-gasoline-tax-hike-demanded/), I want you know to be sure your work is not in vain. 
 
 ### Check Your intention
 
@@ -100,5 +100,5 @@ If you need inspiration, read Ephesians 6:10-19 or [read this blog post](https:/
 
 P.S. Sometimes I forget to make my intention toward God's glory. All other intentions, however nice they may be, are ultimately self-serving. Please pray for me that all my actions are done for perfect intention of God's greater glory, and I will do the same for you. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTEyMDY5MTEsMTI4MTI0ODExNV19
+eyJoaXN0b3J5IjpbMTI1NTYxODU1OSwxMjgxMjQ4MTE1XX0=
 -->
