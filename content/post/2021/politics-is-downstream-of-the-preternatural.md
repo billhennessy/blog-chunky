@@ -74,7 +74,9 @@ But anything we do for the greater glory of God will most assuredly achieve its 
 
 ### But Wait—There's More!
 
-When we begin our gras
+When we make the greater glory of God our first and primary intention, every action we take will be more effective. The intention of honoring God will change how we take action. It will change the words we use and the feeling we attach to our efforts. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTE4NTUyNjYsMTI4MTI0ODExNV19
+eyJoaXN0b3J5IjpbMTc1MTQzNzgyMSwxMjgxMjQ4MTE1XX0=
 -->
