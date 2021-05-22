@@ -1,5 +1,14 @@
-
-### It Gets Worse: Update: Senator Dave Schatz Included "Carve-Outs" for His Company in Three Separate Utility Bills 
+---
+title: "It Gets Worse: Senator Dave Schatz Included "Carve-Outs" for His Company in Three Separate Utility Bills 
+date: 2021-04-05T07:28:53-05:00
+url: to-set-aside
+authors: ["Bill Hennessy"]
+images: ["/images/schatz.jpg"]
+categories: ["Politics"]
+tags: ["Dave Schatz", "#NoMoGasTax", "Missouri", "#MoLeg"]
+draft: true
+keyConcept: ""
+---
 
 On Tuesday, The Gateway Pundit reported that Missouri State Senator Dave Schatz (R-Villa Ridge) was the chief proponent of the largest gasoline tax increase in Missouri history. Schatz's private company, Schatz Underground LLC of Villa Ridge, Missouri, stands to make millions from road construction resulting from that tax hike.
 
