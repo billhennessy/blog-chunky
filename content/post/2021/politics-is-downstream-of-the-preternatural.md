@@ -90,7 +90,9 @@ God does not really fight back because God has already won. When Christ died on 
 
 I have absolutely no fear of error in writing this, and everyday gives us fresh evidence of this preternatural battle for humanity. Just look at this headline on The Gateway Pundit today:
 
-### Teen Vogue Explains How to Use Menstrual Blood in Witchcraft to Their 12-17 Year Old Readers
+#### [Teen Vogue Explains How to Use Menstrual Blood in Witchcraft to Their 12-17 Year Old Readers](https://www.thegatewaypundit.com/2021/05/teen-vogue-explains-use-menstrual-blood-witchcraft-12-17-year-old-readers/)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyNDM4ODIyLDEyODEyNDgxMTVdfQ==
+eyJoaXN0b3J5IjpbMjEyOTEzOTMyMywxMjgxMjQ4MTE1XX0=
 -->
