@@ -13,7 +13,7 @@ The gas tax increase will disproportionately affect the poor who will pay a high
 
 In the closing days of the session, Rep. Jered Taylor took to the House Floor to expose Schatz's dictatorial plot.
 
-Video: {{< video https://www.facebook.com/OnTheRecordMissouri/videos/4049171175141824/ >}}
+Video: {{< video "https://www.facebook.com/OnTheRecordMissouri/videos/4049171175141824/" >}}
 
 Rep. Taylor courageously offered his amendment, anyway, as seen in the clip. 
 
@@ -60,6 +60,7 @@ VnaXNsYXRpb25cbmF1dGhvcjogQmlsbCBIZW5uZXNzeVxudGFn
 czogJ0RhdmUgU2NoYXR6LCAjTW9MZWcnXG5jYXRlZ29yaWVzOi
 BQb2xpdGljc1xuZmVhdHVyZWRJbWFnZTogL2ltYWdlcy9TY2hh
 dHouanBnXG5zdGF0dXM6IGRyYWZ0XG5kYXRlOiAnMjAyMS0wNS
-0yMydcbiIsImhpc3RvcnkiOlstMTkwMzM3OTQ0MiwtMTgzMzI5
-MDI2NSwxOTI4Njg4MTEwLDczMDk5ODExNl19
+0yMydcbiIsImhpc3RvcnkiOlsxNDA5OTMyNzUwLC0xOTAzMzc5
+NDQyLC0xODMzMjkwMjY1LDE5Mjg2ODgxMTAsNzMwOTk4MTE2XX
+0=
 -->
