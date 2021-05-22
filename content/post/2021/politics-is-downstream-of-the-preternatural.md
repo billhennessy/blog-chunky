@@ -52,7 +52,7 @@ If our intention is to make America or Missouri a better place, we have the wron
 
 If our intention is to ensure a free country for our children, we have the wrong intention.
 
-If anything on the list above is your intention, it is misguided and will be 
+If anything on the list above is your intention, it is misguided and will be hindered and disturbed, as Eptictetus wrote in his 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTI0ODExNV19
+eyJoaXN0b3J5IjpbNzI0MjczOTA3LDEyODEyNDgxMTVdfQ==
 -->
