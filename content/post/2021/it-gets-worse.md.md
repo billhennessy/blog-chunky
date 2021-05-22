@@ -3,7 +3,9 @@
 
 On Tuesday, The Gateway Pundit reported that Missouri State Senator Dave Schatz (R-Villa Ridge) was the chief proponent of the largest gasoline tax increase in Missouri history. Schatz's private company, Schatz Underground LLC of Villa Ridge, Missouri, stands to make millions from road construction resulting from that tax hike.
 
-We also reported that Schatz used his power as president *pro tempore* of the Senate to block all legislation in the final weeks of the 2021 legislative session unless the gas tax passed. 
+([Read *As Gas Prices Soar, One Missouri Senator Stands to Make Millions from the Gasoline Tax Hike He Demanded*](https://www.thegatewaypundit.com/2021/05/gas-prices-soar-one-missouri-senator-stands-make-millions-gasoline-tax-hike-demanded/))
+
+TGP also reported that Schatz used his power as president *pro tempore* of the Senate to block all legislation in the final weeks of the 2021 legislative session unless the gas tax passed. 
 
 Schatz also included a sham rebate in that gas tax hike to **circumvent Missouri's Hancock Amendment**. The Hancock Amendment requires tax increases to go to a vote of the people, the taxpayers. By including the rebate, which places onerous burdens on citizens like saving all gasoline receipts for a year, Schatz broke the spirit of the law. He knew the people would not support the largest gasoline tax hike in state history. 
 
@@ -51,6 +53,6 @@ VnaXNsYXRpb25cbmF1dGhvcjogQmlsbCBIZW5uZXNzeVxudGFn
 czogJ0RhdmUgU2NoYXR6LCAjTW9MZWcnXG5jYXRlZ29yaWVzOi
 BQb2xpdGljc1xuZmVhdHVyZWRJbWFnZTogL2ltYWdlcy9TY2hh
 dHouanBnXG5zdGF0dXM6IGRyYWZ0XG5kYXRlOiAnMjAyMS0wNS
-0yMydcbiIsImhpc3RvcnkiOlsxODA2MjUzMDYsMTkyODY4ODEx
-MCw3MzA5OTgxMTZdfQ==
+0yMydcbiIsImhpc3RvcnkiOlstMTA3OTE5NzQwOCwxOTI4Njg4
+MTEwLDczMDk5ODExNl19
 -->
