@@ -20,7 +20,7 @@ Schatz also included a sham rebate in that gas tax hike to **circumvent Missouri
 
 The gas tax increase will disproportionately affect the poor who will pay a higher percentage of their income for transportation. It will also increase the price of goods and services in Missouri, as businesses will pass along higher costs to consumers. Everybody loses except Dave Schatz. 
 
-In the closing days of the session, Rep. Jered Taylor took to the House Floor to expose Schatz's dictatorial plot.
+In the closing days of the session, [Rep. Jered Taylor took to the House Floor](https://www.facebook.com/OnTheRecordMissouri/videos/4049171175141824/) to expose Schatz's dictatorial plot.
 
 
 [<img src="https://hennessysview.com/images/jered.png">](https://www.facebook.com/OnTheRecordMissouri/videos/4049171175141824/)
