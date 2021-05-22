@@ -36,7 +36,7 @@ What I am about to tell you will transform your grassroots efforts like nothing 
 
 ### Your Intention Determines Your Outcome
 
-Now, I know that sub-headline sounds like it's from a cheezy self-help manual advertised in a late-night informercial tha
+Now, I know that sub-headline sounds like it's from a cheezy self-help manual advertised in a late-night informercial you roll your eyes at but can't stop watching. I know "your intention determines your outcom" sounds like pseudo-logic to you: it sounds true even though it may be just sentimen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Nzg4MzU1M119
+eyJoaXN0b3J5IjpbMTc1NjM4Nzc0Ml19
 -->
