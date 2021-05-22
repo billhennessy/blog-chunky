@@ -15,9 +15,15 @@ tags:
 draft: true
 
 ---
-Does it ever feel to you as if all our grassroots work may be wasted? Like we're on a political and cultural treadmill that's turning just a little faster than we can run? That the universe is laughing 
+Does it ever feel to you as if all our grassroots work may be wasted? Like we're on a political and cultural treadmill that's turning just a little faster than we can run? That the universe is laughing our efforts and mocking our dreams?
 
-Before you fire off your next tweet about the Arizona audit or post a rant about Dave Schatz's 70% gasoline tax increase in Missouri, I want you know your efforts might be futile. 
+You may be right. We could be crazy.
+
+So, before you fire off that next tweet about the Arizona audit or post a rant about Dave Schatz's 70% gasoline tax increase in Missouri, I want you know to be sure your work is not in vain. 
+
+### Check Your intention
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTY0MTU5NV19
+eyJoaXN0b3J5IjpbMjk2OTAzNjM4XX0=
 -->
