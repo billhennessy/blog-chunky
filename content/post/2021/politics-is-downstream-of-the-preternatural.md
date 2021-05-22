@@ -46,7 +46,11 @@ The problem is, most of us have the wrong intention in all of our grassroots eff
 
 ### The Only Perfect Intention Has Never Changed
 
+There is only one perfect intention that guarantees success in everything we do. But, too often, we forget this one perfect intention. 
 
+If our intention is to make America or Missouri a better place, we have the wrong intention.
+
+If our intention
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTAwMTc3N119
+eyJoaXN0b3J5IjpbMTE3MTYxNzk2Nl19
 -->
