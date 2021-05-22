@@ -17,10 +17,10 @@ Video: {{< video src="https://www.facebook.com/OnTheRecordMissouri/videos/404917
 
 Rep. Taylor courageously offered his amendment, anyway, as seen in the clip. 
 
-Now, The Gateway Pundit is hearing from legislators and Jefferson City insiders who are spilling the beans on just how shady and crooked Dave Schatz is.
-
 
 ### Schatz Strong-Armed Carve-Outs for His Private Company
+
+Now, we've learned that Schatz also demanded "carve-outs" in three pieces of legislation for his company, Schatz Underground LLC. 
 
 **Schatz forced carve-outs for Schatz Underground LLC** in three bills affecting Missouri's utility laws. In other words, Schatz directly legislated business for himself, unfairly freezing out competition and preventing bids. This is a rip-off for all Missouri taxpayers, but the crooked move specifically harms companies competitors of Schatz Underground. 
 
@@ -53,6 +53,6 @@ VnaXNsYXRpb25cbmF1dGhvcjogQmlsbCBIZW5uZXNzeVxudGFn
 czogJ0RhdmUgU2NoYXR6LCAjTW9MZWcnXG5jYXRlZ29yaWVzOi
 BQb2xpdGljc1xuZmVhdHVyZWRJbWFnZTogL2ltYWdlcy9TY2hh
 dHouanBnXG5zdGF0dXM6IGRyYWZ0XG5kYXRlOiAnMjAyMS0wNS
-0yMydcbiIsImhpc3RvcnkiOlstMTQ4ODE2MDMyNCwxOTI4Njg4
-MTEwLDczMDk5ODExNl19
+0yMydcbiIsImhpc3RvcnkiOlstNTAyMjc3Mjk0LDE5Mjg2ODgx
+MTAsNzMwOTk4MTE2XX0=
 -->
