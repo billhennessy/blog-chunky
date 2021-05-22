@@ -33,7 +33,7 @@ Also, we learned that the tax increase is expected to raise $513 million by 2025
 
 And a lot of that $513 million will go straight into Dave Schatz's back pocket.
 
-Schatz, of course, will funnel some of that money back to 
+Schatz, of course, will funnel some of that money back to his political cronies. Lieutenant Govern Kehoe, who's been quietly lobbying for the tax increase for years, wants to be governor someday. Schatz will likely reward him. And House Majority Leader Dean Ploecher, who wants to
 
 ### Demand a Vote of the People
 
@@ -55,6 +55,6 @@ VnaXNsYXRpb25cbmF1dGhvcjogQmlsbCBIZW5uZXNzeVxudGFn
 czogJ0RhdmUgU2NoYXR6LCAjTW9MZWcnXG5jYXRlZ29yaWVzOi
 BQb2xpdGljc1xuZmVhdHVyZWRJbWFnZTogL2ltYWdlcy9TY2hh
 dHouanBnXG5zdGF0dXM6IGRyYWZ0XG5kYXRlOiAnMjAyMS0wNS
-0yMydcbiIsImhpc3RvcnkiOlsxMDAzODUzMzA4LDE5Mjg2ODgx
-MTAsNzMwOTk4MTE2XX0=
+0yMydcbiIsImhpc3RvcnkiOlstMTcyMDQ3MjEyNSwxOTI4Njg4
+MTEwLDczMDk5ODExNl19
 -->
