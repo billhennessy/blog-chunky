@@ -40,7 +40,13 @@ Now, I know that sub-headline sounds like it's from a cheezy self-help manual ad
 
 I don't blame you for thinking so. I felt the same way when I wrote it. It sounds like a self-help guru's slogan. 
 
-So be it. "Your intention determines your outcome" is the key to victory, though, an
+So be it. "Your intention determines your outcome" is the key to victory, though. It is 100% guaranteed to work every time it's tried. 
+
+The problem is, most of us have the wrong intention in all of our grassroots efforts. We pursue the right end but always for the wrong reasons. 
+
+### The Only Perfect Intention Has Never Changed
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzc0NDYxMF19
+eyJoaXN0b3J5IjpbLTQ0MTAwMTc3N119
 -->
