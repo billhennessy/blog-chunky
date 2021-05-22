@@ -97,6 +97,8 @@ You read that right: Teen Vogue teaches teenage girls how to perform witchcraft 
 Politics is beneath the preternatural. That does not mean we must ignore politics. It does mean we must engage for only one intention: the greater glory of God. And if we do all things solely for that intention, we cannot fail. 
 
 If you need inspiration, read Ephesians 6:10-19 or [read this blog post](https://www.hennessysview.com/put-on-the-armor-of-god/).
+
+P.S. Sometimes I forget to make my intention toward God's glory. All other intentions, however nice they may be, are ultimately self-serving. Please pray 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Njc1NTc4NiwxMjgxMjQ4MTE1XX0=
+eyJoaXN0b3J5IjpbLTY1MTI3MzE1NiwxMjgxMjQ4MTE1XX0=
 -->
