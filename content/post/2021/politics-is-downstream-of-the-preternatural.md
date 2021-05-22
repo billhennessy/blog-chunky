@@ -66,7 +66,11 @@ We oppose forced experimental vaccinations for the greater glory of God.
 
 We write letters, sign petitions, and attend rallies for the greater glory of God. 
 
-Everything
+We love our neighbors as ourselves for the greater glory of God.
+
+Even the most noble action will be a source of hindrence and disturbance if done for any other intention. If we nurse the sick, heal the wounded, feed the hungry, clothe the naked, it must be done for the greater glory of God. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTk4MzkyNiwxMjgxMjQ4MTE1XX0=
+eyJoaXN0b3J5IjpbLTE4MjU5NDExNDMsMTI4MTI0ODExNV19
 -->
