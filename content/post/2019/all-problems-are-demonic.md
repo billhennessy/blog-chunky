@@ -58,7 +58,7 @@ Remember, in about 67 *Anno Domini* when Paul wrote that, there were plenty of e
 
 Are we better than first century Christians? Are we somehow so holy now that we can turn our attentions to problems of creatures? 
 
-Now, we have no viable, long-term political options, anyway. [After Trump, the deluge](https://www.hennessysview.com/posts/2019/last-post-from-hennessys-view/). 
+Now, we have no viable, long-term political options, anyway. [After Trump, the deluge](https://www.hennessysview.com/post/2019/too-crazy-to-publish/). 
 
 So where do we turn?
 
@@ -92,3 +92,6 @@ Pray and stay tuned. In the meantime, watch this interview with a Catholic witne
 
 Peace
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzODI2NDY1N119
+-->
