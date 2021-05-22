@@ -80,7 +80,9 @@ When all of you work is ordered toward God's glory—even the work of admonishin
 
 But if you practice ordering all your actions toward His greater glory, He will guide you, train you, and inspire you. 
 
-WE
+### Prayer Before Politics
+
+There is only one conflict in the entire universe, and that is the conflict caused by Satan's rebellion against God. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3NzYwOTEyLDEyODEyNDgxMTVdfQ==
+eyJoaXN0b3J5IjpbLTEwMTYyMjgzMTUsMTI4MTI0ODExNV19
 -->
