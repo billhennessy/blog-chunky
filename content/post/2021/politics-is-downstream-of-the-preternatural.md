@@ -82,7 +82,9 @@ But if you practice ordering all your actions toward His greater glory, He will 
 
 ### Prayer Before Politics
 
-There is only one conflict in the entire universe, and that is the conflict caused by Satan's rebellion against God. 
+There is only one conflict in the entire universe, and that is the conflict caused by Satan's rebellion against God. In his rebellion, Satan seeks to deny God the love of man. Satan works his preternatural magic in this world of which he is the prince. And we are helpless to resist him.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTYyMjgzMTUsMTI4MTI0ODExNV19
+eyJoaXN0b3J5IjpbLTYyNzY2OTA0NiwxMjgxMjQ4MTE1XX0=
 -->
