@@ -26,21 +26,21 @@ Some might speak of how unfair it is that these Holdouts lost their Constitution
 
 But we must ask, **how much of modern life is really a "blessing?"** 
 
-Most Americans work to retire. We literally give up our most productive years to save money so we can stop doing what others require of us and start doing what we want to do ourselves. In a cruel irony, this day of liberation usually comes in our seventh or eighth decade of life when the tolls of work and age prevent us from doing many of the things we had always wished to do. And these are not always mere amusements, but other kinds of work.
+Most Americans work to retire. We literally give up our most productive years to save money so we can stop doing what others require of us and start doing what we want to do ourselves. In a cruel irony, this day of liberation, retirement, usually comes in our seventh or eighth decade of life when the tolls of work and age prevent us from doing many of the things we had always wished to do. And these are not always mere amusements, but are often other kinds of work.
 
 Some things that the blessings of modern life make difficult for me, for instance:
 
 * Stain my deck
-* Replace a bathtub 
+* Replace a bathtub in one of our bathrooms
 * Replace carpeting with porcelain tiles in two rooms
-* Raising chickens for eggs and food
+* Raise chickens for eggs and food
 * Plant a vegetable garden like the one I grew as a kid
 * Hike and fish and kayak
 * Build a log cabin
 * Live off the grid
 * Write more 
 
-Yes, I could start these projects and do what I can little fragments of time, weather permitting. Which I will do for some, eventually, when I work up the confidence in my own resourcefulness. 
+Yes, I could start these projects and do what I can in little fragments of time, weather permitting. Which I will do for some, eventually, when I work up the confidence in my own resourcefulness. 
 
 These are the sorts of activities many people plan to do when they retire. When my father retired in 1987, his children all grown and moved away, he rehabbed the house we grew up in. He rewired the place from top to bottom, replaced the plumbing, rebuilt the dormers on the third floor and replaced their cedar shake coverings with vinyl siding. He replaced most of the windows in the house, remodeled the bathrooms, painted the house top to bottom, inside and out, several times, landscaped the 150-foot by 50-foot backyard twice, and much more. 
 
@@ -66,5 +66,5 @@ The other two families, with very small children, have it much better. They are 
 
 The kitchen is a large table covered with various outdoor cooking equipment in one corner of the steel barn where the women and older girls work most of the day to prepare meals for the large 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDAxMDE5M119
+eyJoaXN0b3J5IjpbLTE2MTQyMzE2MDFdfQ==
 -->
