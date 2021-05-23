@@ -16,9 +16,9 @@ That, to me, is reassuring. The post is mostly about about hope. In fact, it cou
 
 To bless someone or something means to "set it aside, apart." Specifically, something or someone who is blessed is set apart {{< text-color text="for God's sake" color="red" >}}. 
 
-Though the thing or person blessed does not look or function any differently than before it was set apart for God, it is changed. Something blessed, something intentionally set aside for God, must never again be used for profane purposes. When we use blessed objects or people for profane purposes, we call this "desecration." 
+Though the thing or person blessed does not look or function any differently than before it was set apart for God, it is changed. Something blessed, something intentionally set aside for God, must never again be used for profane purposes. **When we use blessed objects or people for profane purposes, we call this "desecration."** 
 
-In yesterday's post, we looked at the Holdouts—people who suffer internal exile for refusing to display their vaccine passport. In the post, these Holdouts were forced to band together in small communities that exist within but apart from the "normal" American society. 
+In that earlier post, we looked at the {{< text-color text=“Holdouts—people who suffer internal exile for refusing to display their vaccine passport" >}}. In the post, these Holdouts were forced to band together in small communities that exist within but apart from the "normal" American society. 
 
 The Holdouts give up most of what we think of as modern life: jobs, technology, the entertainment industry, voting. They adopt a lifestyle that was common prior to the industrial revolution, growing their own food, raising their own livestock, building their own homes, educating their own children, nursing their own sick and wounded. It's safe to assume faith sits at the center of their lives, both individually and across their communities. 
 
@@ -66,5 +66,5 @@ The other two families, with very small children, have it much better. They are 
 
 The kitchen is a large table covered with various outdoor cooking equipment in one corner of the steel barn where the women and older girls work most of the day to prepare meals for the large 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzQxMTYzMF19
+eyJoaXN0b3J5IjpbOTkxNDI3NTAyXX0=
 -->
