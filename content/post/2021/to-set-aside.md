@@ -40,11 +40,11 @@ Some things that the blessings of modern life make difficult for me, for instanc
 * Live off the grid
 * Write more 
 
-Yes, I could start these projects and do what I can in little fragments of time, weather permitting. Which I will do for some, eventually, when I work up the confidence in my own resourcefulness. 
+Yes, I could start these projects and do what I can in little fragments of time, weather permitting. Which I will do for some, eventually, when I work up the confidence in my own plumbing skills. Maybe.
 
-These are the sorts of activities many people plan to do when they retire. When my father retired in 1987, his children all grown and moved away, he rehabbed the house we grew up in. He rewired the place from top to bottom, replaced the plumbing, rebuilt the dormers on the third floor and replaced their cedar shake coverings with vinyl siding. He replaced most of the windows in the house, remodeled the bathrooms, painted the house top to bottom, inside and out, several times, landscaped the 150-foot by 50-foot backyard twice, and much more. 
+These are the sorts of activities many people plan to do when they retire. When my father retired in 1987, his children all grown and moved away, he rehabbed the house we grew up in. He rewired the place from top to bottom, replaced the plumbing, rebuilt the dormers on the third floor and replaced their cedar shake coverings with vinyl siding. He replaced most of the windows in the house, remodeled the bathrooms, painted the house top to bottom, inside and out, several times, landscaped the 200-foot by 50-foot backyard twice, and much more. 
 
-Growing up, he and I started all of these projects. But we never finished them. Dad wanted to do these things to make a better home for his family, but he couldn't do that while raising a family. He had to do it *after* his family raised and on their own when he could quick work and take the time. 
+Growing up, he and I started all of these projects. But we never finished them. Dad wanted to do these things to make a better home for his family, but he couldn't do that while raising a family. He had to do it *after* his family was raised and on their own when he could quit working and take the time. 
 
 Now, let's pretend my dad were a man in his 30s when the pandemic struck and the world lost its head. Supposed he became a Holdout, lost his job and his partially rehabbed home. In humiliation and defeat, he converted his meager savings and pension to cash, packed up what would fit in the family cars, and headed to a small family farmed owned by another man fired from their place of work—a fellow Holdout. 
 
@@ -66,5 +66,5 @@ The other two families, with very small children, have it much better. They are 
 
 The kitchen is a large table covered with various outdoor cooking equipment in one corner of the steel barn where the women and older girls work most of the day to prepare meals for the large 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQyMzE2MDFdfQ==
+eyJoaXN0b3J5IjpbLTEwOTM5MTkwMjBdfQ==
 -->
