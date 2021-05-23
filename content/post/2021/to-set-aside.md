@@ -52,7 +52,7 @@ There, Dad reunites with half a dozen other former co-workers at a company that 
 
 Seven families on 80 acres in southern Jefferson County, Missouri with one home big enough for one family. 
 
-Luckily, being a small farm, there are several outbuildings that can serve as temporary living quarters for the six exile families. With the families' combined savings, and the rural self-sufficiency of the landlord, they build additional septic systems and upgrade the farm's wells to accommodate the increased population. The exile children spend their first summer learning how to manage a farm, care for livestock, and operate farm equipment. The women make sure the children read and practice math every evening. 
+Luckily, being a small farm, there are several outbuildings that can serve as temporary living quarters for the six exile families. With the families' combined savings, and the rural self-sufficiency of the landlord, they build additional septic systems and upgrade the farm's wells to accommodate the increased population. The exiled children spend their first summer learning how to manage a farm, care for livestock, and operate farm equipment. The women make sure the children read and practice math every evening. 
 
 Let's not ignore the troubles. Several of the men in the group did not get along with each other when they worked at the old company, and they don't get along at first. Now, their wives also find fault in each other. My mom doubts she can tolerate living with so-and-so more than a month or two. 
 
@@ -66,5 +66,5 @@ The other two families, with very small children, have it much better. They are 
 
 The kitchen is a large table covered with various outdoor cooking equipment in one corner of the steel barn where the women and older girls work most of the day to prepare meals for the large 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzYzMDA1MV19
+eyJoaXN0b3J5IjpbLTQwNjIzNDkzN119
 -->
