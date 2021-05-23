@@ -10,7 +10,7 @@ draft: true
 keyConcept: ""
 ---
 
-Yesterday's post ([*This Is What Will Happen*](https://www.hennessysview.com/this-is-what-will-happen/)) struck a chord with some readers. Yet, I was surprised that no one (so far) has said, "Bill, it sounds like you're giving up."
+An earlier post ([*This Is What Will Happen*](https://www.hennessysview.com/this-is-what-will-happen/)) struck a chord with some readers. Yet, I was surprised that no one (so far) has said, "Bill, it sounds like you're giving up."
 
 That, to me, is reassuring. The post is mostly about about hope. In fact, it could be the most hopeful post I have ever written. And this probably needs a little explanation.
 
@@ -65,3 +65,6 @@ Moreover, the sleeping arrangements cause major anxiety. Four of the exile famil
 The other two families, with very small children, have it much better. They are are assigned to a small club house on the property with two rooms that serve as apartments for each family. This building has a small galley and a full bathroom, as well. 
 
 The kitchen is a large table covered with various outdoor cooking equipment in one corner of the steel barn where the women and older girls work most of the day to prepare meals for the large 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY4MzQxMTYzMF19
+-->
