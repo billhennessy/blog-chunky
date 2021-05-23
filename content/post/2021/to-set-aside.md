@@ -18,15 +18,15 @@ To bless someone or something means to "set it aside, apart." Specifically, some
 
 Though the thing or person blessed does not look or function any differently than before it was set apart for God, it is changed. Something blessed, something intentionally set aside for God, must never again be used for profane purposes. **When we use blessed objects or people for profane purposes, we call this "desecration."** 
 
-In that earlier post, we looked at the {{< text-color text=“Holdouts—people who suffer internal exile for refusing to display their vaccine passport" >}}. In the post, these Holdouts were forced to band together in small communities that exist within but apart from the "normal" American society. 
+In that earlier post, we looked at the {{< text-color text=“Holdouts—people who suffer internal exile for refusing to display their vaccine passport"  color="red" >}}. In the post, these Holdouts were forced to band together in small communities that exist within but apart from the "normal" American society. 
 
-The Holdouts give up most of what we think of as modern life: jobs, technology, the entertainment industry, voting. They adopt a lifestyle that was common prior to the industrial revolution, growing their own food, raising their own livestock, building their own homes, educating their own children, nursing their own sick and wounded. It's safe to assume faith sits at the center of their lives, both individually and across their communities. 
+The Holdouts give up most of what we think of as modern life: jobs, technology, the entertainment industry, even voting. They adopt a lifestyle that was common prior to the industrial revolution, growing their own food, raising their own livestock, building their own homes, educating their own children, nursing their own sick and wounded. It's safe to assume faith sits at the center of their lives, both individually and within their communities. 
 
 Some might speak of how unfair it is that these Holdouts lost their Constitutional, God-given liberties. They were forced to leave the society and the economy they helped build, to give up the blessings of technology and convenience. 
 
-But we must ask, how much of modern life is really a "blessing?" 
+But we must ask, **how much of modern life is really a "blessing?"** 
 
-Most Americans work to retire. We literally give up our most productive years to save money so we can stop doing what others require of us and start doing what we want to do. In a cruel irony, this day of liberation usually comes in our seventh or eighth decade of life when the tolls of work and age prevent us from doing many of the things we had always wished to do. And these are not always mere amusements, but other kinds of work.
+Most Americans work to retire. We literally give up our most productive years to save money so we can stop doing what others require of us and start doing what we want to do ourselves. In a cruel irony, this day of liberation usually comes in our seventh or eighth decade of life when the tolls of work and age prevent us from doing many of the things we had always wished to do. And these are not always mere amusements, but other kinds of work.
 
 Some things that the blessings of modern life make difficult for me, for instance:
 
@@ -66,5 +66,5 @@ The other two families, with very small children, have it much better. They are 
 
 The kitchen is a large table covered with various outdoor cooking equipment in one corner of the steel barn where the women and older girls work most of the day to prepare meals for the large 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxNDI3NTAyXX0=
+eyJoaXN0b3J5IjpbMTQ1NDAxMDE5M119
 -->
