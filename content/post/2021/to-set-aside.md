@@ -46,9 +46,9 @@ These are the sorts of activities many people plan to do when they retire. When 
 
 Growing up, he and I started all of these projects. But we never finished them. Dad wanted to do these things to make a better home for his family, but he couldn't do that while raising a family. He had to do it *after* his family was raised and on their own when he could quit working and take the time. 
 
-Now, let's pretend my dad were a man in his 30s when the pandemic struck and the world lost its head. Supposed he became a Holdout, lost his job and his partially rehabbed home. In humiliation and defeat, he converted his meager savings and pension to cash, packed up what would fit in the family cars, and headed to a small family farmed owned by another man fired from their place of work—a fellow Holdout. 
+Now, let's pretend my dad was a man in his 30s when the pandemic struck and the world lost its head. Suppose he became a Holdout, lost his job and his partially rehabbed home. In humiliation and defeat, he converted his meager savings and pension to cash, packed up what would fit in the family cars, and headed to a small family farmed owned by another man fired from their place of work—a fellow Holdout. 
 
-There, Dad is reunited with half a dozen other former co-workers at a company that had to go along with the "Vaccinated Workforce" campaign that offered juicy carrots to companies that could prove 100 percent of their employees were vaccinated. (Not to mention painful sticks to companies that refused to fire their Holdouts.) 
+There, Dad reunites with half a dozen other former co-workers at a company that went along with the "Vaccinated Workforce" campaign that offered juicy *carrots* to companies that could prove 100 percent of their employees were vaccinated. (Not to mention painful *sticks* to companies that refused to fire their Holdouts.) 
 
 Seven families on 80 acres in southern Jefferson County, Missouri with one home big enough for one family. 
 
@@ -66,5 +66,5 @@ The other two families, with very small children, have it much better. They are 
 
 The kitchen is a large table covered with various outdoor cooking equipment in one corner of the steel barn where the women and older girls work most of the day to prepare meals for the large 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM5MTkwMjBdfQ==
+eyJoaXN0b3J5IjpbMTg2MzYzMDA1MV19
 -->
