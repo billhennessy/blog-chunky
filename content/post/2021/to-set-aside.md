@@ -58,7 +58,7 @@ Let's not ignore the troubles. Several of the men in the group did not get along
 
 And the kids, of course, pick on each other, fight, shirk duties, get hurt, call each other names, play cruel tricks on the slow kid, and generally "hate" life on the farm. 
 
-The landlord's son, eight-year-old Johnny, despises all the exiles, the interlopers, the intruders into his life. Not only must he share all of his things, he must also share his parents' attentions. They were busy training the exiles. 
+The landlord's son, eight-year-old Johnny, despises all the exiles, the interlopers, the intruders into his life. Not only must he share all of his things, he must also share his parents' attentions. His parents are busy training the exiles. 
 
 Moreover, the sleeping arrangements cause major anxiety. Four of the exile families share a large steel building which also houses tractors, a Bobcat, an old Korean War era Willy's Jeep, and other equipment and material. There are 15 children in these four families, ranging in age from five years to 16. Seven boys and six girls. Sheets hung from ropes separate the boys' quarters from the girls'. The parents are paired off in similar, small curtained quarters. All use two outhouses hastily built in the first days of the adventure. The shower is a garden hose tied to a tree branch with privacy afforded by bed sheets hung from wooden dowels. 
 
@@ -66,5 +66,5 @@ The other two families, with very small children, have it much better. They are 
 
 The kitchen is a large table covered with various outdoor cooking equipment in one corner of the steel barn where the women and older girls work most of the day to prepare meals for the large 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjIzNDkzN119
+eyJoaXN0b3J5IjpbLTExMzQzMjIxNzldfQ==
 -->
