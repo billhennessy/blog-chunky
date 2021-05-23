@@ -64,7 +64,7 @@ Moreover, the sleeping arrangements cause major anxiety. Four of the exile famil
 
 The other two families, with very small children, have it much better. They are are assigned to a small club house on the property with two rooms that serve as apartments for each family. This building has a small galley and a full bathroom, as well. 
 
-The kitchen is a large table covered with various outdoor cooking equipment in one corner of the steel barn where the women and older girls work most of the day to prepare meals for the large 
+The kitchen is a large table covered with various outdoor cooking equipment in one corner of the pole barn where the women and older girls work most of the day to prepare meals for the large community. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQzMjIxNzldfQ==
+eyJoaXN0b3J5IjpbLTE5MTM5Mjg0MjddfQ==
 -->
