@@ -68,9 +68,11 @@ And remember, again, that Jesus warned us what lay ahead for those who live the 
 
 > Jesus said to his disciples: “Beware of men, for they will hand you over to courts and scourge you in their synagogues, and **you will be led before governors and kings for my sake** as a witness before them and the pagans. When they hand you over, do not worry about how you are to speak or what you are to say. **You will be given at that moment what you are to say**. For it will not be you who speak but the Spirit of your Father speaking through you. Brother will hand over brother to death, and the father his child; children will rise up against parents and have them put to death. **You will be hated by all because of my name**, but **whoever endures to the end will be saved**"(Matthew 10:17-22).
 
+### Special Thanks to My Patrons
 
+I received a very generous Buy Me a Coffee donation in response to yesterday's post. Thank you, I am humbled, and I got the message to encourage praying the Rosary. I will post an article specifically for non-Catholics on the power and efficacy of the Rosary very soon. (Hi
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDAyMzk4MCwxNDcwODU3NzQyLC0xMT
-E4Mzk4NTIyXX0=
+eyJoaXN0b3J5IjpbMjI4MjA0OTcxLDE0NzA4NTc3NDIsLTExMT
+gzOTg1MjJdfQ==
 -->
