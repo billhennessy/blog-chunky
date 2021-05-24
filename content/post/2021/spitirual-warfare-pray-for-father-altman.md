@@ -78,9 +78,12 @@ And remember, again, that Jesus warned us what lay ahead for those who live the 
 
 I received a very generous Buy Me a Coffee donation in response to [yesterday's post](https://www.hennessysview.com/politics-is-downstream-of-the-preternatural/). Thank you, I am humbled, and I got the message to encourage praying the Rosary. I will post an article specifically for non-Catholics on the power and efficacy of the Rosary very soon. (Hint: it's the Gospels on a string.)
 
+Finally, here is Fr. Altman's homily announcing Bishop Callahan's persecution. 
+
+{{ youtube 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDM1OTEyOCwtMTAzNzc4Mjk4NiwtMT
+eyJoaXN0b3J5IjpbLTI2MzQ5MzM3MywtMTAzNzc4Mjk4NiwtMT
 A3NTMzODI2LDE0NzA4NTc3NDIsLTExMTgzOTg1MjJdfQ==
 -->
