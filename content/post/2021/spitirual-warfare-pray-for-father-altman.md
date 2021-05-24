@@ -1,5 +1,5 @@
 ---
-title: "Spitirual Warfare: Pray for Father James Altman Whose Bishop Ordered Him to Resign"
+title: "Spitirual Warfare: Pray for Father James Altman Whose Bishop Ordered Him to Resign. UPDATE"
 date: 2021-05-24T09:21:01-05:00
 url: spitirual-warfare-pray-for-father-altman
 authors: 
@@ -93,8 +93,12 @@ PO Box 4004
 La Crosse, Wisconsin 54602-4004
 
 *Ad Majorem Dei Gloriam*
+
+### UPDATE: See Fr. Altman with Dr. Taylor Marshall Today at 2:00 p.m. CDT
+
+{{< youtube https://youtu.be/4-pmuwp-9r4
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjU0NzgzNywtMTkyMTY4MDgzNSwxND
-czNDg0MDgwLC0xMDM3NzgyOTg2LC0xMDc1MzM4MjYsMTQ3MDg1
-Nzc0MiwtMTExODM5ODUyMl19
+eyJoaXN0b3J5IjpbMTk3MzY0MTcxNywtNjc2NTQ3ODM3LC0xOT
+IxNjgwODM1LDE0NzM0ODQwODAsLTEwMzc3ODI5ODYsLTEwNzUz
+MzgyNiwxNDcwODU3NzQyLC0xMTE4Mzk4NTIyXX0=
 -->
