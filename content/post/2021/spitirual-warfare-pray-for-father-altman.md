@@ -56,7 +56,7 @@ Father Richard Heilman of US Grace Force has asked all the faithful to say the d
 
 (Note: Be in a state of grace when praying the Auxilium Christianorum. Otherwise, you run the risk of inviting demonic retaliation.)
 
-In addition to the Auxilium Christianorum, I urge everyone to pra
+In addition to the Auxilium Christianorum, I urge everyone to pray the Rosary today specifically for Fr. Altman. May God give him strength as he fights the enemy. Pray also that God lifts the scales from Bishop Callahan's eyes and softens the bishop's heart which is as cold and hard at Phereoh's. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyMjI1ODczLC0xMTE4Mzk4NTIyXX0=
+eyJoaXN0b3J5IjpbMjExMzQ5NjcyOSwtMTExODM5ODUyMl19
 -->
