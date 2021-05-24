@@ -60,12 +60,17 @@ In addition to the Auxilium Christianorum, I urge everyone to pray the Rosary to
 
 ### Help Fund Fr. Altman's Fight Against the Enemy
 
-Father Altman's many friends have estabilished a fund to help the good priest fight the lost bishop. Please consider donating. Canon lawyers are just as expensive as civilian lawyers, and this
+Father Altman's many friends have estabilished a fund to help the good priest fight the lost bishop. Please consider donating. Canon lawyers are just as expensive as civilian lawyers, and this battle will take a year at least. 
 
-And never forget, brothers and sisters, the teachings of St. Paul: 
+**[Donate Here](https://givesendgo.com/G24HH)**
+
+And remember, again, that Jesus warned us what lay ahead for those who live the faith:
+
+> Jesus said to his disciples: “Beware of men, for they will hand you over to courts and scourge you in their synagogues, and **you will be led before governors and kings for my sake** as a witness before them and the pagans. When they hand you over, do not worry about how you are to speak or what you are to say. **You will be given at that moment what you are to say**. For it will not be you who speak but the Spirit of your Father speaking through you. Brother will hand over brother to death, and the father his child; children will rise up against parents and have them put to death. **You will be hated by all because of my name**, but **whoever endures to the end will be saved**"(Matthew 10:17-22).
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzAyMDUwNjQsMTQ3MDg1Nzc0MiwtMT
-ExODM5ODUyMl19
+eyJoaXN0b3J5IjpbMTU3NDAyMzk4MCwxNDcwODU3NzQyLC0xMT
+E4Mzk4NTIyXX0=
 -->
