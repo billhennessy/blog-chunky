@@ -13,7 +13,7 @@ tags:
 - Spiritual Warfare
 - Rosary
 - Ephesians 6:10
-draft: true
+draft: false
 
 ---
 Fr. James Altman likes the phrase "abundance of courage," and the phrase perfectly describes his holy ministry. 
@@ -60,7 +60,7 @@ In addition to the Auxilium Christianorum, I urge everyone to pray the Rosary to
 
 ### Help Fund Fr. Altman's Fight Against the Enemy
 
-Father Altman's many friends have estabilished a fund to help the good priest fight the lost bishop. Please consider donating. Canon lawyers are just as expensive as civilian lawyers, and this battle will take a year at least. 
+Father Altman's many friends have established a fund to help the good priest fight the lost bishop. Please consider donating. Canon lawyers are just as expensive as civilian lawyers, and this battle will take a year at least. 
 
 **[Donate Here](https://givesendgo.com/G24HH)**
 
@@ -75,6 +75,6 @@ I received a very generous Buy Me a Coffee donation in response to [yesterday's 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzUzMzgyNiwxNDcwODU3NzQyLC0xMT
-E4Mzk4NTIyXX0=
+eyJoaXN0b3J5IjpbLTEwMzc3ODI5ODYsLTEwNzUzMzgyNiwxND
+cwODU3NzQyLC0xMTE4Mzk4NTIyXX0=
 -->
