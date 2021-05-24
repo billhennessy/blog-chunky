@@ -21,8 +21,9 @@ Decrying the US bishops closing churches and denying the faithful access to the 
 
 Now, because of Fr. Altman's courageous preaching of the truth of Jesus Christ and the constant teachings of the Church since the Apostles, Bishop William Callahan of the Diocese of La Crosse, Wisconsin. Father Altman, to no one's surprise, has vowed to fight. 
 
-P
+**Set aside 20 minutes today to say a Rosary for Fr. Altman.**
+
+Father Altman became famous in 2020 with his courage homily "Catholics Cannot Vote Demo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg5NzI1MjcsLTExMTgzOTg1MjJdfQ
-==
+eyJoaXN0b3J5IjpbNjg0MTMyMDAsLTExMTgzOTg1MjJdfQ==
 -->
