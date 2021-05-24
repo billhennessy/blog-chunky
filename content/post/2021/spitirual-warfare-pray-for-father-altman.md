@@ -25,12 +25,11 @@ Now, because of Fr. Altman's courageous preaching of the truth of Jesus Christ a
 
 Father Altman became famous in 2020 with his courage homily "Catholics Cannot Vote Democrat." Of course, Bishop Callahan disliked that. "Divisive," he called it. The truth is, indeed, divisive, Your Excellency. And if you remember the Bible, Jesus told us so. 
 
-"Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword." (Matthew 10:34)
+> "Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword." (Matthew 10:34)
+ 
+> "Do you think that I have come to bring peace to the earth? No, I tell you, but division." (Luke 12:51)
 
-"Do you think that I have come to bring peace to the earth? No, I tell you, but division." (Luke 12:51)
-
-
+> Jesus said this while teaching in the synagogue in Capernaum.  On hearing it, many of His disciples said, “This is a difficult teaching. Who can accept it?” . . . 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njc0MDEzMTMsLTExMTgzOTg1MjJdfQ
-==
+eyJoaXN0b3J5IjpbLTE1MTk5Njk1NywtMTExODM5ODUyMl19
 -->
