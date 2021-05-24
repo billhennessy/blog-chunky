@@ -16,6 +16,8 @@ tags:
 draft: false
 
 ---
+*Ad Majorem Dei Gloriam*
+
 Fr. James Altman likes the phrase "abundance of courage," and the phrase perfectly describes his holy ministry. 
 
 Decrying the US bishops closing churches and denying the faithful access to the sacraments "out of an abundance of caution," Altman countered, "No! We must act out of an **abundance of COURAGE!**" 
@@ -50,7 +52,7 @@ Father Altman is being persecuted for preaching the Gospel in bold and clear wor
 
 {{< youtube TqbLPmfdviY >}}
 
-This is spiritual warfare, friends. Human works will be of no value unless they are they are inspired by the Holy Ghost for the greater glory of God. For, without God's grace, man can do nothing but sin. 
+This is spiritual warfare, friends. Human works will be of no value unless they are inspired by the Holy Ghost for the greater glory of God. For, without God's grace, man can do nothing but sin. 
 
 Father Richard Heilman of US Grace Force has asked all the faithful to say the daily prayers of the Auxilium Christianorum for persecuted priests like Fr. Altman. 
 
@@ -90,8 +92,8 @@ The Roman Catholic Diocese of  La Crosse
 PO Box 4004  
 La Crosse, Wisconsin 54602-4004
 
-
+*Ad Majorem Dei Gloriam*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTc3NDI2MiwtMTAzNzc4Mjk4NiwtMT
+eyJoaXN0b3J5IjpbMTQ3MzQ4NDA4MCwtMTAzNzc4Mjk4NiwtMT
 A3NTMzODI2LDE0NzA4NTc3NDIsLTExMTgzOTg1MjJdfQ==
 -->
