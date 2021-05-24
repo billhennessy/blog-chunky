@@ -22,7 +22,7 @@ Fr. James Altman likes the phrase "abundance of courage," and the phrase perfect
 
 Decrying the US bishops closing churches and denying the faithful access to the sacraments "out of an abundance of caution," Altman countered, "No! We must act out of an **abundance of COURAGE!**" 
 
-Now, because of Fr. Altman's courageous preaching of the truth of Jesus Christ and the constant teachings of the Church since the Apostles, Bishop William Callahan of the Diocese of La Crosse, Wisconsin. Father Altman, to no one's surprise, has vowed to fight. 
+Now, because of Fr. Altman's courageous preaching of the truth of Jesus Christ and the constant teachings of the Church since the Apostles, Bishop William Callahan of the Diocese of La Crosse, Wisconsin, has ordered this wonderful priest to resign. Father Altman, to no one's surprise, has vowed to fight. 
 
 **Set aside 20 minutes today to say a Rosary for Fr. Altman.**
 
@@ -94,6 +94,7 @@ La Crosse, Wisconsin 54602-4004
 
 *Ad Majorem Dei Gloriam*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzQ4NDA4MCwtMTAzNzc4Mjk4NiwtMT
-A3NTMzODI2LDE0NzA4NTc3NDIsLTExMTgzOTg1MjJdfQ==
+eyJoaXN0b3J5IjpbLTE5MjE2ODA4MzUsMTQ3MzQ4NDA4MCwtMT
+AzNzc4Mjk4NiwtMTA3NTMzODI2LDE0NzA4NTc3NDIsLTExMTgz
+OTg1MjJdfQ==
 -->
