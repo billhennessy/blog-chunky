@@ -48,6 +48,8 @@ Does Bishop Callahan not know that you cannot be a friend of Jesus and of the wo
 
 Father Altman is being persecuted for preaching the Gospel in bold and clear words. His persecutors are fighting on behalf of Satan, and they include his own bishop. 
 
+{{< youtube TqbLPmfdviY >}}
+
 This is spiritual warfare, friends. Human works will be of no value unless they are they are inspired by the Holy Ghost for the greater glory of God. For, without God's grace, man can do nothing but sin. 
 
 Father Richard Heilman of US Grace Force has asked all the faithful to say the daily prayers of the Auxilium Christianorum for persecuted priests like Fr. Altman. 
@@ -79,6 +81,6 @@ I received a very generous Buy Me a Coffee donation in response to [yesterday's 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzkwOTE1NjksLTEwMzc3ODI5ODYsLT
-EwNzUzMzgyNiwxNDcwODU3NzQyLC0xMTE4Mzk4NTIyXX0=
+eyJoaXN0b3J5IjpbMTQ1NDM1OTEyOCwtMTAzNzc4Mjk4NiwtMT
+A3NTMzODI2LDE0NzA4NTc3NDIsLTExMTgzOTg1MjJdfQ==
 -->
