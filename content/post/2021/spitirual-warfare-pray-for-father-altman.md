@@ -70,9 +70,11 @@ And remember, again, that Jesus warned us what lay ahead for those who live the 
 
 ### Special Thanks to My Patrons
 
-I received a very generous Buy Me a Coffee donation in response to yesterday's post. Thank you, I am humbled, and I got the message to encourage praying the Rosary. I will post an article specifically for non-Catholics on the power and efficacy of the Rosary very soon. (Hi
+I received a very generous Buy Me a Coffee donation in response to [yesterday's post](https://www.hennessysview.com/politics-is-downstream-of-the-preternatural/). Thank you, I am humbled, and I got the message to encourage praying the Rosary. I will post an article specifically for non-Catholics on the power and efficacy of the Rosary very soon. (Hint: it's the Gospels on a string.)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4MjA0OTcxLDE0NzA4NTc3NDIsLTExMT
-gzOTg1MjJdfQ==
+eyJoaXN0b3J5IjpbLTEwNzUzMzgyNiwxNDcwODU3NzQyLC0xMT
+E4Mzk4NTIyXX0=
 -->
