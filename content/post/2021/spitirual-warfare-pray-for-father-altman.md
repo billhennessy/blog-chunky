@@ -13,18 +13,24 @@ tags:
 - Spiritual Warfare
 - Rosary
 - Ephesians 6:10
-draft: true
+draft: false
 
 ---
+*Ad Majorem Dei Gloriam*
+
 Fr. James Altman likes the phrase "abundance of courage," and the phrase perfectly describes his holy ministry. 
 
 Decrying the US bishops closing churches and denying the faithful access to the sacraments "out of an abundance of caution," Altman countered, "No! We must act out of an **abundance of COURAGE!**" 
 
-Now, because of Fr. Altman's courageous preaching of the truth of Jesus Christ and the constant teachings of the Church since the Apostles, Bishop William Callahan of the Diocese of La Crosse, Wisconsin. Father Altman, to no one's surprise, has vowed to fight. 
+Now, because of Fr. Altman's courageous preaching of the truth of Jesus Christ and the constant teachings of the Church since the Apostles, Bishop William Callahan of the Diocese of La Crosse, Wisconsin, has ordered this wonderful priest to resign. Father Altman, to no one's surprise, has vowed to fight. 
 
 **Set aside 20 minutes today to say a Rosary for Fr. Altman.**
 
-Father Altman became famous in 2020 with his courage homily "Catholics Cannot Vote Democrat." Of course, Bishop Callahan disliked that. "Divisive," he called it. The truth is, indeed, divisive, Your Excellency. And if you remember the Bible, Jesus told us so. 
+Father Altman became famous in 2020 with his courage homily "Catholics Cannot Vote Democrat." Of course, Bishop Callahan disliked that. "Divisive," he called it. 
+
+{{< youtube 3-7eoTN2vNM >}}
+
+The truth is, indeed, divisive, Your Excellency. And if you remember the Bible, Jesus told us so. 
 
 > "Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword." (Matthew 10:34)
  
@@ -42,9 +48,11 @@ Does Bishop Callahan not know that you cannot be a friend of Jesus and of the wo
 
 ### Join the Auxilium Christianorum for St. Michael the Archangel's Protection of Persecuted Priests
 
-Father Altman is being persecuted for preaching the Gospel in bold and clear words. His persecutors are fighting on behalf of Satan, and they include his own bishop. 
+Father Altman is being persecuted for preaching the Gospel in bold and clear words. His persecutors, whether they know it or not, are fighting on behalf of Satan, and they include his own bishop. 
 
-This is spiritual warfare, friends. Human works will be of no value unless they are they are inspired by the Holy Ghost for the greater glory of God. For, without God's grace, man can do nothing but sin. 
+{{< youtube TqbLPmfdviY >}}
+
+This is spiritual warfare, friends. Human works will be of no value unless they are inspired by the Holy Ghost for the greater glory of God. For, without God's grace, man can do nothing but sin. 
 
 Father Richard Heilman of US Grace Force has asked all the faithful to say the daily prayers of the Auxilium Christianorum for persecuted priests like Fr. Altman. 
 
@@ -72,9 +80,21 @@ And remember, again, that Jesus warned us what lay ahead for those who live the 
 
 I received a very generous Buy Me a Coffee donation in response to [yesterday's post](https://www.hennessysview.com/politics-is-downstream-of-the-preternatural/). Thank you, I am humbled, and I got the message to encourage praying the Rosary. I will post an article specifically for non-Catholics on the power and efficacy of the Rosary very soon. (Hint: it's the Gospels on a string.)
 
+Finally, here is Fr. Altman's homily announcing Bishop Callahan's persecution. 
 
+{{ youtube https://youtu.be/St5sDCoyx38 >}}
 
+You can write (respectfully, please, and prayerfully) to Bishop Callahan here:
+
+His Excellency William Callahan
+The Roman Catholic Diocese of  La Crosse  
+3710 East Ave S  
+PO Box 4004  
+La Crosse, Wisconsin 54602-4004
+
+*Ad Majorem Dei Gloriam*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzUzMzgyNiwxNDcwODU3NzQyLC0xMT
-E4Mzk4NTIyXX0=
+eyJoaXN0b3J5IjpbLTE5MjE2ODA4MzUsMTQ3MzQ4NDA4MCwtMT
+AzNzc4Mjk4NiwtMTA3NTMzODI2LDE0NzA4NTc3NDIsLTExMTgz
+OTg1MjJdfQ==
 -->
