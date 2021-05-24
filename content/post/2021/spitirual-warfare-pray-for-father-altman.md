@@ -84,7 +84,7 @@ I received a very generous Buy Me a Coffee donation in response to [yesterday's 
 
 Finally, here is Fr. Altman's homily announcing Bishop Callahan's persecution. 
 
-{{< youtube https://youtu.be/St5sDCoyx38 >}}
+{{< youtube St5sDCoyx38 >}}
 
 You can write (respectfully, please, and prayerfully) to Bishop Callahan here:
 
