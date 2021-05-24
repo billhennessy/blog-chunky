@@ -31,7 +31,14 @@ Father Altman became famous in 2020 with his courage homily "Catholics Cannot Vo
 
 > Jesus said this while teaching in the synagogue in Capernaum.  On hearing it, many of His disciples said, “This is a difficult teaching. Who can accept it?” . . . From that time on many of His disciples turned back and no longer walked with Him. (John 6:59-60,66)
 
-Most Catholic bishops are more afraid of being rejected by the world than they are of going to hell for eternity. They 
+Most Catholic bishops are more afraid of being rejected by the world than they are of going to hell for eternity. They seek the praise of men even if it means losing friendship with Christ. 
+
+Does Bishop Callahan not know that you cannot be a friend of Jesus and of the world?
+
+> "If the world hates you, keep in mind that it hated me first." (John 15:18)
+
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDk0OTQ2OCwtMTExODM5ODUyMl19
+eyJoaXN0b3J5IjpbLTExMjA5OTkzMjYsLTExMTgzOTg1MjJdfQ
+==
 -->
