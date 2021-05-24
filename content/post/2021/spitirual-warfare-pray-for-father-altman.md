@@ -41,8 +41,9 @@ Does Bishop Callahan not know that you cannot be a friend of Jesus and of the wo
 
 ### Join the Auxilium Christianorum for St. Michael the Archangel's Protection of Persecuted Priests
 
-Father Altman is being persecuted for preaching the
+Father Altman is being persecuted for preaching the Gospel in bold and clear words. His persecutors are fighting on behalf of Satan, and they include his own bishop. 
+
+This is spiritual warfare, friends. Human works will be of no value unless they are they are inspired by the Holy Ghost for the Great
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzU1OTgxODAsLTExMTgzOTg1MjJdfQ
-==
+eyJoaXN0b3J5IjpbLTQ1NTY5MjU3OCwtMTExODM5ODUyMl19
 -->
