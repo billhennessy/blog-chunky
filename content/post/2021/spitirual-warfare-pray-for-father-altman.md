@@ -60,7 +60,7 @@ In addition to the Auxilium Christianorum, I urge everyone to pray the Rosary to
 
 ### Help Fund Fr. Altman's Fight Against the Enemy
 
-Father Altman's many friends have estabilished a fund to help the good priest fight the lost bishop. Please consider donating. Canon lawyers are just as expensive as civilian lawyers, and this battle will take a year at least. 
+Father Altman's many friends have established a fund to help the good priest fight the lost bishop. Please consider donating. Canon lawyers are just as expensive as civilian lawyers, and this battle will take a year at least. 
 
 **[Donate Here](https://givesendgo.com/G24HH)**
 

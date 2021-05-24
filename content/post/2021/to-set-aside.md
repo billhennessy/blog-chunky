@@ -18,7 +18,7 @@ To bless someone or something means to "set it aside, apart." Specifically, some
 
 Though the thing or person blessed does not look or function any differently than before it was set apart for God, it is changed. Something blessed, something intentionally set aside for God, must never again be used for profane purposes. **When we use blessed objects or people for profane purposes, we call this "desecration."** 
 
-In that earlier post, we looked at the {{< text-color text=“Holdouts—people who suffer internal exile for refusing to display their vaccine passport"  color="red" >}}. In the post, these Holdouts were forced to band together in small communities that exist within but apart from the "normal" American society. 
+In that earlier post, we looked at the Holdouts—people who suffer internal exile for refusing to display their vaccine passport. In the post, these Holdouts were forced to band together in small communities that exist within but apart from the "normal" American society. 
 
 The Holdouts give up most of what we think of as modern life: jobs, technology, the entertainment industry, even voting. They adopt a lifestyle that was common prior to the industrial revolution, growing their own food, raising their own livestock, building their own homes, educating their own children, nursing their own sick and wounded. It's safe to assume faith sits at the center of their lives, both individually and within their communities. 
 
