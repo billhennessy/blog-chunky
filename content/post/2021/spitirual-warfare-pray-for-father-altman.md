@@ -23,7 +23,10 @@ Now, because of Fr. Altman's courageous preaching of the truth of Jesus Christ a
 
 **Set aside 20 minutes today to say a Rosary for Fr. Altman.**
 
-Father Altman became famous in 2020 with his courage homily "Catholics Cannot Vote Demo
+Father Altman became famous in 2020 with his courage homily "Catholics Cannot Vote Democrat." Of course, Bishop Callahan disliked that. "Divisive," he called it. The truth is, indeed, divisive, Your Excellency. And if you remember the Bible, Jesus told us so. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0MTMyMDAsLTExMTgzOTg1MjJdfQ==
+eyJoaXN0b3J5IjpbLTE4NDk5NTUzNzQsLTExMTgzOTg1MjJdfQ
+==
 -->
