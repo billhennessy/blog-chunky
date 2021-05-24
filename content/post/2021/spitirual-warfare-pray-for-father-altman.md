@@ -58,9 +58,14 @@ Father Richard Heilman of US Grace Force has asked all the faithful to say the d
 
 In addition to the Auxilium Christianorum, I urge everyone to pray the Rosary today specifically for Fr. Altman. May God give him strength as he fights the enemy. Pray also that God lifts the scales from Bishop Callahan's eyes and softens the bishop's heart which is as cold and hard at the pharaoh's. 
 
+### Help Fund Fr. Altman's Fight Against the Enemy
+
+Father Altman's many friends have estabilished a fund to help the good priest fight the lost bishop. Please consider donating. Canon lawyers are just as expensive as civilian lawyers, and this
+
 And never forget, brothers and sisters, the teachings of St. Paul: 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDg1Nzc0MiwtMTExODM5ODUyMl19
+eyJoaXN0b3J5IjpbLTEyMzAyMDUwNjQsMTQ3MDg1Nzc0MiwtMT
+ExODM5ODUyMl19
 -->
