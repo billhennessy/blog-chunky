@@ -29,7 +29,9 @@ Father Altman became famous in 2020 with his courage homily "Catholics Cannot Vo
  
 > "Do you think that I have come to bring peace to the earth? No, I tell you, but division." (Luke 12:51)
 
-> Jesus said this while teaching in the synagogue in Capernaum.  On hearing it, many of His disciples said, “This is a difficult teaching. Who can accept it?” . . . 
+> Jesus said this while teaching in the synagogue in Capernaum.  On hearing it, many of His disciples said, “This is a difficult teaching. Who can accept it?” . . . From that time on many of His disciples turned back and no longer walked with Him. (John 6:59-60,66)
+
+Most Catholic bishops are more afraid of being rejected by the world than they are of going to hell for eternity. They 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTk5Njk1NywtMTExODM5ODUyMl19
+eyJoaXN0b3J5IjpbLTI4MDk0OTQ2OCwtMTExODM5ODUyMl19
 -->
