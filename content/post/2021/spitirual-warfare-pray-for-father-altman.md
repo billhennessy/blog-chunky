@@ -46,7 +46,7 @@ Does Bishop Callahan not know that you cannot be a friend of Jesus and of the wo
 
 ### Join the Auxilium Christianorum for St. Michael the Archangel's Protection of Persecuted Priests
 
-Father Altman is being persecuted for preaching the Gospel in bold and clear words. His persecutors are fighting on behalf of Satan, and they include his own bishop. 
+Father Altman is being persecuted for preaching the Gospel in bold and clear words. His persecutors, whether they know it or not, are fighting on behalf of Satan, and they include his own bishop. 
 
 {{< youtube TqbLPmfdviY >}}
 
@@ -84,10 +84,14 @@ Finally, here is Fr. Altman's homily announcing Bishop Callahan's persecution.
 
 You can write (respectfully, please, and prayerfully) to Bishop Callahan here:
 
-
+His Excellency William Callahan
+The Roman Catholic Diocese of  La Crosse  
+3710 East Ave S  
+PO Box 4004  
+La Crosse, Wisconsin 54602-4004
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI4MTIxNjgsLTEwMzc3ODI5ODYsLT
-EwNzUzMzgyNiwxNDcwODU3NzQyLC0xMTE4Mzk4NTIyXX0=
+eyJoaXN0b3J5IjpbMTQwMTc3NDI2MiwtMTAzNzc4Mjk4NiwtMT
+A3NTMzODI2LDE0NzA4NTc3NDIsLTExMTgzOTg1MjJdfQ==
 -->
