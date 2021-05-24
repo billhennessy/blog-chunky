@@ -54,8 +54,9 @@ Father Richard Heilman of US Grace Force has asked all the faithful to say the d
 > 
 > The members of the Auxilium Christianorum should always bear in mind the reality of our state as members of the Church living in this world. Despite St. Paul’s teaching, many Catholics do not take seriously their obligation to wage war against the demonic forces. It is for this reason the Association of the Auxilium Christianorum was founded.
 
+(Note: Be in a state of grace when praying the Auxilium Christianorum. Otherwise, you run the risk of inviting demonic retaliation.)
 
+In addition to the Auxilium Christianorum, I urge everyone to pra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzI1MDIzODAsLTExMTgzOTg1MjJdfQ
-==
+eyJoaXN0b3J5IjpbNTgyMjI1ODczLC0xMTE4Mzk4NTIyXX0=
 -->
