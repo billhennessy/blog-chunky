@@ -82,19 +82,19 @@ I received a very generous Buy Me a Coffee donation in response to [yesterday's 
 
 Finally, here is Fr. Altman's homily announcing Bishop Callahan's persecution. 
 
-{{ youtube https://youtu.be/St5sDCoyx38 >}}
+{{< youtube https://youtu.be/St5sDCoyx38 >}}
 
 You can write (respectfully, please, and prayerfully) to Bishop Callahan here:
 
-His Excellency William Callahan
-The Roman Catholic Diocese of  La Crosse  
+His Excellency William Callahan  
+The Roman Catholic Diocese of  La Crosse    
 3710 East Ave S  
 PO Box 4004  
 La Crosse, Wisconsin 54602-4004
 
 *Ad Majorem Dei Gloriam*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjE2ODA4MzUsMTQ3MzQ4NDA4MCwtMT
-AzNzc4Mjk4NiwtMTA3NTMzODI2LDE0NzA4NTc3NDIsLTExMTgz
-OTg1MjJdfQ==
+eyJoaXN0b3J5IjpbLTY3NjU0NzgzNywtMTkyMTY4MDgzNSwxND
+czNDg0MDgwLC0xMDM3NzgyOTg2LC0xMDc1MzM4MjYsMTQ3MDg1
+Nzc0MiwtMTExODM5ODUyMl19
 -->
