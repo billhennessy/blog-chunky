@@ -18,6 +18,8 @@ draft: false
 ---
 *Ad Majorem Dei Gloriam*
 
+(update at end)
+
 Fr. James Altman likes the phrase "abundance of courage," and the phrase perfectly describes his holy ministry. 
 
 Decrying the US bishops closing churches and denying the faithful access to the sacraments "out of an abundance of caution," Altman countered, "No! We must act out of an **abundance of COURAGE!**" 
@@ -96,9 +98,9 @@ La Crosse, Wisconsin 54602-4004
 
 ### UPDATE: See Fr. Altman with Dr. Taylor Marshall Today at 2:00 p.m. CDT
 
-{{< youtube https://youtu.be/4-pmuwp-9r4
+{{< youtube 4-pmuwp-9r4 >}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzY0MTcxNywtNjc2NTQ3ODM3LC0xOT
+eyJoaXN0b3J5IjpbLTkxOTc0MjQ2OCwtNjc2NTQ3ODM3LC0xOT
 IxNjgwODM1LDE0NzM0ODQwODAsLTEwMzc3ODI5ODYsLTEwNzUz
 MzgyNiwxNDcwODU3NzQyLC0xMTE4Mzk4NTIyXX0=
 -->
