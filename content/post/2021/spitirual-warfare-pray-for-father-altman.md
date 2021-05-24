@@ -15,7 +15,7 @@ tags:
 draft: true
 
 ---
-Fr. James Altman coined the phrase "abundance of courage," and the phrase perfectly describes his holy ministry. 
+Fr. James Altman likes the phrase "abundance of courage," and the phrase perfectly describes his holy ministry. 
 
 Decrying the US bishops closing churches and denying the faithful access to the sacraments "out of an abundance of caution," Altman countered, "No! We must act out of an **abundance of COURAGE!**" 
 
@@ -39,7 +39,10 @@ Does Bishop Callahan not know that you cannot be a friend of Jesus and of the wo
 
 > “Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely  on my account.  Rejoice and be glad, for your reward is great in heaven, for  so they persecuted the prophets who were before you." (Matthew 5:11-12)
 
+### Join the Auxilium Christianorum for St. Michael the Archangel's Protection of Persecuted Priests
+
+Father Altman is being persecuted for preaching the
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDU1MzQzMDAsLTExMTgzOTg1MjJdfQ
+eyJoaXN0b3J5IjpbLTIwMzU1OTgxODAsLTExMTgzOTg1MjJdfQ
 ==
 -->
