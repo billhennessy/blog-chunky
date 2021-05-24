@@ -5,17 +5,19 @@ url: spitirual-warfare-pray-for-father-altman
 authors: 
 - Bill Hennessy
 images: 
-- /images/fr-altman.
+- /images/fr-altman.jpg
 categories: 
-- Politics
 - Faith
-- Living
 tags: 
-- tag1
+- Fr. Altman
+- Spiritual Warfare
+- Rosary
 draft: true
 
 ---
+Fr. James Altman coined the phrase "abundance of courage," and the phrase perfectly describes his holy ministry. 
 
+Decrying the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1MTAzMTU5XX0=
+eyJoaXN0b3J5IjpbLTIzNDk0MTE1Ml19
 -->
