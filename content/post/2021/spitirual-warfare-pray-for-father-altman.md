@@ -58,6 +58,8 @@ This is spiritual warfare, friends. Human works will be of no value unless they 
 
 Father Richard Heilman of US Grace Force has asked all the faithful to say the daily prayers of the Auxilium Christianorum for persecuted priests like Fr. Altman. 
 
+[**JOIN AUXILIUM CHRISTIANORUM HERE**](https://usgraceforce.com/auxilium-christianorum-praying-for-persecuted-priests/)
+
 > Monday, May 24 is the Feast of Mary Mother of the Church. It is also the Feast of [Mary Help of Christians](http://r20.rs6.net/tn.jsp?f=001U9kzFVHFrHE_hqCVe5i2RKHN_BQro1OSNmIY4ZT4T0cGCHRN23bdnr8Rpuw4F4qvJml8qJWG8gJLP-3Vp42Gtr7jCPLYVJJlyS7fhJKhGRCk34HpPC7XyuQ404pPRIelsvMaMceG473mLU_mp9W5f-DncFakin-FN3x2CDj6nkeJFE5ArL8E0dVY4XQWAYQAZmayOIeZBhouwBtLScjG_qVcZymbT_ycurLsU50Ql_o85IbnRVfnSg==&c=yTiEDBDmVU9UoZqYmlCslwMEP-U7CwhSGKblMSn95ZH5dnGXxCQAIA==&ch=rZ4q35RlLSWPyyCClBcyAXBvluMBcDyrAC8j7jyZUht5ypnmzbWoaA==) (Auxilium Christianorum). Please consider joining this Auxilium Christianorum family to pray daily for our holy and courageous persecuted priests.
 > 
 > The Church teaches us that it is divided into the  _Church Triumphant_  (which includes the members of the Church in heaven), the  _Church Suffering_  (this includes the members of the Church in purgatory), and the  _Church Militant_  (this refers to those members of the Church who are alive in this world). Because we are part of the Church Militant, we are in a spiritual warfare and this spiritual warfare requires that we recognize, as Saint Paul teaches us “For our wrestling is not against flesh and blood; but against principalities and powers, against the rulers of the world of this darkness, against the spirits of wickedness in the high places.” (_Ephesians 6:12_)
@@ -100,7 +102,8 @@ La Crosse, Wisconsin 54602-4004
 
 {{< youtube 4-pmuwp-9r4 >}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTc0MjQ2OCwtNjc2NTQ3ODM3LC0xOT
-IxNjgwODM1LDE0NzM0ODQwODAsLTEwMzc3ODI5ODYsLTEwNzUz
-MzgyNiwxNDcwODU3NzQyLC0xMTE4Mzk4NTIyXX0=
+eyJoaXN0b3J5IjpbLTEyNzc3MDU1MjcsLTkxOTc0MjQ2OCwtNj
+c2NTQ3ODM3LC0xOTIxNjgwODM1LDE0NzM0ODQwODAsLTEwMzc3
+ODI5ODYsLTEwNzUzMzgyNiwxNDcwODU3NzQyLC0xMTE4Mzk4NT
+IyXX0=
 -->
