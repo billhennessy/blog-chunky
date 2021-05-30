@@ -1,5 +1,5 @@
 ---
-title: "Election Audits Under Demonic Attack Let Us Pray for Deliverance"
+title: "Election Audits Under Demonic Attack — Let Us Pray for Deliverance"
 date: 2021-05-30T12:18:25-05:00
 url: election-audits-under-demonic-attack-let-us-pray-for-deliverance
 authors: 
