@@ -66,3 +66,11 @@ I think of that episode in my own life every Memorial Day. With two boys in the 
 Today, we honor those who gave their lives that our nation might live. Let's not forget the sacrifice, also, borne by those who, in a steel folding chair beside a grave, received a folded flag as a token of appreciation on behalf of a grateful nation. 
 
 *Fidélium ánimæ per misericórdiam Dei requiéscant in pace*.
+
+---
+
+Please watch this incredible story from Simon Sinek. The perfect story for Memorial Day.
+
+{{< youtube xoBks8_2gVw >}}
+
+Peace
