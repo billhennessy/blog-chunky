@@ -1,6 +1,6 @@
 ---
 title: "It Gets Worse: Senator Dave Schatz Included 'Carve-Outs' for His Company in Three Separate Utility Bills"
-date: 2021-05-22T00:28:53-05:00
+date: 2021-06-03T08:08:53-05:00
 url: it-gets-worse
 authors: ["Bill Hennessy"]
 images: ["/images/schatz.jpg"]
