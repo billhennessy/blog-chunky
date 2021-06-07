@@ -101,7 +101,7 @@ But nothing could be further from the truth.
 
 The FDA lied. So did most doctors and nutritionists. Trans fats kill, so do corn oil, canola oil, and most other veggie oils. Demand tallow or lard. (If you haven't had eggs fried in tallow or duck fat, you haven't really had eggs.)
 
-Finally, in the 1990s, the FDA reversed itself under mounting deaths and banned trans fats in foods. No one went to jail, of course, but millions died too soon, developed cancer, Alzheimer's, Parkinsons, and diabetes because the FDA and the rest of that crooked, greedy bunch lied to make some multinational corporations rich. 
+Finally, in the 1990s, the FDA reversed itself—under mounting deaths—and banned trans fats in foods. No one went to jail, of course, but millions died too soon, developed cancer, Alzheimer's, Parkinsons, and diabetes because the FDA and the rest of that crooked, greedy bunch lied to make some multinational corporations rich. 
 
 The bottom line on health authorities from the FDA to the CDC to the NIH: **They. Don't. Care. About. You.**
 
