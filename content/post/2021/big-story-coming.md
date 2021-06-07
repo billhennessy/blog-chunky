@@ -19,7 +19,7 @@ draft: false
 
 My buddy Ed Martin called me out for not writing enough. Ed is right, and he's not alone. Others have asked why I'm not writing as often. 
 
-{{< figure src="/images/ed-martin.jpg" caption="A gratutous headshot of Ed Martin" >}}
+{{< figure src="/images/ed-martin.jpg" caption="A gratutous headshot of Ed Martin (for the ladies)" >}}
 
 The short story is: 
 
