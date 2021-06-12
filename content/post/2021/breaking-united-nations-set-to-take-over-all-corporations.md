@@ -62,7 +62,12 @@ Jesus said some demons could be driven out only by prayer and fasting. Modern, n
 
 So I consumed nothing with calories from 8:00 p.m. Tuesday, June 1 until 10:00 a.m. Sunday, June 6.  (Water, black coffee, black tea, Redmond's Real Salt, and non-caloric vitamins and supplements only.) The extra 2 hours gained each day, I re-allocated to prayer, spiritual reading, and learning about diet, exercise, and fasting for optimal performance, both mentally and physically. 
 
-Following my fast, I followed a strict ketogenic diet which research both in the lab and in the field with real people proves to be the best way to make our bodies and minds the best they can be. A strict keto diet has been shown to cure:
+Following my fast, I followed a strict ketogenic diet which research both in the lab and in the field with real people proves to be the best way to make our bodies and minds the best they can be. I acheived peak therapeutic ketosis yesterday and today. The thick purple line indidcates GKI (glucuse-ketone index).
+
+{{< figure src="gki-chart.png" >}}
+
+
+A strict keto diet has been shown to cure:
 
 Type 2 diabetes
 Certain forms of cancer
@@ -106,6 +111,10 @@ I also learned more about autophagy and how to produce a flood of human-growth h
 Additionally, I got back under the barbell and back on the rowing machine, even while I was fasting. 
 
 The results are remarkable. My morning, fasted blood glucose fell from the high 90s before the fast to 67 this morning. My ketones rose from < 0.5 on Memorial Day to 4.1 today. That's a glucose-ketone index of 0.9, which is considered maximum therapeutic levels. 
+
+This chart explains what's going on your body at various GKI levels:
+
+{{< figure src="gki-levels-chart.png >}}
 
 In short, my body and mind are repairing the damage I had done to them over 40 years of enjoying the fruits of *this* world, thus making a better home for the Holy Ghost. 
 
