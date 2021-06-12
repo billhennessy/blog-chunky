@@ -24,6 +24,8 @@ Is your diet preparing you for spiritual combat?
 
 Please know, brothers and sister, that I ask this question and write this post in true Christian charity, meaning "to will the good of the other." And the only good, as Jesus told us, is Our Father in heaven. Therefore, I ask this question in the hope that it may help you and me draw closer to God and God to us. 
 
+{{< tip >}}Ready to "go in?" I recommend reading *ketoCONTINUUM* by Dr. Annette Bosworth immediately. Read it all. Follow it. Buy the workbook, too. [*ketoCONTINUUM: Consistently Keto Diet For Life*](https://www.amazon.com/dp/B08RWG34T7/ref=cm_sw_em_r_mt_dp_Q0TXBN3E8894JTT4SEAP) {{< /tip >}}
+
 ### A Fortress for Your Soul
 
 I trust that you try to live according to the first and greatest commandment and the second, which is like it:
@@ -152,5 +154,7 @@ Then you and I, brothers and sisters, will genuinely be able to say we love the 
 Our battle is not with flesh and blood, but our flesh and blood must be up to the fight. 
 
 I'll ask again, are your body and mind as pure as your soul? If not, please join me as we build an army of spiritual warriors for Our Lord to command and direct as He sees fit, knowing we have what it takes to complete any mission He commands. 
+
+{{< tip >}}I **highly recommend this book** by Dr. Annette Bosworth. [*ketoCONTINUUM: Consistently Keto Diet For Life*](https://www.amazon.com/dp/B08RWG34T7/ref=cm_sw_em_r_mt_dp_Q0TXBN3E8894JTT4SEAP) {{< /tip >}}
 
 *Ad majorem Dei gloriam!*
