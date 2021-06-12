@@ -18,11 +18,13 @@ draft: false
 
 ---
 
-> December 23, 1944. 'Battle of the Bulge' An entire US Armored Division was retreating from the Germans in the Ardennes forest when a sergeant in a tank destroyer spotted an American soldier digging a fox hole. The GI, PFC Martin, 325th Glider Infantry Regiment, looked up and asked, 'Are you looking for a safe place?' 'Yeah,' answered the tanker. 'Well, buddy,' Martin drawled, 'just pull your vehicle behind me. *I am the 82nd Airborne, and this is as far as the bastards are going*.'
+> December 23, 1944. 'Battle of the Bulge' An entire US Armored Division was retreating from the Germans in the Ardennes forest when a sergeant in a tank destroyer spotted an American soldier digging a fox hole. The GI, PFC Martin, 325th Glider Infantry Regiment, looked up and asked, 'Are you looking for a safe place?' 'Yeah,' answered the tanker. 'Well, buddy,' Martin drawled, 'just pull your vehicle behind me. **I am the 82nd Airborne, and this is as far as the bastards are going**.'
 
 Is your diet preparing you for spiritual combat? 
 
-Please know, brothers and sister, that I ask this question and write this post in true Christian charity, meaning to will the good of the other. And the only good, as Jesus told is, is Our Father in heaven. Therefore, I ask this question in the hope that it may help you and me draw closer to God and God to us. 
+Please know, brothers and sister, that I ask this question and write this post in true Christian charity, meaning "to will the good of the other." And the only good, as Jesus told us, is Our Father in heaven. Therefore, I ask this question in the hope that it may help you and me draw closer to God and God to us. 
+
+### A Fortress for Your Soul
 
 I trust that you try to live according to the first and greatest commandment and the second, which is like it:
 
@@ -64,8 +66,9 @@ So I consumed nothing with calories from 8:00 p.m. Tuesday, June 1 until 10:00 a
 
 Following my fast, I followed a strict ketogenic diet which research both in the lab and in the field with real people proves to be the best way to make our bodies and minds the best they can be. I acheived peak therapeutic ketosis yesterday and today. The thick purple line indidcates GKI (glucuse-ketone index).
 
-{{< figure src="gki-chart.png" >}}
+{{< figure src="/images/gki-chart.png" >}}
 
+And, if I can do this, you can do it. Besides, it's all the foods we love, as [I pointed out in my previous post](https://www.hennessysview.com/big-story-coming/). 
 
 A strict keto diet has been shown to cure:
 
@@ -114,7 +117,7 @@ The results are remarkable. My morning, fasted blood glucose fell from the high 
 
 This chart explains what's going on your body at various GKI levels:
 
-{{< figure src="gki-levels-chart.png >}}
+{{< figure src="/images/gki-levels-chart.png" >}}
 
 In short, my body and mind are repairing the damage I had done to them over 40 years of enjoying the fruits of *this* world, thus making a better home for the Holy Ghost. 
 
@@ -137,6 +140,8 @@ Big Medicine and Big Government love chronic diseases and want you to have more 
 Break the chains that bind you to the father of lies! 
 
 ### Get Tough
+
+PFC Martin had the perfect attitude in 1944. He also had a rather well-conditioned body and mind. With mental, physical, and spritutal strength, we can stop retreating and declare, "This is as far as the bastards are going." 
 
 Fasting makes you tough. Saying "no" to the comfort foods you've learned to love makes you tough and resilient. Nothing makes a person more powerful than denying himself. 
 
