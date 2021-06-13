@@ -48,15 +48,15 @@ But the day after Memorial, while listening to some Catholic podcast and enjoyin
 
 An answer came as if from someone standing just over my shoulder: "No."
 
-I am not strong enough to endure the challenges our Christian ancestors faced in the first five centuries *Anno Domini*. I am overweight with some degree of insulin resistance. A complete blood panel taken over several days would indicate I'm pre-diabetic, as my A1C tests sometimes show. I injure easily, as demonstrated by a recent grade-2 hamstring tear sustained while playing softball recently. I drink enough, often enough, that I'm reluctant to tell my doctor. 
+I am not strong enough to endure the challenges our Christian ancestors faced in the first five centuries *Anno Domini*. I am overweight with some degree of insulin resistance. A complete blood panel taken over several days would indicate I'm pre-diabetic, as my A1C tests sometimes show. I injure easily, as demonstrated by a grade-2 hamstring tear sustained while playing softball recently. I drink enough, often enough, that I'm reluctant to tell my doctor. 
 
-When it comes to mind, it is not as sharp or resilient as it once was. I suffer from acedia, the noonday devil that encourages sloth and laziness. I don't want to think, much less get up and do. 
+When it comes to my mind, it is not as sharp or resilient as it once was. I suffer from acedia, the noonday devil, that encourages sloth and laziness. I don't want to think, much less get up and do. 
 
 So, even in those moments when my soul is clean and my intentions honorable, my heart and mind have been unworthy vessels for the Holy Ghost. 
 
 Sure, I could love the Lord my God with all my mind, body, soul, but it would be a weak offering. God, of course, can perfect my humble, slothful offering as He can perfect all things, including my soul. But shouldn't I use the graces He affords to make my mind and body more robust, cleaner, and healthier for the Holy Ghost? Isn't it a sin to make little effort and count on Jesus to pick up my cross and carry it over the goal line?  Jesus Christ, who already suffered and died for me? 
 
-After a bit of prayerful consideration, I texted my wife, who upstairs (see how lazy I am?), my intention: "I'm going to fast the rest of the week, so don't worry about dinner for me." 
+After a bit of prayerful consideration, I texted my wife, who was upstairs (see how lazy I am?), my intention: "I'm going to fast the rest of the week, so don't worry about dinner for me." 
 
 And I did. 
 
@@ -74,38 +74,41 @@ And, if I can do this, you can do it. Besides, it's all the foods we love, as [I
 
 A strict keto diet has been shown to cure:
 
-Type 2 diabetes
-Certain forms of cancer
-Obesity
-High blood pressure
-Hyperglycemia
-Age-related arthritis
-Acne
-Many more conditions and diseases
+- Type 2 diabetes
+- Certain forms of cancer
+- Obesity
+- High blood pressure
+- Hyperglycemia
+- Age-related arthritis
+- Acne
+- Many more conditions and diseases
+
 Combined with fasting, keto diets see a remission of:
 
-Irritable bowel syndrome
-Crohn's disease
-Colitis
-Other auto-immune diseases
+- Irritable bowel syndrome
+- Crohn's disease
+- Colitis
+- Other auto-immune diseases
 
 And the two together are known to prevent:
-Heart disease
-Cancer
-Diabetes
-Obesity
-High blood pressure
-Parkinson's 
-Alzheimer's
+
+- Heart disease
+- Cancer
+- Diabetes
+- Obesity
+- High blood pressure
+- Parkinson's 
+- Alzheimer's
 
 Not to mention preventing and reversing more symptomatic problems, primarily associated with aging:
-Forgetfulness
-Lack of energy
-Brain fog
-Muscle weakness
-Loss of balance
-Declining vision
-many other factors that lead to frailty and an empty life
+
+- Forgetfulness
+- Lack of energy
+- Brain fog
+- Muscle weakness
+- Loss of balance
+- Declining vision
+- many other factors that lead to frailty and an empty life
 
 I learned that all of these conditions have a single common source: inflammation. And I learned what inflammation means in this context: too much water floating around in cells. 
 
