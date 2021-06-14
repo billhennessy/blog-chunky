@@ -2,14 +2,14 @@
 authors: ["Bill Hennessy"]
 date: 2016-12-02 11:54:39+00:00
 draft: false
-title: 'Study: Kellogg's''s Products Deadlier Than Cigarettes?'
+title: 'Study: Kelloggs Products Deadlier Than Cigarettes?'
 layout: blog
 url: /2016/12/02/study-kelloggs-products-deadlier-than-cigarettes/
 categories:
 - Politics
 tags:
 - glycemic index
-- Kellogg's's
+- Kellogg
 - Black Lives Matter
 
 type: "post"
@@ -102,7 +102,7 @@ Some of Kellogg’s brands:
 
 A lot of these things are toasted. Like Lucky Strikes.
 
-{{< youtube DyKwzpx-CWo?t=30s >}}
+{{< youtube DyKwzpx-CWo >}}
 
 If you want to know why Americans are so fat, it might be because [governments and doctors have been lying to you](https://www.theguardian.com/society/2016/may/22/official-advice-to-eat-low-fat-diet-is-wrong-says-health-charity) about what to eat, especially when it comes to [carbohydrates and cholesterol](https://www.huffingtonpost.com/dr-mercola/the-cholesterol-myth-that_b_676817.html). Possibly because companies like Kellogg's pay them to lie to you? It's called lobbying, and [Kellogg's's done a ton of it since 2012 according to OpenSecrets.org](https://www.opensecrets.org/lobby/clientsum.php?id=D000026978). How many studies have they suppressed?
 
