@@ -53,7 +53,7 @@ author = "authors"
 [params]
   author = "Bill Hennessy"
   description = "Doctor Recommended"
-  homepageImage = "/images/homepage-image@3x.png"
+  homepageImage = "/images/cartoon-bill-hennessy.jpg"
   share = true
   showLanguageSwitcher = false
 
