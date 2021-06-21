@@ -13,7 +13,7 @@ categories:
 tags: 
 - IRS
 - Fr. James Altman
-draft: true
+draft: false
 
 ---
 
@@ -31,7 +31,7 @@ Despite being suspended as pastor of his parish by weak and cowardly bishop, Alt
 
 Some people are treating the IRS's ruling as setback for Christianity. But this is a big win. The wicked government of the United States of America has finally admitted that it opposes God and hates the teachings of Christ.
 
-This is why I have publicly **disavowed the United States government**. You cannot be a Christian *and* support the government of the United States. 
+This is why I have publicly **disavowed the United States government**. You cannot be a Christian *and* support the government of the United States which has become antithetical to both the Constitution and God. 
 
 Or to quote Fr. Altman: You can't be a Catholic and vote Democrat. 
 

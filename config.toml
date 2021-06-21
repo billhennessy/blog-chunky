@@ -45,9 +45,6 @@ custom_css="/css/custom.css"
 
 
 [taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
 author = "authors"
 
 [params]
